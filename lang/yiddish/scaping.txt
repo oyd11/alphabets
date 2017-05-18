@@ -1,0 +1,23 @@
+
+WP list:
+
+used 'vim':
+
+match the words themselves in two steps:
+
+%s/\(title="[^"]\+"\)/\1/g 
+
+then : as described:
+ http://stackoverflow.com/questions/23713617/vim-yank-all-matches-of-regex-group-into-register
+
+clear a reg: and paste into it, and from it in another file:
+for example: subreg 'a'
+
+-----
+qaq
+
+%s/\(title="[^"]\+"\)/\=setreg('A', submatch(0))/g  
+
+"ap
+-----
+
