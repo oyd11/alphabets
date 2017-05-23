@@ -43,7 +43,7 @@
 |פֿ|f||fey|
 |פ|||	f	(f)	Non-YIVO alternative to פֿ.|
 |ף|f||lange fey	Final form. Only used at the end of a word.|
-|צ|ts|tz||
+|צ|t͡s|tz||
 |ץ|||lange tsadek	Final form. Only used at the end of a word.
 |ק|k||	kuf|
 |ר|ʀ|r|	|
