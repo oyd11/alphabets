@@ -28,8 +28,8 @@ for l in letters_itr
 end
 
 println("letter_count")
-q = [(x,letter_count[x]) for x in letters]
-println(q)
+letter_stats = [(x,xlit[x],letter_count[x]) for x in letters]
+map(println, letter_stats)
 
 println("remaining paragraph:")
 println(paragraph)
