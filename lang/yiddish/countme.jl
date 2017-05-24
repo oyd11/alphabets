@@ -1,10 +1,10 @@
+#!/usr/bin/env julia04
 
 using JSON
 letters_all = JSON.parsefile("alphabet_list.json")
 a = JSON.parsefile("wp_list_manual.json")
 
-yy = a["wp600"][1:2:end]
-lat = a["wp600"][2:2:end]
+yy = map(chomp,a["wp600"][1:2:end])
 
 yi_dict = map(chomp,readlines("hunspell-yi.dic"))
 
@@ -15,6 +15,7 @@ letters = letters_all["base_letters"]
 letter_count = [l => 0 for l in letters]
 letters_itr = sort(letters, by=length) |> reverse
 xlit = letters_all["base_xlit"]
+xlit_itr = sort(xlit|>keys|>collect, by=length) |> reverse
 
 # greedy, we have to first match the longer strings
 paragraph = copy(str)
@@ -33,18 +34,16 @@ println(q)
 println("remaining paragraph:")
 println(paragraph)
 
-# bruteforce matches for tranlitaration::
-y_trans = Dict()
-for (i,w) in enumerate(yy)
-    x = copy(w)
-    println(i)
-    println(x)
-    for l in letters_itr
-        x = replace(x,l,xlit[l])
+"bruteforce matches for tranlitaration::"
+brute_xlit(word) = begin
+    for l in xlit_itr
+        word = replace(word,l,xlit[l])
     end
-    println(x)
-    y_trans[w] = x
+    return word
 end
+
+y_trans = [w => brute_xlit(w) for w in yy]
+
 
 open("out.json","w") do f
     print(f,json(y_trans,2))
