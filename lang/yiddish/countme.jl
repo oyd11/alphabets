@@ -45,6 +45,10 @@ end
 y_trans = [w => brute_xlit(w) for w in yy]
 
 
-open("out.json","w") do f
+open("xlit_out.json","w") do f
     print(f,json(y_trans,2))
+end
+
+open("letter_stats.json","w") do f
+    print(f,json(letter_stats,2))
 end
