@@ -1,6 +1,7 @@
 #!/usr/bin/env julia04
 
 using JSON
+
 letters_all = JSON.parsefile("alphabet_list.json")
 a = JSON.parsefile("wp_list_manual.json")
 
@@ -45,10 +46,16 @@ end
 y_trans = [w => brute_xlit(w) for w in yy]
 
 
+# output as both 'JSON' + 'CSV'
 open("xlit_out.json","w") do f
     print(f,json(y_trans,2))
 end
 
+
+
 open("letter_stats.json","w") do f
     print(f,json(letter_stats,2))
 end
+
+
+
