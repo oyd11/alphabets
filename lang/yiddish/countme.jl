@@ -65,4 +65,10 @@ open("letter_stats.json","w") do f
 end
 
 
+open("letter_stats.csv","w") do f
+    println(f,"yiddish,IPA,count")
+    for l in letter_stats
+        println(f,join(l,","))
+    end
+end
 
