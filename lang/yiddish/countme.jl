@@ -1,8 +1,8 @@
 #!/usr/bin/env julia04
 
+include("yiddish_common.jl")
 using JSON
 
-letters_all = JSON.parsefile("alphabet_list.json")
 a = JSON.parsefile("wp_list_manual.json")
 
 yy = map(chomp,a["wp600"][1:2:end])
@@ -12,11 +12,6 @@ yi_dict = map(chomp,readlines("hunspell-yi.dic"))
 str = join(yy," ")
 #str = join(yi_dict," ")
 
-letters = letters_all["base_letters"]
-letter_count = [l => 0 for l in letters]
-letters_itr = sort(letters, by=length) |> reverse
-xlit = letters_all["base_xlit"]
-xlit_itr = sort(xlit|>keys|>collect, by=length) |> reverse
 
 # greedy, we have to first match the longer strings
 paragraph = copy(str)
@@ -35,15 +30,8 @@ map(println, letter_stats)
 println("remaining paragraph:")
 println(paragraph)
 
-"bruteforce matches for tranlitaration::"
-brute_xlit(word) = begin
-    for l in xlit_itr
-        word = replace(word,l,xlit[l])
-    end
-    return word
-end
 
-y_trans = [w => brute_xlit(w) for w in yy]
+y_trans = [w => brute_xlit(w)[1] for w in yy]
 
 
 # output as both 'JSON' + 'CSV'
