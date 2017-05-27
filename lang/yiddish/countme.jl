@@ -51,6 +51,13 @@ open("xlit_out.json","w") do f
     print(f,json(y_trans,2))
 end
 
+open("xlit_out.csv","w") do f
+    println(f,"List,Map1")
+    for (k,v) in y_trans
+        println(f,"$k,$v")
+    end
+end
+
 
 
 open("letter_stats.json","w") do f
