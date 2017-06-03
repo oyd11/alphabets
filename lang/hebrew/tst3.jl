@@ -7,7 +7,12 @@ using Glob
 flat_txt(d) = [[d["text"]...]...] |> join
 base_fn(fn) = splitext(splitdir(fn)[end] )[1]
 words_split(txt) = split(txt,r"׃| |\n")
-niqqudless(word) = filter(isalpha,word)
+
+# niqqud utils:
+get_alpha(str) = filter(isalpha,str)
+niqqudless(word) = map(graphemes(word)) do g
+    isempty(get_alpha(g))? g : get_alpha(g)
+end |> join
 
 tanaK = map(glob("*.json","TaNaKh/")) do fn
     base_fn(fn)=> JSON.parsefile(fn) |> flat_txt
