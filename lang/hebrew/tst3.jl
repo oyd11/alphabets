@@ -46,7 +46,12 @@ end |> Dict
 
 tanaK_words = [title => words_split(txt) for (title, txt) in tanaK]
 
-println(pwd())
+
+alphabet = JSON.parsefile("alphabet_list.json")
+code2str(str) = Char(parse(Int64,str)) |> string
+niqqud = [code2str(k)=>v for (k,v) in alphabet["niqqud"]]
+
+
 mkpath("out")
     
 for (title, words) in tanaK_words
@@ -55,12 +60,32 @@ for (title, words) in tanaK_words
         unique_dict, count_dict = niqqudless2niqquds(words)
         freq_sorted = sort(collect(count_dict),by=x->-x[2])
         f_count = word_freqs(words)
+        p(str) = println(f,str)
         for kv in freq_sorted
             niqqudless, c = kv
             arr = unique_dict[niqqudless]
-            print(f, " * $niqqudless $c: ")
+            " * $niqqudless $c: " |> p
+#
+# print .md tables like:
+#
+# |1|2|
+# |-|-|
+# |a|a|
+#
             w_c = ["$w $(f_count[w])" for w in arr]
-            println(f, join(w_c, ", "))
+#            println(f, join(w_c, ", "))
+
+
+
+            println(f)
+#            "|" * join(arr,"|") * "|" |> p
+            "|" * join(w_c,"|") * "|" |> p
+            "|" * join(fill("-",length(arr)),"|") * "|" |> p
+            "|" * join(arr,"|") * "|" |> p
+            println(f)
+
+            
+
         end
     end
 end
