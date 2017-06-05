@@ -11,13 +11,14 @@ words_split(txt) = split(txt,r"׃| |\n")
 alphabet = JSON.parsefile("alphabet_list.json")
 code2str(str) = Char(parse(Int64,str)) |> string
 base_xlit = alphabet["base_xlit"]
+base_letters = base_xlit |> keys |>  collect |> sort
 niqqud = [code2str(k)=>v for (k,v) in alphabet["niqqud"]]
 dagesh = 0x05BC |> Char |> string
 shin_dot = 0x05C1 |> Char |> string
 sin_dot = 0x05C2 |> Char |> string
 has_dagesh(str) = contains(str,dagesh)
-keep_dots(str) = contains(str,05C1
-keep_dagesh = filter(has_dagesh, keys(base_xlit)) |> Set
+# keep_dots(str) = contains(str,)
+keep_base_letters = filter(has_dagesh, keys(base_xlit)) |> Set
 
 # niqqud utils:
 get_alpha(str) = filter(isalpha,str)
@@ -96,7 +97,7 @@ for (title, words) in tanaK_words
 #            "|" * join(arr,"|") * "|" |> p
             "|" * join(w_c,"|") * "|" |> p
             "|" * join(fill("-",length(arr)),"|") * "|" |> p
-            "|" * join(map(xlit(arr)),"|") * "|" |> p
+            "|" * join(map(xlit,arr),"|") * "|" |> p
             println(f)
 
             
