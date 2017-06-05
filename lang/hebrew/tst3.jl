@@ -12,19 +12,48 @@ alphabet = JSON.parsefile("alphabet_list.json")
 code2str(str) = Char(parse(Int64,str)) |> string
 base_xlit = alphabet["base_xlit"]
 base_letters = base_xlit |> keys |>  collect |> sort
-niqqud = [code2str(k)=>v for (k,v) in alphabet["niqqud"]]
-dagesh = 0x05BC |> Char |> string
-shin_dot = 0x05C1 |> Char |> string
-sin_dot = 0x05C2 |> Char |> string
-has_dagesh(str) = contains(str,dagesh)
-# keep_dots(str) = contains(str,)
-keep_base_letters = filter(has_dagesh, keys(base_xlit)) |> Set
+
+function get_composed_chars(strs)
+ flags = [length(x)!=length(graphemes(x)) for x  in strs]
+# there must be an easier way to do this...
+ pairs = filter(x->x[2], [(x,f) for (x,f) in zip(base_letters,flags)])
+ return map(x->x[1],pairs)
+end
 
 # niqqud utils:
 get_alpha(str) = filter(isalpha,str)
 niqqudless(str) = map(graphemes(str)) do g
     isempty(get_alpha(g))? g : get_alpha(g)
 end |> join
+
+composed_keep = get_composed_chars(base_letters)
+keep_base =  map(get_alpha,composed_keep) |> unique
+composed_d = map(composed_keep) do x
+    s = split(x,"")
+    join(filter(isalpha,s)),join(filter(!isalpha, s))
+end  # TODO: to multi-dict
+
+niqqud = [code2str(k)=>v for (k,v) in alphabet["niqqud"]]
+
+function keep_dots(grapheme) 
+    ch = join(filter(isalpha,grapheme))
+    if isempty(ch)
+        return grapheme
+    end
+    if !(ch in keep_base)
+        return ch
+    end
+    for (c,extra) in composed_d
+        if contains(grapheme,c)
+            if contains(grapheme,extra)
+                return join([c,extra])
+            end
+        end
+    end
+    return ch
+end
+
+keep_base_letters(str) = map(keep_dots, graphemes(str)) |> join
 
 ########
 
@@ -89,6 +118,7 @@ for (title, words) in tanaK_words
 # |a|a|
 #
             w_c = ["$w $(f_count[w])" for w in arr]
+            w_c2 = ["$(keep_base_letters(w)) $(f_count[w])" for w in arr]
 #            println(f, join(w_c, ", "))
 
 
@@ -97,6 +127,7 @@ for (title, words) in tanaK_words
 #            "|" * join(arr,"|") * "|" |> p
             "|" * join(w_c,"|") * "|" |> p
             "|" * join(fill("-",length(arr)),"|") * "|" |> p
+            "|" * join(w_c2,"|") * "|" |> p
             "|" * join(map(xlit,arr),"|") * "|" |> p
             println(f)
 
