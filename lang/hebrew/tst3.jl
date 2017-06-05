@@ -93,7 +93,8 @@ function xlit_letter(str)
 end
 
 function xlit(str) 
-    n_str = niqqudless(str)
+    #n_str = niqqudless(str)
+    n_str = keep_base_letters(str)
     join([get(base_xlit,x,x) for x in split(n_str,"")])
 end
 
