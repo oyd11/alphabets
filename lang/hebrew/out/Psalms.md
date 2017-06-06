@@ -4,55636 +4,55636 @@
 |יְהוִה 4|יְהוָה 481|יְהֹוָה 6|יְהֹוִה 3|
 |-|-|-|-|
 |יְהוִה 4|יְהוָה 481|יְהֹוָה 6|יְהֹוִה 3|
-|yEhEwEhE|yEhEwEhE|yEhEwEhE|yEhEwEhE|
+|ysvhwih|ysvhwAh|ysvhowAh|ysvhowih|
 
  * כי 205: 
 
 |כִּי 205|
 |-|
 |כִּי 205|
-|kEyE|
+|kiy|
 
  * אלהים 168: 
 
 |אֱלֹהִים 154|אֱ‍לֹהִים 14|
 |-|-|
 |אֱלֹהִים 154|אֱלֹהִים 14|
-|'ElEhEyEmE|'ElEhEyEmE|
+|'elohiym|'elohiym|
 
  * לא 107: 
 
 |לֹא 107|
 |-|
 |לֹא 107|
-|lE'E|
+|lo'|
 
  * לעולם 90: 
 
 |לְעוֹלָם 90|
 |-|
 |לְעוֹֹלָם 90|
-|lEɣEwElEmE|
+|lsvɣwolAm|
 
  * נפשי 87: 
 
 |נַפְשִׁי 87|
 |-|
 |נַפְשִׁי 87|
-|nEfEšEyE|
+|nafsvšiy|
 
  * לדוד 79: 
 
 |לְדָוִד 79|
 |-|
 |לְדָוִד 79|
-|lEdEwEdE|
+|lsvdAwid|
 
  * סלה 69: 
 
 |סֶלָה 61|סֶּלָה 8|
 |-|-|
 |סֶלָה 61|סֶלָה 8|
-|sElEhE|sElEhE|
+|selAh|selAh|
 
  * לי 66: 
 
 |לִי 57|לִּי 9|
 |-|-|
 |לִי 57|לִי 9|
-|lEyE|lEyE|
+|liy|liy|
 
  * אתה 65: 
 
 |אָתָּה 13|אַתָּה 52|
 |-|-|
 |אָתָה 13|אַתָה 52|
-|'EtEhE|'EtEhE|
+|'AtAh|'atAh|
 
  * אשר 63: 
 
 |אֲשֶׁר 63|
 |-|
 |אֲשֶׁר 63|
-|'EšErE|
+|'ašer|
 
  * ליהוה 62: 
 
 |לַיהוָה 62|
 |-|
 |לַיהוָה 62|
-|lEyEhEwEhE|
+|layhwAh|
 
  * עלי 58: 
 
 |עֲלֵי 4|עָלָי 19|עָלַי 35|
 |-|-|-|
 |עֲלֵי 4|עָלָי 19|עָלַי 35|
-|ɣElEyE|ɣElEyE|ɣElEyE|
+|ɣalEy|ɣAlAy|ɣAlay|
 
  * אלהי 58: 
 
 |אֱלֹהֵי 26|אֱלֹהַי 18|אֱ‍לֹהַי 5|אֱלֹהָי 9|
 |-|-|-|-|
 |אֱלֹהֵי 26|אֱלֹהַי 18|אֱלֹהַי 5|אֱלֹהָי 9|
-|'ElEhEyE|'ElEhEyE|'ElEhEyE|'ElEhEyE|
+|'elohEy|'elohay|'elohay|'elohAy|
 
  * מזמור 57: 
 
 |מִזְמוֹר 57|
 |-|
 |מִזְמוֹֹר 57|
-|mEzEmEwErE|
+|mizsvmwor|
 
  * למנצח 55: 
 
 |לַמְנַצֵּחַ 54|לַמְנַצֵּח 1|
 |-|-|
 |לַמְנַצֵחַ 54|לַמְנַצֵח 1|
-|lEmEnEcEHE|lEmEnEcEHE|
+|lamsvnacEHa|lamsvnacEH|
 
  * ולא 55: 
 
 |וְלֹא 53|ולא 2|
 |-|-|
 |וְלֹא 53|ולא 2|
-|wElE'E|wElE'E|
+|wsvlo'|wl'|
 
  * אדני 48: 
 
 |אֲ‍דֹנָי 2|אֲדֹנָי 46|
 |-|-|
 |אֲדֹנָי 2|אֲדֹנָי 46|
-|'EdEnEyE|'EdEnEyE|
+|'adonAy|'adonAy|
 
  * חסדו 47: 
 
 |חַסְדּוֹ 45|חסדו 2|
 |-|-|
 |חַסְדוֹֹ 45|חסדו 2|
-|HEsEdEwE|HEsEdEwE|
+|Hassvdwo|Hsdw|
 
  * ישראל 43: 
 
 |יִשְׂרָאֵל 43|
 |-|
 |יִשְׂרָאֵל 43|
-|yESErE'ElE|
+|yiSsvrA'El|
 
  * רשעים 37: 
 
 |רְשָׁעִים 37|
 |-|
 |רְשָׁעִים 37|
-|rEšEɣEyEmE|
+|rsvšAɣiym|
 
  * אדם 36: 
 
 |אָדָם 36|
 |-|
 |אָדָם 36|
-|'EdEmE|
+|'AdAm|
 
  * עשה 35: 
 
 |עֹשֵׂה 11|עֹשָׂה 3|עֹשֶׂה 5|עָשָׂה 15|עֲשֵׂה 1|
 |-|-|-|-|-|
 |עֹשֵׂה 11|עֹשָׂה 3|עֹשֶׂה 5|עָשָׂה 15|עֲשֵׂה 1|
-|ɣESEhE|ɣESEhE|ɣESEhE|ɣESEhE|ɣESEhE|
+|ɣoSEh|ɣoSAh|ɣoSeh|ɣASAh|ɣaSEh|
 
  * לך 35: 
 
 |לְךָ 19|לְּךָ 2|לָּךְ 3|לָךְ 11|
 |-|-|-|-|
 |לְךָ 19|לְךָ 2|לָךְ 3|לָךְ 11|
-|lExE|lExE|lExE|lExE|
+|lsvxA|lsvxA|lAxsv|lAxsv|
 
  * שיר 35: 
 
 |שִׁיר 35|
 |-|
 |שִׁיר 35|
-|šEyErE|
+|šiyr|
 
  * הארץ 32: 
 
 |הָאָרֶץ 32|
 |-|
 |הָאָרֶץ 32|
-|hE'ErEcE|
+|hA'Arec|
 
  * אליך 31: 
 
 |אֵלֶיךָ 31|
 |-|
 |אֵלֶיךָ 31|
-|'ElEyExE|
+|'EleyxA|
 
  * למען 29: 
 
 |לְמַעַן 29|
 |-|
 |לְמַעַן 29|
-|lEmEɣEnE|
+|lsvmaɣan|
 
  * שמך 29: 
 
 |שְׁמֶךָ 10|שִּׁמְךָ 1|שִׁמְךָ 18|
 |-|-|-|
 |שְׁמֶךָ 10|שִׁמְךָ 1|שִׁמְךָ 18|
-|šEmExE|šEmExE|šEmExE|
+|šsvmexA|šimsvxA|šimsvxA|
 
  * ממני 29: 
 
 |מִמֶּנִּי 29|
 |-|
 |מִמֶנִי 29|
-|mEmEnEyE|
+|mimeniy|
 
  * ואני 29: 
 
 |וַאֲנִי 29|
 |-|
 |וַאֲנִי 29|
-|wE'EnEyE|
+|wa'aniy|
 
  * להם 29: 
 
 |לָהֶם 29|
 |-|
 |לָהֶם 29|
-|lEhEmE|
+|lAhem|
 
  * מאד 29: 
 
 |מְּאֹד 1|מְאֹד 28|
 |-|-|
 |מְאֹד 1|מְאֹד 28|
-|mE'EdE|mE'EdE|
+|msv'od|msv'od|
 
  * לבי 29: 
 
 |לִבִּי 29|
 |-|
 |לִבִּי 29|
-|lEbEyE|
+|libiy|
 
  * אל 28: 
 
 |אֶל 3|אֵל 25|
 |-|-|
 |אֶל 3|אֵל 25|
-|'ElE|'ElE|
+|'el|'El|
 
  * אני 27: 
 
 |אֲנִי 19|אָנִי 8|
 |-|-|
 |אֲנִי 19|אָנִי 8|
-|'EnEyE|'EnEyE|
+|'aniy|'Aniy|
 
  * אשרי 26: 
 
 |אַשְׁרֵי 23|אֲשֻׁרַי 1|אֲשֻׁרָי 2|
 |-|-|-|
 |אַשְׁרֵי 23|אֲשֻׁרַי 1|אֲשֻׁרָי 2|
-|'EšErEyE|'EšErEyE|'EšErEyE|
+|'ašsvrEy|'ašuray|'ašurAy|
 
  * בך 26: 
 
 |בְּךָ 9|בְךָ 4|בָךְ 6|בָּךְ 7|
 |-|-|-|-|
 |בְּךָ 9|בְךָ 4|בָךְ 6|בָּךְ 7|
-|bExE|vExE|vExE|bExE|
+|bsvxA|vsvxA|vAxsv|bAxsv|
 
  * כל־היום 26: 
 
 |כָל־הַיּוֹם 2|כָּל־הַיּוֹם 24|
 |-|-|
 |כָל־הַיוֹֹם 2|כָּל־הַיוֹֹם 24|
-|xElE־EhEyEwEmE|kElE־EhEyEwEmE|
+|xAl־haywom|kAl־haywom|
 
  * רשע 25: 
 
 |רֶשַׁע 2|רָשָׁע 23|
 |-|-|
 |רֶשַׁע 2|רָשָׁע 23|
-|rEšEɣE|rEšEɣE|
+|rešaɣ|rAšAɣ|
 
  * הוא 25: 
 
 |הוּא 25|
 |-|
 |הוּא 25|
-|hEuE'E|
+|hu'|
 
  * בארץ 25: 
 
 |בְּאֶרֶץ 8|בָּאָרֶץ 14|בָאָרֶץ 3|
 |-|-|-|
 |בְּאֶרֶץ 8|בָּאָרֶץ 14|בָאָרֶץ 3|
-|bE'ErEcE|bE'ErEcE|vE'ErEcE|
+|bsv'erec|bA'Arec|vA'Arec|
 
  * אלהינו 25: 
 
 |אֱלֹהֵינוּ 25|
 |-|
 |אֱלֹהֵינוּ 25|
-|'ElEhEyEnEuE|
+|'elohEynu|
 
  * את־יהוה 25: 
 
 |אֶת־יְהוָה 25|
 |-|
 |אֶת־יְהוָה 25|
-|'EtE־EyEhEwEhE|
+|'et־ysvhwAh|
 
  * חסדך 25: 
 
 |חַסְדְּךָ 11|חַסְדֶּךָ 13|חֲסָדֶךָ 1|
 |-|-|-|
 |חַסְדְךָ 11|חַסְדֶךָ 13|חֲסָדֶךָ 1|
-|HEsEdExE|HEsEdExE|HEsEdExE|
+|HassvdsvxA|HassvdexA|HasAdexA|
 
  * שמים 24: 
 
 |שָׁמָיִם 2|שָׁמַיִם 22|
 |-|-|
 |שָׁמָיִם 2|שָׁמַיִם 22|
-|šEmEyEmE|šEmEyEmE|
+|šAmAyim|šAmayim|
 
  * לו 24: 
 
 |לוֹ 19|לּוֹ 4|לוּ 1|
 |-|-|-|
 |לוֹֹ 19|לוֹֹ 4|לוּ 1|
-|lEwE|lEwE|lEuE|
+|lwo|lwo|lu|
 
  * פניך 24: 
 
 |פָּנֶיךָ 17|פָּנַיִךְ 1|פָנֶיךָ 6|
 |-|-|-|
 |פָּנֶיךָ 17|פָּנַיִךְ 1|פָנֶיךָ 6|
-|pEnEyExE|pEnEyExE|fEnEyExE|
+|pAneyxA|pAnayixsv|fAneyxA|
 
  * ארץ 24: 
 
 |אָרֶץ 15|אָרֻץ 1|אֶרֶץ 8|
 |-|-|-|
 |אָרֶץ 15|אָרֻץ 1|אֶרֶץ 8|
-|'ErEcE|'ErEcE|'ErEcE|
+|'Arec|'Aruc|'erec|
 
  * עמים 23: 
 
 |עַמִּים 23|
 |-|
 |עַמִים 23|
-|ɣEmEyEmE|
+|ɣamiym|
 
  * עיני 23: 
 
 |עֵינֵי 1|עֵינָי 5|עֵינַי 11|עֵינִי 6|
 |-|-|-|-|
 |עֵינֵי 1|עֵינָי 5|עֵינַי 11|עֵינִי 6|
-|ɣEyEnEyE|ɣEyEnEyE|ɣEyEnEyE|ɣEyEnEyE|
+|ɣEynEy|ɣEynAy|ɣEynay|ɣEyniy|
 
  * שמו 23: 
 
 |שָׂמוּ 3|שְׁמוֹ 18|שָׂמוֹ 2|
 |-|-|-|
 |שָׂמוּ 3|שְׁמוֹֹ 18|שָׂמוֹֹ 2|
-|SEmEuE|šEmEwE|SEmEwE|
+|SAmu|šsvmwo|SAmwo|
 
  * יעקב 23: 
 
 |יַעֲקֹב 23|
 |-|
 |יַעֲקֹב 23|
-|yEɣEqEvE|
+|yaɣaqov|
 
  * כי־אתה 23: 
 
 |כִּי־אַתָּה 23|
 |-|
 |כִּי־אַתָה 23|
-|kEyE־E'EtEhE|
+|kiy־'atAh|
 
  * תמיד 23: 
 
 |תָמִיד 14|תָּמִיד 9|
 |-|-|
 |תָמִיד 14|תָמִיד 9|
-|tEmEyEdE|tEmEyEdE|
+|tAmiyd|tAmiyd|
 
  * מלך 22: 
 
 |מֶלֶךְ 17|מָלָךְ 4|מָלַךְ 1|
 |-|-|-|
 |מֶלֶךְ 17|מָלָךְ 4|מָלַךְ 1|
-|mElExE|mElExE|mElExE|
+|melexsv|mAlAxsv|mAlaxsv|
 
  * שם 22: 
 
 |שָׁם 14|שֵׁם 7|שָׂם 1|
 |-|-|-|
 |שָׁם 14|שֵׁם 7|שָׂם 1|
-|šEmE|šEmE|SEmE|
+|šAm|šEm|SAm|
 
  * אין 21: 
 
 |אֵין 21|
 |-|
 |אֵין 21|
-|'EyEnE|
+|'Eyn|
 
  * מי 21: 
 
 |מֵי 1|מִי 20|
 |-|-|
 |מֵי 1|מִי 20|
-|mEyE|mEyE|
+|mEy|miy|
 
  * אל־יהוה 21: 
 
 |אֶל־יְהוָה 21|
 |-|
 |אֶל־יְהוָה 21|
-|'ElE־EyEhEwEhE|
+|'el־ysvhwAh|
 
  * עמו 21: 
 
 |עַמּוֹ 15|עִמּוֹ 6|
 |-|-|
 |עַמוֹֹ 15|עִמוֹֹ 6|
-|ɣEmEwE|ɣEmEwE|
+|ɣamwo|ɣimwo|
 
  * ואתה 20: 
 
 |וְאַתָּה 20|
 |-|
 |וְאַתָה 20|
-|wE'EtEhE|
+|wsv'atAh|
 
  * רבים 20: 
 
 |רַבִּים 20|
 |-|
 |רַבִּים 20|
-|rEbEyEmE|
+|rabiym|
 
  * ביהוה 20: 
 
 |בַיהוָה 3|בַּיהוָה 17|
 |-|-|
 |בַיהוָה 3|בַּיהוָה 17|
-|vEyEhEwEhE|bEyEhEwEhE|
+|vayhwAh|bayhwAh|
 
  * הנה 20: 
 
 |הִנֵּה 20|
 |-|
 |הִנֵה 20|
-|hEnEhE|
+|hinEh|
 
  * אלי 20: 
 
 |אֵלַי 7|אֵלָי 3|אֵלִי 10|
 |-|-|-|
 |אֵלַי 7|אֵלָי 3|אֵלִי 10|
-|'ElEyE|'ElEyE|'ElEyE|
+|'Elay|'ElAy|'Eliy|
 
  * צדיק 20: 
 
 |צַדִּיק 20|
 |-|
 |צַדִיק 20|
-|cEdEyEqE|
+|cadiyq|
 
  * הרים 20: 
 
 |הָרִים 20|
 |-|
 |הָרִים 20|
-|hErEyEmE|
+|hAriym|
 
  * יה 20: 
 
 |יָּהּ 3|יָהּ 17|
 |-|-|
 |יָה 3|יָה 17|
-|yEhE|yEhE|
+|yAh|yAh|
 
  * עליון 19: 
 
 |עֶלְיוֹן 19|
 |-|
 |עֶלְיוֹֹן 19|
-|ɣElEyEwEnE|
+|ɣelsvywon|
 
  * און 19: 
 
 |אָוֶן 19|
 |-|
 |אָוֶן 19|
-|'EwEnE|
+|'Awen|
 
  * המה 19: 
 
 |הֵמָּה 19|
 |-|
 |הֵמָה 19|
-|hEmEhE|
+|hEmAh|
 
  * עולם 19: 
 
 |עוֹלָם 19|
 |-|
 |עוֹֹלָם 19|
-|ɣEwElEmE|
+|ɣwolAm|
 
  * אמר 19: 
 
 |אָמַר 12|אֱמֹר 1|אֹמַר 2|אֹמֶר 2|אֹמֵר 2|
 |-|-|-|-|-|
 |אָמַר 12|אֱמֹר 1|אֹמַר 2|אֹמֶר 2|אֹמֵר 2|
-|'EmErE|'EmErE|'EmErE|'EmErE|'EmErE|
+|'Amar|'emor|'omar|'omer|'omEr|
 
  * גוים 19: 
 
 |גוֹיִם 10|גּוֹיִם 9|
 |-|-|
 |גוֹֹיִם 10|גוֹֹיִם 9|
-|gEwEyEmE|gEwEyEmE|
+|gwoyim|gwoyim|
 
  * ואין 18: 
 
 |וְאֵין 17|וָאַיִן 1|
 |-|-|
 |וְאֵין 17|וָאַיִן 1|
-|wE'EyEnE|wE'EyEnE|
+|wsv'Eyn|wA'ayin|
 
  * רע 18: 
 
 |רָּע 1|רַע 2|רָע 15|
 |-|-|-|
 |רָע 1|רַע 2|רָע 15|
-|rEɣE|rEɣE|rEɣE|
+|rAɣ|raɣ|rAɣ|
 
  * בו 18: 
 
 |בוֹ 8|בּוֹ 10|
 |-|-|
 |בוֹֹ 8|בּוֹֹ 10|
-|vEwE|bEwE|
+|vwo|bwo|
 
  * ביום 18: 
 
 |בַּיּוֹם 3|בְּיוֹם 15|
 |-|-|
 |בַּיוֹֹם 3|בְּיוֹֹם 15|
-|bEyEwEmE|bEyEwEmE|
+|baywom|bsvywom|
 
  * לנו 18: 
 
 |לָּנוּ 5|לָנוּ 13|
 |-|-|
 |לָנוּ 5|לָנוּ 13|
-|lEnEuE|lEnEuE|
+|lAnu|lAnu|
 
  * לאלהים 18: 
 
 |לֵאלֹהִים 18|
 |-|
 |לֵאלֹהִים 18|
-|lE'ElEhEyEmE|
+|lE'lohiym|
 
  * אקרא 17: 
 
 |אֶקְרָא 17|
 |-|
 |אֶקְרָא 17|
-|'EqErE'E|
+|'eqsvrA'|
 
  * שלום 17: 
 
 |שְׁלוֹם 3|שָׁלוֹם 14|
 |-|-|
 |שְׁלוֹֹם 3|שָׁלוֹֹם 14|
-|šElEwEmE|šElEwEmE|
+|šsvlwom|šAlwom|
 
  * משכיל 17: 
 
 |מַשְׂכִּיל 17|
 |-|
 |מַשְׂכִּיל 17|
-|mESEkEyElE|
+|maSsvkiyl|
 
  * קדשו 17: 
 
 |קָדְשׁוֹ 17|
 |-|
 |קָדְשׁוֹֹ 17|
-|qEdEšEwE|
+|qAdsvšwo|
 
  * רעה 16: 
 
 |רֹעֵה 1|רָעָה 15|
 |-|-|
 |רֹעֵה 1|רָעָה 15|
-|rEɣEhE|rEɣEhE|
+|roɣEh|rAɣAh|
 
  * צבאות 16: 
 
 |צְבָאוֹת 16|
 |-|
 |צְבָאוֹֹת 16|
-|cEvE'EwEtE|
+|csvvA'wot|
 
  * עני 16: 
 
 |עֹנִי 1|עָנִי 14|עֳנִי 1|
 |-|-|-|
 |עֹנִי 1|עָנִי 14|עֳנִי 1|
-|ɣEnEyE|ɣEnEyE|ɣEnEyE|
+|ɣoniy|ɣAniy|ɣAniy|
 
  * צדק 16: 
 
 |צֶדֶק 14|צֶּדֶק 2|
 |-|-|
 |צֶדֶק 14|צֶדֶק 2|
-|cEdEqE|cEdEqE|
+|cedeq|cedeq|
 
  * קול 16: 
 
 |קוֹל 16|
 |-|
 |קוֹֹל 16|
-|qEwElE|
+|qwol|
 
  * עמך 16: 
 
 |עַמֶּךָ 6|עַמְּךָ 5|עִמָּךְ 4|עַמֵּךְ 1|
 |-|-|-|-|
 |עַמֶךָ 6|עַמְךָ 5|עִמָךְ 4|עַמֵךְ 1|
-|ɣEmExE|ɣEmExE|ɣEmExE|ɣEmExE|
+|ɣamexA|ɣamsvxA|ɣimAxsv|ɣamExsv|
 
  * טוב 16: 
 
 |טוּב 1|טוֹב 15|
 |-|-|
 |טוּב 1|טוֹֹב 15|
-|TEuEvE|TEwEvE|
+|Tuv|Twov|
 
  * מים 16: 
 
 |מַיִם 8|מַּיִם 2|מָיִם 5|מִיָּם 1|
 |-|-|-|-|
 |מַיִם 8|מַיִם 2|מָיִם 5|מִיָם 1|
-|mEyEmE|mEyEmE|mEyEmE|mEyEmE|
+|mayim|mayim|mAyim|miyAm|
 
  * בי 15: 
 
 |בִי 6|בִּי 9|
 |-|-|
 |בִי 6|בִּי 9|
-|vEyE|bEyE|
+|viy|biy|
 
  * הללו 15: 
 
 |הַלְלוּ 15|
 |-|
 |הַלְלוּ 15|
-|hElElEuE|
+|halsvlu|
 
  * ודר 15: 
 
 |וָדֹר 15|
 |-|
 |וָדֹר 15|
-|wEdErE|
+|wAdor|
 
  * שמע 15: 
 
 |שָׁמֵעַ 3|שָׁמַע 4|שְׁמַע 5|שֹׁמֵעַ 3|
 |-|-|-|-|
 |שָׁמֵעַ 3|שָׁמַע 4|שְׁמַע 5|שֹׁמֵעַ 3|
-|šEmEɣE|šEmEɣE|šEmEɣE|šEmEɣE|
+|šAmEɣa|šAmaɣ|šsvmaɣ|šomEɣa|
 
  * הללו־יה 15: 
 
 |הַלְלוּ־יָהּ 15|
 |-|
 |הַלְלוּ־יָה 15|
-|hElElEuE־EyEhE|
+|halsvlu־yAh|
 
  * הללוהו 15: 
 
 |הַלְלוּהוּ 15|
 |-|
 |הַלְלוּהוּ 15|
-|hElElEuEhEuE|
+|halsvluhu|
 
  * תפלתי 15: 
 
 |תְפִלָּתִי 3|תְּפִלָּתִי 12|
 |-|-|
 |תְפִלָתִי 3|תְפִלָתִי 12|
-|tEfElEtEyE|tEfElEtEyE|
+|tsvfilAtiy|tsvfilAtiy|
 
  * על 15: 
 
 |עַל 15|
 |-|
 |עַל 15|
-|ɣElE|
+|ɣal|
 
  * צדיקים 15: 
 
 |צַדִּיקִים 15|
 |-|
 |צַדִיקִים 15|
-|cEdEyEqEyEmE|
+|cadiyqiym|
 
  * גדול 15: 
 
 |גָּדוֹל 13|גָדוֹל 2|
 |-|-|
 |גָדוֹֹל 13|גָדוֹֹל 2|
-|gEdEwElE|gEdEwElE|
+|gAdwol|gAdwol|
 
  * ישב 15: 
 
 |יָשֻׁב 1|יָשָׁב 2|יַשֵּׁב 1|יֵשֵׁב 4|יֹשֵׁב 6|יָשַׁב 1|
 |-|-|-|-|-|-|
 |יָשֻׁב 1|יָשָׁב 2|יַשֵׁב 1|יֵשֵׁב 4|יֹשֵׁב 6|יָשַׁב 1|
-|yEšEvE|yEšEvE|yEšEvE|yEšEvE|yEšEvE|yEšEvE|
+|yAšuv|yAšAv|yašEv|yEšEv|yošEv|yAšav|
 
  * כבוד 15: 
 
 |כְבוֹד 1|כְּבוֹד 6|כָבוֹד 2|כָּבוֹד 6|
 |-|-|-|-|
 |כְבוֹֹד 1|כְּבוֹֹד 6|כָבוֹֹד 2|כָּבוֹֹד 6|
-|xEvEwEdE|kEvEwEdE|xEvEwEdE|kEvEwEdE|
+|xsvvwod|ksvvwod|xAvwod|kAvwod|
 
  * ועד 15: 
 
 |וְעַד 2|וְעֵד 1|וָעֶד 12|
 |-|-|-|
 |וְעַד 2|וְעֵד 1|וָעֶד 12|
-|wEɣEdE|wEɣEdE|wEɣEdE|
+|wsvɣad|wsvɣEd|wAɣed|
 
  * שקר 15: 
 
 |שֶׁקֶר 8|שָׁקֶר 7|
 |-|-|
 |שֶׁקֶר 8|שָׁקֶר 7|
-|šEqErE|šEqErE|
+|šeqer|šAqer|
 
  * כי־טוב 14: 
 
 |כִי־טוֹב 1|כִּי־טוֹב 13|
 |-|-|
 |כִי־טוֹֹב 1|כִּי־טוֹֹב 13|
-|xEyE־ETEwEvE|kEyE־ETEwEvE|
+|xiy־Twov|kiy־Twov|
 
  * כן 14: 
 
 |כֵן 1|כֵּן 13|
 |-|-|
 |כֵן 1|כֵּן 13|
-|xEnE|kEnE|
+|xEn|kEn|
 
  * ימים 14: 
 
 |יַמִּים 5|יָמִים 9|
 |-|-|
 |יַמִים 5|יָמִים 9|
-|yEmEyEmE|yEmEyEmE|
+|yamiym|yAmiym|
 
  * לבני 14: 
 
 |לִבְנֵי 14|
 |-|
 |לִבְנֵי 14|
-|lEvEnEyE|
+|livsvnEy|
 
  * ציון 14: 
 
 |צִיּוֹן 14|
 |-|
 |צִיוֹֹן 14|
-|cEyEwEnE|
+|ciywon|
 
  * באלהים 14: 
 
 |בֵאלֹהִים 2|בָאֱלֹהִים 1|בֵּאלֹהִים 11|
 |-|-|-|
 |בֵאלֹהִים 2|בָאֱלֹהִים 1|בֵּאלֹהִים 11|
-|vE'ElEhEyEmE|vE'ElEhEyEmE|bE'ElEhEyEmE|
+|vE'lohiym|vA'elohiym|bE'lohiym|
 
  * למה 14: 
 
 |לָמָה 6|לָמָּה 8|
 |-|-|
 |לָמָה 6|לָמָה 8|
-|lEmEhE|lEmEhE|
+|lAmAh|lAmAh|
 
  * משפט 14: 
 
 |מִשְׁפָּט 13|מִשְׁפַּט 1|
 |-|-|
 |מִשְׁפָּט 13|מִשְׁפַּט 1|
-|mEšEpETE|mEšEpETE|
+|mišsvpAT|mišsvpaT|
 
  * לפני 14: 
 
 |לִפְנֵי 11|לְפָנַי 3|
 |-|-|
 |לִפְנֵי 11|לְפָנַי 3|
-|lEfEnEyE|lEfEnEyE|
+|lifsvnEy|lsvfAnay|
 
  * אויב 14: 
 
 |אוֹיֵב 14|
 |-|
 |אוֹֹיֵב 14|
-|'EwEyEvE|
+|'woyEv|
 
  * המעלות 14: 
 
 |הַמַּעֲלוֹת 14|
 |-|
 |הַמַעֲלוֹֹת 14|
-|hEmEɣElEwEtE|
+|hamaɣalwot|
 
  * זמרו 13: 
 
 |זַמְּרוּ 11|זַמֵּרוּ 2|
 |-|-|
 |זַמְרוּ 11|זַמֵרוּ 2|
-|zEmErEuE|zEmErEuE|
+|zamsvru|zamEru|
 
  * יחדו 13: 
 
 |יַחְדָּו 13|
 |-|
 |יַחְדָו 13|
-|yEHEdEwE|
+|yaHsvdAw|
 
  * יבשו 13: 
 
 |יֵבֹשׁוּ 13|
 |-|
 |יֵבֹשׁוּ 13|
-|yEvEšEuE|
+|yEvošu|
 
  * אז 13: 
 
 |אָז 13|
 |-|
 |אָז 13|
-|'EzE|
+|'Az|
 
  * חסד 13: 
 
 |חֶסֶד 10|חָסֶד 3|
 |-|-|
 |חֶסֶד 10|חָסֶד 3|
-|HEsEdE|HEsEdE|
+|Hesed|HAsed|
 
  * ירושלם 13: 
 
 |יְרוּשָׁלִָם 9|יְרוּשָׁלִַם 4|
 |-|-|
 |יְרוּשָׁלָם 9|יְרוּשָׁלַם 4|
-|yErEuEšElEmE|yErEuEšElEmE|
+|ysvrušAlAm|ysvrušAlam|
 
  * זה 13: 
 
 |זֶה 13|
 |-|
 |זֶה 13|
-|zEhE|
+|zeh|
 
  * לעד 13: 
 
 |לָעַד 13|
 |-|
 |לָעַד 13|
-|lEɣEdE|
+|lAɣad|
 
  * תחת 13: 
 
 |תַּחַת 13|
 |-|
 |תַחַת 13|
-|tEHEtE|
+|taHat|
 
  * כל־הארץ 13: 
 
 |כָּל־הָאָרֶץ 13|
 |-|
 |כָּל־הָאָרֶץ 13|
-|kElE־EhE'ErEcE|
+|kAl־hA'Arec|
 
  * עז 13: 
 
 |עֹז 12|עָז 1|
 |-|-|
 |עֹז 12|עָז 1|
-|ɣEzE|ɣEzE|
+|ɣoz|ɣAz|
 
  * על־כן 13: 
 
 |עַל־כֵּן 13|
 |-|
 |עַל־כֵּן 13|
-|ɣElE־EkEnE|
+|ɣal־kEn|
 
  * ברוך 13: 
 
 |בָּרוּךְ 13|
 |-|
 |בָּרוּךְ 13|
-|bErEuExE|
+|bAruxsv|
 
  * הצילני 13: 
 
 |הִצִּילָנִי 2|הַצִּילֵנִי 11|
 |-|-|
 |הִצִילָנִי 2|הַצִילֵנִי 11|
-|hEcEyElEnEyE|hEcEyElEnEyE|
+|hiciylAniy|haciylEniy|
 
  * בהם 13: 
 
 |בָּהֶם 9|בָהֶם 4|
 |-|-|
 |בָּהֶם 9|בָהֶם 4|
-|bEhEmE|vEhEmE|
+|bAhem|vAhem|
 
  * יחד 13: 
 
 |יַחַד 8|יָחַד 3|יַחֵד 1|יָּחַד 1|
 |-|-|-|-|
 |יַחַד 8|יָחַד 3|יַחֵד 1|יָחַד 1|
-|yEHEdE|yEHEdE|yEHEdE|yEHEdE|
+|yaHad|yAHad|yaHEd|yAHad|
 
  * לנצח 13: 
 
 |לָנֶצַח 13|
 |-|
 |לָנֶצַח 13|
-|lEnEcEHE|
+|lAnecaH|
 
  * אך 13: 
 
 |אַךְ 13|
 |-|
 |אַךְ 13|
-|'ExE|
+|'axsv|
 
  * דבר 13: 
 
 |דִּבֶּר 5|דֹּבֵר 1|דָּבָר 6|דָבָר 1|
 |-|-|-|-|
 |דִבֶּר 5|דֹבֵר 1|דָבָר 6|דָבָר 1|
-|dEbErE|dEvErE|dEvErE|dEvErE|
+|diber|dovEr|dAvAr|dAvAr|
 
  * אמרתי 13: 
 
 |אִמְרָתִי 1|אָמַרְתִּי 11|אָמָרְתִּי 1|
 |-|-|-|
 |אִמְרָתִי 1|אָמַרְתִי 11|אָמָרְתִי 1|
-|'EmErEtEyE|'EmErEtEyE|'EmErEtEyE|
+|'imsvrAtiy|'Amarsvtiy|'AmArsvtiy|
 
  * איש 13: 
 
 |אִישׁ 13|
 |-|
 |אִישׁ 13|
-|'EyEšE|
+|'iyš|
 
  * חקיך 12: 
 
 |חֻקֶּיךָ 12|
 |-|
 |חֻקֶיךָ 12|
-|HEqEyExE|
+|HuqeyxA|
 
  * בשמים 12: 
 
 |בַּשָּׁמַיִם 6|בַּשָּׁמָיִם 3|בַשָּׁמַיִם 1|בַשָּׁמָיִם 2|
 |-|-|-|-|
 |בַּשָׁמַיִם 6|בַּשָׁמָיִם 3|בַשָׁמַיִם 1|בַשָׁמָיִם 2|
-|bEšEmEyEmE|bEšEmEyEmE|vEšEmEyEmE|vEšEmEyEmE|
+|bašAmayim|bašAmAyim|vašAmayim|vašAmAyim|
 
  * כל 12: 
 
 |כֹל 1|כֹּל 10|כָּל 1|
 |-|-|-|
 |כֹל 1|כֹּל 10|כָּל 1|
-|xElE|kElE|kElE|
+|xol|kol|kAl|
 
  * חנני 12: 
 
 |חָנֵּנִי 12|
 |-|
 |חָנֵנִי 12|
-|HEnEnEyE|
+|HAnEniy|
 
  * בגוים 12: 
 
 |בַּגּוֹיִם 7|בַגּוֹיִם 5|
 |-|-|
 |בַּגוֹֹיִם 7|בַגוֹֹיִם 5|
-|bEgEwEyEmE|vEgEwEyEmE|
+|bagwoyim|vagwoyim|
 
  * לאסף 12: 
 
 |לְאָסָף 12|
 |-|
 |לְאָסָף 12|
-|lE'EsEfE|
+|lsv'AsAf|
 
  * רגלי 12: 
 
 |רַגְלָי 5|רַגְלַי 4|רַגְלִי 3|
 |-|-|-|
 |רַגְלָי 5|רַגְלַי 4|רַגְלִי 3|
-|rEgElEyE|rEgElEyE|rEgElEyE|
+|ragsvlAy|ragsvlay|ragsvliy|
 
  * האזינה 12: 
 
 |הַאֲזִינָה 12|
 |-|
 |הַאֲזִינָה 12|
-|hE'EzEyEnEhE|
+|ha'aziynAh|
 
  * נתן 12: 
 
 |נָתָן 1|נֹתֵן 4|נָתַן 7|
 |-|-|-|
 |נָתָן 1|נֹתֵן 4|נָתַן 7|
-|nEtEnE|nEtEnE|nEtEnE|
+|nAtAn|notEn|nAtan|
 
  * רב 12: 
 
 |רָב 12|
 |-|
 |רָב 12|
-|rEvE|
+|rAv|
 
  * מפני 12: 
 
 |מִפְּנֵי 12|
 |-|
 |מִפְּנֵי 12|
-|mEpEnEyE|
+|mipsvnEy|
 
  * עם 12: 
 
 |עָם 5|עַם 4|עִם 3|
 |-|-|-|
 |עָם 5|עַם 4|עִם 3|
-|ɣEmE|ɣEmE|ɣEmE|
+|ɣAm|ɣam|ɣim|
 
  * איבי 12: 
 
 |אֹיְבִי 3|אֹיְבַי 8|אֹיְבָי 1|
 |-|-|-|
 |אֹיְבִי 3|אֹיְבַי 8|אֹיְבָי 1|
-|'EyEvEyE|'EyEvEyE|'EyEvEyE|
+|'oysvviy|'oysvvay|'oysvvAy|
 
  * חיים 12: 
 
 |חַיִּים 12|
 |-|
 |חַיִים 12|
-|HEyEyEmE|
+|Hayiym|
 
  * אודך 12: 
 
 |אוֹדֶךָּ 1|אוֹדְךָ 11|
 |-|-|
 |אוֹֹדֶךָּ 1|אוֹֹדְךָ 11|
-|'EwEdEkE|'EwEdExE|
+|'wodekA|'wodsvxA|
 
  * קולי 12: 
 
 |קוֹלִי 12|
 |-|
 |קוֹֹלִי 12|
-|qEwElEyE|
+|qwoliy|
 
  * ימינך 12: 
 
 |יְמִינְךָ 3|יְמִינֶךָ 9|
 |-|-|
 |יְמִינְךָ 3|יְמִינֶךָ 9|
-|yEmEyEnExE|yEmEyEnExE|
+|ysvmiynsvxA|ysvmiynexA|
 
  * לחם 12: 
 
 |לֹחֵם 1|לְחַם 1|לֶחֶם 9|לָחֶם 1|
 |-|-|-|-|
 |לֹחֵם 1|לְחַם 1|לֶחֶם 9|לָחֶם 1|
-|lEHEmE|lEHEmE|lEHEmE|lEHEmE|
+|loHEm|lsvHam|leHem|lAHem|
 
  * ידך 12: 
 
 |יָדְךָ 8|יָדֶךָ 4|
 |-|-|
 |יָדְךָ 8|יָדֶךָ 4|
-|yEdExE|yEdExE|
+|yAdsvxA|yAdexA|
 
  * בני 12: 
 
 |בְּנִי 1|בְּנֵי 11|
 |-|-|
 |בְּנִי 1|בְּנֵי 11|
-|bEnEyE|bEnEyE|
+|bsvniy|bsvnEy|
 
  * ישמח 12: 
 
 |יִשְׂמָח 1|יִשְׂמַח 10|יְשַׂמַּח 1|
 |-|-|-|
 |יִשְׂמָח 1|יִשְׂמַח 10|יְשַׂמַח 1|
-|yESEmEHE|yESEmEHE|yESEmEHE|
+|yiSsvmAH|yiSsvmaH|ysvSamaH|
 
  * לפניך 12: 
 
 |לְפָנֶיךָ 12|
 |-|
 |לְפָנֶיךָ 12|
-|lEfEnEyExE|
+|lsvfAneyxA|
 
  * תורתך 12: 
 
 |תוֹרָתֶךָ 4|תוֹרָתְךָ 2|תּוֹרָתֶךָ 3|תּוֹרָתְךָ 3|
 |-|-|-|-|
 |תוֹֹרָתֶךָ 4|תוֹֹרָתְךָ 2|תוֹֹרָתֶךָ 3|תוֹֹרָתְךָ 3|
-|tEwErEtExE|tEwErEtExE|tEwErEtExE|tEwErEtExE|
+|tworAtexA|tworAtsvxA|tworAtexA|tworAtsvxA|
 
  * ידי 12: 
 
 |יָדַי 7|יָדִי 3|יְדֵי 2|
 |-|-|-|
 |יָדַי 7|יָדִי 3|יְדֵי 2|
-|yEdEyE|yEdEyE|yEdEyE|
+|yAday|yAdiy|ysvdEy|
 
  * ברכו 12: 
 
 |בָּרֲכוּ 10|בָּרְכוּ 2|
 |-|-|
 |בָּרֲכוּ 10|בָּרְכוּ 2|
-|bErExEuE|bErExEuE|
+|bAraxu|bArsvxu|
 
  * בקרב 11: 
 
 |בְּקֶרֶב 10|בִּקְרֹב 1|
 |-|-|
 |בְּקֶרֶב 10|בִּקְרֹב 1|
-|bEqErEvE|bEqErEvE|
+|bsvqerev|biqsvrov|
 
  * דברו 11: 
 
 |דברו 1|דְּבָרוֹ 5|דְבָרוֹ 2|דִּבְּרוּ 3|
 |-|-|-|-|
 |דברו 1|דְבָרוֹֹ 5|דְבָרוֹֹ 2|דִבְּרוּ 3|
-|dEvErEwE|dEvErEwE|dEvErEwE|dEbErEuE|
+|dvrw|dsvvArwo|dsvvArwo|dibsvru|
 
  * הים 11: 
 
 |הַיָּם 11|
 |-|
 |הַיָם 11|
-|hEyEmE|
+|hayAm|
 
  * ראשי 11: 
 
 |רֹאשִׁי 9|רָאשֵׁי 2|
 |-|-|
 |רֹאשִׁי 9|רָאשֵׁי 2|
-|rE'EšEyE|rE'EšEyE|
+|ro'šiy|rA'šEy|
 
  * והוא 11: 
 
 |וְהוּא 11|
 |-|
 |וְהוּא 11|
-|wEhEuE'E|
+|wsvhu'|
 
  * אמרו 11: 
 
 |אָמְרוּ 8|אִמְרוּ 3|
 |-|-|
 |אָמְרוּ 8|אִמְרוּ 3|
-|'EmErEuE|'EmErEuE|
+|'Amsvru|'imsvru|
 
  * תבל 11: 
 
 |תֵבֵל 3|תֵּבֵל 8|
 |-|-|
 |תֵבֵל 3|תֵבֵל 8|
-|tEvElE|tEvElE|
+|tEvEl|tEvEl|
 
  * ענני 11: 
 
 |עֲנֵנִי 10|עָנָנִי 1|
 |-|-|
 |עֲנֵנִי 10|עָנָנִי 1|
-|ɣEnEnEyE|ɣEnEnEyE|
+|ɣanEniy|ɣAnAniy|
 
  * בית 11: 
 
 |בַיִת 2|בֵּית 8|בַּיִת 1|
 |-|-|-|
 |בַיִת 2|בֵּית 8|בַּיִת 1|
-|vEyEtE|bEyEtE|bEyEtE|
+|vayit|bEyt|bayit|
 
  * לדר 11: 
 
 |לְדֹר 11|
 |-|
 |לְדֹר 11|
-|lEdErE|
+|lsvdor|
 
  * למו 11: 
 
 |לָּמוֹ 1|לָמוֹ 10|
 |-|-|
 |לָמוֹֹ 1|לָמוֹֹ 10|
-|lEmEwE|lEmEwE|
+|lAmwo|lAmwo|
 
  * השמים 11: 
 
 |הַשָּׁמַיִם 7|הַשָּׁמָיִם 4|
 |-|-|
 |הַשָׁמַיִם 7|הַשָׁמָיִם 4|
-|hEšEmEyEmE|hEšEmEyEmE|
+|hašAmayim|hašAmAyim|
 
  * זכר 11: 
 
 |זָכָר 1|זְכֹר 4|זֵכֶר 2|זָכַר 4|
 |-|-|-|-|
 |זָכָר 1|זְכֹר 4|זֵכֶר 2|זָכַר 4|
-|zExErE|zExErE|zExErE|zExErE|
+|zAxAr|zsvxor|zExer|zAxar|
 
  * יהיו 11: 
 
 |יִהְיוּ 11|
 |-|
 |יִהְיוּ 11|
-|yEhEyEuE|
+|yihsvyu|
 
  * עבדך 11: 
 
 |עַבְדְּךָ 3|עַבְדֶּךָ 8|
 |-|-|
 |עַבְדְךָ 3|עַבְדֶךָ 8|
-|ɣEvEdExE|ɣEvEdExE|
+|ɣavsvdsvxA|ɣavsvdexA|
 
  * הושיעני 11: 
 
 |הוֹשִׁיעֵנִי 11|
 |-|
 |הוֹֹשִׁיעֵנִי 11|
-|hEwEšEyEɣEnEyE|
+|hwošiyɣEniy|
 
  * ואביון 11: 
 
 |וְאֶבְיוֹן 11|
 |-|
 |וְאֶבְיוֹֹן 11|
-|wE'EvEyEwEnE|
+|wsv'evsvywon|
 
  * לפניו 11: 
 
 |לְפָנָיו 11|
 |-|
 |לְפָנָיו 11|
-|lEfEnEyEwE|
+|lsvfAnAyw|
 
  * במדבר 11: 
 
 |בַמִּדְבָּר 2|בַּמִּדְבָּר 8|בְּמִדְבַּר 1|
 |-|-|-|
 |בַמִדְבָּר 2|בַּמִדְבָּר 8|בְּמִדְבַּר 1|
-|vEmEdEbErE|bEmEdEbErE|bEmEdEbErE|
+|vamidsvbAr|bamidsvbAr|bsvmidsvbar|
 
  * אחור 10: 
 
 |אָחוֹר 10|
 |-|
 |אָחוֹֹר 10|
-|'EHEwErE|
+|'AHwor|
 
  * פני 10: 
 
 |פָנָי 2|פָּנַי 3|פְּנֵי 5|
 |-|-|-|
 |פָנָי 2|פָּנַי 3|פְּנֵי 5|
-|fEnEyE|pEnEyE|pEnEyE|
+|fAnAy|pAnay|psvnEy|
 
  * שפתי 10: 
 
 |שְׂפָתָי 2|שִׂפְתֵי 2|שְׂפָתַי 6|
 |-|-|-|
 |שְׂפָתָי 2|שִׂפְתֵי 2|שְׂפָתַי 6|
-|SEfEtEyE|SEfEtEyE|SEfEtEyE|
+|SsvfAtAy|SifsvtEy|SsvfAtay|
 
  * אמת 10: 
 
 |אֱמֶת 10|
 |-|
 |אֱמֶת 10|
-|'EmEtE|
+|'emet|
 
  * הודו 10: 
 
 |הוֹדוּ 9|הוֹדוֹ 1|
 |-|-|
 |הוֹֹדוּ 9|הוֹֹדוֹֹ 1|
-|hEwEdEuE|hEwEdEwE|
+|hwodu|hwodwo|
 
  * אהבתי 10: 
 
 |אָהַבְתִּי 4|אַהֲבָתִי 1|אָהָבְתִּי 5|
 |-|-|-|
 |אָהַבְתִי 4|אַהֲבָתִי 1|אָהָבְתִי 5|
-|'EhEvEtEyE|'EhEvEtEyE|'EhEvEtEyE|
+|'Ahavsvtiy|'ahavAtiy|'AhAvsvtiy|
 
  * אנכי 10: 
 
 |אָנֹכִי 10|
 |-|
 |אָנֹכִי 10|
-|'EnExEyE|
+|'Anoxiy|
 
  * זאת 10: 
 
 |זֹאת 8|זֹּאת 2|
 |-|-|
 |זֹאת 8|זֹאת 2|
-|zE'EtE|zE'EtE|
+|zo't|zo't|
 
  * מדבר 10: 
 
 |מִדְבַּר 1|מִדְבָּר 4|מִדַּבֵּר 2|מְדֻבָּר 1|מִדֶּבֶר 2|
 |-|-|-|-|-|
 |מִדְבַּר 1|מִדְבָּר 4|מִדַבֵּר 2|מְדֻבָּר 1|מִדֶבֶר 2|
-|mEdEbErE|mEdEbErE|mEdEbErE|mEdEbErE|mEdEvErE|
+|midsvbar|midsvbAr|midabEr|msvdubAr|midever|
 
  * לראות 10: 
 
 |לִרְאוֹת 10|
 |-|
 |לִרְאוֹֹת 10|
-|lErE'EwEtE|
+|lirsv'wot|
 
  * מלכים 10: 
 
 |מְלָכִים 10|
 |-|
 |מְלָכִים 10|
-|mElExEyEmE|
+|msvlAxiym|
 
  * יומם 10: 
 
 |יוֹמָם 10|
 |-|
 |יוֹֹמָם 10|
-|yEwEmEmE|
+|ywomAm|
 
  * שלח 10: 
 
 |שָׁלַח 8|שְׁלַח 2|
 |-|-|
 |שָׁלַח 8|שְׁלַח 2|
-|šElEHE|šElEHE|
+|šAlaH|šsvlaH|
 
  * ממנו 10: 
 
 |מִמֶּנּוּ 10|
 |-|
 |מִמֶנוּ 10|
-|mEmEnEuE|
+|mimenu|
 
  * כי־אלהים 10: 
 
 |כִּי־אֱלֹהִים 10|
 |-|
 |כִּי־אֱלֹהִים 10|
-|kEyE־E'ElEhEyEmE|
+|kiy־'elohiym|
 
  * עוד 10: 
 
 |עוֹד 10|
 |-|
 |עוֹֹד 10|
-|ɣEwEdE|
+|ɣwod|
 
  * לבני־קרח 10: 
 
 |לִבְנֵי־קֹרַח 10|
 |-|
 |לִבְנֵי־קֹרַח 10|
-|lEvEnEyE־EqErEHE|
+|livsvnEy־qoraH|
 
  * עמי 10: 
 
 |עַמִּי 9|עִמִּי 1|
 |-|-|
 |עַמִי 9|עִמִי 1|
-|ɣEmEyE|ɣEmEyE|
+|ɣamiy|ɣimiy|
 
  * הייתי 10: 
 
 |הָיִיתִי 10|
 |-|
 |הָיִיתִי 10|
-|hEyEyEtEyE|
+|hAyiytiy|
 
  * אהב 9: 
 
 |אֹהֵב 6|אָהֵב 3|
 |-|-|
 |אֹהֵב 6|אָהֵב 3|
-|'EhEvE|'EhEvE|
+|'ohEv|'AhEv|
 
  * אנוש 9: 
 
 |אֱנוֹשׁ 9|
 |-|
 |אֱנוֹֹשׁ 9|
-|'EnEwEšE|
+|'enwoš|
 
  * אזמרה 9: 
 
 |אֲזַמְּרָה 6|אֲזַמֵּרָה 3|
 |-|-|
 |אֲזַמְרָה 6|אֲזַמֵרָה 3|
-|'EzEmErEhE|'EzEmErEhE|
+|'azamsvrAh|'azamErAh|
 
  * דברי 9: 
 
 |דֹּבְרֵי 3|דְּבָרַי 2|דִּבְרֵי 4|
 |-|-|-|
 |דֹבְרֵי 3|דְבָרַי 2|דִבְרֵי 4|
-|dEvErEyE|dEvErEyE|dEvErEyE|
+|dovsvrEy|dsvvAray|divsvrEy|
 
  * למדני 9: 
 
 |לַמְּדֵנִי 9|
 |-|
 |לַמְדֵנִי 9|
-|lEmEdEnEyE|
+|lamsvdEniy|
 
  * משפטיך 9: 
 
 |מִשְׁפָּטֶיךָ 9|
 |-|
 |מִשְׁפָּטֶיךָ 9|
-|mEšEpETEyExE|
+|mišsvpATeyxA|
 
  * בטחתי 9: 
 
 |בָּטַחְתִּי 4|בָּטָחְתִּי 1|בָטַחְתִּי 3|בָטָחְתִּי 1|
 |-|-|-|-|
 |בָּטַחְתִי 4|בָּטָחְתִי 1|בָטַחְתִי 3|בָטָחְתִי 1|
-|bETEHEtEyE|bETEHEtEyE|vETEHEtEyE|vETEHEtEyE|
+|bATaHsvtiy|bATAHsvtiy|vATaHsvtiy|vATAHsvtiy|
 
  * חמס 9: 
 
 |חָמָס 8|חֲמַס 1|
 |-|-|
 |חָמָס 8|חֲמַס 1|
-|HEmEsE|HEmEsE|
+|HAmAs|Hamas|
 
  * חרפה 9: 
 
 |חֶרְפָּה 9|
 |-|
 |חֶרְפָּה 9|
-|HErEpEhE|
+|HersvpAh|
 
  * ימי 9: 
 
 |יָמָי 3|יְמֵי 3|יָמַי 3|
 |-|-|-|
 |יָמָי 3|יְמֵי 3|יָמַי 3|
-|yEmEyE|yEmEyE|yEmEyE|
+|yAmAy|ysvmEy|yAmay|
 
  * כלו 9: 
 
 |כָלוּ 1|כֻּלּוֹ 2|כָּלּוּ 1|כָּלוּ 5|
 |-|-|-|-|
 |כָלוּ 1|כֻּלוֹֹ 2|כָּלוּ 1|כָּלוּ 5|
-|xElEuE|kElEwE|kElEuE|kElEuE|
+|xAlu|kulwo|kAlu|kAlu|
 
  * לארץ 9: 
 
 |לָאָרֶץ 9|
 |-|
 |לָאָרֶץ 9|
-|lE'ErEcE|
+|lA'Arec|
 
  * ראש 9: 
 
 |רֹאשׁ 9|
 |-|
 |רֹאשׁ 9|
-|rE'EšE|
+|ro'š|
 
  * יתן 9: 
 
 |יִתֵּן 9|
 |-|
 |יִתֵן 9|
-|yEtEnE|
+|yitEn|
 
  * אמרתך 9: 
 
 |אִמְרָתְךָ 4|אִמְרָתֶךָ 5|
 |-|-|
 |אִמְרָתְךָ 4|אִמְרָתֶךָ 5|
-|'EmErEtExE|'EmErEtExE|
+|'imsvrAtsvxA|'imsvrAtexA|
 
  * הלא 9: 
 
 |הֲלֹא 9|
 |-|
 |הֲלֹא 9|
-|hElE'E|
+|halo'|
 
  * חיני 9: 
 
 |חַיֵּנִי 9|
 |-|
 |חַיֵנִי 9|
-|HEyEnEyE|
+|HayEniy|
 
  * יום 9: 
 
 |יוֹם 9|
 |-|
 |יוֹֹם 9|
-|yEwEmE|
+|ywom|
 
  * אש 9: 
 
 |אֵשׁ 9|
 |-|
 |אֵשׁ 9|
-|'EšE|
+|'Eš|
 
  * מצרים 9: 
 
 |מִצְרַיִם 3|מִצְרָיִם 6|
 |-|-|
 |מִצְרַיִם 3|מִצְרָיִם 6|
-|mEcErEyEmE|mEcErEyEmE|
+|micsvrayim|micsvrAyim|
 
  * קומה 9: 
 
 |קוּמָה 9|
 |-|
 |קוּמָה 9|
-|qEuEmEhE|
+|qumAh|
 
  * פקודיך 9: 
 
 |פִקֻּודֶיךָ 1|פִקּוּדֶיךָ 4|פִּקּוּדֶיךָ 4|
 |-|-|-|
 |פִקֻודֶיךָ 1|פִקוּדֶיךָ 4|פִּקוּדֶיךָ 4|
-|fEqEwEdEyExE|fEqEuEdEyExE|pEqEuEdEyExE|
+|fiquwdeyxA|fiqudeyxA|piqudeyxA|
 
  * ידעת 9: 
 
 |יָדַעְתָּ 6|יָדָעְתָּ 1|יֹדַעַת 1|ידעת 1|
 |-|-|-|-|
 |יָדַעְתָ 6|יָדָעְתָ 1|יֹדַעַת 1|ידעת 1|
-|yEdEɣEtE|yEdEɣEtE|yEdEɣEtE|yEdEɣEtE|
+|yAdaɣsvtA|yAdAɣsvtA|yodaɣat|ydɣt|
 
  * ירננו 9: 
 
 |יְרַנֵּנוּ 6|יְרַנְּנוּ 3|
 |-|-|
 |יְרַנֵנוּ 6|יְרַנְנוּ 3|
-|yErEnEnEuE|yErEnEnEuE|
+|ysvranEnu|ysvransvnu|
 
  * יהודה 9: 
 
 |יְהוּדָה 9|
 |-|
 |יְהוּדָה 9|
-|yEhEuEdEhE|
+|ysvhudAh|
 
  * עדתיך 9: 
 
 |עֵדֹתֶיךָ 9|
 |-|
 |עֵדֹתֶיךָ 9|
-|ɣEdEtEyExE|
+|ɣEdoteyxA|
 
  * בדרך 9: 
 
 |בַדֶּרֶךְ 1|בַּדֶּרֶךְ 1|בַּדָּרֶךְ 1|בְּדֶרֶךְ 6|
 |-|-|-|-|
 |בַדֶרֶךְ 1|בַּדֶרֶךְ 1|בַּדָרֶךְ 1|בְּדֶרֶךְ 6|
-|vEdErExE|bEdErExE|bEdErExE|bEdErExE|
+|vaderexsv|baderexsv|badArexsv|bsvderexsv|
 
  * עבדו 9: 
 
 |עַבְדּוֹ 7|עִבְדוּ 2|
 |-|-|
 |עַבְדוֹֹ 7|עִבְדוּ 2|
-|ɣEvEdEwE|ɣEvEdEuE|
+|ɣavsvdwo|ɣivsvdu|
 
  * דור 9: 
 
 |דּוֹר 8|דוֹר 1|
 |-|-|
 |דוֹֹר 8|דוֹֹר 1|
-|dEwErE|dEwErE|
+|dwor|dwor|
 
  * מלכי 9: 
 
 |מַלְכִּי 6|מַלְכֵי 3|
 |-|-|
 |מַלְכִּי 6|מַלְכֵי 3|
-|mElEkEyE|mElExEyE|
+|malsvkiy|malsvxEy|
 
  * ענוים 9: 
 
 |ענוים 1|עֲנָוִים 8|
 |-|-|
 |ענוים 1|עֲנָוִים 8|
-|ɣEnEwEyEmE|ɣEnEwEyEmE|
+|ɣnwym|ɣanAwiym|
 
  * צדקך 8: 
 
 |צִדְקֶךָ 8|
 |-|
 |צִדְקֶךָ 8|
-|cEdEqExE|
+|cidsvqexA|
 
  * מלא 8: 
 
 |מִלֵּא 2|מַלֵּא 1|מָלֵא 5|
 |-|-|-|
 |מִלֵא 2|מַלֵא 1|מָלֵא 5|
-|mElE'E|mElE'E|mElE'E|
+|milE'|malE'|mAlE'|
 
  * שירו 8: 
 
 |שִׁירוּ 8|
 |-|
 |שִׁירוּ 8|
-|šEyErEuE|
+|šiyru|
 
  * עשית 8: 
 
 |עָשִׂיתָ 8|
 |-|
 |עָשִׂיתָ 8|
-|ɣESEyEtE|
+|ɣASiytA|
 
  * אשירה 8: 
 
 |אָשִׁירָה 8|
 |-|
 |אָשִׁירָה 8|
-|'EšEyErEhE|
+|'AšiyrAh|
 
  * כמו 8: 
 
 |כְמוֹ 1|כְּמוֹ 7|
 |-|-|
 |כְמוֹֹ 1|כְּמוֹֹ 7|
-|xEmEwE|kEmEwE|
+|xsvmwo|ksvmwo|
 
  * תמים 8: 
 
 |תָּמִים 6|תָמִים 2|
 |-|-|
 |תָמִים 6|תָמִים 2|
-|tEmEyEmE|tEmEyEmE|
+|tAmiym|tAmiym|
 
  * שאול 8: 
 
 |שְּׁאוֹל 1|שָׁאוּל 2|שְׁאוֹל 5|
 |-|-|-|
 |שְׁאוֹֹל 1|שָׁאוּל 2|שְׁאוֹֹל 5|
-|šE'EwElE|šE'EuElE|šE'EwElE|
+|šsv'wol|šA'ul|šsv'wol|
 
  * ולילה 8: 
 
 |וְלַיְלָה 4|וָלָיְלָה 2|וָלַיְלָה 2|
 |-|-|-|
 |וְלַיְלָה 4|וָלָיְלָה 2|וָלַיְלָה 2|
-|wElEyElEhE|wElEyElEhE|wElEyElEhE|
+|wsvlaysvlAh|wAlAysvlAh|wAlaysvlAh|
 
  * וישמחו 8: 
 
 |וְיִשְׂמְחוּ 4|וְיִשְׂמָחוּ 3|וַיִּשְׂמְחוּ 1|
 |-|-|-|
 |וְיִשְׂמְחוּ 4|וְיִשְׂמָחוּ 3|וַיִשְׂמְחוּ 1|
-|wEyESEmEHEuE|wEyESEmEHEuE|wEyESEmEHEuE|
+|wsvyiSsvmsvHu|wsvyiSsvmAHu|wayiSsvmsvHu|
 
  * דרך 8: 
 
 |דָרַךְ 1|דָרֶךְ 2|דָּרֶךְ 1|דֶרֶךְ 1|דֶּרֶךְ 3|
 |-|-|-|-|-|
 |דָרַךְ 1|דָרֶךְ 2|דָרֶךְ 1|דֶרֶךְ 1|דֶרֶךְ 3|
-|dErExE|dErExE|dErExE|dErExE|dErExE|
+|dAraxsv|dArexsv|dArexsv|derexsv|derexsv|
 
  * מבקשי 8: 
 
 |מְבַקְשֵׁי 8|
 |-|
 |מְבַקְשֵׁי 8|
-|mEvEqEšEyE|
+|msvvaqsvšEy|
 
  * בכנור 8: 
 
 |בְּכִנּוֹר 5|בְכִנּוֹר 3|
 |-|-|
 |בְּכִנוֹֹר 5|בְכִנוֹֹר 3|
-|bExEnEwErE|vExEnEwErE|
+|bsvxinwor|vsvxinwor|
 
  * ידעתי 8: 
 
 |יָדַעְתִּי 8|
 |-|
 |יָדַעְתִי 8|
-|yEdEɣEtEyE|
+|yAdaɣsvtiy|
 
  * ידברו 8: 
 
 |יְדַבְּרוּ 2|יְדַבֵּרוּ 6|
 |-|-|
 |יְדַבְּרוּ 2|יְדַבֵּרוּ 6|
-|yEdEbErEuE|yEdEbErEuE|
+|ysvdabsvru|ysvdabEru|
 
  * תפלה 8: 
 
 |תְפִלָּה 2|תְּפִלָּה 6|
 |-|-|
 |תְפִלָה 2|תְפִלָה 6|
-|tEfElEhE|tEfElEhE|
+|tsvfilAh|tsvfilAh|
 
  * יראה 8: 
 
 |יָרְאָה 1|יִרְאֶה 4|יִרְאָה 1|יֵרָאֶה 2|
 |-|-|-|-|
 |יָרְאָה 1|יִרְאֶה 4|יִרְאָה 1|יֵרָאֶה 2|
-|yErE'EhE|yErE'EhE|yErE'EhE|yErE'EhE|
+|yArsv'Ah|yirsv'eh|yirsv'Ah|yErA'eh|
 
  * רוח 8: 
 
 |רוּחַ 8|
 |-|
 |רוּחַ 8|
-|rEuEHE|
+|ruHa|
 
  * סביב 8: 
 
 |סָבִיב 8|
 |-|
 |סָבִיב 8|
-|sEvEyEvE|
+|sAviyv|
 
  * צורי 8: 
 
 |צוּרִי 8|
 |-|
 |צוּרִי 8|
-|cEuErEyE|
+|curiy|
 
  * ימין 8: 
 
 |יְמִין 7|יָמִין 1|
 |-|-|
 |יְמִין 7|יָמִין 1|
-|yEmEyEnE|yEmEyEnE|
+|ysvmiyn|yAmiyn|
 
  * שמעה 8: 
 
 |שָׁמְעָה 1|שִׁמְעָה 7|
 |-|-|
 |שָׁמְעָה 1|שִׁמְעָה 7|
-|šEmEɣEhE|šEmEɣEhE|
+|šAmsvɣAh|šimsvɣAh|
 
  * מספר 8: 
 
 |מִסְפָּר 6|מִסֵּפֶר 1|מִסַּפֵּר 1|
 |-|-|-|
 |מִסְפָּר 6|מִסֵפֶר 1|מִסַפֵּר 1|
-|mEsEpErE|mEsEfErE|mEsEpErE|
+|missvpAr|misEfer|misapEr|
 
  * לנפשי 8: 
 
 |לְנַפְשִׁי 8|
 |-|
 |לְנַפְשִׁי 8|
-|lEnEfEšEyE|
+|lsvnafsvšiy|
 
  * ויהוה 8: 
 
 |וַיהוָה 8|
 |-|
 |וַיהוָה 8|
-|wEyEhEwEhE|
+|wayhwAh|
 
  * בשם 8: 
 
 |בְּשֵׁם 7|בְשֵׁם 1|
 |-|-|
 |בְּשֵׁם 7|בְשֵׁם 1|
-|bEšEmE|vEšEmE|
+|bsvšEm|vsvšEm|
 
  * יאמרו 8: 
 
 |יֹאמֵרוּ 2|יֹאמְרוּ 6|
 |-|-|
 |יֹאמֵרוּ 2|יֹאמְרוּ 6|
-|yE'EmErEuE|yE'EmErEuE|
+|yo'mEru|yo'msvru|
 
  * לבב 8: 
 
 |לְבַב 1|לֵבָב 7|
 |-|-|
 |לְבַב 1|לֵבָב 7|
-|lEvEvE|lEvEvE|
+|lsvvav|lEvAv|
 
  * ביתך 8: 
 
 |בֵיתֶךָ 3|בֵיתְךָ 1|בֵּיתֶךָ 3|בֵּיתְךָ 1|
 |-|-|-|-|
 |בֵיתֶךָ 3|בֵיתְךָ 1|בֵּיתֶךָ 3|בֵּיתְךָ 1|
-|vEyEtExE|vEyEtExE|bEyEtExE|bEyEtExE|
+|vEytexA|vEytsvxA|bEytexA|bEytsvxA|
 
  * משמים 8: 
 
 |מִשָּׁמַיִם 8|
 |-|
 |מִשָׁמַיִם 8|
-|mEšEmEyEmE|
+|mišAmayim|
 
  * יברך 8: 
 
 |יְבֹרָךְ 1|יְבֹרַךְ 1|יְבָרֵךְ 6|
 |-|-|-|
 |יְבֹרָךְ 1|יְבֹרַךְ 1|יְבָרֵךְ 6|
-|yEvErExE|yEvErExE|yEvErExE|
+|ysvvorAxsv|ysvvoraxsv|ysvvArExsv|
 
  * תבוא 8: 
 
 |תָּבוֹא 7|תָבוֹא 1|
 |-|-|
 |תָבוֹֹא 7|תָבוֹֹא 1|
-|tEvEwE'E|tEvEwE'E|
+|tAvwo'|tAvwo'|
 
  * אלהיך 8: 
 
 |אֱלֹהֶיךָ 6|אֱלֹהַיִךְ 2|
 |-|-|
 |אֱלֹהֶיךָ 6|אֱלֹהַיִךְ 2|
-|'ElEhEyExE|'ElEhEyExE|
+|'eloheyxA|'elohayixsv|
 
  * פניו 7: 
 
 |פָּנָיו 4|פָנָיו 3|
 |-|-|
 |פָּנָיו 4|פָנָיו 3|
-|pEnEyEwE|fEnEyEwE|
+|pAnAyw|fAnAyw|
 
  * דרכי 7: 
 
 |דְרָכַי 1|דַּרְכִּי 1|דְּרָכַי 1|דְרָכָי 3|דַּרְכֵי 1|
 |-|-|-|-|-|
 |דְרָכַי 1|דַרְכִּי 1|דְרָכַי 1|דְרָכָי 3|דַרְכֵי 1|
-|dErExEyE|dErEkEyE|dErExEyE|dErExEyE|dErExEyE|
+|dsvrAxay|darsvkiy|dsvrAxay|dsvrAxAy|darsvxEy|
 
  * נפשם 7: 
 
 |נַפְשָׁם 7|
 |-|
 |נַפְשָׁם 7|
-|nEfEšEmE|
+|nafsvšAm|
 
  * עיר 7: 
 
 |עִיר 7|
 |-|
 |עִיר 7|
-|ɣEyErE|
+|ɣiyr|
 
  * כל־פעלי 7: 
 
 |כָּל־פֹּעֲלֵי 7|
 |-|
 |כָּל־פֹּעֲלֵי 7|
-|kElE־EpEɣElEyE|
+|kAl־poɣalEy|
 
  * הוות 7: 
 
 |הַוּוֹת 7|
 |-|
 |הַוּוֹֹת 7|
-|hEuEwEtE|
+|hauwot|
 
  * עדות 7: 
 
 |עֵדוּת 7|
 |-|
 |עֵדוּת 7|
-|ɣEdEuEtE|
+|ɣEdut|
 
  * מעשי 7: 
 
 |מַעֲשַׂי 1|מַעֲשֵׂי 6|
 |-|-|
 |מַעֲשַׂי 1|מַעֲשֵׂי 6|
-|mEɣESEyE|mEɣESEyE|
+|maɣaSay|maɣaSEy|
 
  * אפך 7: 
 
 |אַפֶּךָ 4|אַפְּךָ 3|
 |-|-|
 |אַפֶּךָ 4|אַפְּךָ 3|
-|'EpExE|'EpExE|
+|'apexA|'apsvxA|
 
  * לאלהי 7: 
 
 |לֵאלֹהָי 1|לֵאלֹהֵי 4|לֵאלֹהַי 2|
 |-|-|-|
 |לֵאלֹהָי 1|לֵאלֹהֵי 4|לֵאלֹהַי 2|
-|lE'ElEhEyE|lE'ElEhEyE|lE'ElEhEyE|
+|lE'lohAy|lE'lohEy|lE'lohay|
 
  * לאל 7: 
 
 |לְאֵל 6|לָאֵל 1|
 |-|-|
 |לְאֵל 6|לָאֵל 1|
-|lE'ElE|lE'ElE|
+|lsv'El|lA'El|
 
  * האח 7: 
 
 |הֶאָח 7|
 |-|
 |הֶאָח 7|
-|hE'EHE|
+|he'AH|
 
  * האל 7: 
 
 |הָאֵל 7|
 |-|
 |הָאֵל 7|
-|hE'ElE|
+|hA'El|
 
  * יאבדו 7: 
 
 |יֹאבֵדוּ 6|יֹאבְדוּ 1|
 |-|-|
 |יֹאבֵדוּ 6|יֹאבְדוּ 1|
-|yE'EvEdEuE|yE'EvEdEuE|
+|yo'vEdu|yo'vsvdu|
 
  * מתי 7: 
 
 |מְתֵי 1|מָתַי 6|
 |-|-|
 |מְתֵי 1|מָתַי 6|
-|mEtEyE|mEtEyE|
+|msvtEy|mAtay|
 
  * כחסדך 7: 
 
 |כְּחַסְדֶּךָ 1|כְּחַסְדְּךָ 3|כְחַסְדֶּךָ 3|
 |-|-|-|
 |כְּחַסְדֶךָ 1|כְּחַסְדְךָ 3|כְחַסְדֶךָ 3|
-|kEHEsEdExE|kEHEsEdExE|xEHEsEdExE|
+|ksvHassvdexA|ksvHassvdsvxA|xsvHassvdexA|
 
  * וארץ 7: 
 
 |וָאָרֶץ 6|וְאֶרֶץ 1|
 |-|-|
 |וָאָרֶץ 6|וְאֶרֶץ 1|
-|wE'ErEcE|wE'ErEcE|
+|wA'Arec|wsv'erec|
 
  * שנאתי 7: 
 
 |שָׂנֵאתִי 7|
 |-|
 |שָׂנֵאתִי 7|
-|SEnE'EtEyE|
+|SAnE'tiy|
 
  * היו 7: 
 
 |הָיוּ 7|
 |-|
 |הָיוּ 7|
-|hEyEuE|
+|hAyu|
 
  * עד־מתי 7: 
 
 |עַד־מָתָי 2|עַד־מָתַי 5|
 |-|-|
 |עַד־מָתָי 2|עַד־מָתַי 5|
-|ɣEdE־EmEtEyE|ɣEdE־EmEtEyE|
+|ɣad־mAtAy|ɣad־mAtay|
 
  * יודוך 7: 
 
 |יוֹדוּךָ 7|
 |-|
 |יוֹֹדוּךָ 7|
-|yEwEdEuExE|
+|ywoduxA|
 
  * חיי 7: 
 
 |חַיַּי 2|חַיָּי 5|
 |-|-|
 |חַיַי 2|חַיָי 5|
-|HEyEyE|HEyEyE|
+|Hayay|HayAy|
 
  * ישלח 7: 
 
 |יִשְׁלַח 6|יְשַׁלַּח 1|
 |-|-|
 |יִשְׁלַח 6|יְשַׁלַח 1|
-|yEšElEHE|yEšElEHE|
+|yišsvlaH|ysvšalaH|
 
  * מציון 7: 
 
 |מִצִּיּוֹן 7|
 |-|
 |מִצִיוֹֹן 7|
-|mEcEyEwEnE|
+|miciywon|
 
  * יצא 7: 
 
 |יֵצֵא 4|יָצָא 2|יֹצֵא 1|
 |-|-|-|
 |יֵצֵא 4|יָצָא 2|יֹצֵא 1|
-|yEcE'E|yEcE'E|yEcE'E|
+|yEcE'|yAcA'|yocE'|
 
  * ממך 7: 
 
 |מִמְּךָ 3|מִמֶּךָּ 3|מִמֶּךָ 1|
 |-|-|-|
 |מִמְךָ 3|מִמֶךָּ 3|מִמֶךָ 1|
-|mEmExE|mEmEkE|mEmExE|
+|mimsvxA|mimekA|mimexA|
 
  * ונפלאותיו 7: 
 
 |וְנִפְלְאוֹתָיו 7|
 |-|
 |וְנִפְלְאוֹֹתָיו 7|
-|wEnEfElE'EwEtEyEwE|
+|wsvnifsvlsv'wotAyw|
 
  * עליהם 7: 
 
 |עֲלֵיהֶם 7|
 |-|
 |עֲלֵיהֶם 7|
-|ɣElEyEhEmE|
+|ɣalEyhem|
 
  * ויהי 7: 
 
 |וִיהִי 4|וַיְהִי 2|וַיֶּהִי 1|
 |-|-|-|
 |וִיהִי 4|וַיְהִי 2|וַיֶהִי 1|
-|wEyEhEyE|wEyEhEyE|wEyEhEyE|
+|wiyhiy|waysvhiy|wayehiy|
 
  * מיד 7: 
 
 |מִיַּד 7|
 |-|
 |מִיַד 7|
-|mEyEdE|
+|miyad|
 
  * ידבר 7: 
 
 |יַדְבֵּר 1|יְדַבֵּר 6|
 |-|-|
 |יַדְבֵּר 1|יְדַבֵּר 6|
-|yEdEbErE|yEdEbErE|
+|yadsvbEr|ysvdabEr|
 
  * עלינו 7: 
 
 |עָלֵינוּ 7|
 |-|
 |עָלֵינוּ 7|
-|ɣElEyEnEuE|
+|ɣAlEynu|
 
  * משפטי 7: 
 
 |מִשְׁפָּטִי 2|מִשֹּׁפְטֵי 1|מִשְׁפְּטֵי 4|
 |-|-|-|
 |מִשְׁפָּטִי 2|מִשֹׁפְטֵי 1|מִשְׁפְּטֵי 4|
-|mEšEpETEyE|mEšEfETEyE|mEšEpETEyE|
+|mišsvpATiy|mišofsvTEy|mišsvpsvTEy|
 
  * ידיך 7: 
 
 |יָדֶיךָ 7|
 |-|
 |יָדֶיךָ 7|
-|yEdEyExE|
+|yAdeyxA|
 
  * לב 7: 
 
 |לֵב 7|
 |-|
 |לֵב 7|
-|lEvE|
+|lEv|
 
  * אודה 7: 
 
 |אוֹדֶה 7|
 |-|
 |אוֹֹדֶה 7|
-|'EwEdEhE|
+|'wodeh|
 
  * תהלה 7: 
 
 |תְהִלָּה 3|תְּהִלָּה 4|
 |-|-|
 |תְהִלָה 3|תְהִלָה 4|
-|tEhElEhE|tEhElEhE|
+|tsvhilAh|tsvhilAh|
 
  * לעשות 7: 
 
 |לַעֲשׂוֹת 7|
 |-|
 |לַעֲשׂוֹֹת 7|
-|lEɣESEwEtE|
+|laɣaSwot|
 
  * בצדקתך 7: 
 
 |בְּצִדְקָתְךָ 4|בְצִדְקָתֶךָ 1|בְּצִדְקָתֶךָ 2|
 |-|-|-|
 |בְּצִדְקָתְךָ 4|בְצִדְקָתֶךָ 1|בְּצִדְקָתֶךָ 2|
-|bEcEdEqEtExE|vEcEdEqEtExE|bEcEdEqEtExE|
+|bsvcidsvqAtsvxA|vsvcidsvqAtexA|bsvcidsvqAtexA|
 
  * כבודו 7: 
 
 |כְבוֹדוֹ 1|כְּבוֹדוֹ 6|
 |-|-|
 |כְבוֹֹדוֹֹ 1|כְּבוֹֹדוֹֹ 6|
-|xEvEwEdEwE|kEvEwEdEwE|
+|xsvvwodwo|ksvvwodwo|
 
  * צדקתך 7: 
 
 |צִדְקָתֶךָ 3|צִדְקָתְךָ 4|
 |-|-|
 |צִדְקָתֶךָ 3|צִדְקָתְךָ 4|
-|cEdEqEtExE|cEdEqEtExE|
+|cidsvqAtexA|cidsvqAtsvxA|
 
  * מארץ 7: 
 
 |מֵאֶרֶץ 7|
 |-|
 |מֵאֶרֶץ 7|
-|mE'ErEcE|
+|mE'erec|
 
  * חדש 7: 
 
 |חָדָשׁ 6|חַדֵּשׁ 1|
 |-|-|
 |חָדָשׁ 6|חַדֵשׁ 1|
-|HEdEšE|HEdEšE|
+|HAdAš|HadEš|
 
  * מני 7: 
 
 |מִנִּי 4|מֶנִּי 3|
 |-|-|
 |מִנִי 4|מֶנִי 3|
-|mEnEyE|mEnEyE|
+|miniy|meniy|
 
  * בריתו 7: 
 
 |בְּרִיתוֹ 5|בְרִיתוֹ 2|
 |-|-|
 |בְּרִיתוֹֹ 5|בְרִיתוֹֹ 2|
-|bErEyEtEwE|vErEyEtEwE|
+|bsvriytwo|vsvriytwo|
 
  * כזב 7: 
 
 |כֹּזֵב 1|כָּזָב 1|כָזָב 5|
 |-|-|-|
 |כֹּזֵב 1|כָּזָב 1|כָזָב 5|
-|kEzEvE|kEzEvE|xEzEvE|
+|kozEv|kAzAv|xAzAv|
 
  * נהרות 7: 
 
 |נְהָרוֹת 5|נַהֲרוֹת 2|
 |-|-|
 |נְהָרוֹֹת 5|נַהֲרוֹֹת 2|
-|nEhErEwEtE|nEhErEwEtE|
+|nsvhArwot|naharwot|
 
  * עליך 7: 
 
 |עָלֶיךָ 7|
 |-|
 |עָלֶיךָ 7|
-|ɣElEyExE|
+|ɣAleyxA|
 
  * עמל 7: 
 
 |עֲמַל 1|עָמָל 6|
 |-|-|
 |עֲמַל 1|עָמָל 6|
-|ɣEmElE|ɣEmElE|
+|ɣamal|ɣAmAl|
 
  * מצותיך 7: 
 
 |מִצְוֺתֶיךָ 7|
 |-|
 |מִצְוֺתֶיךָ 7|
-|mEcEwEtEyExE|
+|micsvw_o_teyxA|
 
  * דרכך 7: 
 
 |דַּרְכֶּךָ 7|
 |-|
 |דַרְכֶּךָ 7|
-|dErEkExE|
+|darsvkexA|
 
  * נגד 7: 
 
 |נֶגֶד 7|
 |-|
 |נֶגֶד 7|
-|nEgEdE|
+|neged|
 
  * נכון 7: 
 
 |נָכוֹן 7|
 |-|
 |נָכוֹֹן 7|
-|nExEwEnE|
+|nAxwon|
 
  * כצאן 7: 
 
 |כַּצֹּאן 4|כַצֹּאן 1|כְּצֹאן 2|
 |-|-|-|
 |כַּצֹאן 4|כַצֹאן 1|כְּצֹאן 2|
-|kEcE'EnE|xEcE'EnE|kEcE'EnE|
+|kaco'n|xaco'n|ksvco'n|
 
  * שדי 7: 
 
 |שָׂדָי 2|שָׂדַי 3|שַׁדַּי 2|
 |-|-|-|
 |שָׂדָי 2|שָׂדַי 3|שַׁדַי 2|
-|SEdEyE|SEdEyE|šEdEyE|
+|SAdAy|SAday|šaday|
 
  * פי 7: 
 
 |פִי 2|פִּי 5|
 |-|-|
 |פִי 2|פִּי 5|
-|fEyE|pEyE|
+|fiy|piy|
 
  * בקול 7: 
 
 |בְּקוֹל 7|
 |-|
 |בְּקוֹֹל 7|
-|bEqEwElE|
+|bsvqwol|
 
  * לישראל 7: 
 
 |לְיִשְׂרָאֵל 7|
 |-|
 |לְיִשְׂרָאֵל 7|
-|lEyESErE'ElE|
+|lsvyiSsvrA'El|
 
  * זדים 7: 
 
 |זֵדִים 7|
 |-|
 |זֵדִים 7|
-|zEdEyEmE|
+|zEdiym|
 
  * עזך 7: 
 
 |עֻזֶּךָ 4|עֻזְּךָ 3|
 |-|-|
 |עֻזֶךָ 4|עֻזְךָ 3|
-|ɣEzExE|ɣEzExE|
+|ɣuzexA|ɣuzsvxA|
 
  * רעתי 7: 
 
 |רָעָתִי 7|
 |-|
 |רָעָתִי 7|
-|rEɣEtEyE|
+|rAɣAtiy|
 
  * בסתר 7: 
 
 |בְּסֵתֶר 4|בְסֵתֶר 1|בַסֵּתֶר 2|
 |-|-|-|
 |בְּסֵתֶר 4|בְסֵתֶר 1|בַסֵתֶר 2|
-|bEsEtErE|vEsEtErE|vEsEtErE|
+|bsvsEter|vsvsEter|vasEter|
 
  * בטחו 7: 
 
 |בָטְחוּ 2|בִּטְחוּ 3|בָּטְחוּ 2|
 |-|-|-|
 |בָטְחוּ 2|בִּטְחוּ 3|בָּטְחוּ 2|
-|vETEHEuE|bETEHEuE|bETEHEuE|
+|vATsvHu|biTsvHu|bATsvHu|
 
  * כלם 6: 
 
 |כֻּלָּם 6|
 |-|
 |כֻּלָם 6|
-|kElEmE|
+|kulAm|
 
  * בצדק 6: 
 
 |בְצֶדֶק 1|בְּצֶדֶק 5|
 |-|-|
 |בְצֶדֶק 1|בְּצֶדֶק 5|
-|vEcEdEqE|bEcEdEqE|
+|vsvcedeq|bsvcedeq|
 
  * אשיחה 6: 
 
 |אָשִׂיחָה 6|
 |-|
 |אָשִׂיחָה 6|
-|'ESEyEHEhE|
+|'ASiyHAh|
 
  * משגבי 6: 
 
 |מִשְׂגַּבִּי 6|
 |-|
 |מִשְׂגַבִּי 6|
-|mESEgEbEyE|
+|miSsvgabiy|
 
  * תהלתו 6: 
 
 |תְּהִלָּתוֹ 6|
 |-|
 |תְהִלָתוֹֹ 6|
-|tEhElEtEwE|
+|tsvhilAtwo|
 
  * לאמים 6: 
 
 |לְאֻמִּים 6|
 |-|
 |לְאֻמִים 6|
-|lE'EmEyEmE|
+|lsv'umiym|
 
  * בלבו 6: 
 
 |בְּלִבּוֹ 6|
 |-|
 |בְּלִבּוֹֹ 6|
-|bElEbEwE|
+|bsvlibwo|
 
  * קדשך 6: 
 
 |קָדְשֶׁךָ 4|קָדְשְׁךָ 2|
 |-|-|
 |קָדְשֶׁךָ 4|קָדְשְׁךָ 2|
-|qEdEšExE|qEdEšExE|
+|qAdsvšexA|qAdsvšsvxA|
 
  * אזנך 6: 
 
 |אָזְנֵךְ 1|אָזְנְךָ 3|אָזְנֶךָ 2|
 |-|-|-|
 |אָזְנֵךְ 1|אָזְנְךָ 3|אָזְנֶךָ 2|
-|'EzEnExE|'EzEnExE|'EzEnExE|
+|'AzsvnExsv|'AzsvnsvxA|'AzsvnexA|
 
  * ברכי 6: 
 
 |בִּרְכַּי 1|בָּרֲכִי 5|
 |-|-|
 |בִּרְכַּי 1|בָּרֲכִי 5|
-|bErEkEyE|bErExEyE|
+|birsvkay|bAraxiy|
 
  * אויבי 6: 
 
 |אוֹיְבָי 1|אוֹיְבַי 4|אוֹיְבֵי 1|
 |-|-|-|
 |אוֹֹיְבָי 1|אוֹֹיְבַי 4|אוֹֹיְבֵי 1|
-|'EwEyEvEyE|'EwEyEvEyE|'EwEyEvEyE|
+|'woysvvAy|'woysvvay|'woysvvEy|
 
  * לילה 6: 
 
 |לַיְלָה 1|לַּיְלָה 1|לָיְלָה 4|
 |-|-|-|
 |לַיְלָה 1|לַיְלָה 1|לָיְלָה 4|
-|lEyElEhE|lEyElEhE|lEyElEhE|
+|laysvlAh|laysvlAh|lAysvlAh|
 
  * אירא 6: 
 
 |אִירָא 6|
 |-|
 |אִירָא 6|
-|'EyErE'E|
+|'iyrA'|
 
  * אמונתך 6: 
 
 |אֱמוּנָתֶךָ 1|אֱמוּנָתְךָ 5|
 |-|-|
 |אֱמוּנָתֶךָ 1|אֱמוּנָתְךָ 5|
-|'EmEuEnEtExE|'EmEuEnEtExE|
+|'emunAtexA|'emunAtsvxA|
 
  * ויתן 6: 
 
 |וַיִּתֵּן 6|
 |-|
 |וַיִתֵן 6|
-|wEyEtEnE|
+|wayitEn|
 
  * לשאול 6: 
 
 |לִשְׁאוֹל 4|לְשָׁאוּל 2|
 |-|-|
 |לִשְׁאוֹֹל 4|לְשָׁאוּל 2|
-|lEšE'EwElE|lEšE'EuElE|
+|lišsv'wol|lsvšA'ul|
 
  * את־שם 6: 
 
 |אֶת־שֵׁם 6|
 |-|
 |אֶת־שֵׁם 6|
-|'EtE־EšEmE|
+|'et־šEm|
 
  * שוא 6: 
 
 |שָׁוְא 6|
 |-|
 |שָׁוְא 6|
-|šEwE'E|
+|šAwsv'|
 
  * בטח 6: 
 
 |בֹּטֵחַ 2|בָּטֻחַ 1|בְּטַח 2|בָטַח 1|
 |-|-|-|-|
 |בֹּטֵחַ 2|בָּטֻחַ 1|בְּטַח 2|בָטַח 1|
-|bETEHE|bETEHE|bETEHE|vETEHE|
+|boTEHa|bATuHa|bsvTaH|vATaH|
 
  * ידיו 6: 
 
 |יָדָיו 6|
 |-|
 |יָדָיו 6|
-|yEdEyEwE|
+|yAdAyw|
 
  * מרעים 6: 
 
 |מְרֵעִים 6|
 |-|
 |מְרֵעִים 6|
-|mErEɣEyEmE|
+|msvrEɣiym|
 
  * עליו 6: 
 
 |עָלָיו 6|
 |-|
 |עָלָיו 6|
-|ɣElEyEwE|
+|ɣAlAyw|
 
  * ואשמרה 6: 
 
 |וָאֶשְׁמְרָה 1|וְאֶשְׁמְרָה 5|
 |-|-|
 |וָאֶשְׁמְרָה 1|וְאֶשְׁמְרָה 5|
-|wE'EšEmErEhE|wE'EšEmErEhE|
+|wA'ešsvmsvrAh|wsv'ešsvmsvrAh|
 
  * מהר 6: 
 
 |מַהֵר 4|מֵהַר 2|
 |-|-|
 |מַהֵר 4|מֵהַר 2|
-|mEhErE|mEhErE|
+|mahEr|mEhar|
 
  * הושיעה 6: 
 
 |הוֹשִׁיעָה 6|
 |-|
 |הוֹֹשִׁיעָה 6|
-|hEwEšEyEɣEhE|
+|hwošiyɣAh|
 
  * יראי 6: 
 
 |יִרְאֵי 6|
 |-|
 |יִרְאֵי 6|
-|yErE'EyE|
+|yirsv'Ey|
 
  * ועד־עולם 6: 
 
 |וְעַד־עוֹלָם 6|
 |-|
 |וְעַד־עוֹֹלָם 6|
-|wEɣEdE־EɣEwElEmE|
+|wsvɣad־ɣwolAm|
 
  * ותורתך 6: 
 
 |וְתוֹרָתְךָ 6|
 |-|
 |וְתוֹֹרָתְךָ 6|
-|wEtEwErEtExE|
+|wsvtworAtsvxA|
 
  * שכחתי 6: 
 
 |שָׁכָחְתִּי 6|
 |-|
 |שָׁכָחְתִי 6|
-|šExEHEtEyE|
+|šAxAHsvtiy|
 
  * נורא 6: 
 
 |נוֹרָא 6|
 |-|
 |נוֹֹרָא 6|
-|nEwErE'E|
+|nworA'|
 
  * בתוך 6: 
 
 |בְּתוֹךְ 6|
 |-|
 |בְּתוֹֹךְ 6|
-|bEtEwExE|
+|bsvtwoxsv|
 
  * רמיה 6: 
 
 |רְמִיָּה 6|
 |-|
 |רְמִיָה 6|
-|rEmEyEhE|
+|rsvmiyAh|
 
  * יודו 6: 
 
 |יוֹדוּ 6|
 |-|
 |יוֹֹדוּ 6|
-|yEwEdEuE|
+|ywodu|
 
  * הבו 6: 
 
 |הָבוּ 6|
 |-|
 |הָבוּ 6|
-|hEvEuE|
+|hAvu|
 
  * ידע 6: 
 
 |יֹדֵעַ 3|יֵדָע 1|יָדַע 2|
 |-|-|-|
 |יֹדֵעַ 3|יֵדָע 1|יָדַע 2|
-|yEdEɣE|yEdEɣE|yEdEɣE|
+|yodEɣa|yEdAɣ|yAdaɣ|
 
  * ישרים 6: 
 
 |יְשָׁרִים 6|
 |-|
 |יְשָׁרִים 6|
-|yEšErEyEmE|
+|ysvšAriym|
 
  * את 6: 
 
 |אֵת 4|אֶת 2|
 |-|-|
 |אֵת 4|אֶת 2|
-|'EtE|'EtE|
+|'Et|'et|
 
  * ואנחנו 6: 
 
 |וַאֲנַחְנוּ 6|
 |-|
 |וַאֲנַחְנוּ 6|
-|wE'EnEHEnEuE|
+|wa'anaHsvnu|
 
  * תחנוני 6: 
 
 |תַּחֲנוּנַי 2|תַּחֲנוּנָי 4|
 |-|-|
 |תַחֲנוּנַי 2|תַחֲנוּנָי 4|
-|tEHEnEuEnEyE|tEHEnEuEnEyE|
+|taHanunay|taHanunAy|
 
  * דרכו 6: 
 
 |דרכו 1|דַּרְכּוֹ 4|דָּרְכוּ 1|
 |-|-|-|
 |דרכו 1|דַרְכּוֹֹ 4|דָרְכוּ 1|
-|dErExEwE|dErEkEwE|dErExEuE|
+|drxw|darsvkwo|dArsvxu|
 
  * חסיתי 6: 
 
 |חָסִיתִי 6|
 |-|
 |חָסִיתִי 6|
-|HEsEyEtEyE|
+|HAsiytiy|
 
  * לצדיק 6: 
 
 |לַצַּדִּיק 6|
 |-|
 |לַצַדִיק 6|
-|lEcEdEyEqE|
+|lacadiyq|
 
  * חיל 6: 
 
 |חַיִל 2|חָיִל 3|חִיל 1|
 |-|-|-|
 |חַיִל 2|חָיִל 3|חִיל 1|
-|HEyElE|HEyElE|HEyElE|
+|Hayil|HAyil|Hiyl|
 
  * בבית 6: 
 
 |בְּבֵית 6|
 |-|
 |בְּבֵית 6|
-|bEvEyEtE|
+|bsvvEyt|
 
  * עד־מאד 6: 
 
 |עַד־מְאֹד 6|
 |-|
 |עַד־מְאֹד 6|
-|ɣEdE־EmE'EdE|
+|ɣad־msv'od|
 
  * יראו 6: 
 
 |יִרְאוּ 4|יָרְאוּ 1|יְראוּ 1|
 |-|-|-|
 |יִרְאוּ 4|יָרְאוּ 1|יְראוּ 1|
-|yErE'EuE|yErE'EuE|yErE'EuE|
+|yirsv'u|yArsv'u|ysvr'u|
 
  * בלילה 6: 
 
 |בַלַּיְלָה 2|בַלָּיְלָה 1|בַּלָּיְלָה 3|
 |-|-|-|
 |בַלַיְלָה 2|בַלָיְלָה 1|בַּלָיְלָה 3|
-|vElEyElEhE|vElEyElEhE|bElEyElEhE|
+|valaysvlAh|valAysvlAh|balAysvlAh|
 
  * מחסי 6: 
 
 |מַחְסִי 6|
 |-|
 |מַחְסִי 6|
-|mEHEsEyE|
+|maHsvsiy|
 
  * על־יהוה 6: 
 
 |עַל־יְהוָה 6|
 |-|
 |עַל־יְהוָה 6|
-|ɣElE־EyEhEwEhE|
+|ɣal־ysvhwAh|
 
  * בה 6: 
 
 |בָּהּ 3|בָהּ 3|
 |-|-|
 |בָּה 3|בָה 3|
-|bEhE|vEhE|
+|bAh|vAh|
 
  * כל־גוים 6: 
 
 |כָּל־גּוֹיִם 6|
 |-|
 |כָּל־גוֹֹיִם 6|
-|kElE־EgEwEyEmE|
+|kAl־gwoyim|
 
  * ישמע 6: 
 
 |יִשְׁמָע 1|יִשְׁמַע 5|
 |-|-|
 |יִשְׁמָע 1|יִשְׁמַע 5|
-|yEšEmEɣE|yEšEmEɣE|
+|yišsvmAɣ|yišsvmaɣ|
 
  * נפשו 6: 
 
 |נַפְשׁוֹ 6|
 |-|
 |נַפְשׁוֹֹ 6|
-|nEfEšEwE|
+|nafsvšwo|
 
  * ישמחו 6: 
 
 |יִשְׂמָחוּ 1|יְשַׂמְּחוּ 1|יִשְׂמְחוּ 4|
 |-|-|-|
 |יִשְׂמָחוּ 1|יְשַׂמְחוּ 1|יִשְׂמְחוּ 4|
-|yESEmEHEuE|yESEmEHEuE|yESEmEHEuE|
+|yiSsvmAHu|ysvSamsvHu|yiSsvmsvHu|
 
  * לבו 6: 
 
 |לִבּוֹ 6|
 |-|
 |לִבּוֹֹ 6|
-|lEbEwE|
+|libwo|
 
  * נתתה 6: 
 
 |נָתַתָּה 6|
 |-|
 |נָתַתָה 6|
-|nEtEtEhE|
+|nAtatAh|
 
  * רחמיך 6: 
 
 |רַחֲמֶיךָ 6|
 |-|
 |רַחֲמֶיךָ 6|
-|rEHEmEyExE|
+|raHameyxA|
 
  * הבינני 6: 
 
 |הֲבִינֵנִי 6|
 |-|
 |הֲבִינֵנִי 6|
-|hEvEyEnEnEyE|
+|haviynEniy|
 
  * מכתם 6: 
 
 |מִכְתָּם 6|
 |-|
 |מִכְתָם 6|
-|mExEtEmE|
+|mixsvtAm|
 
  * סבבוני 6: 
 
 |סְבָבוּנִי 5|סבבוני 1|
 |-|-|
 |סְבָבוּנִי 5|סבבוני 1|
-|sEvEvEuEnEyE|sEvEvEwEnEyE|
+|ssvvAvuniy|svvwny|
 
  * לשון 6: 
 
 |לָשׁוֹן 3|לְשׁוֹן 3|
 |-|-|
 |לָשׁוֹֹן 3|לְשׁוֹֹן 3|
-|lEšEwEnE|lEšEwEnE|
+|lAšwon|lsvšwon|
 
  * עברו 6: 
 
 |עָבָרוּ 1|עָבְרוּ 5|
 |-|-|
 |עָבָרוּ 1|עָבְרוּ 5|
-|ɣEvErEuE|ɣEvErEuE|
+|ɣAvAru|ɣAvsvru|
 
  * אליו 6: 
 
 |אֵלָיו 6|
 |-|
 |אֵלָיו 6|
-|'ElEyEwE|
+|'ElAyw|
 
  * לשמר 6: 
 
 |לִשְׁמֹר 6|
 |-|
 |לִשְׁמֹר 6|
-|lEšEmErE|
+|lišsvmor|
 
  * ראה 6: 
 
 |רָאָה 2|רְאֵה 4|
 |-|-|
 |רָאָה 2|רְאֵה 4|
-|rE'EhE|rE'EhE|
+|rA'Ah|rsv'Eh|
 
  * ראו 6: 
 
 |רָאוּ 6|
 |-|
 |רָאוּ 6|
-|rE'EuE|
+|rA'u|
 
  * ועל 6: 
 
 |וְעַל 6|
 |-|
 |וְעַל 6|
-|wEɣElE|
+|wsvɣal|
 
  * כדברך 6: 
 
 |כִדְבָרֶךָ 1|כִּדְבָרְךָ 1|כִּדְבָרֶךָ 4|
 |-|-|-|
 |כִדְבָרֶךָ 1|כִּדְבָרְךָ 1|כִּדְבָרֶךָ 4|
-|xEdEvErExE|kEdEvErExE|kEdEvErExE|
+|xidsvvArexA|kidsvvArsvxA|kidsvvArexA|
 
  * הריעו 6: 
 
 |הָרִיעוּ 6|
 |-|
 |הָרִיעוּ 6|
-|hErEyEɣEuE|
+|hAriyɣu|
 
  * לדור 6: 
 
 |לַדּוֹר 1|לְדוֹר 5|
 |-|-|
 |לַדוֹֹר 1|לְדוֹֹר 5|
-|lEdEwErE|lEdEwErE|
+|ladwor|lsvdwor|
 
  * וראה 6: 
 
 |וּרְאֵה 6|
 |-|
 |וּרְאֵה 6|
-|uErE'EhE|
+|ursv'Eh|
 
  * לעמו 6: 
 
 |לְעַמּוֹ 6|
 |-|
 |לְעַמוֹֹ 6|
-|lEɣEmEwE|
+|lsvɣamwo|
 
  * וייראו 6: 
 
 |וְיִירְאוּ 2|וְיִירָאוּ 2|וַיִּירְאוּ 2|
 |-|-|-|
 |וְיִירְאוּ 2|וְיִירָאוּ 2|וַיִירְאוּ 2|
-|wEyEyErE'EuE|wEyEyErE'EuE|wEyEyErE'EuE|
+|wsvyiyrsv'u|wsvyiyrA'u|wayiyrsv'u|
 
  * אשא 6: 
 
 |אֶשָּׂא 6|
 |-|
 |אֶשָׂא 6|
-|'ESE'E|
+|'eSA'|
 
  * ישובו 6: 
 
 |יָשׁוּבוּ 6|
 |-|
 |יָשׁוּבוּ 6|
-|yEšEuEvEuE|
+|yAšuvu|
 
  * נפשנו 6: 
 
 |נַפְשֵׁנוּ 6|
 |-|
 |נַפְשֵׁנוּ 6|
-|nEfEšEnEuE|
+|nafsvšEnu|
 
  * מעשיך 6: 
 
 |מַעֲשֶׂיךָ 6|
 |-|
 |מַעֲשֶׂיךָ 6|
-|mEɣESEyExE|
+|maɣaSeyxA|
 
  * לבם 6: 
 
 |לִבָּם 6|
 |-|
 |לִבָּם 6|
-|lEbEmE|
+|libAm|
 
  * קדוש 6: 
 
 |קְדוֹשׁ 2|קָדוֹשׁ 4|
 |-|-|
 |קְדוֹֹשׁ 2|קָדוֹֹשׁ 4|
-|qEdEwEšE|qEdEwEšE|
+|qsvdwoš|qAdwoš|
 
  * בציון 6: 
 
 |בְצִיּוֹן 1|בְּצִיּוֹן 5|
 |-|-|
 |בְצִיוֹֹן 1|בְּצִיוֹֹן 5|
-|vEcEyEwEnE|bEcEyEwEnE|
+|vsvciywon|bsvciywon|
 
  * בשמך 6: 
 
 |בְּשִׁמְךָ 6|
 |-|
 |בְּשִׁמְךָ 6|
-|bEšEmExE|
+|bsvšimsvxA|
 
  * לנגד 6: 
 
 |לְנֶגֶד 6|
 |-|
 |לְנֶגֶד 6|
-|lEnEgEdE|
+|lsvneged|
 
  * צוה 6: 
 
 |צַוֵּה 1|צִוָּה 5|
 |-|-|
 |צַוֵּה 1|צִוָּה 5|
-|cEuEhE|cEuEhE|
+|cauEh|ciuAh|
 
  * עון 6: 
 
 |עֲוֺן 4|עָוֺן 2|
 |-|-|
 |עֲוֺן 4|עָוֺן 2|
-|ɣEwEnE|ɣEwEnE|
+|ɣaw_o_n|ɣAw_o_n|
 
  * כמעט 6: 
 
 |כִּמְעַט 6|
 |-|
 |כִּמְעַט 6|
-|kEmEɣETE|
+|kimsvɣaT|
 
  * אמי 6: 
 
 |אִמִּי 6|
 |-|
 |אִמִי 6|
-|'EmEyE|
+|'imiy|
 
  * אף 6: 
 
 |אַף 6|
 |-|
 |אַף 6|
-|'EfE|
+|'af|
 
  * רוחי 6: 
 
 |רוּחִי 6|
 |-|
 |רוּחִי 6|
-|rEuEHEyE|
+|ruHiy|
 
  * וחנני 6: 
 
 |וְחָנֵּנִי 6|
 |-|
 |וְחָנֵנִי 6|
-|wEHEnEnEyE|
+|wsvHAnEniy|
 
  * בצר 6: 
 
 |בַּצָּר 1|בַּצַּר 5|
 |-|-|
 |בַּצָר 1|בַּצַר 5|
-|bEcErE|bEcErE|
+|bacAr|bacar|
 
  * אביון 6: 
 
 |אֶבְיוֹן 6|
 |-|
 |אֶבְיוֹֹן 6|
-|'EvEyEwEnE|
+|'evsvywon|
 
  * זו 6: 
 
 |זוּ 5|זוֹ 1|
 |-|-|
 |זוּ 5|זוֹֹ 1|
-|zEuE|zEwE|
+|zu|zwo|
 
  * אל־תרחק 5: 
 
 |אַל־תִּרְחַק 3|אַל־תִּרְחָק 1|אֲל־תִּרְחַק 1|
 |-|-|-|
 |אַל־תִרְחַק 3|אַל־תִרְחָק 1|אֲל־תִרְחַק 1|
-|'ElE־EtErEHEqE|'ElE־EtErEHEqE|'ElE־EtErEHEqE|
+|'al־tirsvHaq|'al־tirsvHAq|'al־tirsvHaq|
 
  * אור 5: 
 
 |אוֹר 5|
 |-|
 |אוֹֹר 5|
-|'EwErE|
+|'wor|
 
  * לשונם 5: 
 
 |לְשׁוֹנָם 5|
 |-|
 |לְשׁוֹֹנָם 5|
-|lEšEwEnEmE|
+|lsvšwonAm|
 
  * רבה 5: 
 
 |רַבָּה 5|
 |-|
 |רַבָּה 5|
-|rEbEhE|
+|rabAh|
 
  * אל־אלהים 5: 
 
 |אֶל־אֱלֹהִים 5|
 |-|
 |אֶל־אֱלֹהִים 5|
-|'ElE־E'ElEhEyEmE|
+|'el־'elohiym|
 
  * בכל־עת 5: 
 
 |בְכָל־עֵת 3|בְּכָל־עֵת 2|
 |-|-|
 |בְכָל־עֵת 3|בְּכָל־עֵת 2|
-|vExElE־EɣEtE|bExElE־EɣEtE|
+|vsvxAl־ɣEt|bsvxAl־ɣEt|
 
  * תאבד 5: 
 
 |תֹּאבֵד 2|תֹּאבַד 1|תְּאַבֵּד 2|
 |-|-|-|
 |תֹאבֵד 2|תֹאבַד 1|תְאַבֵּד 2|
-|tE'EvEdE|tE'EvEdE|tE'EbEdE|
+|to'vEd|to'vad|tsv'abEd|
 
  * ואמר 5: 
 
 |וְאָמַר 1|וָאֹמַר 4|
 |-|-|
 |וְאָמַר 1|וָאֹמַר 4|
-|wE'EmErE|wE'EmErE|
+|wsv'Amar|wA'omar|
 
  * עמנו 5: 
 
 |עִמָּנוּ 5|
 |-|
 |עִמָנוּ 5|
-|ɣEmEnEuE|
+|ɣimAnu|
 
  * נפלו 5: 
 
 |נָפְלוּ 4|נָפָלוּ 1|
 |-|-|
 |נָפְלוּ 4|נָפָלוּ 1|
-|nEfElEuE|nEfElEuE|
+|nAfsvlu|nAfAlu|
 
  * בניך 5: 
 
 |בָּנֶיךָ 2|בָּנַיִךְ 1|בָנֶיךָ 2|
 |-|-|-|
 |בָּנֶיךָ 2|בָּנַיִךְ 1|בָנֶיךָ 2|
-|bEnEyExE|bEnEyExE|vEnEyExE|
+|bAneyxA|bAnayixsv|vAneyxA|
 
  * ואלהי 5: 
 
 |וֵאלֹהַי 1|וֵאלֹהָי 4|
 |-|-|
 |וֵאלֹהַי 1|וֵאלֹהָי 4|
-|wE'ElEhEyE|wE'ElEhEyE|
+|wE'lohay|wE'lohAy|
 
  * בור 5: 
 
 |בּוֹר 1|בוֹר 4|
 |-|-|
 |בּוֹֹר 1|בוֹֹר 4|
-|bEwErE|vEwErE|
+|bwor|vwor|
 
  * עולה 5: 
 
 |עַוְלָה 2|עוֹלָה 3|
 |-|-|
 |עַוְלָה 2|עוֹֹלָה 3|
-|ɣEwElEhE|ɣEwElEhE|
+|ɣawsvlAh|ɣwolAh|
 
  * רבת 5: 
 
 |רַבַּת 5|
 |-|
 |רַבַּת 5|
-|rEbEtE|
+|rabat|
 
  * ויאמר 5: 
 
 |וְיֹאמַר 1|וַיֹּאמֶר 3|וַיֹּאמַר 1|
 |-|-|-|
 |וְיֹאמַר 1|וַיֹאמֶר 3|וַיֹאמַר 1|
-|wEyE'EmErE|wEyE'EmErE|wEyE'EmErE|
+|wsvyo'mar|wayo'mer|wayo'mar|
 
  * ים 5: 
 
 |יָם 5|
 |-|
 |יָם 5|
-|yEmE|
+|yAm|
 
  * צרה 5: 
 
 |צָרָה 5|
 |-|
 |צָרָה 5|
-|cErEhE|
+|cArAh|
 
  * עורה 5: 
 
 |עוּרָה 5|
 |-|
 |עוּרָה 5|
-|ɣEuErEhE|
+|ɣurAh|
 
  * בבקר 5: 
 
 |בַבֹּקֶר 2|בַּבֹּקֶר 3|
 |-|-|
 |בַבֹּקֶר 2|בַּבֹּקֶר 3|
-|vEbEqErE|bEbEqErE|
+|vaboqer|baboqer|
 
  * את־פניך 5: 
 
 |אֶת־פָּנֶיךָ 5|
 |-|
 |אֶת־פָּנֶיךָ 5|
-|'EtE־EpEnEyExE|
+|'et־pAneyxA|
 
  * עלה 5: 
 
 |עָלָה 4|עֹלֶה 1|
 |-|-|
 |עָלָה 4|עֹלֶה 1|
-|ɣElEhE|ɣElEhE|
+|ɣAlAh|ɣoleh|
 
  * אל־תחרש 5: 
 
 |אַל־תֶּחֱרַשׁ 5|
 |-|
 |אַל־תֶחֱרַשׁ 5|
-|'ElE־EtEHErEšE|
+|'al־teHeraš|
 
  * הכבוד 5: 
 
 |הַכָּבוֹד 5|
 |-|
 |הַכָּבוֹֹד 5|
-|hEkEvEwEdE|
+|hakAvwod|
 
  * אספרה 5: 
 
 |אֲסַפְּרָה 5|
 |-|
 |אֲסַפְּרָה 5|
-|'EsEpErEhE|
+|'asapsvrAh|
 
  * צרי 5: 
 
 |צָרַי 2|צָרָי 3|
 |-|-|
 |צָרַי 2|צָרָי 3|
-|cErEyE|cErEyE|
+|cAray|cArAy|
 
  * במשפט 5: 
 
 |בְמִשְׁפָּט 2|בַּמִּשְׁפָּט 2|בְּמִשְׁפָּט 1|
 |-|-|-|
 |בְמִשְׁפָּט 2|בַּמִשְׁפָּט 2|בְּמִשְׁפָּט 1|
-|vEmEšEpETE|bEmEšEpETE|bEmEšEpETE|
+|vsvmišsvpAT|bamišsvpAT|bsvmišsvpAT|
 
  * לכן 5: 
 
 |לָכֵן 5|
 |-|
 |לָכֵן 5|
-|lExEnE|
+|lAxEn|
 
  * לבבכם 5: 
 
 |לְבַבְכֶם 5|
 |-|
 |לְבַבְכֶם 5|
-|lEvEvExEmE|
+|lsvvavsvxem|
 
  * דמים 5: 
 
 |דָּמִים 1|דָמִים 4|
 |-|-|
 |דָמִים 1|דָמִים 4|
-|dEmEyEmE|dEmEyEmE|
+|dAmiym|dAmiym|
 
  * נחלה 5: 
 
 |נַחְלָה 1|נַחֲלָה 4|
 |-|-|
 |נַחְלָה 1|נַחֲלָה 4|
-|nEHElEhE|nEHElEhE|
+|naHsvlAh|naHalAh|
 
  * בקרבי 5: 
 
 |בְּקִרְבִּי 5|
 |-|
 |בְּקִרְבִּי 5|
-|bEqErEbEyE|
+|bsvqirsvbiy|
 
  * קראו 5: 
 
 |קָרָאוּ 3|קִרְאוּ 1|קָרְאוּ 1|
 |-|-|-|
 |קָרָאוּ 3|קִרְאוּ 1|קָרְאוּ 1|
-|qErE'EuE|qErE'EuE|qErE'EuE|
+|qArA'u|qirsv'u|qArsv'u|
 
  * חסדי 5: 
 
 |חַסְדֵי 2|חַסְדִּי 3|
 |-|-|
 |חַסְדֵי 2|חַסְדִי 3|
-|HEsEdEyE|HEsEdEyE|
+|HassvdEy|Hassvdiy|
 
  * ישוב 5: 
 
 |יָשׁוּב 4|ישוב 1|
 |-|-|
 |יָשׁוּב 4|ישוב 1|
-|yEšEuEvE|yEשEwEvE|
+|yAšuv|yשwv|
 
  * פרי 5: 
 
 |פְּרִי 5|
 |-|
 |פְּרִי 5|
-|pErEyE|
+|psvriy|
 
  * דברך 5: 
 
 |דְּבָרֶךָ 2|דְבָרֶךָ 2|דְּבָרְךָ 1|
 |-|-|-|
 |דְבָרֶךָ 2|דְבָרֶךָ 2|דְבָרְךָ 1|
-|dEvErExE|dEvErExE|dEvErExE|
+|dsvvArexA|dsvvArexA|dsvvArsvxA|
 
  * ידין 5: 
 
 |יָדִין 5|
 |-|
 |יָדִין 5|
-|yEdEyEnE|
+|yAdiyn|
 
  * יחלתי 5: 
 
 |יִחָלְתִּי 5|
 |-|
 |יִחָלְתִי 5|
-|yEHElEtEyE|
+|yiHAlsvtiy|
 
  * עד 5: 
 
 |עַד 5|
 |-|
 |עַד 5|
-|ɣEdE|
+|ɣad|
 
  * באו 5: 
 
 |בָּאוּ 1|בֹּאוּ 3|בָאוּ 1|
 |-|-|-|
 |בָּאוּ 1|בֹּאוּ 3|בָאוּ 1|
-|bE'EuE|bE'EuE|vE'EuE|
+|bA'u|bo'u|vA'u|
 
  * בעיר 5: 
 
 |בְּעִיר 3|בָּעִיר 2|
 |-|-|
 |בְּעִיר 3|בָּעִיר 2|
-|bEɣEyErE|bEɣEyErE|
+|bsvɣiyr|bAɣiyr|
 
  * קראתיך 5: 
 
 |קְרָאתִיךָ 5|
 |-|
 |קְרָאתִיךָ 5|
-|qErE'EtEyExE|
+|qsvrA'tiyxA|
 
  * זבח 5: 
 
 |זֹבֵחַ 1|זְבַח 1|זֶבַח 3|
 |-|-|-|
 |זֹבֵחַ 1|זְבַח 1|זֶבַח 3|
-|zEvEHE|zEvEHE|zEvEHE|
+|zovEHa|zsvvaH|zevaH|
 
  * ערב 5: 
 
 |עֶרֶב 1|עָרֹב 2|עֲרֹב 1|עֹרֵב 1|
 |-|-|-|-|
 |עֶרֶב 1|עָרֹב 2|עֲרֹב 1|עֹרֵב 1|
-|ɣErEvE|ɣErEvE|ɣErEvE|ɣErEvE|
+|ɣerev|ɣArov|ɣarov|ɣorEv|
 
  * עד־אנה 5: 
 
 |עַד־אָנָה 5|
 |-|
 |עַד־אָנָה 5|
-|ɣEdE־E'EnEhE|
+|ɣad־'AnAh|
 
  * אבוא 5: 
 
 |אָבוֹא 5|
 |-|
 |אָבוֹֹא 5|
-|'EvEwE'E|
+|'Avwo'|
 
  * הקשיבה 5: 
 
 |הַקְשִׁיבָה 5|
 |-|
 |הַקְשִׁיבָה 5|
-|hEqEšEyEvEhE|
+|haqsvšiyvAh|
 
  * נשא 5: 
 
 |נֹשֵׂא 3|נָשֻׂא 1|נְשָׂא 1|
 |-|-|-|
 |נֹשֵׂא 3|נָשֻׂא 1|נְשָׂא 1|
-|nESE'E|nESE'E|nESE'E|
+|noSE'|nASu'|nsvSA'|
 
  * ארך 5: 
 
 |אֶרֶךְ 3|אֹרֶךְ 2|
 |-|-|
 |אֶרֶךְ 3|אֹרֶךְ 2|
-|'ErExE|'ErExE|
+|'erexsv|'orexsv|
 
  * היא 5: 
 
 |הִיא 4|היא 1|
 |-|-|
 |הִיא 4|היא 1|
-|hEyE'E|hEyE'E|
+|hiy'|hy'|
 
  * ויחפרו 5: 
 
 |וְיַחְפְּרוּ 5|
 |-|
 |וְיַחְפְּרוּ 5|
-|wEyEHEpErEuE|
+|wsvyaHsvpsvru|
 
  * גבור 5: 
 
 |גִבּוֹר 1|גִּבּוֹר 4|
 |-|-|
 |גִבּוֹֹר 1|גִבּוֹֹר 4|
-|gEbEwErE|gEbEwErE|
+|gibwor|gibwor|
 
  * תהלתך 5: 
 
 |תְּהִלָּתְךָ 1|תְּהִלָּתֶךָ 4|
 |-|-|
 |תְהִלָתְךָ 1|תְהִלָתֶךָ 4|
-|tEhElEtExE|tEhElEtExE|
+|tsvhilAtsvxA|tsvhilAtexA|
 
  * תנחני 5: 
 
 |תַּנְחֵנִי 2|תַנְחֵנִי 3|
 |-|-|
 |תַנְחֵנִי 2|תַנְחֵנִי 3|
-|tEnEHEnEyE|tEnEHEnEyE|
+|tansvHEniy|tansvHEniy|
 
  * איביך 5: 
 
 |אֹיְבֶיךָ 5|
 |-|
 |אֹיְבֶיךָ 5|
-|'EyEvEyExE|
+|'oysvveyxA|
 
  * בקדש 5: 
 
 |בַּקֹּדֶשׁ 4|בַקֹּדֶשׁ 1|
 |-|-|
 |בַּקֹדֶשׁ 4|בַקֹדֶשׁ 1|
-|bEqEdEšE|vEqEdEšE|
+|baqodeš|vaqodeš|
 
  * כאמרתך 5: 
 
 |כְּאִמְרָתְךָ 2|כְאִמְרָתְךָ 1|כְּאִמְרָתֶךָ 2|
 |-|-|-|
 |כְּאִמְרָתְךָ 2|כְאִמְרָתְךָ 1|כְּאִמְרָתֶךָ 2|
-|kE'EmErEtExE|xE'EmErEtExE|kE'EmErEtExE|
+|ksv'imsvrAtsvxA|xsv'imsvrAtsvxA|ksv'imsvrAtexA|
 
  * נפש 5: 
 
 |נָפֶשׁ 1|נֶפֶשׁ 4|
 |-|-|
 |נָפֶשׁ 1|נֶפֶשׁ 4|
-|nEfEšE|nEfEšE|
+|nAfeš|nefeš|
 
  * בם 5: 
 
 |בָם 4|בָּם 1|
 |-|-|
 |בָם 4|בָּם 1|
-|vEmE|bEmE|
+|vAm|bAm|
 
  * עצמו 5: 
 
 |עָצֵמוּ 1|עָצְמוּ 4|
 |-|-|
 |עָצֵמוּ 1|עָצְמוּ 4|
-|ɣEcEmEuE|ɣEcEmEuE|
+|ɣAcEmu|ɣAcsvmu|
 
  * חשך 5: 
 
 |חֲשֹׂךְ 1|חֹשֶׁךְ 4|
 |-|-|
 |חֲשֹׂךְ 1|חֹשֶׁךְ 4|
-|HESExE|HEšExE|
+|HaSoxsv|Hošexsv|
 
  * ויבא 5: 
 
 |וַיָּבֵא 1|וְיָבֹא 1|וַיָּבֹא 3|
 |-|-|-|
 |וַיָבֵא 1|וְיָבֹא 1|וַיָבֹא 3|
-|wEyEvE'E|wEyEvE'E|wEyEvE'E|
+|wayAvE'|wsvyAvo'|wayAvo'|
 
  * בעמים 5: 
 
 |בָעַמִּים 5|
 |-|
 |בָעַמִים 5|
-|vEɣEmEyEmE|
+|vAɣamiym|
 
  * יהללו 5: 
 
 |יְהַלְלוּ 5|
 |-|
 |יְהַלְלוּ 5|
-|yEhElElEuE|
+|ysvhalsvlu|
 
  * לולי 5: 
 
 |לוּלֵי 5|
 |-|
 |לוּלֵי 5|
-|lEuElEyE|
+|lulEy|
 
  * בקהל 5: 
 
 |בִּקְהַל 2|בְּקָהָל 3|
 |-|-|
 |בִּקְהַל 2|בְּקָהָל 3|
-|bEqEhElE|bEqEhElE|
+|biqsvhal|bsvqAhAl|
 
  * נפלאות 5: 
 
 |נִפְלָאוֹת 5|
 |-|
 |נִפְלָאוֹֹת 5|
-|nEfElE'EwEtE|
+|nifsvlA'wot|
 
  * נדרי 5: 
 
 |נְדָרַי 4|נְדָרָי 1|
 |-|-|
 |נְדָרַי 4|נְדָרָי 1|
-|nEdErEyE|nEdErEyE|
+|nsvdAray|nsvdArAy|
 
  * מות 5: 
 
 |מָוֶת 5|
 |-|
 |מָוֶת 5|
-|mEwEtE|
+|mAwet|
 
  * נגדך 5: 
 
 |נֶגְדֶּךָ 3|נֶגְדְּךָ 2|
 |-|-|
 |נֶגְדֶךָ 3|נֶגְדְךָ 2|
-|nEgEdExE|nEgEdExE|
+|negsvdexA|negsvdsvxA|
 
  * וצדקתך 5: 
 
 |וְצִדְקָתְךָ 5|
 |-|
 |וְצִדְקָתְךָ 5|
-|wEcEdEqEtExE|
+|wsvcidsvqAtsvxA|
 
  * עד־עולם 5: 
 
 |עַד־עוֹלָם 5|
 |-|
 |עַד־עוֹֹלָם 5|
-|ɣEdE־EɣEwElEmE|
+|ɣad־ɣwolAm|
 
  * ועם 5: 
 
 |וְעַם 2|וְעִם 3|
 |-|-|
 |וְעַם 2|וְעִם 3|
-|wEɣEmE|wEɣEmE|
+|wsvɣam|wsvɣim|
 
  * ליראיו 5: 
 
 |לִירֵאָיו 5|
 |-|
 |לִירֵאָיו 5|
-|lEyErE'EyEwE|
+|liyrE'Ayw|
 
  * שעשעי 5: 
 
 |שַׁעֲשֻׁעָי 5|
 |-|
 |שַׁעֲשֻׁעָי 5|
-|šEɣEšEɣEyE|
+|šaɣašuɣAy|
 
  * אהבי 5: 
 
 |אֹהֲבֵי 4|אֹהֲבַי 1|
 |-|-|
 |אֹהֲבֵי 4|אֹהֲבַי 1|
-|'EhEvEyE|'EhEvEyE|
+|'ohavEy|'ohavay|
 
  * שמחה 5: 
 
 |שִׂמְחָה 4|שְׂמֵחָה 1|
 |-|-|
 |שִׂמְחָה 4|שְׂמֵחָה 1|
-|SEmEHEhE|SEmEHEhE|
+|SimsvHAh|SsvmEHAh|
 
  * בפיהם 5: 
 
 |בְּפִיהֶם 5|
 |-|
 |בְּפִיהֶם 5|
-|bEfEyEhEmE|
+|bsvfiyhem|
 
  * כלה 5: 
 
 |כֻלָּהּ 1|כַּלֵּה 2|כַלֵּה 1|כָּלָה 1|
 |-|-|-|-|
 |כֻלָה 1|כַּלֵה 2|כַלֵה 1|כָּלָה 1|
-|xElEhE|kElEhE|xElEhE|kElEhE|
+|xulAh|kalEh|xalEh|kAlAh|
 
  * אשלם 5: 
 
 |אֲשַׁלֵּם 5|
 |-|
 |אֲשַׁלֵם 5|
-|'EšElEmE|
+|'ašalEm|
 
  * ישועות 5: 
 
 |יְשׁוּעוֹת 5|
 |-|
 |יְשׁוּעוֹֹת 5|
-|yEšEuEɣEwEtE|
+|ysvšuɣwot|
 
  * הגבר 5: 
 
 |הַגֶּבֶר 5|
 |-|
 |הַגֶבֶר 5|
-|hEgEvErE|
+|hagever|
 
  * חושה 5: 
 
 |חוּשָׁה 5|
 |-|
 |חוּשָׁה 5|
-|HEuEšEhE|
+|HušAh|
 
  * ביעקב 5: 
 
 |בְּיַעֲקֹב 4|בְיַעֲקֹב 1|
 |-|-|
 |בְּיַעֲקֹב 4|בְיַעֲקֹב 1|
-|bEyEɣEqEvE|vEyEɣEqEvE|
+|bsvyaɣaqov|vsvyaɣaqov|
 
  * עיניו 5: 
 
 |עֵינָיו 5|
 |-|
 |עֵינָיו 5|
-|ɣEyEnEyEwE|
+|ɣEynAyw|
 
  * חנם 5: 
 
 |חִנָּם 5|
 |-|
 |חִנָם 5|
-|HEnEmE|
+|HinAm|
 
  * ימינו 5: 
 
 |יְמִינוֹ 4|יָמֵינוּ 1|
 |-|-|
 |יְמִינוֹֹ 4|יָמֵינוּ 1|
-|yEmEyEnEwE|yEmEyEnEuE|
+|ysvmiynwo|yAmEynu|
 
  * ברב 5: 
 
 |בְּרֹב 5|
 |-|
 |בְּרֹב 5|
-|bErEvE|
+|bsvrov|
 
  * בישועתך 5: 
 
 |בִּישׁוּעָתֶךָ 5|
 |-|
 |בִּישׁוּעָתֶךָ 5|
-|bEyEšEuEɣEtExE|
+|biyšuɣAtexA|
 
  * כפי 5: 
 
 |כַּפַּי 1|כַפָּי 2|כַּפָּי 2|
 |-|-|-|
 |כַּפַּי 1|כַפָּי 2|כַּפָּי 2|
-|kEpEyE|xEpEyE|kEpEyE|
+|kapay|xapAy|kapAy|
 
  * מעתה 5: 
 
 |מֵעַתָּה 5|
 |-|
 |מֵעַתָה 5|
-|mEɣEtEhE|
+|mEɣatAh|
 
  * שנאי 5: 
 
 |שֹׂנְאַי 4|שֹׂנְאֵי 1|
 |-|-|
 |שֹׂנְאַי 4|שֹׂנְאֵי 1|
-|SEnE'EyE|SEnE'EyE|
+|Sonsv'ay|Sonsv'Ey|
 
  * המלך 5: 
 
 |הַמֶּלֶךְ 5|
 |-|
 |הַמֶלֶךְ 5|
-|hEmElExE|
+|hamelexsv|
 
  * פעלי 5: 
 
 |פֹּעֲלֵי 4|פָעֳלִי 1|
 |-|-|
 |פֹּעֲלֵי 4|פָעֳלִי 1|
-|pEɣElEyE|fEɣElEyE|
+|poɣalEy|fAɣAliy|
 
  * תודה 5: 
 
 |תּוֹדָה 4|תוֹדָה 1|
 |-|-|
 |תוֹֹדָה 4|תוֹֹדָה 1|
-|tEwEdEhE|tEwEdEhE|
+|twodAh|twodAh|
 
  * לעזרתי 5: 
 
 |לְעֶזְרָתִי 5|
 |-|
 |לְעֶזְרָתִי 5|
-|lEɣEzErEtEyE|
+|lsvɣezsvrAtiy|
 
  * ומצודתי 5: 
 
 |וּמְצוּדָתִי 5|
 |-|
 |וּמְצוּדָתִי 5|
-|uEmEcEuEdEtEyE|
+|umsvcudAtiy|
 
  * מלאה 5: 
 
 |מָלְאָה 5|
 |-|
 |מָלְאָה 5|
-|mElE'EhE|
+|mAlsv'Ah|
 
  * אלך 5: 
 
 |אֵלֵךְ 5|
 |-|
 |אֵלֵךְ 5|
-|'ElExE|
+|'ElExsv|
 
  * ישבו 5: 
 
 |יָשֻׁבוּ 1|יֵשְׁבוּ 2|יָשְׁבוּ 2|
 |-|-|-|
 |יָשֻׁבוּ 1|יֵשְׁבוּ 2|יָשְׁבוּ 2|
-|yEšEvEuE|yEšEvEuE|yEšEvEuE|
+|yAšuvu|yEšsvvu|yAšsvvu|
 
  * אם־לא 5: 
 
 |אִם־לֹא 5|
 |-|
 |אִם־לֹא 5|
-|'EmE־ElE'E|
+|'im־lo'|
 
  * אחר 5: 
 
 |אַחֵר 4|אַחַר 1|
 |-|-|
 |אַחֵר 4|אַחַר 1|
-|'EHErE|'EHErE|
+|'aHEr|'aHar|
 
  * מאיבי 5: 
 
 |מֵאֹיְבִי 1|מֵאֹיְבַי 3|מֵאֹיְבָי 1|
 |-|-|-|
 |מֵאֹיְבִי 1|מֵאֹיְבַי 3|מֵאֹיְבָי 1|
-|mE'EyEvEyE|mE'EyEvEyE|mE'EyEvEyE|
+|mE'oysvviy|mE'oysvvay|mE'oysvvAy|
 
  * גם 5: 
 
 |גַּם 5|
 |-|
 |גַם 5|
-|gEmE|
+|gam|
 
  * בכל־לב 5: 
 
 |בְּכָל־לֵב 2|בְכָל־לֵב 3|
 |-|-|
 |בְּכָל־לֵב 2|בְכָל־לֵב 3|
-|bExElE־ElEvE|vExElE־ElEvE|
+|bsvxAl־lEv|vsvxAl־lEv|
 
  * מגן 5: 
 
 |מָגֵן 5|
 |-|
 |מָגֵן 5|
-|mEgEnE|
+|mAgEn|
 
  * בכל־הארץ 5: 
 
 |בְּכָל־הָאָרֶץ 5|
 |-|
 |בְּכָל־הָאָרֶץ 5|
-|bExElE־EhE'ErEcE|
+|bsvxAl־hA'Arec|
 
  * ידעו 5: 
 
 |יֵדְעוּ 2|יָדְעוּ 3|
 |-|-|
 |יֵדְעוּ 2|יָדְעוּ 3|
-|yEdEɣEuE|yEdEɣEuE|
+|yEdsvɣu|yAdsvɣu|
 
  * דוד 5: 
 
 |דָּוִד 3|דָוִד 2|
 |-|-|
 |דָוִד 3|דָוִד 2|
-|dEwEdE|dEwEdE|
+|dAwid|dAwid|
 
  * ברית 5: 
 
 |בְּרִית 4|בְרִית 1|
 |-|-|
 |בְּרִית 4|בְרִית 1|
-|bErEyEtE|vErEyEtE|
+|bsvriyt|vsvriyt|
 
  * עדותיך 5: 
 
 |עֵדְוֺתֶיךָ 5|
 |-|
 |עֵדְוֺתֶיךָ 5|
-|ɣEdEwEtEyExE|
+|ɣEdsvw_o_teyxA|
 
  * פיהם 5: 
 
 |פִּיהֶם 5|
 |-|
 |פִּיהֶם 5|
-|pEyEhEmE|
+|piyhem|
 
  * לבבי 5: 
 
 |לְבָבִי 5|
 |-|
 |לְבָבִי 5|
-|lEvEvEyE|
+|lsvvAviy|
 
  * שחת 4: 
 
 |שָׁחַת 2|שַׁחַת 2|
 |-|-|
 |שָׁחַת 2|שַׁחַת 2|
-|šEHEtE|šEHEtE|
+|šAHat|šaHat|
 
  * אחרון 4: 
 
 |אַחֲרוֹן 4|
 |-|
 |אַחֲרוֹֹן 4|
-|'EHErEwEnE|
+|'aHarwon|
 
  * כי־עוד 4: 
 
 |כִּי־עוֹד 4|
 |-|
 |כִּי־עוֹֹד 4|
-|kEyE־EɣEwEdE|
+|kiy־ɣwod|
 
  * ממלכות 4: 
 
 |מַמְלָכוֹת 2|מַמְלְכוֹת 2|
 |-|-|
 |מַמְלָכוֹֹת 2|מַמְלְכוֹֹת 2|
-|mEmElExEwEtE|mEmElExEwEtE|
+|mamsvlAxwot|mamsvlsvxwot|
 
  * מעולם 4: 
 
 |מֵעוֹלָם 4|
 |-|
 |מֵעוֹֹלָם 4|
-|mEɣEwElEmE|
+|mEɣwolAm|
 
  * שובה 4: 
 
 |שׁוּבָה 4|
 |-|
 |שׁוּבָה 4|
-|šEuEvEhE|
+|šuvAh|
 
  * הגוים 4: 
 
 |הַגּוֹיִם 4|
 |-|
 |הַגוֹֹיִם 4|
-|hEgEwEyEmE|
+|hagwoyim|
 
  * רגליו 4: 
 
 |רגליו 1|רַגְלָיו 3|
 |-|-|
 |רגליו 1|רַגְלָיו 3|
-|rEgElEyEwE|rEgElEyEwE|
+|rglyw|ragsvlAyw|
 
  * בל־תמוט 4: 
 
 |בַּל־תִּמּוֹט 4|
 |-|
 |בַּל־תִמוֹֹט 4|
-|bElE־EtEmEwETE|
+|bal־timwoT|
 
  * רומה 4: 
 
 |רוּמָה 4|
 |-|
 |רוּמָה 4|
-|rEuEmEhE|
+|rumAh|
 
  * כנפיך 4: 
 
 |כְּנָפֶיךָ 4|
 |-|
 |כְּנָפֶיךָ 4|
-|kEnEfEyExE|
+|ksvnAfeyxA|
 
  * דבקה 4: 
 
 |דָּבְקָה 4|
 |-|
 |דָבְקָה 4|
-|dEvEqEhE|
+|dAvsvqAh|
 
  * אל־תשחת 4: 
 
 |אַל־תַּשְׁחֵת 4|
 |-|
 |אַל־תַשְׁחֵת 4|
-|'ElE־EtEšEHEtE|
+|'al־tašsvHEt|
 
  * ואיבי 4: 
 
 |וְאֹיְבֵי 1|וְאֹיְבַי 3|
 |-|-|
 |וְאֹיְבֵי 1|וְאֹיְבַי 3|
-|wE'EyEvEyE|wE'EyEvEyE|
+|wsv'oysvvEy|wsv'oysvvay|
 
  * ומעשה 4: 
 
 |וּמַעֲשֵׂה 4|
 |-|
 |וּמַעֲשֵׂה 4|
-|uEmEɣESEhE|
+|umaɣaSEh|
 
  * רבות 4: 
 
 |רַבּוֹת 4|
 |-|
 |רַבּוֹֹת 4|
-|rEbEwEtE|
+|rabwot|
 
  * עקב 4: 
 
 |עָקֵב 1|עֵקֶב 3|
 |-|-|
 |עָקֵב 1|עֵקֶב 3|
-|ɣEqEvE|ɣEqEvE|
+|ɣAqEv|ɣEqev|
 
  * לשוני 4: 
 
 |לְשׁוֹנִי 4|
 |-|
 |לְשׁוֹֹנִי 4|
-|lEšEwEnEyE|
+|lsvšwoniy|
 
  * פקדיך 4: 
 
 |פִקֻּדֶיךָ 3|פִּקֻּדֶיךָ 1|
 |-|-|
 |פִקֻדֶיךָ 3|פִּקֻדֶיךָ 1|
-|fEqEdEyExE|pEqEdEyExE|
+|fiqudeyxA|piqudeyxA|
 
  * שרים 4: 
 
 |שָׂרִים 3|שָׁרִים 1|
 |-|-|
 |שָׂרִים 3|שָׁרִים 1|
-|SErEyEmE|šErEyEmE|
+|SAriym|šAriym|
 
  * בדור 4: 
 
 |בְּדוֹר 4|
 |-|
 |בְּדוֹֹר 4|
-|bEdEwErE|
+|bsvdwor|
 
  * בישראל 4: 
 
 |בְּיִשְׂרָאֵל 3|בְיִשְׂרָאֵל 1|
 |-|-|
 |בְּיִשְׂרָאֵל 3|בְיִשְׂרָאֵל 1|
-|bEyESErE'ElE|vEyESErE'ElE|
+|bsvyiSsvrA'El|vsvyiSsvrA'El|
 
  * שנה 4: 
 
 |שֵׁנָה 1|שָׁנָה 3|
 |-|-|
 |שֵׁנָה 1|שָׁנָה 3|
-|šEnEhE|šEnEhE|
+|šEnAh|šAnAh|
 
  * נבל 4: 
 
 |נָבָל 4|
 |-|
 |נָבָל 4|
-|nEvElE|
+|nAvAl|
 
  * גמל 4: 
 
 |גְּמֹל 1|גָּמַל 2|גָמַל 1|
 |-|-|-|
 |גְמֹל 1|גָמַל 2|גָמַל 1|
-|gEmElE|gEmElE|gEmElE|
+|gsvmol|gAmal|gAmal|
 
  * דרשתי 4: 
 
 |דָּרַשְׁתִּי 1|דָּרָשְׁתִּי 1|דָרָשְׁתִּי 2|
 |-|-|-|
 |דָרַשְׁתִי 1|דָרָשְׁתִי 1|דָרָשְׁתִי 2|
-|dErEšEtEyE|dErEšEtEyE|dErEšEtEyE|
+|dArašsvtiy|dArAšsvtiy|dArAšsvtiy|
 
  * נפלאותיך 4: 
 
 |נִפְלְאוֹתֶיךָ 4|
 |-|
 |נִפְלְאוֹֹתֶיךָ 4|
-|nEfElE'EwEtEyExE|
+|nifsvlsv'woteyxA|
 
  * וענני 4: 
 
 |וַעֲנֵנִי 3|וְעָנָנִי 1|
 |-|-|
 |וַעֲנֵנִי 3|וְעָנָנִי 1|
-|wEɣEnEnEyE|wEɣEnEnEyE|
+|waɣanEniy|wsvɣAnAniy|
 
  * מאכל 4: 
 
 |מֵאֲכֹל 1|מַאֲכָל 3|
 |-|-|
 |מֵאֲכֹל 1|מַאֲכָל 3|
-|mE'ExElE|mE'ExElE|
+|mE'axol|ma'axAl|
 
  * ומפלטי 4: 
 
 |וּמְפַלְטִי 4|
 |-|
 |וּמְפַלְטִי 4|
-|uEmEfElETEyE|
+|umsvfalsvTiy|
 
  * יבאו 4: 
 
 |יָבֹאוּ 4|
 |-|
 |יָבֹאוּ 4|
-|yEvE'EuE|
+|yAvo'u|
 
  * חכמה 4: 
 
 |חָכְמָה 4|
 |-|
 |חָכְמָה 4|
-|HExEmEhE|
+|HAxsvmAh|
 
  * עשה־טוב 4: 
 
 |עֹשֵׂה־טוֹב 4|
 |-|
 |עֹשֵׂה־טוֹֹב 4|
-|ɣESEhE־ETEwEvE|
+|ɣoSEh־Twov|
 
  * שמרו 4: 
 
 |שָׁמְרוּ 2|שָׁמָרוּ 2|
 |-|-|
 |שָׁמְרוּ 2|שָׁמָרוּ 2|
-|šEmErEuE|šEmErEuE|
+|šAmsvru|šAmAru|
 
  * ישעי 4: 
 
 |יִשְׁעִי 4|
 |-|
 |יִשְׁעִי 4|
-|yEšEɣEyE|
+|yišsvɣiy|
 
  * טובה 4: 
 
 |טוֹבָה 4|
 |-|
 |טוֹֹבָה 4|
-|TEwEvEhE|
+|TwovAh|
 
  * שבט 4: 
 
 |שֵׁבֶט 4|
 |-|
 |שֵׁבֶט 4|
-|šEvETE|
+|šEveT|
 
  * אלהיו 4: 
 
 |אֱלֹהָיו 4|
 |-|
 |אֱלֹהָיו 4|
-|'ElEhEyEwE|
+|'elohAyw|
 
  * כחי 4: 
 
 |כֹּחִי 2|כֹחִי 2|
 |-|-|
 |כֹּחִי 2|כֹחִי 2|
-|kEHEyE|xEHEyE|
+|koHiy|xoHiy|
 
  * אל־תעזבני 4: 
 
 |אַל־תַּעַזְבֵנִי 4|
 |-|
 |אַל־תַעַזְבֵנִי 4|
-|'ElE־EtEɣEzEvEnEyE|
+|'al־taɣazsvvEniy|
 
  * למלחמה 4: 
 
 |לַמִּלְחָמָה 4|
 |-|
 |לַמִלְחָמָה 4|
-|lEmElEHEmEhE|
+|lamilsvHAmAh|
 
  * ירח 4: 
 
 |יָרֵחַ 4|
 |-|
 |יָרֵחַ 4|
-|yErEHE|
+|yArEHa|
 
  * שאון 4: 
 
 |שָׁאוֹן 1|שְׁאוֹן 3|
 |-|-|
 |שָׁאוֹֹן 1|שְׁאוֹֹן 3|
-|šE'EwEnE|šE'EwEnE|
+|šA'won|šsv'won|
 
  * כחציר 4: 
 
 |כֶחָצִיר 1|כַּחֲצִיר 1|כֶּחָצִיר 2|
 |-|-|-|
 |כֶחָצִיר 1|כַּחֲצִיר 1|כֶּחָצִיר 2|
-|xEHEcEyErE|kEHEcEyErE|kEHEcEyErE|
+|xeHAciyr|kaHaciyr|keHAciyr|
 
  * כמים 4: 
 
 |כַּמַּיִם 2|כַמַּיִם 2|
 |-|-|
 |כַּמַיִם 2|כַמַיִם 2|
-|kEmEyEmE|xEmEyEmE|
+|kamayim|xamayim|
 
  * כי־הנה 4: 
 
 |כִּי־הִנֵּה 4|
 |-|
 |כִּי־הִנֵה 4|
-|kEyE־EhEnEhE|
+|kiy־hinEh|
 
  * אבד 4: 
 
 |אָבַד 2|אֹבֵד 2|
 |-|-|
 |אָבַד 2|אֹבֵד 2|
-|'EvEdE|'EvEdE|
+|'Avad|'ovEd|
 
  * קראתי 4: 
 
 |קָרָאתִי 4|
 |-|
 |קָרָאתִי 4|
-|qErE'EtEyE|
+|qArA'tiy|
 
  * ראתה 4: 
 
 |רָאֲתָה 3|רָאִתָה 1|
 |-|-|
 |רָאֲתָה 3|רָאִתָה 1|
-|rE'EtEhE|rE'EtEhE|
+|rA'atAh|rA'itAh|
 
  * ועז 4: 
 
 |וָעֹז 3|וְעֹז 1|
 |-|-|
 |וָעֹז 3|וְעֹז 1|
-|wEɣEzE|wEɣEzE|
+|wAɣoz|wsvɣoz|
 
  * כבודי 4: 
 
 |כְּבוֹדִי 2|כְבוֹדִי 2|
 |-|-|
 |כְּבוֹֹדִי 2|כְבוֹֹדִי 2|
-|kEvEwEdEyE|xEvEwEdEyE|
+|ksvvwodiy|xsvvwodiy|
 
  * בקראי 4: 
 
 |בְקָרְאִי 1|בְּקָרְאִי 2|בְּקֹרְאֵי 1|
 |-|-|-|
 |בְקָרְאִי 1|בְּקָרְאִי 2|בְּקֹרְאֵי 1|
-|vEqErE'EyE|bEqErE'EyE|bEqErE'EyE|
+|vsvqArsv'iy|bsvqArsv'iy|bsvqorsv'Ey|
 
  * לנגדי 4: 
 
 |לְנֶגְדִּי 4|
 |-|
 |לְנֶגְדִי 4|
-|lEnEgEdEyE|
+|lsvnegsvdiy|
 
  * בצרה 4: 
 
 |בְצָרָה 1|בַּצָּרָה 3|
 |-|-|
 |בְצָרָה 1|בַּצָרָה 3|
-|vEcErEhE|bEcErEhE|
+|vsvcArAh|bacArAh|
 
  * ידיהם 4: 
 
 |יְדֵיהֶם 4|
 |-|
 |יְדֵיהֶם 4|
-|yEdEyEhEmE|
+|ysvdEyhem|
 
  * ישועתי 4: 
 
 |יְשׁוּעָתִי 4|
 |-|
 |יְשׁוּעָתִי 4|
-|yEšEuEɣEtEyE|
+|ysvšuɣAtiy|
 
  * ישועת 4: 
 
 |יְשׁוּעַת 2|יְשׁוּעֹת 2|
 |-|-|
 |יְשׁוּעַת 2|יְשׁוּעֹת 2|
-|yEšEuEɣEtE|yEšEuEɣEtE|
+|ysvšuɣat|ysvšuɣot|
 
  * לפי 4: 
 
 |לְפִי 4|
 |-|
 |לְפִי 4|
-|lEfEyE|
+|lsvfiy|
 
  * תסתיר 4: 
 
 |תַּסְתִּיר 3|תַסְתִּיר 1|
 |-|-|
 |תַסְתִיר 3|תַסְתִיר 1|
-|tEsEtEyErE|tEsEtEyErE|
+|tassvtiyr|tassvtiyr|
 
  * צור 4: 
 
 |צוּר 3|צוֹר 1|
 |-|-|
 |צוּר 3|צוֹֹר 1|
-|cEuErE|cEwErE|
+|cur|cwor|
 
  * בריתי 4: 
 
 |בְּרִיתִי 2|בְרִיתִי 2|
 |-|-|
 |בְּרִיתִי 2|בְרִיתִי 2|
-|bErEyEtEyE|vErEyEtEyE|
+|bsvriytiy|vsvriytiy|
 
  * לקול 4: 
 
 |לְקוֹל 4|
 |-|
 |לְקוֹֹל 4|
-|lEqEwElE|
+|lsvqwol|
 
  * מקדם 4: 
 
 |מִקֶּדֶם 4|
 |-|
 |מִקֶדֶם 4|
-|mEqEdEmE|
+|miqedem|
 
  * ישבי 4: 
 
 |יֹשְׁבֵי 4|
 |-|
 |יֹשְׁבֵי 4|
-|yEšEvEyE|
+|yošsvvEy|
 
  * ואזמרה 4: 
 
 |וַאֲזַמֵּרָה 1|וַאֲזַמְּרָה 3|
 |-|-|
 |וַאֲזַמֵרָה 1|וַאֲזַמְרָה 3|
-|wE'EzEmErEhE|wE'EzEmErEhE|
+|wa'azamErAh|wa'azamsvrAh|
 
  * זבחי 4: 
 
 |זִבְחֵי 4|
 |-|
 |זִבְחֵי 4|
-|zEvEHEyE|
+|zivsvHEy|
 
  * וישתחוו 4: 
 
 |וַיִּשְׁתַּחֲווּ 1|וְיִשְׁתַּחֲווּ 2|וַיִּשְׁתַּחֲוּוּ 1|
 |-|-|-|
 |וַיִשְׁתַחֲווּ 1|וְיִשְׁתַחֲווּ 2|וַיִשְׁתַחֲוּוּ 1|
-|wEyEšEtEHEwEuE|wEyEšEtEHEwEuE|wEyEšEtEHEuEuE|
+|wayišsvtaHawu|wsvyišsvtaHawu|wayišsvtaHauu|
 
  * אמתך 4: 
 
 |אֲמִתְּךָ 1|אֲמִתֶּךָ 3|
 |-|-|
 |אֲמִתְךָ 1|אֲמִתֶךָ 3|
-|'EmEtExE|'EmEtExE|
+|'amitsvxA|'amitexA|
 
  * באמתך 4: 
 
 |בַּאֲמִתֶּךָ 2|בַאֲמִתֶּךָ 1|בַּאֲמִתְּךָ 1|
 |-|-|-|
 |בַּאֲמִתֶךָ 2|בַאֲמִתֶךָ 1|בַּאֲמִתְךָ 1|
-|bE'EmEtExE|vE'EmEtExE|bE'EmEtExE|
+|ba'amitexA|va'amitexA|ba'amitsvxA|
 
  * יגורו 4: 
 
 |יָגוּרוּ 4|
 |-|
 |יָגוּרוּ 4|
-|yEgEuErEuE|
+|yAguru|
 
  * וישב 4: 
 
 |וַיָּשֶׁב 1|וַיֵּשֶׁב 1|וְיֹשֵׁב 1|וַיָּשָׁב 1|
 |-|-|-|-|
 |וַיָשֶׁב 1|וַיֵשֶׁב 1|וְיֹשֵׁב 1|וַיָשָׁב 1|
-|wEyEšEvE|wEyEšEvE|wEyEšEvE|wEyEšEvE|
+|wayAšev|wayEšev|wsvyošEv|wayAšAv|
 
  * משל 4: 
 
 |מֹשֵׁל 3|מָשָׁל 1|
 |-|-|
 |מֹשֵׁל 3|מָשָׁל 1|
-|mEšElE|mEšElE|
+|mošEl|mAšAl|
 
  * בא 4: 
 
 |בָּא 1|בָא 3|
 |-|-|
 |בָּא 1|בָא 3|
-|bE'E|vE'E|
+|bA'|vA'|
 
  * שופר 4: 
 
 |שׁוֹפָר 4|
 |-|
 |שׁוֹֹפָר 4|
-|šEwEfErE|
+|šwofAr|
 
  * והמה 4: 
 
 |וְהֵמָּה 4|
 |-|
 |וְהֵמָה 4|
-|wEhEmEhE|
+|wsvhEmAh|
 
  * אל־אבושה 4: 
 
 |אַל־אֵבוֹשָׁה 4|
 |-|
 |אַל־אֵבוֹֹשָׁה 4|
-|'ElE־E'EvEwEšEhE|
+|'al־'EvwošAh|
 
  * פעלת 4: 
 
 |פְּעֻלַּת 1|פָּעַלְתָּ 3|
 |-|-|
 |פְּעֻלַת 1|פָּעַלְתָ 3|
-|pEɣElEtE|pEɣElEtE|
+|psvɣulat|pAɣalsvtA|
 
  * בישימון 4: 
 
 |בִּישִׁימוֹן 3|בִישִׁימוֹן 1|
 |-|-|
 |בִּישִׁימוֹֹן 3|בִישִׁימוֹֹן 1|
-|bEyEšEyEmEwEnE|vEyEšEyEmEwEnE|
+|biyšiymwon|viyšiymwon|
 
  * בלב 4: 
 
 |בְּלֵב 4|
 |-|
 |בְּלֵב 4|
-|bElEvE|
+|bsvlEv|
 
  * אל־תסתר 4: 
 
 |אַל־תַּסְתֵּר 4|
 |-|
 |אַל־תַסְתֵר 4|
-|'ElE־EtEsEtErE|
+|'al־tassvtEr|
 
  * כי־יהוה 4: 
 
 |כִּי־יְהוָה 4|
 |-|
 |כִּי־יְהוָה 4|
-|kEyE־EyEhEwEhE|
+|kiy־ysvhwAh|
 
  * נקי 4: 
 
 |נָקִי 3|נְקִי 1|
 |-|-|
 |נָקִי 3|נְקִי 1|
-|nEqEyE|nEqEyE|
+|nAqiy|nsvqiy|
 
  * אשר־שם 4: 
 
 |אֲשֶׁר־שָׂם 3|אֲשֶׁר־שָׁם 1|
 |-|-|
 |אֲשֶׁר־שָׂם 3|אֲשֶׁר־שָׁם 1|
-|'EšErE־ESEmE|'EšErE־EšEmE|
+|'ašer־SAm|'ašer־šAm|
 
  * בנים 4: 
 
 |בָנִים 2|בָּנִים 2|
 |-|-|
 |בָנִים 2|בָּנִים 2|
-|vEnEyEmE|bEnEyEmE|
+|vAniym|bAniym|
 
  * עלילותיו 4: 
 
 |עֲלִילוֹתָיו 4|
 |-|
 |עֲלִילוֹֹתָיו 4|
-|ɣElEyElEwEtEyEwE|
+|ɣaliylwotAyw|
 
  * ונפשי 4: 
 
 |וְנַפְשִׁי 4|
 |-|
 |וְנַפְשִׁי 4|
-|wEnEfEšEyE|
+|wsvnafsvšiy|
 
  * אלוה 4: 
 
 |אֱלוֹהַּ 4|
 |-|
 |אֱלוֹֹהַ 4|
-|'ElEwEhE|
+|'elwoha|
 
  * ברנה 4: 
 
 |בְרִנָּה 1|בְּרִנָּה 3|
 |-|-|
 |בְרִנָה 1|בְּרִנָה 3|
-|vErEnEhE|bErEnEhE|
+|vsvrinAh|bsvrinAh|
 
  * גבר 4: 
 
 |גָּבַר 1|גֶבֶר 1|גָּבֶר 1|גָבַר 1|
 |-|-|-|-|
 |גָבַר 1|גֶבֶר 1|גָבֶר 1|גָבַר 1|
-|gEvErE|gEvErE|gEvErE|gEvErE|
+|gAvar|gever|gAver|gAvar|
 
  * אהרן 4: 
 
 |אַהֲרֹן 4|
 |-|
 |אַהֲרֹן 4|
-|'EhErEnE|
+|'aharon|
 
  * יושיע 4: 
 
 |יוֹשִׁיעַ 4|
 |-|
 |יוֹֹשִׁיעַ 4|
-|yEwEšEyEɣE|
+|ywošiyɣa|
 
  * חונן 4: 
 
 |חוֹנֵן 4|
 |-|
 |חוֹֹנֵן 4|
-|HEwEnEnE|
+|HwonEn|
 
  * באפו 4: 
 
 |בְאַפּוֹ 1|בְּאַפּוֹ 3|
 |-|-|
 |בְאַפּוֹֹ 1|בְּאַפּוֹֹ 3|
-|vE'EpEwE|bE'EpEwE|
+|vsv'apwo|bsv'apwo|
 
  * וכנור 4: 
 
 |וְכִנּוֹר 4|
 |-|
 |וְכִנוֹֹר 4|
-|wExEnEwErE|
+|wsvxinwor|
 
  * פנה 4: 
 
 |פְּנֵה 2|פָּנָה 1|פִּנָּה 1|
 |-|-|-|
 |פְּנֵה 2|פָּנָה 1|פִּנָה 1|
-|pEnEhE|pEnEhE|pEnEhE|
+|psvnEh|pAnAh|pinAh|
 
  * שבר 4: 
 
 |שְׁבֹר 1|שִׁבַּר 1|שֹׁבֵר 1|שָׁבָר 1|
 |-|-|-|-|
 |שְׁבֹר 1|שִׁבַּר 1|שֹׁבֵר 1|שָׁבָר 1|
-|šEvErE|šEbErE|šEvErE|šEvErE|
+|šsvvor|šibar|šovEr|šAvAr|
 
  * שאל 4: 
 
 |שֶׁאֵל 1|שְׁאַל 1|שָׁאַל 2|
 |-|-|-|
 |שֶׁאֵל 1|שְׁאַל 1|שָׁאַל 2|
-|šE'ElE|šE'ElE|šE'ElE|
+|še'El|šsv'al|šA'al|
 
  * שמש 4: 
 
 |שָׁמֶשׁ 1|שֶׁמֶשׁ 3|
 |-|-|
 |שָׁמֶשׁ 1|שֶׁמֶשׁ 3|
-|šEmEšE|šEmEšE|
+|šAmeš|šemeš|
 
  * לאדני 4: 
 
 |לַאֲדֹנֵי 1|לַאדֹנָי 2|לַאדֹנִי 1|
 |-|-|-|
 |לַאֲדֹנֵי 1|לַאדֹנָי 2|לַאדֹנִי 1|
-|lE'EdEnEyE|lE'EdEnEyE|lE'EdEnEyE|
+|la'adonEy|la'donAy|la'doniy|
 
  * כרב 4: 
 
 |כְּרֹב 4|
 |-|
 |כְּרֹב 4|
-|kErEvE|
+|ksvrov|
 
  * ויאמרו 4: 
 
 |וַיֹּאמְרוּ 2|וְיֹאמְרוּ 2|
 |-|-|
 |וַיֹאמְרוּ 2|וְיֹאמְרוּ 2|
-|wEyE'EmErEuE|wEyE'EmErEuE|
+|wayo'msvru|wsvyo'msvru|
 
  * באש 4: 
 
 |בָאֵשׁ 2|בָּאֵשׁ 2|
 |-|-|
 |בָאֵשׁ 2|בָּאֵשׁ 2|
-|vE'EšE|bE'EšE|
+|vA'Eš|bA'Eš|
 
  * לשמע 4: 
 
 |לִשְׁמֹעַ 2|לַשְׁמִעַ 1|לְשֵׁמַע 1|
 |-|-|-|
 |לִשְׁמֹעַ 2|לַשְׁמִעַ 1|לְשֵׁמַע 1|
-|lEšEmEɣE|lEšEmEɣE|lEšEmEɣE|
+|lišsvmoɣa|lašsvmiɣa|lsvšEmaɣ|
 
  * עד־מה 4: 
 
 |עַד־מֶה 1|עַד־מָה 3|
 |-|-|
 |עַד־מֶה 1|עַד־מָה 3|
-|ɣEdE־EmEhE|ɣEdE־EmEhE|
+|ɣad־meh|ɣad־mAh|
 
  * שויתי 4: 
 
 |שִׁוִּיתִי 4|
 |-|
 |שִׁוִּיתִי 4|
-|šEuEyEtEyE|
+|šiuiytiy|
 
  * תחתי 4: 
 
 |תַחְתָּי 2|תַּחְתָּי 2|
 |-|-|
 |תַחְתָי 2|תַחְתָי 2|
-|tEHEtEyE|tEHEtEyE|
+|taHsvtAy|taHsvtAy|
 
  * יפלו 4: 
 
 |יִפְּלוּ 4|
 |-|
 |יִפְּלוּ 4|
-|yEpElEuE|
+|yipsvlu|
 
  * כסאך 4: 
 
 |כִּסְאֲךָ 3|כִּסְאֶךָ 1|
 |-|-|
 |כִּסְאֲךָ 3|כִּסְאֶךָ 1|
-|kEsE'ExE|kEsE'ExE|
+|kissv'axA|kissv'exA|
 
  * חנון 4: 
 
 |חַנּוּן 4|
 |-|
 |חַנוּן 4|
-|HEnEuEnE|
+|Hanun|
 
  * אגיד 4: 
 
 |אַגִּיד 4|
 |-|
 |אַגִיד 4|
-|'EgEyEdE|
+|'agiyd|
 
  * עצמי 4: 
 
 |עַצְמִי 1|עָצְמִי 1|עֲצָמָי 2|
 |-|-|-|
 |עַצְמִי 1|עָצְמִי 1|עֲצָמָי 2|
-|ɣEcEmEyE|ɣEcEmEyE|ɣEcEmEyE|
+|ɣacsvmiy|ɣAcsvmiy|ɣacAmAy|
 
  * איה 4: 
 
 |אַיֵּה 4|
 |-|
 |אַיֵה 4|
-|'EyEhE|
+|'ayEh|
 
  * ירדו 4: 
 
 |יֵרְדוּ 3|יָרְדוּ 1|
 |-|-|
 |יֵרְדוּ 3|יָרְדוּ 1|
-|yErEdEuE|yErEdEuE|
+|yErsvdu|yArsvdu|
 
  * חטאתי 4: 
 
 |חָטָאתִי 1|חַטָּאתִי 3|
 |-|-|
 |חָטָאתִי 1|חַטָאתִי 3|
-|HETE'EtEyE|HETE'EtEyE|
+|HATA'tiy|HaTA'tiy|
 
  * ידו 4: 
 
 |יָדוֹ 4|
 |-|
 |יָדוֹֹ 4|
-|yEdEwE|
+|yAdwo|
 
  * למשה 4: 
 
 |לְמֹשֶׁה 4|
 |-|
 |לְמֹשֶׁה 4|
-|lEmEšEhE|
+|lsvmošeh|
 
  * ועתה 4: 
 
 |וְעַתָּה 4|
 |-|
 |וְעַתָה 4|
-|wEɣEtEhE|
+|wsvɣatAh|
 
  * שמרני 4: 
 
 |שָׁמְרֵנִי 4|
 |-|
 |שָׁמְרֵנִי 4|
-|šEmErEnEyE|
+|šAmsvrEniy|
 
  * ואמת 4: 
 
 |וֶאֱמֶת 4|
 |-|
 |וֶאֱמֶת 4|
-|wE'EmEtE|
+|we'emet|
 
  * ומשפט 4: 
 
 |וּמִשְׁפָּט 4|
 |-|
 |וּמִשְׁפָּט 4|
-|uEmEšEpETE|
+|umišsvpAT|
 
  * מרמה 4: 
 
 |מִרְמָה 4|
 |-|
 |מִרְמָה 4|
-|mErEmEhE|
+|mirsvmAh|
 
  * ממות 4: 
 
 |מִמָּוֶת 4|
 |-|
 |מִמָוֶת 4|
-|mEmEwEtE|
+|mimAwet|
 
  * חשבו 4: 
 
 |חָשְׁבוּ 3|חָשָׁבוּ 1|
 |-|-|
 |חָשְׁבוּ 3|חָשָׁבוּ 1|
-|HEšEvEuE|HEšEvEuE|
+|HAšsvvu|HAšAvu|
 
  * מלפני 4: 
 
 |מִלִּפְנֵי 4|
 |-|
 |מִלִפְנֵי 4|
-|mElEfEnEyE|
+|milifsvnEy|
 
  * היית 4: 
 
 |הָיִיתָ 4|
 |-|
 |הָיִיתָ 4|
-|hEyEyEtE|
+|hAyiytA|
 
  * ישכן 4: 
 
 |יִשְׁכֹּן 3|יַשְׁכֵּן 1|
 |-|-|
 |יִשְׁכֹּן 3|יַשְׁכֵּן 1|
-|yEšEkEnE|yEšEkEnE|
+|yišsvkon|yašsvkEn|
 
  * ישבעו 4: 
 
 |יִשְׂבְּעוּ 3|יִשְׂבָּעוּ 1|
 |-|-|
 |יִשְׂבְּעוּ 3|יִשְׂבָּעוּ 1|
-|yESEbEɣEuE|yESEbEɣEuE|
+|yiSsvbsvɣu|yiSsvbAɣu|
 
  * ישענו 4: 
 
 |יִשְׁעֵנוּ 4|
 |-|
 |יִשְׁעֵנוּ 4|
-|yEšEɣEnEuE|
+|yišsvɣEnu|
 
  * ומרמה 4: 
 
 |וּמִרְמָה 4|
 |-|
 |וּמִרְמָה 4|
-|uEmErEmEhE|
+|umirsvmAh|
 
  * ורוח 4: 
 
 |וְרוּחַ 4|
 |-|
 |וְרוּחַ 4|
-|wErEuEHE|
+|wsvruHa|
 
  * נשבע 4: 
 
 |נִשְׁבַּע 4|
 |-|
 |נִשְׁבַּע 4|
-|nEšEbEɣE|
+|nišsvbaɣ|
 
  * חרפת 4: 
 
 |חֶרְפַּת 4|
 |-|
 |חֶרְפַּת 4|
-|HErEpEtE|
+|Hersvpat|
 
  * מישרים 4: 
 
 |מֵישָׁרִים 4|
 |-|
 |מֵישָׁרִים 4|
-|mEyEšErEyEmE|
+|mEyšAriym|
 
  * עמדת 4: 
 
 |עֹמֶדֶת 4|
 |-|
 |עֹמֶדֶת 4|
-|ɣEmEdEtE|
+|ɣomedet|
 
  * לבקר 4: 
 
 |לַבֹּקֶר 4|
 |-|
 |לַבֹּקֶר 4|
-|lEbEqErE|
+|laboqer|
 
  * במצרים 4: 
 
 |בְּמִצְרָיִם 2|בְּמִצְרַיִם 1|בְמִצְרַיִם 1|
 |-|-|-|
 |בְּמִצְרָיִם 2|בְּמִצְרַיִם 1|בְמִצְרַיִם 1|
-|bEmEcErEyEmE|bEmEcErEyEmE|vEmEcErEyEmE|
+|bsvmicsvrAyim|bsvmicsvrayim|vsvmicsvrayim|
 
  * ואהי 4: 
 
 |וָאֱהִי 4|
 |-|
 |וָאֱהִי 4|
-|wE'EhEyE|
+|wA'ehiy|
 
  * ויך 4: 
 
 |וַיַּךְ 4|
 |-|
 |וַיַךְ 4|
-|wEyExE|
+|wayaxsv|
 
  * בקר 4: 
 
 |בָקָר 1|בֹּקֶר 3|
 |-|-|
 |בָקָר 1|בֹּקֶר 3|
-|vEqErE|bEqErE|
+|vAqAr|boqer|
 
  * ויושיעם 4: 
 
 |וְיוֹשִׁיעֵם 2|וַיּוֹשִׁיעֵם 2|
 |-|-|
 |וְיוֹֹשִׁיעֵם 2|וַיוֹֹשִׁיעֵם 2|
-|wEyEwEšEyEɣEmE|wEyEwEšEyEɣEmE|
+|wsvywošiyɣEm|waywošiyɣEm|
 
  * מרחם 4: 
 
 |מֵרָחֶם 2|מֵרֶחֶם 1|מְרַחֵם 1|
 |-|-|-|
 |מֵרָחֶם 2|מֵרֶחֶם 1|מְרַחֵם 1|
-|mErEHEmE|mErEHEmE|mErEHEmE|
+|mErAHem|mEreHem|msvraHEm|
 
  * נגדי 4: 
 
 |נֶגְדִּי 4|
 |-|
 |נֶגְדִי 4|
-|nEgEdEyE|
+|negsvdiy|
 
  * יהי 4: 
 
 |יְהִי 4|
 |-|
 |יְהִי 4|
-|yEhEyE|
+|ysvhiy|
 
  * בנגינת 4: 
 
 |בִּנְגִינֹת 4|
 |-|
 |בִּנְגִינֹת 4|
-|bEnEgEyEnEtE|
+|binsvgiynot|
 
  * אמן 4: 
 
 |אָמֵן 4|
 |-|
 |אָמֵן 4|
-|'EmEnE|
+|'AmEn|
 
  * ימלא 4: 
 
 |יִמָּלֵא 2|יְמַלֵּא 2|
 |-|-|
 |יִמָלֵא 2|יְמַלֵא 2|
-|yEmElE'E|yEmElE'E|
+|yimAlE'|ysvmalE'|
 
  * לכל 4: 
 
 |לַכֹּל 1|לְכָל 1|לְכֹל 2|
 |-|-|-|
 |לַכֹּל 1|לְכָל 1|לְכֹל 2|
-|lEkElE|lExElE|lExElE|
+|lakol|lsvxAl|lsvxol|
 
  * שפטני 4: 
 
 |שָׁפְטֵנִי 4|
 |-|
 |שָׁפְטֵנִי 4|
-|šEfETEnEyE|
+|šAfsvTEniy|
 
  * בטוב 4: 
 
 |בַּטּוֹב 1|בְּטוֹב 1|בְּטוּב 2|
 |-|-|-|
 |בַּטוֹֹב 1|בְּטוֹֹב 1|בְּטוּב 2|
-|bETEwEvE|bETEwEvE|bETEuEvE|
+|baTwov|bsvTwov|bsvTuv|
 
  * כסאו 4: 
 
 |כִּסְאוֹ 4|
 |-|
 |כִּסְאוֹֹ 4|
-|kEsE'EwE|
+|kissv'wo|
 
  * קרוב 4: 
 
 |קָרוֹב 4|
 |-|
 |קָרוֹֹב 4|
-|qErEwEvE|
+|qArwov|
 
  * עיניך 4: 
 
 |עֵינֶיךָ 4|
 |-|
 |עֵינֶיךָ 4|
-|ɣEyEnEyExE|
+|ɣEyneyxA|
 
  * נשאתי 4: 
 
 |נָשָׂאתִי 4|
 |-|
 |נָשָׂאתִי 4|
-|nESE'EtEyE|
+|nASA'tiy|
 
  * יבא 4: 
 
 |יָבִא 1|יָבֹא 3|
 |-|-|
 |יָבִא 1|יָבֹא 3|
-|yEvE'E|yEvE'E|
+|yAvi'|yAvo'|
 
  * לעבדך 4: 
 
 |לְעַבְדֶּךָ 3|לְעַבְדְּךָ 1|
 |-|-|
 |לְעַבְדֶךָ 3|לְעַבְדְךָ 1|
-|lEɣEvEdExE|lEɣEvEdExE|
+|lsvɣavsvdexA|lsvɣavsvdsvxA|
 
  * בתודה 4: 
 
 |בְּתוֹדָה 3|בְתוֹדָה 1|
 |-|-|
 |בְּתוֹֹדָה 3|בְתוֹֹדָה 1|
-|bEtEwEdEhE|vEtEwEdEhE|
+|bsvtwodAh|vsvtwodAh|
 
  * העם 4: 
 
 |הָעָם 4|
 |-|
 |הָעָם 4|
-|hEɣEmE|
+|hAɣAm|
 
  * היה 4: 
 
 |הָיָה 2|הֱיֵה 2|
 |-|-|
 |הָיָה 2|הֱיֵה 2|
-|hEyEhE|hEyEhE|
+|hAyAh|heyEh|
 
  * פח 4: 
 
 |פַּח 2|פַח 2|
 |-|-|
 |פַּח 2|פַח 2|
-|pEHE|fEHE|
+|paH|faH|
 
  * מן־הארץ 4: 
 
 |מִן־הָאָרֶץ 4|
 |-|
 |מִן־הָאָרֶץ 4|
-|mEnE־EhE'ErEcE|
+|min־hA'Arec|
 
  * מציל 4: 
 
 |מַצִּיל 4|
 |-|
 |מַצִיל 4|
-|mEcEyElE|
+|maciyl|
 
  * קדש 4: 
 
 |קָדֵשׁ 1|קְדֹשׁ 2|קֹדֶשׁ 1|
 |-|-|-|
 |קָדֵשׁ 1|קְדֹשׁ 2|קֹדֶשׁ 1|
-|qEdEšE|qEdEšE|qEdEšE|
+|qAdEš|qsvdoš|qodeš|
 
  * כי־הוא 4: 
 
 |כִּי־הוּא 4|
 |-|
 |כִּי־הוּא 4|
-|kEyE־EhEuE'E|
+|kiy־hu'|
 
  * לבדך 4: 
 
 |לְבַדֶּךָ 3|לְבַדְּךָ 1|
 |-|-|
 |לְבַדֶךָ 3|לְבַדְךָ 1|
-|lEvEdExE|lEvEdExE|
+|lsvvadexA|lsvvadsvxA|
 
  * מבטן 4: 
 
 |מִבָּטֶן 1|מִבֶּטֶן 3|
 |-|-|
 |מִבָּטֶן 1|מִבֶּטֶן 3|
-|mEbETEnE|mEbETEnE|
+|mibATen|mibeTen|
 
  * עמדי 4: 
 
 |עִמָּדִי 4|
 |-|
 |עִמָדִי 4|
-|ɣEmEdEyE|
+|ɣimAdiy|
 
  * נוראות 4: 
 
 |נוֹרָאוֹת 4|
 |-|
 |נוֹֹרָאוֹֹת 4|
-|nEwErE'EwEtE|
+|nworA'wot|
 
  * אחת 4: 
 
 |אַחַת 4|
 |-|
 |אַחַת 4|
-|'EHEtE|
+|'aHat|
 
  * אלה 4: 
 
 |אֵלֶּה 3|אָלָה 1|
 |-|-|
 |אֵלֶה 3|אָלָה 1|
-|'ElEhE|'ElEhE|
+|'Eleh|'AlAh|
 
  * לעם 4: 
 
 |לָעָם 2|לְעַם 1|לְעָם 1|
 |-|-|-|
 |לָעָם 2|לְעַם 1|לְעָם 1|
-|lEɣEmE|lEɣEmE|lEɣEmE|
+|lAɣAm|lsvɣam|lsvɣAm|
 
  * בל־אמים 4: 
 
 |בַּל־אֻמִּים 4|
 |-|
 |בַּל־אֻמִים 4|
-|bElE־E'EmEyEmE|
+|bal־'umiym|
 
  * קום 4: 
 
 |קַוָּם 1|קוּם 3|
 |-|-|
 |קַוָּם 1|קוּם 3|
-|qEuEmE|qEuEmE|
+|qauAm|qum|
 
  * ממרום 4: 
 
 |מִמְּרוֹם 1|מִמָּרוֹם 3|
 |-|-|
 |מִמְרוֹֹם 1|מִמָרוֹֹם 3|
-|mEmErEwEmE|mEmErEwEmE|
+|mimsvrwom|mimArwom|
 
  * עבדיך 4: 
 
 |עֲבָדֶיךָ 4|
 |-|
 |עֲבָדֶיךָ 4|
-|ɣEvEdEyExE|
+|ɣavAdeyxA|
 
  * גדלות 4: 
 
 |גְדֹלוֹת 2|גְּדֹלוֹת 2|
 |-|-|
 |גְדֹלוֹֹת 2|גְדֹלוֹֹת 2|
-|gEdElEwEtE|gEdElEwEtE|
+|gsvdolwot|gsvdolwot|
 
  * בפי 4: 
 
 |בְּפִי 4|
 |-|
 |בְּפִי 4|
-|bEfEyE|
+|bsvfiy|
 
  * שמר 4: 
 
 |שֹׁמֵר 4|
 |-|
 |שֹׁמֵר 4|
-|šEmErE|
+|šomEr|
 
  * עבדי 4: 
 
 |עַבְדִּי 2|עַבְדֵי 2|
 |-|-|
 |עַבְדִי 2|עַבְדֵי 2|
-|ɣEvEdEyE|ɣEvEdEyE|
+|ɣavsvdiy|ɣavsvdEy|
 
  * עדי־עד 4: 
 
 |עֲדֵי־עַד 4|
 |-|
 |עֲדֵי־עַד 4|
-|ɣEdEyE־EɣEdE|
+|ɣadEy־ɣad|
 
  * בחקיך 4: 
 
 |בְחֻקֶּיךָ 2|בְּחֻקֶּיךָ 2|
 |-|-|
 |בְחֻקֶיךָ 2|בְּחֻקֶיךָ 2|
-|vEHEqEyExE|bEHEqEyExE|
+|vsvHuqeyxA|bsvHuqeyxA|
 
  * תשוב 4: 
 
 |תָשׁוּב 1|תָּשׁוּב 3|
 |-|-|
 |תָשׁוּב 1|תָשׁוּב 3|
-|tEšEuEvE|tEšEuEvE|
+|tAšuv|tAšuv|
 
  * והצילני 4: 
 
 |וְהַצִּילֵנִי 4|
 |-|
 |וְהַצִילֵנִי 4|
-|wEhEcEyElEnEyE|
+|wsvhaciylEniy|
 
  * רנה 4: 
 
 |רִנָּה 4|
 |-|
 |רִנָה 4|
-|rEnEhE|
+|rinAh|
 
  * בקשו 4: 
 
 |בִּקְשׁוּ 2|בַּקְּשׁוּ 2|
 |-|-|
 |בִּקְשׁוּ 2|בַּקְשׁוּ 2|
-|bEqEšEuE|bEqEšEuE|
+|biqsvšu|baqsvšu|
 
  * לשכנינו 4: 
 
 |לִשְׁכֵנֵינוּ 4|
 |-|
 |לִשְׁכֵנֵינוּ 4|
-|lEšExEnEyEnEuE|
+|lišsvxEnEynu|
 
  * וינחם 4: 
 
 |וַיִּנָּחֵם 1|וַיַּנְחֵם 3|
 |-|-|
 |וַיִנָחֵם 1|וַיַנְחֵם 3|
-|wEyEnEHEmE|wEyEnEHEmE|
+|wayinAHEm|wayansvHEm|
 
  * וידעו 4: 
 
 |וידעו 1|וְיֵדְעוּ 3|
 |-|-|
 |וידעו 1|וְיֵדְעוּ 3|
-|wEyEdEɣEwE|wEyEdEɣEuE|
+|wydɣw|wsvyEdsvɣu|
 
  * כמה 4: 
 
 |כַּמָּה 3|כָּמַהּ 1|
 |-|-|
 |כַּמָה 3|כָּמַה 1|
-|kEmEhE|kEmEhE|
+|kamAh|kAmah|
 
  * לעלם 4: 
 
 |לְעֹלָם 4|
 |-|
 |לְעֹלָם 4|
-|lEɣElEmE|
+|lsvɣolAm|
 
  * כבודך 4: 
 
 |כְּבוֹדֶךָ 4|
 |-|
 |כְּבוֹֹדֶךָ 4|
-|kEvEwEdExE|
+|ksvvwodexA|
 
  * שמרה 4: 
 
 |שָׁמְרָה 4|
 |-|
 |שָׁמְרָה 4|
-|šEmErEhE|
+|šAmsvrAh|
 
  * אדון 4: 
 
 |אָדוֹן 3|אֲדוֹן 1|
 |-|-|
 |אָדוֹֹן 3|אֲדוֹֹן 1|
-|'EdEwEnE|'EdEwEnE|
+|'Adwon|'adwon|
 
  * מנעורי 4: 
 
 |מִנְּעוּרַי 1|מִנְּעוּרָי 3|
 |-|-|
 |מִנְעוּרַי 1|מִנְעוּרָי 3|
-|mEnEɣEuErEyE|mEnEɣEuErEyE|
+|minsvɣuray|minsvɣurAy|
 
  * קדם 4: 
 
 |קֶדֶם 3|קֶּדֶם 1|
 |-|-|
 |קֶדֶם 3|קֶדֶם 1|
-|qEdEmE|qEdEmE|
+|qedem|qedem|
 
  * אשיב 4: 
 
 |אָשִׁיב 4|
 |-|
 |אָשִׁיב 4|
-|'EšEyEvE|
+|'Ašiyv|
 
  * אפו 4: 
 
 |אַפּוֹ 4|
 |-|
 |אַפּוֹֹ 4|
-|'EpEwE|
+|'apwo|
 
  * ברזל 4: 
 
 |בַרְזֶל 2|בַּרְזֶל 2|
 |-|-|
 |בַרְזֶל 2|בַּרְזֶל 2|
-|vErEzElE|bErEzElE|
+|varsvzel|barsvzel|
 
  * הגדיל 4: 
 
 |הִגְדִּיל 4|
 |-|
 |הִגְדִיל 4|
-|hEgEdEyElE|
+|higsvdiyl|
 
  * ירד 3: 
 
 |יֵרֵד 2|יֹרֵד 1|
 |-|-|
 |יֵרֵד 2|יֹרֵד 1|
-|yErEdE|yErEdE|
+|yErEd|yorEd|
 
  * מלאכיו 3: 
 
 |מַלְאָכָיו 3|
 |-|
 |מַלְאָכָיו 3|
-|mElE'ExEyEwE|
+|malsv'AxAyw|
 
  * יעלו 3: 
 
 |יַעֲלוּ 3|
 |-|
 |יַעֲלוּ 3|
-|yEɣElEuE|
+|yaɣalu|
 
  * יגדל 3: 
 
 |יִגְדַּל 3|
 |-|
 |יִגְדַל 3|
-|yEgEdElE|
+|yigsvdal|
 
  * עבר 3: 
 
 |עָבַר 2|עֹבֵר 1|
 |-|-|
 |עָבַר 2|עֹבֵר 1|
-|ɣEvErE|ɣEvErE|
+|ɣAvar|ɣovEr|
 
  * לרשע 3: 
 
 |לָרָשָׁע 3|
 |-|
 |לָרָשָׁע 3|
-|lErEšEɣE|
+|lArAšAɣ|
 
  * מישור 3: 
 
 |מִישׁוֹר 3|
 |-|
 |מִישׁוֹֹר 3|
-|mEyEšEwErE|
+|miyšwor|
 
  * פעמי 3: 
 
 |פְּעָמָי 1|פְעָמָי 1|פְּעָמַי 1|
 |-|-|-|
 |פְּעָמָי 1|פְעָמָי 1|פְּעָמַי 1|
-|pEɣEmEyE|fEɣEmEyE|pEɣEmEyE|
+|psvɣAmAy|fsvɣAmAy|psvɣAmay|
 
  * יסדת 3: 
 
 |יִסַּדְתָּ 1|יָסַדְתָּ 2|
 |-|-|
 |יִסַדְתָ 1|יָסַדְתָ 2|
-|yEsEdEtE|yEsEdEtE|
+|yisadsvtA|yAsadsvtA|
 
  * בלבבם 3: 
 
 |בִּלְבָבָם 3|
 |-|
 |בִּלְבָבָם 3|
-|bElEvEvEmE|
+|bilsvvAvAm|
 
  * לתת 3: 
 
 |לָתֵת 3|
 |-|
 |לָתֵת 3|
-|lEtEtE|
+|lAtEt|
 
  * אברך 3: 
 
 |אֲבָרֵךְ 3|
 |-|
 |אֲבָרֵךְ 3|
-|'EvErExE|
+|'avArExsv|
 
  * היתה 3: 
 
 |הָיְתָה 3|
 |-|
 |הָיְתָה 3|
-|hEyEtEhE|
+|hAysvtAh|
 
  * והדר 3: 
 
 |וְהָדָר 3|
 |-|
 |וְהָדָר 3|
-|wEhEdErE|
+|wsvhAdAr|
 
  * יחיל 3: 
 
 |יָחִיל 3|
 |-|
 |יָחִיל 3|
-|yEHEyElE|
+|yAHiyl|
 
  * מגננו 3: 
 
 |מָגִנֵּנוּ 3|
 |-|
 |מָגִנֵנוּ 3|
-|mEgEnEnEuE|
+|mAginEnu|
 
  * תכין 3: 
 
 |תָּכִין 3|
 |-|
 |תָכִין 3|
-|tExEyEnE|
+|tAxiyn|
 
  * והדרך 3: 
 
 |וַהֲדָרְךָ 2|וַהֲדָרֶךָ 1|
 |-|-|
 |וַהֲדָרְךָ 2|וַהֲדָרֶךָ 1|
-|wEhEdErExE|wEhEdErExE|
+|wahadArsvxA|wahadArexA|
 
  * אזנים 3: 
 
 |אָזְנַיִם 3|
 |-|
 |אָזְנַיִם 3|
-|'EzEnEyEmE|
+|'Azsvnayim|
 
  * עתה 3: 
 
 |עַתָּה 3|
 |-|
 |עַתָה 3|
-|ɣEtEhE|
+|ɣatAh|
 
  * בסכה 3: 
 
 |בְסֻכֹּה 1|בְּסֻכֹּה 1|בְּסֻכָּה 1|
 |-|-|-|
 |בְסֻכֹּה 1|בְּסֻכֹּה 1|בְּסֻכָּה 1|
-|vEsEkEhE|bEsEkEhE|bEsEkEhE|
+|vsvsukoh|bsvsukoh|bsvsukAh|
 
  * נכר 3: 
 
 |נֵכָר 3|
 |-|
 |נֵכָר 3|
-|nExErE|
+|nExAr|
 
  * שמח 3: 
 
 |שָׂמַח 2|שַׂמֵּחַ 1|
 |-|-|
 |שָׂמַח 2|שַׂמֵחַ 1|
-|SEmEHE|SEmEHE|
+|SAmaH|SamEHa|
 
  * עשיתי 3: 
 
 |עָשִׂיתִי 3|
 |-|
 |עָשִׂיתִי 3|
-|ɣESEyEtEyE|
+|ɣASiytiy|
 
  * להכרית 3: 
 
 |לְהַכְרִית 3|
 |-|
 |לְהַכְרִית 3|
-|lEhExErEyEtE|
+|lsvhaxsvriyt|
 
  * קוה 3: 
 
 |קַוֵּה 2|קַוֺּה 1|
 |-|-|
 |קַוֵּה 2|קַוֺּה 1|
-|qEuEhE|qEuEhE|
+|qauEh|qau_o_h|
 
  * הורני 3: 
 
 |הוֹרֵנִי 3|
 |-|
 |הוֹֹרֵנִי 3|
-|hEwErEnEyE|
+|hworEniy|
 
  * ברד 3: 
 
 |בָּרָד 3|
 |-|
 |בָּרָד 3|
-|bErEdE|
+|bArAd|
 
  * כי־גדול 3: 
 
 |כִּי־גָדוֹל 3|
 |-|
 |כִּי־גָדוֹֹל 3|
-|kEyE־EgEdEwElE|
+|kiy־gAdwol|
 
  * וראו 3: 
 
 |וְרָאוּ 1|וּרְאוּ 2|
 |-|-|
 |וְרָאוּ 1|וּרְאוּ 2|
-|wErE'EuE|uErE'EuE|
+|wsvrA'u|ursv'u|
 
  * פלשת 3: 
 
 |פְּלֶשֶׁת 2|פְלֶשֶׁת 1|
 |-|-|
 |פְּלֶשֶׁת 2|פְלֶשֶׁת 1|
-|pElEšEtE|fElEšEtE|
+|psvlešet|fsvlešet|
 
  * שבות 3: 
 
 |שבות 1|שְׁבוּת 2|
 |-|-|
 |שבות 1|שְׁבוּת 2|
-|שEvEwEtE|šEvEuEtE|
+|שvwt|šsvvut|
 
  * על־מי 3: 
 
 |עַל־מֵי 3|
 |-|
 |עַל־מֵי 3|
-|ɣElE־EmEyE|
+|ɣal־mEy|
 
  * בחרתי 3: 
 
 |בָּחַרְתִּי 1|בָחָרְתִּי 2|
 |-|-|
 |בָּחַרְתִי 1|בָחָרְתִי 2|
-|bEHErEtEyE|vEHErEtEyE|
+|bAHarsvtiy|vAHArsvtiy|
 
  * מכל 3: 
 
 |מִכֹּל 3|
 |-|
 |מִכֹּל 3|
-|mEkElE|
+|mikol|
 
  * לאמר 3: 
 
 |לֵאמֹר 3|
 |-|
 |לֵאמֹר 3|
-|lE'EmErE|
+|lE'mor|
 
  * בני־אדם 3: 
 
 |בְּנֵי־אָדָם 2|בְנֵי־אָדָם 1|
 |-|-|
 |בְּנֵי־אָדָם 2|בְנֵי־אָדָם 1|
-|bEnEyE־E'EdEmE|vEnEyE־E'EdEmE|
+|bsvnEy־'AdAm|vsvnEy־'AdAm|
 
  * בנפש 3: 
 
 |בְּנֶפֶשׁ 3|
 |-|
 |בְּנֶפֶשׁ 3|
-|bEnEfEšE|
+|bsvnefeš|
 
  * מרע 3: 
 
 |מֵרָע 3|
 |-|
 |מֵרָע 3|
-|mErEɣE|
+|mErAɣ|
 
  * בכל־יום 3: 
 
 |בְּכָל־יוֹם 3|
 |-|
 |בְּכָל־יוֹֹם 3|
-|bExElE־EyEwEmE|
+|bsvxAl־ywom|
 
  * ואחיה 3: 
 
 |וְאֶחְיֶה 3|
 |-|
 |וְאֶחְיֶה 3|
-|wE'EHEyEhE|
+|wsv'eHsvyeh|
 
  * תאות 3: 
 
 |תַּאֲוַת 3|
 |-|
 |תַאֲוַת 3|
-|tE'EwEtE|
+|ta'awat|
 
  * בארצם 3: 
 
 |בְּאַרְצָם 3|
 |-|
 |בְּאַרְצָם 3|
-|bE'ErEcEmE|
+|bsv'arsvcAm|
 
  * אזכרה 3: 
 
 |אֶזְכְּרָה 3|
 |-|
 |אֶזְכְּרָה 3|
-|'EzEkErEhE|
+|'ezsvksvrAh|
 
  * שתו 3: 
 
 |שַׁתּוּ 2|שָׁתוּ 1|
 |-|-|
 |שַׁתוּ 2|שָׁתוּ 1|
-|šEtEuE|šEtEuE|
+|šatu|šAtu|
 
  * ישועתך 3: 
 
 |יְשׁוּעָתְךָ 1|יְשׁוּעָתֶךָ 2|
 |-|-|
 |יְשׁוּעָתְךָ 1|יְשׁוּעָתֶךָ 2|
-|yEšEuEɣEtExE|yEšEuEɣEtExE|
+|ysvšuɣAtsvxA|ysvšuɣAtexA|
 
  * פלאך 3: 
 
 |פִּלְאֶךָ 2|פִּלְאֲךָ 1|
 |-|-|
 |פִּלְאֶךָ 2|פִּלְאֲךָ 1|
-|pElE'ExE|pElE'ExE|
+|pilsv'exA|pilsv'axA|
 
  * מחץ 3: 
 
 |מֵחֵץ 1|מָחַץ 2|
 |-|-|
 |מֵחֵץ 1|מָחַץ 2|
-|mEHEcE|mEHEcE|
+|mEHEc|mAHac|
 
  * אתבונן 3: 
 
 |אֶתְבּוֹנָן 3|
 |-|
 |אֶתְבּוֹֹנָן 3|
-|'EtEbEwEnEnE|
+|'etsvbwonAn|
 
  * כל־אפסי־ארץ 3: 
 
 |כָּל־אַפְסֵי־אָרֶץ 2|כָל־אַפְסֵי־אָרֶץ 1|
 |-|-|
 |כָּל־אַפְסֵי־אָרֶץ 2|כָל־אַפְסֵי־אָרֶץ 1|
-|kElE־E'EfEsEyE־E'ErEcE|xElE־E'EfEsEyE־E'ErEcE|
+|kAl־'afsvsEy־'Arec|xAl־'afsvsEy־'Arec|
 
  * אכן 3: 
 
 |אָכֵן 3|
 |-|
 |אָכֵן 3|
-|'ExEnE|
+|'AxEn|
 
  * מושב 3: 
 
 |מוֹשָׁב 3|
 |-|
 |מוֹֹשָׁב 3|
-|mEwEšEvE|
+|mwošAv|
 
  * עזרי 3: 
 
 |עֶזְרִי 3|
 |-|
 |עֶזְרִי 3|
-|ɣEzErEyE|
+|ɣezsvriy|
 
  * כל־אדם 3: 
 
 |כָּל־אָדָם 3|
 |-|
 |כָּל־אָדָם 3|
-|kElE־E'EdEmE|
+|kAl־'AdAm|
 
  * יספר 3: 
 
 |יְסַפֵּר 1|יְסֻפַּר 1|יִסְפֹּר 1|
 |-|-|-|
 |יְסַפֵּר 1|יְסֻפַּר 1|יִסְפֹּר 1|
-|yEsEpErE|yEsEpErE|yEsEpErE|
+|ysvsapEr|ysvsupar|yissvpor|
 
  * ארוממך 3: 
 
 |אֲרוֹמִמְךָ 2|אֲרוֹמְמֶךָּ 1|
 |-|-|
 |אֲרוֹֹמִמְךָ 2|אֲרוֹֹמְמֶךָּ 1|
-|'ErEwEmEmExE|'ErEwEmEmEkE|
+|'arwomimsvxA|'arwomsvmekA|
 
  * משיחך 3: 
 
 |מְשִׁיחֶךָ 3|
 |-|
 |מְשִׁיחֶךָ 3|
-|mEšEyEHExE|
+|msvšiyHexA|
 
  * מלכותך 3: 
 
 |מַלְכוּתְךָ 2|מַלְכוּתֶךָ 1|
 |-|-|
 |מַלְכוּתְךָ 2|מַלְכוּתֶךָ 1|
-|mElExEuEtExE|mElExEuEtExE|
+|malsvxutsvxA|malsvxutexA|
 
  * משמן 3: 
 
 |מִשֶּׁמֶן 1|מִשָּׁמֶן 2|
 |-|-|
 |מִשֶׁמֶן 1|מִשָׁמֶן 2|
-|mEšEmEnE|mEšEmEnE|
+|mišemen|mišAmen|
 
  * אתי 3: 
 
 |אִתִּי 3|
 |-|
 |אִתִי 3|
-|'EtEyE|
+|'itiy|
 
  * עזרנו 3: 
 
 |עֶזְרֵנוּ 2|עָזְרֵנוּ 1|
 |-|-|
 |עֶזְרֵנוּ 2|עָזְרֵנוּ 1|
-|ɣEzErEnEuE|ɣEzErEnEuE|
+|ɣezsvrEnu|ɣAzsvrEnu|
 
  * ששון 3: 
 
 |שָׂשׂוֹן 2|שְׂשׂוֹן 1|
 |-|-|
 |שָׂשׂוֹֹן 2|שְׂשׂוֹֹן 1|
-|SESEwEnE|SESEwEnE|
+|SASwon|SsvSwon|
 
  * ואתנה 3: 
 
 |וָאֶתְּנָה 1|וְאֶתֵּנָה 1|וְאֶתְּנָה 1|
 |-|-|-|
 |וָאֶתְנָה 1|וְאֶתֵנָה 1|וְאֶתְנָה 1|
-|wE'EtEnEhE|wE'EtEnEhE|wE'EtEnEhE|
+|wA'etsvnAh|wsv'etEnAh|wsv'etsvnAh|
 
  * בני־נכר 3: 
 
 |בְּנֵי־נֵכָר 3|
 |-|
 |בְּנֵי־נֵכָר 3|
-|bEnEyE־EnExErE|
+|bsvnEy־nExAr|
 
  * רענן 3: 
 
 |רַעֲנָן 3|
 |-|
 |רַעֲנָן 3|
-|rEɣEnEnE|
+|raɣanAn|
 
  * שפט 3: 
 
 |שֹׁפֵט 3|
 |-|
 |שֹׁפֵט 3|
-|šEfETE|
+|šofET|
 
  * חרבות 3: 
 
 |חֲרָבוֹת 1|חֳרָבוֹת 2|
 |-|-|
 |חֲרָבוֹֹת 1|חֳרָבוֹֹת 2|
-|HErEvEwEtE|HErEvEwEtE|
+|HarAvwot|HArAvwot|
 
  * סוד 3: 
 
 |סוֹד 3|
 |-|
 |סוֹֹד 3|
-|sEwEdE|
+|swod|
 
  * בנבל 3: 
 
 |בְּנֵבֶל 3|
 |-|
 |בְּנֵבֶל 3|
-|bEnEvElE|
+|bsvnEvel|
 
  * בחר 3: 
 
 |בָחָר 1|בָּחַר 2|
 |-|-|
 |בָחָר 1|בָּחַר 2|
-|vEHErE|bEHErE|
+|vAHAr|bAHar|
 
  * וכסאו 3: 
 
 |וְכִסְאוֹ 3|
 |-|
 |וְכִסְאוֹֹ 3|
-|wExEsE'EwE|
+|wsvxissv'wo|
 
  * אדבר 3: 
 
 |אֲדַבֵּר 3|
 |-|
 |אֲדַבֵּר 3|
-|'EdEbErE|
+|'adabEr|
 
  * גדלים 3: 
 
 |גְּדֹלִים 3|
 |-|
 |גְדֹלִים 3|
-|gEdElEyEmE|
+|gsvdoliym|
 
  * החיים 3: 
 
 |הַחַיִּים 3|
 |-|
 |הַחַיִים 3|
-|hEHEyEyEmE|
+|haHayiym|
 
  * יתום 3: 
 
 |יָתוֹם 3|
 |-|
 |יָתוֹֹם 3|
-|yEtEwEmE|
+|yAtwom|
 
  * חמתך 3: 
 
 |חֲמָתְךָ 1|חֲמָתֶךָ 2|
 |-|-|
 |חֲמָתְךָ 1|חֲמָתֶךָ 2|
-|HEmEtExE|HEmEtExE|
+|HamAtsvxA|HamAtexA|
 
  * חפץ 3: 
 
 |חָפֵץ 3|
 |-|
 |חָפֵץ 3|
-|HEfEcE|
+|HAfEc|
 
  * יציץ 3: 
 
 |יָצִיץ 3|
 |-|
 |יָצִיץ 3|
-|yEcEyEcE|
+|yAciyc|
 
  * ולי 3: 
 
 |וְלִי 3|
 |-|
 |וְלִי 3|
-|wElEyE|
+|wsvliy|
 
  * נתנו 3: 
 
 |נָתְנוּ 3|
 |-|
 |נָתְנוּ 3|
-|nEtEnEuE|
+|nAtsvnu|
 
  * באהליהם 3: 
 
 |בְּאָהֳלֵיהֶם 2|בְאָהֳלֵיהֶם 1|
 |-|-|
 |בְּאָהֳלֵיהֶם 2|בְאָהֳלֵיהֶם 1|
-|bE'EhElEyEhEmE|vE'EhElEyEhEmE|
+|bsv'AhAlEyhem|vsv'AhAlEyhem|
 
  * ויגידו 3: 
 
 |וַיַּגִּידוּ 2|וְיַגִּידוּ 1|
 |-|-|
 |וַיַגִידוּ 2|וְיַגִידוּ 1|
-|wEyEgEyEdEuE|wEyEgEyEdEuE|
+|wayagiydu|wsvyagiydu|
 
  * תרועה 3: 
 
 |תְרוּעָה 3|
 |-|
 |תְרוּעָה 3|
-|tErEuEɣEhE|
+|tsvruɣAh|
 
  * צוית 3: 
 
 |צִוִּיתָ 3|
 |-|
 |צִוִּיתָ 3|
-|cEuEyEtE|
+|ciuiytA|
 
  * יוסף 3: 
 
 |יוֹסֵף 3|
 |-|
 |יוֹֹסֵף 3|
-|yEwEsEfE|
+|ywosEf|
 
  * במסתרים 3: 
 
 |בְּמִסְתָּרִים 1|בַּמִּסְתָּרִים 2|
 |-|-|
 |בְּמִסְתָרִים 1|בַּמִסְתָרִים 2|
-|bEmEsEtErEyEmE|bEmEsEtErEyEmE|
+|bsvmissvtAriym|bamissvtAriym|
 
  * זרע 3: 
 
 |זֶרַע 2|זָרֻעַ 1|
 |-|-|
 |זֶרַע 2|זָרֻעַ 1|
-|zErEɣE|zErEɣE|
+|zeraɣ|zAruɣa|
 
  * רצון 3: 
 
 |רָצוֹן 3|
 |-|
 |רָצוֹֹן 3|
-|rEcEwEnE|
+|rAcwon|
 
  * זרעו 3: 
 
 |זַרְעוֹ 3|
 |-|
 |זַרְעוֹֹ 3|
-|zErEɣEwE|
+|zarsvɣwo|
 
  * למלך 3: 
 
 |לַמֶּלֶךְ 1|לְמֶלֶךְ 2|
 |-|-|
 |לַמֶלֶךְ 1|לְמֶלֶךְ 2|
-|lEmElExE|lEmElExE|
+|lamelexsv|lsvmelexsv|
 
  * כי־אני 3: 
 
 |כִּי־אֲנִי 3|
 |-|
 |כִּי־אֲנִי 3|
-|kEyE־E'EnEyE|
+|kiy־'aniy|
 
  * רגלך 3: 
 
 |רַגְלֶךָ 2|רַגְלְךָ 1|
 |-|-|
 |רַגְלֶךָ 2|רַגְלְךָ 1|
-|rEgElExE|rEgElExE|
+|ragsvlexA|ragsvlsvxA|
 
  * אל־תשכח 3: 
 
 |אַל־תִּשְׁכַּח 3|
 |-|
 |אַל־תִשְׁכַּח 3|
-|'ElE־EtEšEkEHE|
+|'al־tišsvkaH|
 
  * מחשבות 3: 
 
 |מַחְשְׁבוֹת 3|
 |-|
 |מַחְשְׁבוֹֹת 3|
-|mEHEšEvEwEtE|
+|maHsvšsvvwot|
 
  * תברך 3: 
 
 |תְּבָרֵךְ 2|תְבָרֵךְ 1|
 |-|-|
 |תְבָרֵךְ 2|תְבָרֵךְ 1|
-|tEvErExE|tEvErExE|
+|tsvvArExsv|tsvvArExsv|
 
  * מבטח 3: 
 
 |מִבְטָח 1|מִבְּטֹחַ 2|
 |-|-|
 |מִבְטָח 1|מִבְּטֹחַ 2|
-|mEvETEHE|mEbETEHE|
+|mivsvTAH|mibsvToHa|
 
  * באמת 3: 
 
 |בֶּאֱמֶת 2|בֶאֱמֶת 1|
 |-|-|
 |בֶּאֱמֶת 2|בֶאֱמֶת 1|
-|bE'EmEtE|vE'EmEtE|
+|be'emet|ve'emet|
 
  * ועשה־טוב 3: 
 
 |וַעֲשֵׂה־טוֹב 3|
 |-|
 |וַעֲשֵׂה־טוֹֹב 3|
-|wEɣESEhE־ETEwEvE|
+|waɣaSEh־Twov|
 
  * מאת 3: 
 
 |מֵאֵת 3|
 |-|
 |מֵאֵת 3|
-|mE'EtE|
+|mE'Et|
 
  * זרוע 3: 
 
 |זְרוֹעַ 3|
 |-|
 |זְרוֹֹעַ 3|
-|zErEwEɣE|
+|zsvrwoɣa|
 
  * עניים 3: 
 
 |עֲנִיִּים 1|עניים 2|
 |-|-|
 |עֲנִיִים 1|עניים 2|
-|ɣEnEyEyEmE|ɣEnEyEyEmE|
+|ɣaniyiym|ɣnyym|
 
  * צרתי 3: 
 
 |צָרָתִי 3|
 |-|
 |צָרָתִי 3|
-|cErEtEyE|
+|cArAtiy|
 
  * עניתני 3: 
 
 |עֲנִיתָנִי 2|עִנִּיתָנִי 1|
 |-|-|
 |עֲנִיתָנִי 2|עִנִיתָנִי 1|
-|ɣEnEyEtEnEyE|ɣEnEyEtEnEyE|
+|ɣaniytAniy|ɣiniytAniy|
 
  * נצרתי 3: 
 
 |נָצָרְתִּי 3|
 |-|
 |נָצָרְתִי 3|
-|nEcErEtEyE|
+|nAcArsvtiy|
 
  * אהבת 3: 
 
 |אָהַבְתָּ 3|
 |-|
 |אָהַבְתָ 3|
-|'EhEvEtE|
+|'AhavsvtA|
 
  * בחצרות 3: 
 
 |בְּחַצְרוֹת 3|
 |-|
 |בְּחַצְרוֹֹת 3|
-|bEHEcErEwEtE|
+|bsvHacsvrwot|
 
  * פחד 3: 
 
 |פָחַד 2|פָּחַד 1|
 |-|-|
 |פָחַד 2|פָּחַד 1|
-|fEHEdE|pEHEdE|
+|fAHad|pAHad|
 
  * עזר 3: 
 
 |עֹזֵר 2|עֵזֶר 1|
 |-|-|
 |עֹזֵר 2|עֵזֶר 1|
-|ɣEzErE|ɣEzErE|
+|ɣozEr|ɣEzer|
 
  * האמנתי 3: 
 
 |הֶאֱמַנְתִּי 2|הֶאֱמָנְתִּי 1|
 |-|-|
 |הֶאֱמַנְתִי 2|הֶאֱמָנְתִי 1|
-|hE'EmEnEtEyE|hE'EmEnEtEyE|
+|he'emansvtiy|he'emAnsvtiy|
 
  * ויוצא 3: 
 
 |וַיּוֹצִא 2|וַיּוֹצֵא 1|
 |-|-|
 |וַיוֹֹצִא 2|וַיוֹֹצֵא 1|
-|wEyEwEcE'E|wEyEwEcE'E|
+|waywoci'|waywocE'|
 
  * רדפי 3: 
 
 |רֹדְפֵי 1|רֹדְפַי 1|רֹדְפָי 1|
 |-|-|-|
 |רֹדְפֵי 1|רֹדְפַי 1|רֹדְפָי 1|
-|rEdEfEyE|rEdEfEyE|rEdEfEyE|
+|rodsvfEy|rodsvfay|rodsvfAy|
 
  * חפצי 3: 
 
 |חֲפֵצֵי 3|
 |-|
 |חֲפֵצֵי 3|
-|HEfEcEyE|
+|HafEcEy|
 
  * צריו 3: 
 
 |צָרָיו 3|
 |-|
 |צָרָיו 3|
-|cErEyEwE|
+|cArAyw|
 
  * ברך 3: 
 
 |בֵּרֵךְ 1|בָּרֵךְ 1|בֵּרַךְ 1|
 |-|-|-|
 |בֵּרֵךְ 1|בָּרֵךְ 1|בֵּרַךְ 1|
-|bErExE|bErExE|bErExE|
+|bErExsv|bArExsv|bEraxsv|
 
  * על־ישראל 3: 
 
 |עַל־יִשְׂרָאֵל 3|
 |-|
 |עַל־יִשְׂרָאֵל 3|
-|ɣElE־EyESErE'ElE|
+|ɣal־yiSsvrA'El|
 
  * משגב 3: 
 
 |מִשְׂגָּב 3|
 |-|
 |מִשְׂגָב 3|
-|mESEgEvE|
+|miSsvgAv|
 
  * נשאו 3: 
 
 |נָשְׂאוּ 3|
 |-|
 |נָשְׂאוּ 3|
-|nESE'EuE|
+|nASsv'u|
 
  * עזרם 3: 
 
 |עֶזְרָם 3|
 |-|
 |עֶזְרָם 3|
-|ɣEzErEmE|
+|ɣezsvrAm|
 
  * תשיתמו 3: 
 
 |תְּשִׁיתֵמוֹ 3|
 |-|
 |תְשִׁיתֵמוֹֹ 3|
-|tEšEyEtEmEwE|
+|tsvšiytEmwo|
 
  * כסף 3: 
 
 |כֶּסֶף 3|
 |-|
 |כֶּסֶף 3|
-|kEsEfE|
+|kesef|
 
  * ויכלמו 3: 
 
 |וְיִכָּלְמוּ 3|
 |-|
 |וְיִכָּלְמוּ 3|
-|wEyEkElEmEuE|
+|wsvyikAlsvmu|
 
  * בידך 3: 
 
 |בְּיָדֶךָ 1|בְּיָדְךָ 2|
 |-|-|
 |בְּיָדֶךָ 1|בְּיָדְךָ 2|
-|bEyEdExE|bEyEdExE|
+|bsvyAdexA|bsvyAdsvxA|
 
  * לא־ידעתי 3: 
 
 |לֹא־יָדַעְתִּי 3|
 |-|
 |לֹא־יָדַעְתִי 3|
-|lE'E־EyEdEɣEtEyE|
+|lo'־yAdaɣsvtiy|
 
  * אכלם 3: 
 
 |אָכְלָם 3|
 |-|
 |אָכְלָם 3|
-|'ExElEmE|
+|'AxsvlAm|
 
  * בלבי 3: 
 
 |בְלִבִּי 2|בְּלִבִּי 1|
 |-|-|
 |בְלִבִּי 2|בְּלִבִּי 1|
-|vElEbEyE|bElEbEyE|
+|vsvlibiy|bsvlibiy|
 
  * נצב 3: 
 
 |נִצָּב 3|
 |-|
 |נִצָב 3|
-|nEcEvE|
+|nicAv|
 
  * לצור 3: 
 
 |לְצוּר 3|
 |-|
 |לְצוּר 3|
-|lEcEuErE|
+|lsvcur|
 
  * ומגנם 3: 
 
 |וּמָגִנָּם 3|
 |-|
 |וּמָגִנָם 3|
-|uEmEgEnEmE|
+|umAginAm|
 
  * בצל 3: 
 
 |בְּצֵל 3|
 |-|
 |בְּצֵל 3|
-|bEcElE|
+|bsvcEl|
 
  * מיהוה 3: 
 
 |מֵיְהוָה 3|
 |-|
 |מֵיְהוָה 3|
-|mEyEhEwEhE|
+|mEysvhwAh|
 
  * משנאי 3: 
 
 |מְשַׂנְאֵי 1|מִשֹּׂנְאַי 1|מִשֹּׂנְאָי 1|
 |-|-|-|
 |מְשַׂנְאֵי 1|מִשֹׂנְאַי 1|מִשֹׂנְאָי 1|
-|mESEnE'EyE|mESEnE'EyE|mESEnE'EyE|
+|msvSansv'Ey|miSonsv'ay|miSonsv'Ay|
 
  * בבית־יהוה 3: 
 
 |בְּבֵית־יְהוָה 3|
 |-|
 |בְּבֵית־יְהוָה 3|
-|bEvEyEtE־EyEhEwEhE|
+|bsvvEyt־ysvhwAh|
 
  * תרום 3: 
 
 |תָּרוּם 3|
 |-|
 |תָרוּם 3|
-|tErEuEmE|
+|tArum|
 
  * וצדיק 3: 
 
 |וְצַדִּיק 3|
 |-|
 |וְצַדִיק 3|
-|wEcEdEyEqE|
+|wsvcadiyq|
 
  * אכלו 3: 
 
 |אָכְלוּ 3|
 |-|
 |אָכְלוּ 3|
-|'ExElEuE|
+|'Axsvlu|
 
  * ענן 3: 
 
 |עָנָן 3|
 |-|
 |עָנָן 3|
-|ɣEnEnE|
+|ɣAnAn|
 
  * משך 3: 
 
 |מְשֹׁךְ 1|מֶשֶׁךְ 1|מֹשֵׁךְ 1|
 |-|-|-|
 |מְשֹׁךְ 1|מֶשֶׁךְ 1|מֹשֵׁךְ 1|
-|mEšExE|mEšExE|mEšExE|
+|msvšoxsv|mešexsv|mošExsv|
 
  * במים 3: 
 
 |בַמַּיִם 1|בְּמַיִם 2|
 |-|-|
 |בַמַיִם 1|בְּמַיִם 2|
-|vEmEyEmE|bEmEyEmE|
+|vamayim|bsvmayim|
 
  * ומהלל 3: 
 
 |וּמְהֻלָּל 3|
 |-|
 |וּמְהֻלָל 3|
-|uEmEhElElE|
+|umsvhulAl|
 
  * כי־אין 3: 
 
 |כִּי־אֵין 3|
 |-|
 |כִּי־אֵין 3|
-|kEyE־E'EyEnE|
+|kiy־'Eyn|
 
  * סערה 3: 
 
 |סְעָרָה 3|
 |-|
 |סְעָרָה 3|
-|sEɣErEhE|
+|ssvɣArAh|
 
  * לבית 3: 
 
 |לְבֵית 3|
 |-|
 |לְבֵית 3|
-|lEvEyEtE|
+|lsvvEyt|
 
  * בחיי 3: 
 
 |בְּחַיָּי 2|בְחַיָּי 1|
 |-|-|
 |בְּחַיָי 2|בְחַיָי 1|
-|bEHEyEyE|vEHEyEyE|
+|bsvHayAy|vsvHayAy|
 
  * על־יראיו 3: 
 
 |עַל־יְרֵאָיו 3|
 |-|
 |עַל־יְרֵאָיו 3|
-|ɣElE־EyErE'EyEwE|
+|ɣal־ysvrE'Ayw|
 
  * ואון 3: 
 
 |וָאָוֶן 2|וְאָוֶן 1|
 |-|-|
 |וָאָוֶן 2|וְאָוֶן 1|
-|wE'EwEnE|wE'EwEnE|
+|wA'Awen|wsv'Awen|
 
  * יהמו 3: 
 
 |יֶהֱמוּ 3|
 |-|
 |יֶהֱמוּ 3|
-|yEhEmEuE|
+|yehemu|
 
  * ארצם 3: 
 
 |אַרְצָם 3|
 |-|
 |אַרְצָם 3|
-|'ErEcEmE|
+|'arsvcAm|
 
  * שמעת 3: 
 
 |שָׁמַעְתָּ 3|
 |-|
 |שָׁמַעְתָ 3|
-|šEmEɣEtE|
+|šAmaɣsvtA|
 
  * מקול 3: 
 
 |מִקּוֹל 3|
 |-|
 |מִקוֹֹל 3|
-|mEqEwElE|
+|miqwol|
 
  * הביט 3: 
 
 |הִבִּיט 2|הַבֵּיט 1|
 |-|-|
 |הִבִּיט 2|הַבֵּיט 1|
-|hEbEyETE|hEbEyETE|
+|hibiyT|habEyT|
 
  * נטוי 3: 
 
 |נטוי 1|נָטוּי 2|
 |-|-|
 |נטוי 1|נָטוּי 2|
-|nETEwEyE|nETEuEyE|
+|nTwy|nATuy|
 
  * דרשו 3: 
 
 |דָרָשׁוּ 1|דרשו 1|דִּרְשׁוּ 1|
 |-|-|-|
 |דָרָשׁוּ 1|דרשו 1|דִרְשׁוּ 1|
-|dErEšEuE|dErEשEwE|dErEšEuE|
+|dArAšu|drשw|dirsvšu|
 
  * ואמן 3: 
 
 |וְאָמֵן 3|
 |-|
 |וְאָמֵן 3|
-|wE'EmEnE|
+|wsv'AmEn|
 
  * שועתי 3: 
 
 |שַׁוְעָתִי 1|שִׁוַּעְתִּי 2|
 |-|-|
 |שַׁוְעָתִי 1|שִׁוַּעְתִי 2|
-|šEwEɣEtEyE|šEuEɣEtEyE|
+|šawsvɣAtiy|šiuaɣsvtiy|
 
  * מגני 3: 
 
 |מָגִנִּי 3|
 |-|
 |מָגִנִי 3|
-|mEgEnEyE|
+|mAginiy|
 
  * עזרתה 3: 
 
 |עֶזְרָתָה 3|
 |-|
 |עֶזְרָתָה 3|
-|ɣEzErEtEhE|
+|ɣezsvrAtAh|
 
  * על־ארץ 3: 
 
 |עַל־אֶרֶץ 3|
 |-|
 |עַל־אֶרֶץ 3|
-|ɣElE־E'ErEcE|
+|ɣal־'erec|
 
  * כל־ישרי־לב 3: 
 
 |כָּל־יִשְׁרֵי־לֵב 3|
 |-|
 |כָּל־יִשְׁרֵי־לֵב 3|
-|kElE־EyEšErEyE־ElEvE|
+|kAl־yišsvrEy־lEv|
 
  * וכבוד 3: 
 
 |וּכְבוֹד 1|וְכָבוֹד 2|
 |-|-|
 |וּכְבוֹֹד 1|וְכָבוֹֹד 2|
-|uExEvEwEdE|wExEvEwEdE|
+|uxsvvwod|wsvxAvwod|
 
  * ראיתי 3: 
 
 |רָאִיתִי 3|
 |-|
 |רָאִיתִי 3|
-|rE'EyEtEyE|
+|rA'iytiy|
 
  * בשלום 3: 
 
 |בַשָּׁלוֹם 1|בְשָׁלוֹם 1|בְּשָׁלוֹם 1|
 |-|-|-|
 |בַשָׁלוֹֹם 1|בְשָׁלוֹֹם 1|בְּשָׁלוֹֹם 1|
-|vEšElEwEmE|vEšElEwEmE|bEšElEwEmE|
+|vašAlwom|vsvšAlwom|bsvšAlwom|
 
  * יודע 3: 
 
 |יוֹדֵעַ 1|יִוָּדַע 2|
 |-|-|
 |יוֹֹדֵעַ 1|יִוָּדַע 2|
-|yEwEdEɣE|yEuEdEɣE|
+|ywodEɣa|yiuAdaɣ|
 
  * שמרתי 3: 
 
 |שָׁמַרְתִּי 2|שָׁמָרְתִּי 1|
 |-|-|
 |שָׁמַרְתִי 2|שָׁמָרְתִי 1|
-|šEmErEtEyE|šEmErEtEyE|
+|šAmarsvtiy|šAmArsvtiy|
 
  * הן 3: 
 
 |הֵן 3|
 |-|
 |הֵן 3|
-|hEnE|
+|hEn|
 
  * כל־העמים 3: 
 
 |כָל־הָעַמִּים 1|כָּל־הָעַמִּים 2|
 |-|-|
 |כָל־הָעַמִים 1|כָּל־הָעַמִים 2|
-|xElE־EhEɣEmEyEmE|kElE־EhEɣEmEyEmE|
+|xAl־hAɣamiym|kAl־hAɣamiym|
 
  * הר־ציון 3: 
 
 |הַר־צִיּוֹן 3|
 |-|
 |הַר־צִיוֹֹן 3|
-|hErE־EcEyEwEnE|
+|har־ciywon|
 
  * וזרעו 3: 
 
 |וְזַרְעוֹ 3|
 |-|
 |וְזַרְעוֹֹ 3|
-|wEzErEɣEwE|
+|wsvzarsvɣwo|
 
  * אכל 3: 
 
 |אֹכֵל 1|אָכַל 2|
 |-|-|
 |אֹכֵל 1|אָכַל 2|
-|'ExElE|'ExElE|
+|'oxEl|'Axal|
 
  * ביתי 3: 
 
 |בֵּיתִי 3|
 |-|
 |בֵּיתִי 3|
-|bEyEtEyE|
+|bEytiy|
 
  * רוחו 3: 
 
 |רוּחוֹ 3|
 |-|
 |רוּחוֹֹ 3|
-|rEuEHEwE|
+|ruHwo|
 
  * מקצה 3: 
 
 |מִקְצֵה 3|
 |-|
 |מִקְצֵה 3|
-|mEqEcEhE|
+|miqsvcEh|
 
  * מה־יעשה 3: 
 
 |מַה־יַּעֲשֶׂה 3|
 |-|
 |מַה־יַעֲשֶׂה 3|
-|mEhE־EyEɣESEhE|
+|mah־yaɣaSeh|
 
  * יקח 3: 
 
 |יִקָּח 1|יִקַּח 2|
 |-|-|
 |יִקָח 1|יִקַח 2|
-|yEqEHE|yEqEHE|
+|yiqAH|yiqaH|
 
  * בשמן 3: 
 
 |בְּשֶׁמֶן 2|בַשֶּׁמֶן 1|
 |-|-|
 |בְּשֶׁמֶן 2|בַשֶׁמֶן 1|
-|bEšEmEnE|vEšEmEnE|
+|bsvšemen|vašemen|
 
  * גר 3: 
 
 |גָּר 1|גֵּר 1|גֵר 1|
 |-|-|-|
 |גָר 1|גֵר 1|גֵר 1|
-|gErE|gErE|gErE|
+|gAr|gEr|gEr|
 
  * יאמר־נא 3: 
 
 |יֹאמַר־נָא 3|
 |-|
 |יֹאמַר־נָא 3|
-|yE'EmErE־EnE'E|
+|yo'mar־nA'|
 
  * ראינו 3: 
 
 |רָאִינוּ 3|
 |-|
 |רָאִינוּ 3|
-|rE'EyEnEuE|
+|rA'iynu|
 
  * לבדו 3: 
 
 |לְבַדּוֹ 3|
 |-|
 |לְבַדוֹֹ 3|
-|lEvEdEwE|
+|lsvvadwo|
 
  * כאשר 3: 
 
 |כַּאֲשֶׁר 3|
 |-|
 |כַּאֲשֶׁר 3|
-|kE'EšErE|
+|ka'ašer|
 
  * גאוה 3: 
 
 |גַּאֲוָה 1|גַאֲוָה 2|
 |-|-|
 |גַאֲוָה 1|גַאֲוָה 2|
-|gE'EwEhE|gE'EwEhE|
+|ga'awAh|ga'awAh|
 
  * יהיה 3: 
 
 |יִהְיֶה 3|
 |-|
 |יִהְיֶה 3|
-|yEhEyEhE|
+|yihsvyeh|
 
  * הכל 3: 
 
 |הַכֹּל 3|
 |-|
 |הַכֹּל 3|
-|hEkElE|
+|hakol|
 
  * לעת 3: 
 
 |לְעֵת 3|
 |-|
 |לְעֵת 3|
-|lEɣEtE|
+|lsvɣEt|
 
  * שמת 3: 
 
 |שַׂמְתָּ 3|
 |-|
 |שַׂמְתָ 3|
-|SEmEtE|
+|SamsvtA|
 
  * אודנו 3: 
 
 |אוֹדֶנּוּ 3|
 |-|
 |אוֹֹדֶנוּ 3|
-|'EwEdEnEuE|
+|'wodenu|
 
  * כמוך 3: 
 
 |כָמוֹךָ 3|
 |-|
 |כָמוֹֹךָ 3|
-|xEmEwExE|
+|xAmwoxA|
 
  * שרי 3: 
 
 |שָׂרֵי 3|
 |-|
 |שָׂרֵי 3|
-|SErEyE|
+|SArEy|
 
  * ישעך 3: 
 
 |יִשְׁעֶךָ 3|
 |-|
 |יִשְׁעֶךָ 3|
-|yEšEɣExE|
+|yišsvɣexA|
 
  * הבל 3: 
 
 |הֶבֶל 2|הָבֶל 1|
 |-|-|
 |הֶבֶל 2|הָבֶל 1|
-|hEvElE|hEvElE|
+|hevel|hAvel|
 
  * דבריך 3: 
 
 |דְּבָרֶיךָ 2|דְבָרֶיךָ 1|
 |-|-|
 |דְבָרֶיךָ 2|דְבָרֶיךָ 1|
-|dEvErEyExE|dEvErEyExE|
+|dsvvAreyxA|dsvvAreyxA|
 
  * ולבי 3: 
 
 |וְלִבִּי 3|
 |-|
 |וְלִבִּי 3|
-|wElEbEyE|
+|wsvlibiy|
 
  * על־כל־אלהים 3: 
 
 |עַל־כָּל־אֱלֹהִים 3|
 |-|
 |עַל־כָּל־אֱלֹהִים 3|
-|ɣElE־EkElE־E'ElEhEyEmE|
+|ɣal־kAl־'elohiym|
 
  * ויעמד 3: 
 
 |וַיַּעֲמֹד 2|וַיַּעֲמֵד 1|
 |-|-|
 |וַיַעֲמֹד 2|וַיַעֲמֵד 1|
-|wEyEɣEmEdE|wEyEɣEmEdE|
+|wayaɣamod|wayaɣamEd|
 
  * ורחום 3: 
 
 |וְרַחוּם 3|
 |-|
 |וְרַחוּם 3|
-|wErEHEuEmE|
+|wsvraHum|
 
  * יראת 3: 
 
 |יִרְאַת 3|
 |-|
 |יִרְאַת 3|
-|yErE'EtE|
+|yirsv'at|
 
  * לעשה 3: 
 
 |לְעֹשֵׂה 3|
 |-|
 |לְעֹשֵׂה 3|
-|lEɣESEhE|
+|lsvɣoSEh|
 
  * על־הגתית 3: 
 
 |עַל־הַגִּתִּית 3|
 |-|
 |עַל־הַגִתִית 3|
-|ɣElE־EhEgEtEyEtE|
+|ɣal־hagitiyt|
 
  * אלוהי 3: 
 
 |אֱלוֹהָי 1|אֱלוֹהֵי 1|אֱלוֹהַי 1|
 |-|-|-|
 |אֱלוֹֹהָי 1|אֱלוֹֹהֵי 1|אֱלוֹֹהַי 1|
-|'ElEwEhEyE|'ElEwEhEyE|'ElEwEhEyE|
+|'elwohAy|'elwohEy|'elwohay|
 
  * היינו 3: 
 
 |הָיִינוּ 3|
 |-|
 |הָיִינוּ 3|
-|hEyEyEnEuE|
+|hAyiynu|
 
  * לה 3: 
 
 |לָהּ 3|
 |-|
 |לָה 3|
-|lEhE|
+|lAh|
 
  * אדע 3: 
 
 |אֵדָע 3|
 |-|
 |אֵדָע 3|
-|'EdEɣE|
+|'EdAɣ|
 
  * קדר 3: 
 
 |קֵדָר 1|קֹדֵר 2|
 |-|-|
 |קֵדָר 1|קֹדֵר 2|
-|qEdErE|qEdErE|
+|qEdAr|qodEr|
 
  * זנחתנו 3: 
 
 |זְנַחְתָּנוּ 3|
 |-|
 |זְנַחְתָנוּ 3|
-|zEnEHEtEnEuE|
+|zsvnaHsvtAnu|
 
  * בגאות 3: 
 
 |בְגֵאוּת 1|בְּגַאֲוַת 1|בְּגֵאוּת 1|
 |-|-|-|
 |בְגֵאוּת 1|בְּגַאֲוַת 1|בְּגֵאוּת 1|
-|vEgE'EuEtE|bEgE'EwEtE|bEgE'EuEtE|
+|vsvgE'ut|bsvga'awat|bsvgE'ut|
 
  * טרף 3: 
 
 |טֶרֶף 2|טֹרֵף 1|
 |-|-|
 |טֶרֶף 2|טֹרֵף 1|
-|TErEfE|TErEfE|
+|Teref|TorEf|
 
  * ורב־חסד 3: 
 
 |וְרַב־חֶסֶד 2|וְרַב־חָסֶד 1|
 |-|-|
 |וְרַב־חֶסֶד 2|וְרַב־חָסֶד 1|
-|wErEvE־EHEsEdE|wErEvE־EHEsEdE|
+|wsvrav־Hesed|wsvrav־HAsed|
 
  * תשב 3: 
 
 |תָּשֵׁב 1|תֵּשֵׁב 2|
 |-|-|
 |תָשֵׁב 1|תֵשֵׁב 2|
-|tEšEvE|tEšEvE|
+|tAšEv|tEšEv|
 
  * תעמד 3: 
 
 |תַעֲמֹד 1|תַּעֲמֹד 2|
 |-|-|
 |תַעֲמֹד 1|תַעֲמֹד 2|
-|tEɣEmEdE|tEɣEmEdE|
+|taɣamod|taɣamod|
 
  * מרשעים 3: 
 
 |מֵרְשָׁעִים 3|
 |-|
 |מֵרְשָׁעִים 3|
-|mErEšEɣEyEmE|
+|mErsvšAɣiym|
 
  * לספר 3: 
 
 |לְסַפֵּר 3|
 |-|
 |לְסַפֵּר 3|
-|lEsEpErE|
+|lsvsapEr|
 
  * תשלח 3: 
 
 |תִּשְׁלַח 1|תְּשַׁלַּח 2|
 |-|-|
 |תִשְׁלַח 1|תְשַׁלַח 2|
-|tEšElEHE|tEšElEHE|
+|tišsvlaH|tsvšalaH|
 
  * שכם 3: 
 
 |שְׁכֶם 2|שֶׁכֶם 1|
 |-|-|
 |שְׁכֶם 2|שֶׁכֶם 1|
-|šExEmE|šExEmE|
+|šsvxem|šexem|
 
  * שנאה 3: 
 
 |שִׂנְאָה 2|שָׂנְאָה 1|
 |-|-|
 |שִׂנְאָה 2|שָׂנְאָה 1|
-|SEnE'EhE|SEnE'EhE|
+|Sinsv'Ah|SAnsv'Ah|
 
  * ועני 3: 
 
 |וְעָנִי 3|
 |-|
 |וְעָנִי 3|
-|wEɣEnEyE|
+|wsvɣAniy|
 
  * מרום 3: 
 
 |מָרוֹם 3|
 |-|
 |מָרוֹֹם 3|
-|mErEwEmE|
+|mArwom|
 
  * ונושעה 3: 
 
 |וְנִוָּשֵׁעָה 3|
 |-|
 |וְנִוָּשֵׁעָה 3|
-|wEnEuEšEɣEhE|
+|wsvniuAšEɣAh|
 
  * תראה 3: 
 
 |תִּרְאֶה 3|
 |-|
 |תִרְאֶה 3|
-|tErE'EhE|
+|tirsv'eh|
 
  * וימינם 3: 
 
 |וִימִינָם 3|
 |-|
 |וִימִינָם 3|
-|wEyEmEyEnEmE|
+|wiymiynAm|
 
  * פדני 3: 
 
 |פְּדֵנִי 3|
 |-|
 |פְּדֵנִי 3|
-|pEdEnEyE|
+|psvdEniy|
 
  * עתק 3: 
 
 |עָתָק 3|
 |-|
 |עָתָק 3|
-|ɣEtEqE|
+|ɣAtAq|
 
  * נאות 3: 
 
 |נְאוֹת 3|
 |-|
 |נְאוֹֹת 3|
-|nE'EwEtE|
+|nsv'wot|
 
  * מאיש 3: 
 
 |מֵאִישׁ 3|
 |-|
 |מֵאִישׁ 3|
-|mE'EyEšE|
+|mE'iyš|
 
  * לעפר 3: 
 
 |לֶעָפָר 3|
 |-|
 |לֶעָפָר 3|
-|lEɣEfErE|
+|leɣAfAr|
 
  * יצילם 3: 
 
 |יַצִּילֵם 3|
 |-|
 |יַצִילֵם 3|
-|yEcEyElEmE|
+|yaciylEm|
 
  * שחקים 3: 
 
 |שְׁחָקִים 3|
 |-|
 |שְׁחָקִים 3|
-|šEHEqEyEmE|
+|šsvHAqiym|
 
  * אמילם 3: 
 
 |אֲמִילַם 3|
 |-|
 |אֲמִילַם 3|
-|'EmEyElEmE|
+|'amiylam|
 
  * קויתי 3: 
 
 |קִוִּיתִי 3|
 |-|
 |קִוִּיתִי 3|
-|qEuEyEtEyE|
+|qiuiytiy|
 
  * תהלתי 3: 
 
 |תְהִלָּתִי 3|
 |-|
 |תְהִלָתִי 3|
-|tEhElEtEyE|
+|tsvhilAtiy|
 
  * עזו 3: 
 
 |עֻזּוֹ 3|
 |-|
 |עֻזוֹֹ 3|
-|ɣEzEwE|
+|ɣuzwo|
 
  * יספרו 3: 
 
 |יְסַפְּרוּ 1|יְסַפֵּרוּ 2|
 |-|-|
 |יְסַפְּרוּ 1|יְסַפֵּרוּ 2|
-|yEsEpErEuE|yEsEpErEuE|
+|ysvsapsvru|ysvsapEru|
 
  * בעיניו 3: 
 
 |בְּעֵינָיו 3|
 |-|
 |בְּעֵינָיו 3|
-|bEɣEyEnEyEwE|
+|bsvɣEynAyw|
 
  * על־המים 3: 
 
 |עַל־הַמָּיִם 3|
 |-|
 |עַל־הַמָיִם 3|
-|ɣElE־EhEmEyEmE|
+|ɣal־hamAyim|
 
  * חטאים 3: 
 
 |חַטָּאִים 3|
 |-|
 |חַטָאִים 3|
-|HETE'EyEmE|
+|HaTA'iym|
 
  * בעתו 3: 
 
 |בְּעִתּוֹ 3|
 |-|
 |בְּעִתוֹֹ 3|
-|bEɣEtEwE|
+|bsvɣitwo|
 
  * יהלך 3: 
 
 |יַהֲלֹךְ 2|יְהַלֵּךְ 1|
 |-|-|
 |יַהֲלֹךְ 2|יְהַלֵךְ 1|
-|yEhElExE|yEhElExE|
+|yahaloxsv|ysvhalExsv|
 
  * באדם 3: 
 
 |בָּאָדָם 3|
 |-|
 |בָּאָדָם 3|
-|bE'EdEmE|
+|bA'AdAm|
 
  * מפי 3: 
 
 |מִפִּי 3|
 |-|
 |מִפִּי 3|
-|mEpEyE|
+|mipiy|
 
  * פעל 3: 
 
 |פֹּעֵל 1|פֹּעַל 2|
 |-|-|
 |פֹּעֵל 1|פֹּעַל 2|
-|pEɣElE|pEɣElE|
+|poɣEl|poɣal|
 
  * השבת 3: 
 
 |הַשַּׁבָּת 1|הִשְׁבַּתָּ 2|
 |-|-|
 |הַשַׁבָּת 1|הִשְׁבַּתָ 2|
-|hEšEbEtE|hEšEbEtE|
+|hašabAt|hišsvbatA|
 
  * השיבנו 3: 
 
 |הֲשִׁיבֵנוּ 3|
 |-|
 |הֲשִׁיבֵנוּ 3|
-|hEšEyEvEnEuE|
+|hašiyvEnu|
 
  * מבני 3: 
 
 |מִבְּנֵי 3|
 |-|
 |מִבְּנֵי 3|
-|mEbEnEyE|
+|mibsvnEy|
 
  * צרופה 3: 
 
 |צְרוּפָה 2|צרופה 1|
 |-|-|
 |צְרוּפָה 2|צרופה 1|
-|cErEuEfEhE|cErEwEfEhE|
+|csvrufAh|crwfh|
 
  * נצח 3: 
 
 |נֶצַח 3|
 |-|
 |נֶצַח 3|
-|nEcEHE|
+|necaH|
 
  * צוררי 3: 
 
 |צוֹרְרָי 2|צוֹרְרִי 1|
 |-|-|
 |צוֹֹרְרָי 2|צוֹֹרְרִי 1|
-|cEwErErEyE|cEwErErEyE|
+|cworsvrAy|cworsvriy|
 
  * בשוב 3: 
 
 |בְּשׁוּב 3|
 |-|
 |בְּשׁוּב 3|
-|bEšEuEvE|
+|bsvšuv|
 
  * להדות 3: 
 
 |לְהֹדוֹת 3|
 |-|
 |לְהֹדוֹֹת 3|
-|lEhEdEwEtE|
+|lsvhodwot|
 
  * שמענו 3: 
 
 |שָׁמַעְנוּ 3|
 |-|
 |שָׁמַעְנוּ 3|
-|šEmEɣEnEuE|
+|šAmaɣsvnu|
 
  * מעשיו 3: 
 
 |מַעֲשָׂיו 3|
 |-|
 |מַעֲשָׂיו 3|
-|mEɣESEyEwE|
+|maɣaSAyw|
 
  * שומר 3: 
 
 |שׁוֹמֵר 3|
 |-|
 |שׁוֹֹמֵר 3|
-|šEwEmErE|
+|šwomEr|
 
  * אכלי 3: 
 
 |אֹכְלֵי 3|
 |-|
 |אֹכְלֵי 3|
-|'ExElEyE|
+|'oxsvlEy|
 
  * משה 3: 
 
 |מֹשֶׁה 3|
 |-|
 |מֹשֶׁה 3|
-|mEšEhE|
+|mošeh|
 
  * תשימנו 3: 
 
 |תְּשִׂימֵנוּ 3|
 |-|
 |תְשִׂימֵנוּ 3|
-|tESEyEmEnEuE|
+|tsvSiymEnu|
 
  * ירגזו 3: 
 
 |יִרְגְּזוּ 2|יִרְגָּזוּ 1|
 |-|-|
 |יִרְגְזוּ 2|יִרְגָזוּ 1|
-|yErEgEzEuE|yErEgEzEuE|
+|yirsvgsvzu|yirsvgAzu|
 
  * יפדה 3: 
 
 |יִפְדֶּה 3|
 |-|
 |יִפְדֶה 3|
-|yEfEdEhE|
+|yifsvdeh|
 
  * לישועתך 3: 
 
 |לִישׁוּעָתְךָ 2|לִישׁוּעָתֶךָ 1|
 |-|-|
 |לִישׁוּעָתְךָ 2|לִישׁוּעָתֶךָ 1|
-|lEyEšEuEɣEtExE|lEyEšEuEɣEtExE|
+|liyšuɣAtsvxA|liyšuɣAtexA|
 
  * אתהלך 3: 
 
 |אֶתְהַלֵּךְ 3|
 |-|
 |אֶתְהַלֵךְ 3|
-|'EtEhElExE|
+|'etsvhalExsv|
 
  * ישמעו 3: 
 
 |יִשְׁמָעוּ 1|יִשָּׁמְעוּ 1|יִשְׁמְעוּ 1|
 |-|-|-|
 |יִשְׁמָעוּ 1|יִשָׁמְעוּ 1|יִשְׁמְעוּ 1|
-|yEšEmEɣEuE|yEšEmEɣEuE|yEšEmEɣEuE|
+|yišsvmAɣu|yišAmsvɣu|yišsvmsvɣu|
 
  * בשר 3: 
 
 |בְּשַׂר 2|בָשָׂר 1|
 |-|-|
 |בְּשַׂר 2|בָשָׂר 1|
-|bESErE|vESErE|
+|bsvSar|vASAr|
 
  * וצאן 3: 
 
 |וְצֹאן 3|
 |-|
 |וְצֹאן 3|
-|wEcE'EnE|
+|wsvco'n|
 
  * בלשוני 3: 
 
 |בִלְשׁוֹנִי 1|בִּלְשׁוֹנִי 2|
 |-|-|
 |בִלְשׁוֹֹנִי 1|בִּלְשׁוֹֹנִי 2|
-|vElEšEwEnEyE|bElEšEwEnEyE|
+|vilsvšwoniy|bilsvšwoniy|
 
  * תשועתך 3: 
 
 |תְּשׁוּעָתְךָ 1|תְּשׁוּעָתֶךָ 2|
 |-|-|
 |תְשׁוּעָתְךָ 1|תְשׁוּעָתֶךָ 2|
-|tEšEuEɣEtExE|tEšEuEɣEtExE|
+|tsvšuɣAtsvxA|tsvšuɣAtexA|
 
  * לשמך 3: 
 
 |לִשְׁמֶךָ 2|לְשִׁמְךָ 1|
 |-|-|
 |לִשְׁמֶךָ 2|לְשִׁמְךָ 1|
-|lEšEmExE|lEšEmExE|
+|lišsvmexA|lsvšimsvxA|
 
  * ירא 3: 
 
 |יָרֵא 1|יְרֵא 2|
 |-|-|
 |יָרֵא 1|יְרֵא 2|
-|yErE'E|yErE'E|
+|yArE'|ysvrE'|
 
  * מעוני 3: 
 
 |מֵעוֹנִי 1|מֵעֲוֺנִי 2|
 |-|-|
 |מֵעוֹֹנִי 1|מֵעֲוֺנִי 2|
-|mEɣEwEnEyE|mEɣEwEnEyE|
+|mEɣwoniy|mEɣaw_o_niy|
 
  * גבעות 3: 
 
 |גְּבָעוֹת 3|
 |-|
 |גְבָעוֹֹת 3|
-|gEvEɣEwEtE|
+|gsvvAɣwot|
 
  * מעם 3: 
 
 |מֵעִם 1|מֵעַם 1|מֵעָם 1|
 |-|-|-|
 |מֵעִם 1|מֵעַם 1|מֵעָם 1|
-|mEɣEmE|mEɣEmE|mEɣEmE|
+|mEɣim|mEɣam|mEɣAm|
 
  * ליום 3: 
 
 |לְיוֹם 3|
 |-|
 |לְיוֹֹם 3|
-|lEyEwEmE|
+|lsvywom|
 
  * אשית 3: 
 
 |אָשִׁית 3|
 |-|
 |אָשִׁית 3|
-|'EšEyEtE|
+|'Ašiyt|
 
  * עזרני 3: 
 
 |עָזְרֵנִי 2|עֲזָרָנִי 1|
 |-|-|
 |עָזְרֵנִי 2|עֲזָרָנִי 1|
-|ɣEzErEnEyE|ɣEzErEnEyE|
+|ɣAzsvrEniy|ɣazArAniy|
 
  * ] 3: 
 
 |] 3|
 |-|
 |] 3|
-|]E|
+|]|
 
  * בל־אמוט 3: 
 
 |בַּל־אֶמּוֹט 3|
 |-|
 |בַּל־אֶמוֹֹט 3|
-|bElE־E'EmEwETE|
+|bal־'emwoT|
 
  * בנות 3: 
 
 |בְּנוֹת 3|
 |-|
 |בְּנוֹֹת 3|
-|bEnEwEtE|
+|bsvnwot|
 
  * על־כל־הארץ 3: 
 
 |עַל־כָּל־הָאָרֶץ 3|
 |-|
 |עַל־כָּל־הָאָרֶץ 3|
-|ɣElE־EkElE־EhE'ErEcE|
+|ɣal־kAl־hA'Arec|
 
  * עפר 3: 
 
 |עָפָר 3|
 |-|
 |עָפָר 3|
-|ɣEfErE|
+|ɣAfAr|
 
  * צדקו 3: 
 
 |צִדְקוֹ 2|צָדְקוּ 1|
 |-|-|
 |צִדְקוֹֹ 2|צָדְקוּ 1|
-|cEdEqEwE|cEdEqEuE|
+|cidsvqwo|cAdsvqu|
 
  * אשמרה 3: 
 
 |אֶשְׁמֹרָה 1|אֶשְׁמְרָה 2|
 |-|-|
 |אֶשְׁמֹרָה 1|אֶשְׁמְרָה 2|
-|'EšEmErEhE|'EšEmErEhE|
+|'ešsvmorAh|'ešsvmsvrAh|
 
  * יהלכון 3: 
 
 |יְהַלֵּכוּן 3|
 |-|
 |יְהַלֵכוּן 3|
-|yEhElExEuEnE|
+|ysvhalExun|
 
  * כפיו 3: 
 
 |כַּפָּיו 3|
 |-|
 |כַּפָּיו 3|
-|kEpEyEwE|
+|kapAyw|
 
  * ונורא 3: 
 
 |וְנוֹרָא 3|
 |-|
 |וְנוֹֹרָא 3|
-|wEnEwErE'E|
+|wsvnworA'|
 
  * האמרים 3: 
 
 |הָאֹמְרִים 3|
 |-|
 |הָאֹמְרִים 3|
-|hE'EmErEyEmE|
+|hA'omsvriym|
 
  * כיום 3: 
 
 |כַּיּוֹם 1|כְּיוֹם 2|
 |-|-|
 |כַּיוֹֹם 1|כְּיוֹֹם 2|
-|kEyEwEmE|kEyEwEmE|
+|kaywom|ksvywom|
 
  * עשי 3: 
 
 |עֹשֵׂי 3|
 |-|
 |עֹשֵׂי 3|
-|ɣESEyE|
+|ɣoSEy|
 
  * בשתם 3: 
 
 |בָּשְׁתָּם 3|
 |-|
 |בָּשְׁתָם 3|
-|bEšEtEmE|
+|bAšsvtAm|
 
  * ואדברה 3: 
 
 |וַאֲדַבֵּרָה 2|וַאֲדַבְּרָה 1|
 |-|-|
 |וַאֲדַבֵּרָה 2|וַאֲדַבְּרָה 1|
-|wE'EdEbErEhE|wE'EdEbErEhE|
+|wa'adabErAh|wa'adabsvrAh|
 
  * כי־היית 3: 
 
 |כִּי־הָיִיתָ 3|
 |-|
 |כִּי־הָיִיתָ 3|
-|kEyE־EhEyEyEtE|
+|kiy־hAyiytA|
 
  * יכוננה 3: 
 
 |יְכוֹנְנֶהָ 3|
 |-|
 |יְכוֹֹנְנֶהָ 3|
-|yExEwEnEnEhE|
+|ysvxwonsvnehA|
 
  * יחשב 3: 
 
 |יַחְשֹׁב 2|יַחֲשָׁב 1|
 |-|-|
 |יַחְשֹׁב 2|יַחֲשָׁב 1|
-|yEHEšEvE|yEHEšEvE|
+|yaHsvšov|yaHašAv|
 
  * רעות 3: 
 
 |רָעוֹת 3|
 |-|
 |רָעוֹֹת 3|
-|rEɣEwEtE|
+|rAɣwot|
 
  * יירשו־ארץ 3: 
 
 |יִירְשׁוּ־אָרֶץ 3|
 |-|
 |יִירְשׁוּ־אָרֶץ 3|
-|yEyErEšEuE־E'ErEcE|
+|yiyrsvšu־'Arec|
 
  * הוחילי 3: 
 
 |הוֹחִילִי 3|
 |-|
 |הוֹֹחִילִי 3|
-|hEwEHEyElEyE|
+|hwoHiyliy|
 
  * אלף 3: 
 
 |אֶלֶף 2|אָלֶף 1|
 |-|-|
 |אֶלֶף 2|אָלֶף 1|
-|'ElEfE|'ElEfE|
+|'elef|'Alef|
 
  * וזהב 3: 
 
 |וְזָהָב 3|
 |-|
 |וְזָהָב 3|
-|wEzEhEvE|
+|wsvzAhAv|
 
  * בתמי 3: 
 
 |בְּתֻמִּי 3|
 |-|
 |בְּתֻמִי 3|
-|bEtEmEyE|
+|bsvtumiy|
 
  * נודע 3: 
 
 |נוֹדַע 2|נוֹדָע 1|
 |-|-|
 |נוֹֹדַע 2|נוֹֹדָע 1|
-|nEwEdEɣE|nEwEdEɣE|
+|nwodaɣ|nwodAɣ|
 
  * שנות 3: 
 
 |שְׁנוֹת 3|
 |-|
 |שְׁנוֹֹת 3|
-|šEnEwEtE|
+|šsvnwot|
 
  * אזי 3: 
 
 |אֲזַי 3|
 |-|
 |אֲזַי 3|
-|'EzEyE|
+|'azay|
 
  * טמנו 3: 
 
 |טָמָנוּ 1|טָמְנוּ 2|
 |-|-|
 |טָמָנוּ 1|טָמְנוּ 2|
-|TEmEnEuE|TEmEnEuE|
+|TAmAnu|TAmsvnu|
 
  * בקרבה 3: 
 
 |בְּקִרְבָּהּ 3|
 |-|
 |בְּקִרְבָּה 3|
-|bEqErEbEhE|
+|bsvqirsvbAh|
 
  * קרן 3: 
 
 |קָרֶן 1|קֶרֶן 2|
 |-|-|
 |קָרֶן 1|קֶרֶן 2|
-|qErEnE|qErEnE|
+|qAren|qeren|
 
  * הדר 3: 
 
 |הֲדַר 2|הָדָר 1|
 |-|-|
 |הֲדַר 2|הָדָר 1|
-|hEdErE|hEdErE|
+|hadar|hAdAr|
 
  * בעיניך 3: 
 
 |בְּעֵינֶיךָ 3|
 |-|
 |בְּעֵינֶיךָ 3|
-|bEɣEyEnEyExE|
+|bsvɣEyneyxA|
 
  * בשמחה 3: 
 
 |בְּשִׂמְחָה 1|בְשִׂמְחָה 2|
 |-|-|
 |בְּשִׂמְחָה 1|בְשִׂמְחָה 2|
-|bESEmEHEhE|vESEmEHEhE|
+|bsvSimsvHAh|vsvSimsvHAh|
 
  * יבינו 3: 
 
 |יָבִינוּ 3|
 |-|
 |יָבִינוּ 3|
-|yEvEyEnEuE|
+|yAviynu|
 
  * לזכר 3: 
 
 |לְזֵכֶר 3|
 |-|
 |לְזֵכֶר 3|
-|lEzExErE|
+|lsvzExer|
 
  * זכרם 3: 
 
 |זִכְרָם 3|
 |-|
 |זִכְרָם 3|
-|zExErEmE|
+|zixsvrAm|
 
  * זכרתי 3: 
 
 |זָכַרְתִּי 3|
 |-|
 |זָכַרְתִי 3|
-|zExErEtEyE|
+|zAxarsvtiy|
 
  * שוררי 3: 
 
 |שׁוֹרְרַי 1|שׁוֹרְרָי 2|
 |-|-|
 |שׁוֹֹרְרַי 1|שׁוֹֹרְרָי 2|
-|šEwErErEyE|šEwErErEyE|
+|šworsvray|šworsvrAy|
 
  * בעזך 3: 
 
 |בְּעֻזֶּךָ 1|בְּעָזְּךָ 1|בְעָזְּךָ 1|
 |-|-|-|
 |בְּעֻזֶךָ 1|בְּעָזְךָ 1|בְעָזְךָ 1|
-|bEɣEzExE|bEɣEzExE|vEɣEzExE|
+|bsvɣuzexA|bsvɣAzsvxA|vsvɣAzsvxA|
 
  * בחסדך 3: 
 
 |בְּחַסְדֶּךָ 1|בְחַסְדֶּךָ 1|בְּחַסְדְּךָ 1|
 |-|-|-|
 |בְּחַסְדֶךָ 1|בְחַסְדֶךָ 1|בְּחַסְדְךָ 1|
-|bEHEsEdExE|vEHEsEdExE|bEHEsEdExE|
+|bsvHassvdexA|vsvHassvdexA|bsvHassvdsvxA|
 
  * עינים 3: 
 
 |עֵינָיִם 1|עֵינַיִם 2|
 |-|-|
 |עֵינָיִם 1|עֵינַיִם 2|
-|ɣEyEnEyEmE|ɣEyEnEyEmE|
+|ɣEynAyim|ɣEynayim|
 
  * כאריה 3: 
 
 |כְּאַרְיֵה 3|
 |-|
 |כְּאַרְיֵה 3|
-|kE'ErEyEhE|
+|ksv'arsvyEh|
 
  * ספרו 3: 
 
 |סִפְרוּ 1|סַפְּרוּ 1|סִפְּרוּ 1|
 |-|-|-|
 |סִפְרוּ 1|סַפְּרוּ 1|סִפְּרוּ 1|
-|sEfErEuE|sEpErEuE|sEpErEuE|
+|sifsvru|sapsvru|sipsvru|
 
  * ההרים 3: 
 
 |הֶהָרִים 3|
 |-|
 |הֶהָרִים 3|
-|hEhErEyEmE|
+|hehAriym|
 
  * אנה 3: 
 
 |אָנָּה 2|אָנָה 1|
 |-|-|
 |אָנָה 2|אָנָה 1|
-|'EnEhE|'EnEhE|
+|'AnAh|'AnAh|
 
  * אהלל 3: 
 
 |אֲהַלֵּל 3|
 |-|
 |אֲהַלֵל 3|
-|'EhElElE|
+|'ahalEl|
 
  * מפניו 3: 
 
 |מִפָּנָיו 3|
 |-|
 |מִפָּנָיו 3|
-|mEpEnEyEwE|
+|mipAnAyw|
 
  * חסדיך 3: 
 
 |חֲסָדֶיךָ 3|
 |-|
 |חֲסָדֶיךָ 3|
-|HEsEdEyExE|
+|HasAdeyxA|
 
  * לבטח 3: 
 
 |לָבֶטַח 3|
 |-|
 |לָבֶטַח 3|
-|lEvETEHE|
+|lAveTaH|
 
  * יגל 3: 
 
 |יָגֵל 3|
 |-|
 |יָגֵל 3|
-|yEgElE|
+|yAgEl|
 
  * אזכיר 3: 
 
 |אזכיר 1|אַזְכִּיר 2|
 |-|-|
 |אזכיר 1|אַזְכִּיר 2|
-|'EzExEyErE|'EzEkEyErE|
+|'zxyr|'azsvkiyr|
 
  * צדקתו 3: 
 
 |צִדְקָתוֹ 3|
 |-|
 |צִדְקָתוֹֹ 3|
-|cEdEqEtEwE|
+|cidsvqAtwo|
 
  * לעבד 3: 
 
 |לְעֶבֶד 2|לַעֲבֹד 1|
 |-|-|
 |לְעֶבֶד 2|לַעֲבֹד 1|
-|lEɣEvEdE|lEɣEvEdE|
+|lsvɣeved|laɣavod|
 
  * ואמתך 3: 
 
 |וַאֲמִתְּךָ 3|
 |-|
 |וַאֲמִתְךָ 3|
-|wE'EmEtExE|
+|wa'amitsvxA|
 
  * ולאמים 3: 
 
 |וּלְאֻמִּים 3|
 |-|
 |וּלְאֻמִים 3|
-|uElE'EmEyEmE|
+|ulsv'umiym|
 
  * מזהב 3: 
 
 |מִזָּהָב 2|מִזְּהַב 1|
 |-|-|
 |מִזָהָב 2|מִזְהַב 1|
-|mEzEhEvE|mEzEhEvE|
+|mizAhAv|mizsvhav|
 
  * למרום 3: 
 
 |לַמָּרוֹם 3|
 |-|
 |לַמָרוֹֹם 3|
-|lEmErEwEmE|
+|lamArwom|
 
  * נחלתך 3: 
 
 |נַחֲלָתְךָ 1|נַחֲלָתֶךָ 2|
 |-|-|
 |נַחֲלָתְךָ 1|נַחֲלָתֶךָ 2|
-|nEHElEtExE|nEHElEtExE|
+|naHalAtsvxA|naHalAtexA|
 
  * ירים 3: 
 
 |יָרִים 3|
 |-|
 |יָרִים 3|
-|yErEyEmE|
+|yAriym|
 
  * כל־ישבי 3: 
 
 |כָּל־יֹשְׁבֵי 3|
 |-|
 |כָּל־יֹשְׁבֵי 3|
-|kElE־EyEšEvEyE|
+|kAl־yošsvvEy|
 
  * אל־תתחר 3: 
 
 |אַל־תִּתְחַר 3|
 |-|
 |אַל־תִתְחַר 3|
-|'ElE־EtEtEHErE|
+|'al־titsvHar|
 
  * מואב 3: 
 
 |מוֹאָב 3|
 |-|
 |מוֹֹאָב 3|
-|mEwE'EvE|
+|mwo'Av|
 
  * אותם 3: 
 
 |אוֹתָם 3|
 |-|
 |אוֹֹתָם 3|
-|'EwEtEmE|
+|'wotAm|
 
  * איך 3: 
 
 |אֵיךְ 3|
 |-|
 |אֵיךְ 3|
-|'EyExE|
+|'Eyxsv|
 
  * נטיתי 3: 
 
 |נָטִיתִי 3|
 |-|
 |נָטִיתִי 3|
-|nETEyEtEyE|
+|nATiytiy|
 
  * באהלך 3: 
 
 |בְאָהָלְךָ 1|בְּאָהֳלֶךָ 2|
 |-|-|
 |בְאָהָלְךָ 1|בְּאָהֳלֶךָ 2|
-|vE'EhElExE|bE'EhElExE|
+|vsv'AhAlsvxA|bsv'AhAlexA|
 
  * כשלו 3: 
 
 |כָּשְׁלוּ 2|כָשְׁלוּ 1|
 |-|-|
 |כָּשְׁלוּ 2|כָשְׁלוּ 1|
-|kEšElEuE|xEšElEuE|
+|kAšsvlu|xAšsvlu|
 
  * כצדקי 3: 
 
 |כְּצִדְקִי 2|כְצִדְקִי 1|
 |-|-|
 |כְּצִדְקִי 2|כְצִדְקִי 1|
-|kEcEdEqEyE|xEcEdEqEyE|
+|ksvcidsvqiy|xsvcidsvqiy|
 
  * צרינו 3: 
 
 |צָרֵינוּ 3|
 |-|
 |צָרֵינוּ 3|
-|cErEyEnEuE|
+|cArEynu|
 
  * לשפט 3: 
 
 |לִשְׁפֹּט 3|
 |-|
 |לִשְׁפֹּט 3|
-|lEšEpETE|
+|lišsvpoT|
 
  * מעון 3: 
 
 |מָעוֹן 2|מְעוֹן 1|
 |-|-|
 |מָעוֹֹן 2|מְעוֹֹן 1|
-|mEɣEwEnE|mEɣEwEnE|
+|mAɣwon|msvɣwon|
 
  * ויראו 3: 
 
 |וְיִרְאוּ 2|וַיֵּרָאוּ 1|
 |-|-|
 |וְיִרְאוּ 2|וַיֵרָאוּ 1|
-|wEyErE'EuE|wEyErE'EuE|
+|wsvyirsv'u|wayErA'u|
 
  * תן 3: 
 
 |תֵּן 3|
 |-|
 |תֵן 3|
-|tEnE|
+|tEn|
 
  * לדברך 3: 
 
 |לִדְבָרְךָ 3|
 |-|
 |לִדְבָרְךָ 3|
-|lEdEvErExE|
+|lidsvvArsvxA|
 
  * מחסה 3: 
 
 |מַחְסֶה 2|מַחֲסֶה 1|
 |-|-|
 |מַחְסֶה 2|מַחֲסֶה 1|
-|mEHEsEhE|mEHEsEhE|
+|maHsvseh|maHaseh|
 
  * מה־תשתוחחי 3: 
 
 |מַה־תִּשְׁתּוֹחֲחִי 3|
 |-|
 |מַה־תִשְׁתוֹֹחֲחִי 3|
-|mEhE־EtEšEtEwEHEHEyE|
+|mah־tišsvtwoHaHiy|
 
  * נשבעתי 3: 
 
 |נִשְׁבַּעְתִּי 3|
 |-|
 |נִשְׁבַּעְתִי 3|
-|nEšEbEɣEtEyE|
+|nišsvbaɣsvtiy|
 
  * ברעה 3: 
 
 |בְּרָעָה 2|בְרָעָה 1|
 |-|-|
 |בְּרָעָה 2|בְרָעָה 1|
-|bErEɣEhE|vErEɣEhE|
+|bsvrAɣAh|vsvrAɣAh|
 
  * עזי 3: 
 
 |עָזִּי 1|עֻזִּי 2|
 |-|-|
 |עָזִי 1|עֻזִי 2|
-|ɣEzEyE|ɣEzEyE|
+|ɣAziy|ɣuziy|
 
  * האדם 3: 
 
 |הָאָדָם 3|
 |-|
 |הָאָדָם 3|
-|hE'EdEmE|
+|hA'AdAm|
 
  * בים־סוף 3: 
 
 |בְיַם־סוּף 1|בְּיַם־סוּף 2|
 |-|-|
 |בְיַם־סוּף 1|בְּיַם־סוּף 2|
-|vEyEmE־EsEuEfE|bEyEmE־EsEuEfE|
+|vsvyam־suf|bsvyam־suf|
 
  * ראשית 3: 
 
 |רֵאשִׁית 3|
 |-|
 |רֵאשִׁית 3|
-|rE'EšEyEtE|
+|rE'šiyt|
 
  * אויביך 3: 
 
 |אוֹיְבֶיךָ 3|
 |-|
 |אוֹֹיְבֶיךָ 3|
-|'EwEyEvEyExE|
+|'woysvveyxA|
 
  * את־אלהים 3: 
 
 |אֶת־אֱלֹהִים 3|
 |-|
 |אֶת־אֱלֹהִים 3|
-|'EtE־E'ElEhEyEmE|
+|'et־'elohiym|
 
  * ריבה 3: 
 
 |רִיבָה 3|
 |-|
 |רִיבָה 3|
-|rEyEvEhE|
+|riyvAh|
 
  * יסגו 3: 
 
 |יִסֹּגוּ 3|
 |-|
 |יִסֹגוּ 3|
-|yEsEgEuE|
+|yisogu|
 
  * מגוי 3: 
 
 |מִגּוֹי 3|
 |-|
 |מִגוֹֹי 3|
-|mEgEwEyE|
+|migwoy|
 
  * מצר 3: 
 
 |מִצָּר 2|מִצַּר 1|
 |-|-|
 |מִצָר 2|מִצַר 1|
-|mEcErE|mEcErE|
+|micAr|micar|
 
  * יזכר 3: 
 
 |יִזָּכֵר 1|יִזְכֹּר 2|
 |-|-|
 |יִזָכֵר 1|יִזְכֹּר 2|
-|yEzExErE|yEzEkErE|
+|yizAxEr|yizsvkor|
 
  * מתורתך 3: 
 
 |מִתּוֹרָתֶךָ 1|מִתּוֹרָתְךָ 2|
 |-|-|
 |מִתוֹֹרָתֶךָ 1|מִתוֹֹרָתְךָ 2|
-|mEtEwErEtExE|mEtEwErEtExE|
+|mitworAtexA|mitworAtsvxA|
 
  * ולא־תצא 3: 
 
 |וְלֹא־תֵצֵא 3|
 |-|
 |וְלֹא־תֵצֵא 3|
-|wElE'E־EtEcE'E|
+|wsvlo'־tEcE'|
 
  * רנתי 3: 
 
 |רִנָּתִי 3|
 |-|
 |רִנָתִי 3|
-|rEnEtEyE|
+|rinAtiy|
 
  * לכו 3: 
 
 |לְכוּ 3|
 |-|
 |לְכוּ 3|
-|lExEuE|
+|lsvxu|
 
  * בטרם 3: 
 
 |בְּטֶרֶם 3|
 |-|
 |בְּטֶרֶם 3|
-|bETErEmE|
+|bsvTerem|
 
  * לאכל 3: 
 
 |לֶאֱכֹל 3|
 |-|
 |לֶאֱכֹל 3|
-|lE'ExElE|
+|le'exol|
 
  * בכל־לבי 3: 
 
 |בְּכָל־לִבִּי 2|בְכָל־לִבִּי 1|
 |-|-|
 |בְּכָל־לִבִּי 2|בְכָל־לִבִּי 1|
-|bExElE־ElEbEyE|vExElE־ElEbEyE|
+|bsvxAl־libiy|vsvxAl־libiy|
 
  * אפים 3: 
 
 |אַפַּיִם 3|
 |-|
 |אַפַּיִם 3|
-|'EpEyEmE|
+|'apayim|
 
  * ישפט־תבל 3: 
 
 |יִשְׁפֹּט־תֵּבֵל 3|
 |-|
 |יִשְׁפֹּט־תֵבֵל 3|
-|yEšEpETE־EtEvElE|
+|yišsvpoT־tEvEl|
 
  * יעמד 3: 
 
 |יַעֲמֹד 3|
 |-|
 |יַעֲמֹד 3|
-|yEɣEmEdE|
+|yaɣamod|
 
  * בלבם 3: 
 
 |בְלִבָּם 3|
 |-|
 |בְלִבָּם 3|
-|vElEbEmE|
+|vsvlibAm|
 
  * סבוני 3: 
 
 |סַבּוּנִי 3|
 |-|
 |סַבּוּנִי 3|
-|sEbEuEnEyE|
+|sabuniy|
 
  * וצדקתו 3: 
 
 |וְצִדְקָתוֹ 3|
 |-|
 |וְצִדְקָתוֹֹ 3|
-|wEcEdEqEtEwE|
+|wsvcidsvqAtwo|
 
  * אבירים 3: 
 
 |אַבִּירִים 3|
 |-|
 |אַבִּירִים 3|
-|'EbEyErEyEmE|
+|'abiyriym|
 
  * לערב 3: 
 
 |לָעֶרֶב 3|
 |-|
 |לָעֶרֶב 3|
-|lEɣErEvE|
+|lAɣerev|
 
  * חנית 3: 
 
 |חֲנִית 3|
 |-|
 |חֲנִית 3|
-|HEnEyEtE|
+|Haniyt|
 
  * עלימו 3: 
 
 |עָלֵימוֹ 3|
 |-|
 |עָלֵימוֹֹ 3|
-|ɣElEyEmEwE|
+|ɣAlEymwo|
 
  * הודך 3: 
 
 |הוֹדְךָ 2|הוֹדֶךָ 1|
 |-|-|
 |הוֹֹדְךָ 2|הוֹֹדֶךָ 1|
-|hEwEdExE|hEwEdExE|
+|hwodsvxA|hwodexA|
 
  * ואל 3: 
 
 |וְאֵל 2|וְאַל 1|
 |-|-|
 |וְאֵל 2|וְאַל 1|
-|wE'ElE|wE'ElE|
+|wsv'El|wsv'al|
 
  * היום 3: 
 
 |הַיּוֹם 3|
 |-|
 |הַיוֹֹם 3|
-|hEyEwEmE|
+|haywom|
 
  * תאכל 3: 
 
 |תֹּאכֵל 2|תֹאכֵל 1|
 |-|-|
 |תֹאכֵל 2|תֹאכֵל 1|
-|tE'ExElE|tE'ExElE|
+|to'xEl|to'xEl|
 
  * במישרים 3: 
 
 |בְּמֵישָׁרִים 3|
 |-|
 |בְּמֵישָׁרִים 3|
-|bEmEyEšErEyEmE|
+|bsvmEyšAriym|
 
  * כי־שמע 3: 
 
 |כִּי־שָׁמַע 2|כִּי־שֹׁמֵעַ 1|
 |-|-|
 |כִּי־שָׁמַע 2|כִּי־שֹׁמֵעַ 1|
-|kEyE־EšEmEɣE|kEyE־EšEmEɣE|
+|kiy־šAmaɣ|kiy־šomEɣa|
 
  * ירעם 3: 
 
 |יִרְעַם 2|יִרְעֵם 1|
 |-|-|
 |יִרְעַם 2|יִרְעֵם 1|
-|yErEɣEmE|yErEɣEmE|
+|yirsvɣam|yirsvɣEm|
 
  * בהמות 3: 
 
 |בַּהֲמוֹת 1|בְּהֵמוֹת 2|
 |-|-|
 |בַּהֲמוֹֹת 1|בְּהֵמוֹֹת 2|
-|bEhEmEwEtE|bEhEmEwEtE|
+|bahamwot|bsvhEmwot|
 
  * ישמרו 3: 
 
 |יִשְׁמֹרוּ 2|יִשְׁמְרוּ 1|
 |-|-|
 |יִשְׁמֹרוּ 2|יִשְׁמְרוּ 1|
-|yEšEmErEuE|yEšEmErEuE|
+|yišsvmoru|yišsvmsvru|
 
  * שמחו 3: 
 
 |שָׂמְחוּ 1|שִׂמְחוּ 2|
 |-|-|
 |שָׂמְחוּ 1|שִׂמְחוּ 2|
-|SEmEHEuE|SEmEHEuE|
+|SAmsvHu|SimsvHu|
 
  * הודיעני 3: 
 
 |הוֹדִיעֵנִי 3|
 |-|
 |הוֹֹדִיעֵנִי 3|
-|hEwEdEyEɣEnEyE|
+|hwodiyɣEniy|
 
  * נחני 3: 
 
 |נָחַנִי 2|נְחֵנִי 1|
 |-|-|
 |נָחַנִי 2|נְחֵנִי 1|
-|nEHEnEyE|nEHEnEyE|
+|nAHaniy|nsvHEniy|
 
  * בקדשו 3: 
 
 |בְּקָדְשׁוֹ 3|
 |-|
 |בְּקָדְשׁוֹֹ 3|
-|bEqEdEšEwE|
+|bsvqAdsvšwo|
 
  * פתח 3: 
 
 |פֵּתַח 1|פָּתַח 1|פָּתָח 1|
 |-|-|-|
 |פֵּתַח 1|פָּתַח 1|פָּתָח 1|
-|pEtEHE|pEtEHE|pEtEHE|
+|pEtaH|pAtaH|pAtAH|
 
  * אתו 3: 
 
 |אֹתוֹ 3|
 |-|
 |אֹתוֹֹ 3|
-|'EtEwE|
+|'otwo|
 
  * ושועתי 3: 
 
 |וְשַׁוְעָתִי 3|
 |-|
 |וְשַׁוְעָתִי 3|
-|wEšEwEɣEtEyE|
+|wsvšawsvɣAtiy|
 
  * נאץ 2: 
 
 |נִאֵץ 2|
 |-|
 |נִאֵץ 2|
-|nE'EcE|
+|ni'Ec|
 
  * לחכי 2: 
 
 |לְחִכִּי 2|
 |-|
 |לְחִכִּי 2|
-|lEHEkEyE|
+|lsvHikiy|
 
  * מחקקי 2: 
 
 |מְחֹקְקִי 2|
 |-|
 |מְחֹקְקִי 2|
-|mEHEqEqEyE|
+|msvHoqsvqiy|
 
  * אזנו 2: 
 
 |אָזְנוֹ 2|
 |-|
 |אָזְנוֹֹ 2|
-|'EzEnEwE|
+|'Azsvnwo|
 
  * עצמות 2: 
 
 |עֲצָמוֹת 1|עַצְמוֹת 1|
 |-|-|
 |עֲצָמוֹֹת 1|עַצְמוֹֹת 1|
-|ɣEcEmEwEtE|ɣEcEmEwEtE|
+|ɣacAmwot|ɣacsvmwot|
 
  * לחסות 2: 
 
 |לַחֲסוֹת 2|
 |-|
 |לַחֲסוֹֹת 2|
-|lEHEsEwEtE|
+|laHaswot|
 
  * עדתיו 2: 
 
 |עֵדֹתָיו 2|
 |-|
 |עֵדֹתָיו 2|
-|ɣEdEtEyEwE|
+|ɣEdotAyw|
 
  * ובוז 2: 
 
 |וָבוּז 2|
 |-|
 |וָבוּז 2|
-|wEvEuEzE|
+|wAvuz|
 
  * ומי 2: 
 
 |וּמֵי 1|וּמִי 1|
 |-|-|
 |וּמֵי 1|וּמִי 1|
-|uEmEyE|uEmEyE|
+|umEy|umiy|
 
  * תשית 2: 
 
 |תָּשִׁית 2|
 |-|
 |תָשִׁית 2|
-|tEšEyEtE|
+|tAšiyt|
 
  * בכל־פעלך 2: 
 
 |בְכָל־פָּעֳלֶךָ 2|
 |-|
 |בְכָל־פָּעֳלֶךָ 2|
-|vExElE־EpEɣElExE|
+|vsvxAl־pAɣAlexA|
 
  * מפניך 2: 
 
 |מִפָּנֶיךָ 2|
 |-|
 |מִפָּנֶיךָ 2|
-|mEpEnEyExE|
+|mipAneyxA|
 
  * ויהרג 2: 
 
 |וַיַּהֲרֹג 2|
 |-|
 |וַיַהֲרֹג 2|
-|wEyEhErEgE|
+|wayaharog|
 
  * כסאות 2: 
 
 |כִסְאוֹת 1|כִּסְאוֹת 1|
 |-|-|
 |כִסְאוֹֹת 1|כִּסְאוֹֹת 1|
-|xEsE'EwEtE|kEsE'EwEtE|
+|xissv'wot|kissv'wot|
 
  * על־כנפי־רוח 2: 
 
 |עַל־כַּנְפֵי־רוּחַ 2|
 |-|
 |עַל־כַּנְפֵי־רוּחַ 2|
-|ɣElE־EkEnEfEyE־ErEuEHE|
+|ɣal־kansvfEy־ruHa|
 
  * הבה־לנו 2: 
 
 |הָבָה־לָּנוּ 2|
 |-|
 |הָבָה־לָנוּ 2|
-|hEvEhE־ElEnEuE|
+|hAvAh־lAnu|
 
  * תרחיב 2: 
 
 |תַרְחִיב 1|תַּרְחִיב 1|
 |-|-|
 |תַרְחִיב 1|תַרְחִיב 1|
-|tErEHEyEvE|tErEHEyEvE|
+|tarsvHiyv|tarsvHiyv|
 
  * חלב 2: 
 
 |חֵלֶב 2|
 |-|
 |חֵלֶב 2|
-|HElEvE|
+|HElev|
 
  * לא־ימוט 2: 
 
 |לֹא־יִמּוֹט 2|
 |-|
 |לֹא־יִמוֹֹט 2|
-|lE'E־EyEmEwETE|
+|lo'־yimwoT|
 
  * צדקות 2: 
 
 |צְדָקוֹת 2|
 |-|
 |צְדָקוֹֹת 2|
-|cEdEqEwEtE|
+|csvdAqwot|
 
  * שיתה 2: 
 
 |שִׁיתָה 2|
 |-|
 |שִׁיתָה 2|
-|šEyEtEhE|
+|šiytAh|
 
  * כי־תורתך 2: 
 
 |כִּי־תוֹרָתְךָ 2|
 |-|
 |כִּי־תוֹֹרָתְךָ 2|
-|kEyE־EtEwErEtExE|
+|kiy־tworAtsvxA|
 
  * מצרינו 2: 
 
 |מִצָּרֵינוּ 2|
 |-|
 |מִצָרֵינוּ 2|
-|mEcErEyEnEuE|
+|micArEynu|
 
  * למשגב 2: 
 
 |לְמִשְׂגָּב 2|
 |-|
 |לְמִשְׂגָב 2|
-|lEmESEgEvE|
+|lsvmiSsvgAv|
 
  * אתנו 2: 
 
 |אִתָּנוּ 2|
 |-|
 |אִתָנוּ 2|
-|'EtEnEuE|
+|'itAnu|
 
  * ותאזרני 2: 
 
 |וַתְּאַזְּרֵנִי 2|
 |-|
 |וַתְאַזְרֵנִי 2|
-|wEtE'EzErEnEyE|
+|watsv'azsvrEniy|
 
  * קדמו 2: 
 
 |קִדְּמוּ 2|
 |-|
 |קִדְמוּ 2|
-|qEdEmEuE|
+|qidsvmu|
 
  * יסדה 2: 
 
 |יְסָדָהּ 2|
 |-|
 |יְסָדָה 2|
-|yEsEdEhE|
+|ysvsAdAh|
 
  * ביקר 2: 
 
 |בִּיקָר 2|
 |-|
 |בִּיקָר 2|
-|bEyEqErE|
+|biyqAr|
 
  * אשכבה 2: 
 
 |אֶשְׁכְּבָה 2|
 |-|
 |אֶשְׁכְּבָה 2|
-|'EšEkEvEhE|
+|'ešsvksvvAh|
 
  * כמו־אש 2: 
 
 |כְּמוֹ־אֵשׁ 2|
 |-|
 |כְּמוֹֹ־אֵשׁ 2|
-|kEmEwE־E'EšE|
+|ksvmwo־'Eš|
 
  * יצמיתם 2: 
 
 |יַצְמִיתֵם 2|
 |-|
 |יַצְמִיתֵם 2|
-|yEcEmEyEtEmE|
+|yacsvmiytEm|
 
  * נחלת 2: 
 
 |נַחֲלַת 2|
 |-|
 |נַחֲלַת 2|
-|nEHElEtE|
+|naHalat|
 
  * גם־אחד 2: 
 
 |גַּם־אֶחָד 2|
 |-|
 |גַם־אֶחָד 2|
-|gEmE־E'EHEdE|
+|gam־'eHAd|
 
  * וירם 2: 
 
 |וַיָּרֶם 1|וַיֹּרֵם 1|
 |-|-|
 |וַיָרֶם 1|וַיֹרֵם 1|
-|wEyErEmE|wEyErEmE|
+|wayArem|wayorEm|
 
  * עונתי 2: 
 
 |עֲוֺנֹתַי 2|
 |-|
 |עֲוֺנֹתַי 2|
-|ɣEwEnEtEyE|
+|ɣaw_o_notay|
 
  * עץ 2: 
 
 |עֵץ 2|
 |-|
 |עֵץ 2|
-|ɣEcE|
+|ɣEc|
 
  * הנשא 2: 
 
 |הִנָּשֵׂא 2|
 |-|
 |הִנָשֵׂא 2|
-|hEnESE'E|
+|hinASE'|
 
  * דין 2: 
 
 |דִּין 2|
 |-|
 |דִין 2|
-|dEyEnE|
+|diyn|
 
  * ירום 2: 
 
 |יָרוּם 2|
 |-|
 |יָרוּם 2|
-|yErEuEmE|
+|yArum|
 
  * ומשל 2: 
 
 |וּמֹשֵׁל 2|
 |-|
 |וּמֹשֵׁל 2|
-|uEmEšElE|
+|umošEl|
 
  * ויבהלו 2: 
 
 |וְיִבָּהֲלוּ 2|
 |-|
 |וְיִבָּהֲלוּ 2|
-|wEyEbEhElEuE|
+|wsvyibAhalu|
 
  * שירד 2: 
 
 |שֶׁיֹּרֵד 2|
 |-|
 |שֶׁיֹרֵד 2|
-|šEyErEdE|
+|šeyorEd|
 
  * השחיתו 2: 
 
 |הִשְׁחִיתוּ 2|
 |-|
 |הִשְׁחִיתוּ 2|
-|hEšEHEyEtEuE|
+|hišsvHiytu|
 
  * כי־אליך 2: 
 
 |כִּי־אֵלֶיךָ 2|
 |-|
 |כִּי־אֵלֶיךָ 2|
-|kEyE־E'ElEyExE|
+|kiy־'EleyxA|
 
  * עד־אדום 2: 
 
 |עַד־אֱדוֹם 2|
 |-|
 |עַד־אֱדוֹֹם 2|
-|ɣEdE־E'EdEwEmE|
+|ɣad־'edwom|
 
  * לא־יבשו 2: 
 
 |לֹא־יֵבֹשׁוּ 2|
 |-|
 |לֹא־יֵבֹשׁוּ 2|
-|lE'E־EyEvEšEuE|
+|lo'־yEvošu|
 
  * דשא 2: 
 
 |דֶּשֶׁא 2|
 |-|
 |דֶשֶׁא 2|
-|dEšE'E|
+|deše'|
 
  * מלפניך 2: 
 
 |מִלְּפָנֶיךָ 2|
 |-|
 |מִלְפָנֶיךָ 2|
-|mElEfEnEyExE|
+|milsvfAneyxA|
 
  * ובימי 2: 
 
 |וּבִימֵי 1|וּבְיָמַי 1|
 |-|-|
 |וּבִימֵי 1|וּבְיָמַי 1|
-|uEvEyEmEyE|uEvEyEmEyE|
+|uviymEy|uvsvyAmay|
 
  * המים 2: 
 
 |הַמַּיִם 2|
 |-|
 |הַמַיִם 2|
-|hEmEyEmE|
+|hamayim|
 
  * קמו 2: 
 
 |קָמוּ 2|
 |-|
 |קָמוּ 2|
-|qEmEuE|
+|qAmu|
 
  * גבננים 2: 
 
 |גַּבְנֻנִּים 2|
 |-|
 |גַבְנֻנִים 2|
-|gEvEnEnEyEmE|
+|gavsvnuniym|
 
  * אמונה 2: 
 
 |אֱמוּנָה 2|
 |-|
 |אֱמוּנָה 2|
-|'EmEuEnEhE|
+|'emunAh|
 
  * השקיף 2: 
 
 |הִשְׁקִיף 2|
 |-|
 |הִשְׁקִיף 2|
-|hEšEqEyEfE|
+|hišsvqiyf|
 
  * יהגה 2: 
 
 |יֶהְגֶּה 2|
 |-|
 |יֶהְגֶה 2|
-|yEhEgEhE|
+|yehsvgeh|
 
  * וישועתי 2: 
 
 |וִישׁוּעָתִי 2|
 |-|
 |וִישׁוּעָתִי 2|
-|wEyEšEuEɣEtEyE|
+|wiyšuɣAtiy|
 
  * סור 2: 
 
 |סוּר 2|
 |-|
 |סוּר 2|
-|sEuErE|
+|sur|
 
  * לבנון 2: 
 
 |לְבָנוֹן 2|
 |-|
 |לְבָנוֹֹן 2|
-|lEvEnEwEnE|
+|lsvvAnwon|
 
  * תמצא 2: 
 
 |תִּמְצָא 2|
 |-|
 |תִמְצָא 2|
-|tEmEcE'E|
+|timsvcA'|
 
  * כגבה 2: 
 
 |כְּגֹבַהּ 1|כִגְבֹהַּ 1|
 |-|-|
 |כְּגֹבַה 1|כִגְבֹהַ 1|
-|kEgEvEhE|xEgEvEhE|
+|ksvgovah|xigsvvoha|
 
  * לאחי 2: 
 
 |לְאֶחָי 2|
 |-|
 |לְאֶחָי 2|
-|lE'EHEyE|
+|lsv'eHAy|
 
  * ויאכלו 2: 
 
 |וַיֹּאכְלוּ 2|
 |-|
 |וַיֹאכְלוּ 2|
-|wEyE'ExElEuE|
+|wayo'xsvlu|
 
  * השב 2: 
 
 |הָשֵׁב 2|
 |-|
 |הָשֵׁב 2|
-|hEšEvE|
+|hAšEv|
 
  * על־דל 2: 
 
 |עַל־דַּל 2|
 |-|
 |עַל־דַל 2|
-|ɣElE־EdElE|
+|ɣal־dal|
 
  * מנגד 2: 
 
 |מִנֶּגֶד 2|
 |-|
 |מִנֶגֶד 2|
-|mEnEgEdE|
+|mineged|
 
  * במחשכים 2: 
 
 |בְמַחֲשַׁכִּים 1|בְּמַחֲשַׁכִּים 1|
 |-|-|
 |בְמַחֲשַׁכִּים 1|בְּמַחֲשַׁכִּים 1|
-|vEmEHEšEkEyEmE|bEmEHEšEkEyEmE|
+|vsvmaHašakiym|bsvmaHašakiym|
 
  * האזרחי 2: 
 
 |הָאֶזְרָחִי 2|
 |-|
 |הָאֶזְרָחִי 2|
-|hE'EzErEHEyE|
+|hA'ezsvrAHiy|
 
  * בהדרת־קדש 2: 
 
 |בְּהַדְרַת־קֹדֶשׁ 2|
 |-|
 |בְּהַדְרַת־קֹדֶשׁ 2|
-|bEhEdErEtE־EqEdEšE|
+|bsvhadsvrat־qodeš|
 
  * שער 2: 
 
 |שֵׂעָר 1|שָׁעַר 1|
 |-|-|
 |שֵׂעָר 1|שָׁעַר 1|
-|SEɣErE|šEɣErE|
+|SEɣAr|šAɣar|
 
  * כי־ישר 2: 
 
 |כִּי־יָשָׁר 2|
 |-|
 |כִּי־יָשָׁר 2|
-|kEyE־EyEšErE|
+|kiy־yAšAr|
 
  * לעיני 2: 
 
 |לְעֵינֵי 1|לְעֵינָי 1|
 |-|-|
 |לְעֵינֵי 1|לְעֵינָי 1|
-|lEɣEyEnEyE|lEɣEyEnEyE|
+|lsvɣEynEy|lsvɣEynAy|
 
  * ועמך 2: 
 
 |וְעִמְּךָ 1|וְעַמְּךָ 1|
 |-|-|
 |וְעִמְךָ 1|וְעַמְךָ 1|
-|wEɣEmExE|wEɣEmExE|
+|wsvɣimsvxA|wsvɣamsvxA|
 
  * הסר 2: 
 
 |הָסֵר 2|
 |-|
 |הָסֵר 2|
-|hEsErE|
+|hAsEr|
 
  * אמו 2: 
 
 |אִמּוֹ 2|
 |-|
 |אִמוֹֹ 2|
-|'EmEwE|
+|'imwo|
 
  * ורע 2: 
 
 |וָרָע 1|וָרֵעַ 1|
 |-|-|
 |וָרָע 1|וָרֵעַ 1|
-|wErEɣE|wErEɣE|
+|wArAɣ|wArEɣa|
 
  * את־שמך 2: 
 
 |אֶת־שְׁמֶךָ 2|
 |-|
 |אֶת־שְׁמֶךָ 2|
-|'EtE־EšEmExE|
+|'et־šsvmexA|
 
  * שמרך 2: 
 
 |שֹׁמְרֶךָ 2|
 |-|
 |שֹׁמְרֶךָ 2|
-|šEmErExE|
+|šomsvrexA|
 
  * השתחוו 2: 
 
 |הִשְׁתַּחֲווּ 2|
 |-|
 |הִשְׁתַחֲווּ 2|
-|hEšEtEHEwEuE|
+|hišsvtaHawu|
 
  * כל־חוסי 2: 
 
 |כָּל־חוֹסֵי 1|כָל־חוֹסֵי 1|
 |-|-|
 |כָּל־חוֹֹסֵי 1|כָל־חוֹֹסֵי 1|
-|kElE־EHEwEsEyE|xElE־EHEwEsEyE|
+|kAl־HwosEy|xAl־HwosEy|
 
  * פלא 2: 
 
 |פֶלֶא 2|
 |-|
 |פֶלֶא 2|
-|fElE'E|
+|fele'|
 
  * ודרשי 2: 
 
 |וְדֹרְשֵׁי 2|
 |-|
 |וְדֹרְשֵׁי 2|
-|wEdErEšEyE|
+|wsvdorsvšEy|
 
  * חציר 2: 
 
 |חָצִיר 2|
 |-|
 |חָצִיר 2|
-|HEcEyErE|
+|HAciyr|
 
  * ודרך 2: 
 
 |וְדֶרֶךְ 2|
 |-|
 |וְדֶרֶךְ 2|
-|wEdErExE|
+|wsvderexsv|
 
  * נהר 2: 
 
 |נָהָר 2|
 |-|
 |נָהָר 2|
-|nEhErE|
+|nAhAr|
 
  * צר 2: 
 
 |צַר 1|צָר 1|
 |-|-|
 |צַר 1|צָר 1|
-|cErE|cErE|
+|car|cAr|
 
  * יאמרו־נא 2: 
 
 |יֹאמְרוּ־נָא 2|
 |-|
 |יֹאמְרוּ־נָא 2|
-|yE'EmErEuE־EnE'E|
+|yo'msvru־nA'|
 
  * בהשפטו 2: 
 
 |בְּהִשָּׁפְטוֹ 2|
 |-|
 |בְּהִשָׁפְטוֹֹ 2|
-|bEhEšEfETEwE|
+|bsvhišAfsvTwo|
 
  * טוב־לי 2: 
 
 |טוֹב־לִי 2|
 |-|
 |טוֹֹב־לִי 2|
-|TEwEvE־ElEyE|
+|Twov־liy|
 
  * בבשרי 2: 
 
 |בִּבְשָׂרִי 2|
 |-|
 |בִּבְשָׂרִי 2|
-|bEvESErEyE|
+|bivsvSAriy|
 
  * ומשפטך 2: 
 
 |וּמִשְׁפָּטֶךָ 2|
 |-|
 |וּמִשְׁפָּטֶךָ 2|
-|uEmEšEpETExE|
+|umišsvpATexA|
 
  * למוקש 2: 
 
 |לְמוֹקֵשׁ 2|
 |-|
 |לְמוֹֹקֵשׁ 2|
-|lEmEwEqEšE|
+|lsvmwoqEš|
 
  * תוכיחני 2: 
 
 |תוֹכִיחֵנִי 2|
 |-|
 |תוֹֹכִיחֵנִי 2|
-|tEwExEyEHEnEyE|
+|twoxiyHEniy|
 
  * רב־טובך 2: 
 
 |רַב־טוּבְךָ 2|
 |-|
 |רַב־טוּבְךָ 2|
-|rEvE־ETEuEvExE|
+|rav־TuvsvxA|
 
  * ולב 2: 
 
 |וְלֵב 1|וָלֵב 1|
 |-|-|
 |וְלֵב 1|וָלֵב 1|
-|wElEvE|wElEvE|
+|wsvlEv|wAlEv|
 
  * יפעל 2: 
 
 |יִפְעָל 2|
 |-|
 |יִפְעָל 2|
-|yEfEɣElE|
+|yifsvɣAl|
 
  * וחסד 2: 
 
 |וְחֶסֶד 1|וָחֶסֶד 1|
 |-|-|
 |וְחֶסֶד 1|וָחֶסֶד 1|
-|wEHEsEdE|wEHEsEdE|
+|wsvHesed|wAHesed|
 
  * בעבור 2: 
 
 |בַּעֲבוּר 2|
 |-|
 |בַּעֲבוּר 2|
-|bEɣEvEuErE|
+|baɣavur|
 
  * ויחי 2: 
 
 |וִיחִי 2|
 |-|
 |וִיחִי 2|
-|wEyEHEyE|
+|wiyHiy|
 
  * ממצקותיהם 2: 
 
 |מִמְּצֻקוֹתֵיהֶם 2|
 |-|
 |מִמְצֻקוֹֹתֵיהֶם 2|
-|mEmEcEqEwEtEyEhEmE|
+|mimsvcuqwotEyhem|
 
  * שטני 2: 
 
 |שֹׂטְנַי 1|שֹׂטְנֵי 1|
 |-|-|
 |שֹׂטְנַי 1|שֹׂטְנֵי 1|
-|SETEnEyE|SETEnEyE|
+|SoTsvnay|SoTsvnEy|
 
  * ומגני 2: 
 
 |וּמָגִנִּי 2|
 |-|
 |וּמָגִנִי 2|
-|uEmEgEnEyE|
+|umAginiy|
 
  * הסוס 2: 
 
 |הַסּוּס 2|
 |-|
 |הַסוּס 2|
-|hEsEuEsE|
+|hasus|
 
  * מגיד 2: 
 
 |מַגִּיד 2|
 |-|
 |מַגִיד 2|
-|mEgEyEdE|
+|magiyd|
 
  * ישע 2: 
 
 |יֶשַׁע 1|יֵשַׁע 1|
 |-|-|
 |יֶשַׁע 1|יֵשַׁע 1|
-|yEšEɣE|yEšEɣE|
+|yešaɣ|yEšaɣ|
 
  * כנף 2: 
 
 |כָּנָף 2|
 |-|
 |כָּנָף 2|
-|kEnEfE|
+|kAnAf|
 
  * ארח 2: 
 
 |אֹרַח 2|
 |-|
 |אֹרַח 2|
-|'ErEHE|
+|'oraH|
 
  * ויזעקו 2: 
 
 |וַיִּזְעֲקוּ 2|
 |-|
 |וַיִזְעֲקוּ 2|
-|wEyEzEɣEqEuE|
+|wayizsvɣaqu|
 
  * כעיני 2: 
 
 |כְּעֵינֵי 1|כְעֵינֵי 1|
 |-|-|
 |כְּעֵינֵי 1|כְעֵינֵי 1|
-|kEɣEyEnEyE|xEɣEyEnEyE|
+|ksvɣEynEy|xsvɣEynEy|
 
  * גל 2: 
 
 |גַּל 1|גֹּל 1|
 |-|-|
 |גַל 1|גֹל 1|
-|gElE|gElE|
+|gal|gol|
 
  * ואש 2: 
 
 |וְאֵשׁ 2|
 |-|
 |וְאֵשׁ 2|
-|wE'EšE|
+|wsv'Eš|
 
  * ליעקב 2: 
 
 |לְיַעֲקֹב 2|
 |-|
 |לְיַעֲקֹב 2|
-|lEyEɣEqEvE|
+|lsvyaɣaqov|
 
  * מאדם 2: 
 
 |מֵאָדָם 2|
 |-|
 |מֵאָדָם 2|
-|mE'EdEmE|
+|mE'AdAm|
 
  * עזבני 2: 
 
 |עֲזָבַנִי 1|עֲזָבָנִי 1|
 |-|-|
 |עֲזָבַנִי 1|עֲזָבָנִי 1|
-|ɣEzEvEnEyE|ɣEzEvEnEyE|
+|ɣazAvaniy|ɣazAvAniy|
 
  * מהלל 2: 
 
 |מְהֻלָּל 2|
 |-|
 |מְהֻלָל 2|
-|mEhElElE|
+|msvhulAl|
 
  * פדה 2: 
 
 |פָּדָה 1|פְּדֵה 1|
 |-|-|
 |פָּדָה 1|פְּדֵה 1|
-|pEdEhE|pEdEhE|
+|pAdAh|psvdEh|
 
  * ישאו 2: 
 
 |יִשְׂאוּ 2|
 |-|
 |יִשְׂאוּ 2|
-|yESE'EuE|
+|yiSsv'u|
 
  * שכחו 2: 
 
 |שָׁכְחוּ 2|
 |-|
 |שָׁכְחוּ 2|
-|šExEHEuE|
+|šAxsvHu|
 
  * יצרוני 2: 
 
 |יִצְּרוּנִי 2|
 |-|
 |יִצְרוּנִי 2|
-|yEcErEuEnEyE|
+|yicsvruniy|
 
  * תמו 2: 
 
 |תַּמּוּ 1|תַמּוּ 1|
 |-|-|
 |תַמוּ 1|תַמוּ 1|
-|tEmEuE|tEmEuE|
+|tamu|tamu|
 
  * ובתורתו 2: 
 
 |וּבְתוֹרָתוֹ 2|
 |-|
 |וּבְתוֹֹרָתוֹֹ 2|
-|uEvEtEwErEtEwE|
+|uvsvtworAtwo|
 
  * רהב 2: 
 
 |רַהַב 1|רָהַב 1|
 |-|-|
 |רַהַב 1|רָהַב 1|
-|rEhEvE|rEhEvE|
+|rahav|rAhav|
 
  * גערת 2: 
 
 |גָּעַרְתָּ 2|
 |-|
 |גָעַרְתָ 2|
-|gEɣErEtE|
+|gAɣarsvtA|
 
  * וינסו־אל 2: 
 
 |וַיְנַסּוּ־אֵל 2|
 |-|
 |וַיְנַסוּ־אֵל 2|
-|wEyEnEsEuE־E'ElE|
+|waysvnasu־'El|
 
  * על־אדום 2: 
 
 |עַל־אֱדוֹם 2|
 |-|
 |עַל־אֱדוֹֹם 2|
-|ɣElE־E'EdEwEmE|
+|ɣal־'edwom|
 
  * לשונך 2: 
 
 |לְשׁוֹנְךָ 1|לְשׁוֹנֶךָ 1|
 |-|-|
 |לְשׁוֹֹנְךָ 1|לְשׁוֹֹנֶךָ 1|
-|lEšEwEnExE|lEšEwEnExE|
+|lsvšwonsvxA|lsvšwonexA|
 
  * לישרי־לב 2: 
 
 |לְיִשְׁרֵי־לֵב 2|
 |-|
 |לְיִשְׁרֵי־לֵב 2|
-|lEyEšErEyE־ElEvE|
+|lsvyišsvrEy־lEv|
 
  * לשלמה 2: 
 
 |לִשְׁלֹמֹה 2|
 |-|
 |לִשְׁלֹמֹה 2|
-|lEšElEmEhE|
+|lišsvlomoh|
 
  * ויזובו 2: 
 
 |וַיָּזוּבוּ 2|
 |-|
 |וַיָזוּבוּ 2|
-|wEyEzEuEvEuE|
+|wayAzuvu|
 
  * הטוב 2: 
 
 |הַטּוֹב 2|
 |-|
 |הַטוֹֹב 2|
-|hETEwEvE|
+|haTwov|
 
  * ויבשו 2: 
 
 |וְיֵבֹשׁוּ 1|וַיֵּבֹשׁוּ 1|
 |-|-|
 |וְיֵבֹשׁוּ 1|וַיֵבֹשׁוּ 1|
-|wEyEvEšEuE|wEyEvEšEuE|
+|wsvyEvošu|wayEvošu|
 
  * אשר־בטח 2: 
 
 |אֲשֶׁר־בֹּטֵחַ 2|
 |-|
 |אֲשֶׁר־בֹּטֵחַ 2|
-|'EšErE־EbETEHE|
+|'ašer־boTEHa|
 
  * לאביר 2: 
 
 |לַאֲבִיר 2|
 |-|
 |לַאֲבִיר 2|
-|lE'EvEyErE|
+|la'aviyr|
 
  * ונשמחה 2: 
 
 |וְנִשְׂמְחָה 2|
 |-|
 |וְנִשְׂמְחָה 2|
-|wEnESEmEHEhE|
+|wsvniSsvmsvHAh|
 
  * גאלם 2: 
 
 |גְּאָלָם 1|גֹּאֲלָם 1|
 |-|-|
 |גְאָלָם 1|גֹאֲלָם 1|
-|gE'ElEmE|gE'ElEmE|
+|gsv'AlAm|go'alAm|
 
  * כרים 2: 
 
 |כָּרִים 1|כָרִים 1|
 |-|-|
 |כָּרִים 1|כָרִים 1|
-|kErEyEmE|xErEyEmE|
+|kAriym|xAriym|
 
  * נדיבי 2: 
 
 |נְדִיבֵי 2|
 |-|
 |נְדִיבֵי 2|
-|nEdEyEvEyE|
+|nsvdiyvEy|
 
  * הרשעים 2: 
 
 |הָרְשָׁעִים 2|
 |-|
 |הָרְשָׁעִים 2|
-|hErEšEɣEyEmE|
+|hArsvšAɣiym|
 
  * ומרמות 2: 
 
 |וּמִרְמוֹת 2|
 |-|
 |וּמִרְמוֹֹת 2|
-|uEmErEmEwEtE|
+|umirsvmwot|
 
  * ויזבחו 2: 
 
 |וַיִּזְבְּחוּ 1|וְיִזְבְּחוּ 1|
 |-|-|
 |וַיִזְבְּחוּ 1|וְיִזְבְּחוּ 1|
-|wEyEzEbEHEuE|wEyEzEbEHEuE|
+|wayizsvbsvHu|wsvyizsvbsvHu|
 
  * סורו 2: 
 
 |סוּרוּ 2|
 |-|
 |סוּרוּ 2|
-|sEuErEuE|
+|suru|
 
  * להודות 2: 
 
 |לְהוֹדוֹת 2|
 |-|
 |לְהוֹֹדוֹֹת 2|
-|lEhEwEdEwEtE|
+|lsvhwodwot|
 
  * מה־לך 2: 
 
 |מַה־לְּךָ 2|
 |-|
 |מַה־לְךָ 2|
-|mEhE־ElExE|
+|mah־lsvxA|
 
  * כבני־צאן 2: 
 
 |כִּבְנֵי־צֹאן 2|
 |-|
 |כִּבְנֵי־צֹאן 2|
-|kEvEnEyE־EcE'EnE|
+|kivsvnEy־co'n|
 
  * פה־להם 2: 
 
 |פֶּה־לָהֶם 2|
 |-|
 |פֶּה־לָהֶם 2|
-|pEhE־ElEhEmE|
+|peh־lAhem|
 
  * חרפוני 2: 
 
 |חֵרְפוּנִי 2|
 |-|
 |חֵרְפוּנִי 2|
-|HErEfEuEnEyE|
+|HErsvfuniy|
 
  * ורעי 2: 
 
 |וְרֵעָי 1|וְרֵעַי 1|
 |-|-|
 |וְרֵעָי 1|וְרֵעַי 1|
-|wErEɣEyE|wErEɣEyE|
+|wsvrEɣAy|wsvrEɣay|
 
  * שברת 2: 
 
 |שִׁבַּרְתָּ 2|
 |-|
 |שִׁבַּרְתָ 2|
-|šEbErEtE|
+|šibarsvtA|
 
  * האיש 2: 
 
 |הָאִישׁ 2|
 |-|
 |הָאִישׁ 2|
-|hE'EyEšE|
+|hA'iyš|
 
  * ישר 2: 
 
 |יָשָׁר 2|
 |-|
 |יָשָׁר 2|
-|yEšErE|
+|yAšAr|
 
  * נרננה 2: 
 
 |נְרַנְּנָה 2|
 |-|
 |נְרַנְנָה 2|
-|nErEnEnEhE|
+|nsvransvnAh|
 
  * מצותך 2: 
 
 |מִצְוָתְךָ 1|מִצְוֺתֶךָ 1|
 |-|-|
 |מִצְוָתְךָ 1|מִצְוֺתֶךָ 1|
-|mEcEwEtExE|mEcEwEtExE|
+|micsvwAtsvxA|micsvw_o_texA|
 
  * ודברי 2: 
 
 |וְדִבְרֵי 2|
 |-|
 |וְדִבְרֵי 2|
-|wEdEvErEyE|
+|wsvdivsvrEy|
 
  * ואיננו 2: 
 
 |וְאֵינֶנּוּ 2|
 |-|
 |וְאֵינֶנוּ 2|
-|wE'EyEnEnEuE|
+|wsv'Eynenu|
 
  * בעשן 2: 
 
 |בֶעָשָׁן 1|בְעָשָׁן 1|
 |-|-|
 |בֶעָשָׁן 1|בְעָשָׁן 1|
-|vEɣEšEnE|vEɣEšEnE|
+|veɣAšAn|vsvɣAšAn|
 
  * לבך 2: 
 
 |לִבֶּךָ 2|
 |-|
 |לִבֶּךָ 2|
-|lEbExE|
+|libexA|
 
  * נזרו 2: 
 
 |נִזְרוֹ 2|
 |-|
 |נִזְרוֹֹ 2|
-|nEzErEwE|
+|nizsvrwo|
 
  * שבע 2: 
 
 |שֹׂבַע 1|שֶׁבַע 1|
 |-|-|
 |שֹׂבַע 1|שֶׁבַע 1|
-|SEvEɣE|šEvEɣE|
+|Sovaɣ|ševaɣ|
 
  * יחפץ 2: 
 
 |יֶחְפָּץ 2|
 |-|
 |יֶחְפָּץ 2|
-|yEHEpEcE|
+|yeHsvpAc|
 
  * את־חקיך 2: 
 
 |אֶת־חֻקֶּיךָ 2|
 |-|
 |אֶת־חֻקֶיךָ 2|
-|'EtE־EHEqEyExE|
+|'et־HuqeyxA|
 
  * עוזר 2: 
 
 |עוֹזֵר 2|
 |-|
 |עוֹֹזֵר 2|
-|ɣEwEzErE|
+|ɣwozEr|
 
  * וערפל 2: 
 
 |וַעֲרָפֶל 2|
 |-|
 |וַעֲרָפֶל 2|
-|wEɣErEfElE|
+|waɣarAfel|
 
  * חסידיך 2: 
 
 |חֲסִידֶיךָ 2|
 |-|
 |חֲסִידֶיךָ 2|
-|HEsEyEdEyExE|
+|HasiydeyxA|
 
  * קרבם 2: 
 
 |קִרְבָּם 2|
 |-|
 |קִרְבָּם 2|
-|qErEbEmE|
+|qirsvbAm|
 
  * הירדן 2: 
 
 |הַיַּרְדֵּן 2|
 |-|
 |הַיַרְדֵן 2|
-|hEyErEdEnE|
+|hayarsvdEn|
 
  * ומלוה 2: 
 
 |וּמַלְוֶה 2|
 |-|
 |וּמַלְוֶה 2|
-|uEmElEwEhE|
+|umalsvweh|
 
  * מיד־שאול 2: 
 
 |מִיַּד־שְׁאוֹל 2|
 |-|
 |מִיַד־שְׁאוֹֹל 2|
-|mEyEdE־EšE'EwElE|
+|miyad־šsv'wol|
 
  * וממערב 2: 
 
 |וּמִמַּעֲרָב 2|
 |-|
 |וּמִמַעֲרָב 2|
-|uEmEmEɣErEvE|
+|umimaɣarAv|
 
  * ולעוג 2: 
 
 |וּלְעוֹג 2|
 |-|
 |וּלְעוֹֹג 2|
-|uElEɣEwEgE|
+|ulsvɣwog|
 
  * עששה 2: 
 
 |עָשְׁשָׁה 2|
 |-|
 |עָשְׁשָׁה 2|
-|ɣEšEšEhE|
+|ɣAšsvšAh|
 
  * צידה 2: 
 
 |צֵידָהּ 1|צֵידָה 1|
 |-|-|
 |צֵידָה 1|צֵידָה 1|
-|cEyEdEhE|cEyEdEhE|
+|cEydAh|cEydAh|
 
  * מצאתי 2: 
 
 |מָצָאתִי 2|
 |-|
 |מָצָאתִי 2|
-|mEcE'EtEyE|
+|mAcA'tiy|
 
  * משיחו 2: 
 
 |מְשִׁיחוֹ 2|
 |-|
 |מְשִׁיחוֹֹ 2|
-|mEšEyEHEwE|
+|msvšiyHwo|
 
  * שלל 2: 
 
 |שָׁלָל 2|
 |-|
 |שָׁלָל 2|
-|šElElE|
+|šAlAl|
 
  * איביו 2: 
 
 |אֹיְבָיו 2|
 |-|
 |אֹיְבָיו 2|
-|'EyEvEyEwE|
+|'oysvvAyw|
 
  * דמם 2: 
 
 |דָמָם 1|דָּמָם 1|
 |-|-|
 |דָמָם 1|דָמָם 1|
-|dEmEmE|dEmEmE|
+|dAmAm|dAmAm|
 
  * מראות 2: 
 
 |מֵרְאוֹת 2|
 |-|
 |מֵרְאוֹֹת 2|
-|mErE'EwEtE|
+|mErsv'wot|
 
  * מעט 2: 
 
 |מְּעַט 1|מְעַט 1|
 |-|-|
 |מְעַט 1|מְעַט 1|
-|mEɣETE|mEɣETE|
+|msvɣaT|msvɣaT|
 
  * תערג 2: 
 
 |תַּעֲרֹג 1|תַעֲרֹג 1|
 |-|-|
 |תַעֲרֹג 1|תַעֲרֹג 1|
-|tEɣErEgE|tEɣErEgE|
+|taɣarog|taɣarog|
 
  * שמם 2: 
 
 |שְׁמָם 2|
 |-|
 |שְׁמָם 2|
-|šEmEmE|
+|šsvmAm|
 
  * לכל־חסידיו 2: 
 
 |לְכָל־חֲסִידָיו 2|
 |-|
 |לְכָל־חֲסִידָיו 2|
-|lExElE־EHEsEyEdEyEwE|
+|lsvxAl־HasiydAyw|
 
  * העבר 2: 
 
 |הַעֲבֵר 2|
 |-|
 |הַעֲבֵר 2|
-|hEɣEvErE|
+|haɣavEr|
 
  * בשרי 2: 
 
 |בְשָׂרִי 2|
 |-|
 |בְשָׂרִי 2|
-|vESErEyE|
+|vsvSAriy|
 
  * אחלקה 2: 
 
 |אֲחַלְּקָה 2|
 |-|
 |אֲחַלְקָה 2|
-|'EHElEqEhE|
+|'aHalsvqAh|
 
  * בים 2: 
 
 |בַּיָּם 1|בַיָּם 1|
 |-|-|
 |בַּיָם 1|בַיָם 1|
-|bEyEmE|vEyEmE|
+|bayAm|vayAm|
 
  * ונחני 2: 
 
 |וּנְחֵנִי 2|
 |-|
 |וּנְחֵנִי 2|
-|uEnEHEnEyE|
+|unsvHEniy|
 
  * ולמדני 2: 
 
 |וְלַמְּדֵנִי 2|
 |-|
 |וְלַמְדֵנִי 2|
-|wElEmEdEnEyE|
+|wsvlamsvdEniy|
 
  * זמרה 2: 
 
 |זִמְרָה 1|זַמְּרָה 1|
 |-|-|
 |זִמְרָה 1|זַמְרָה 1|
-|zEmErEhE|zEmErEhE|
+|zimsvrAh|zamsvrAh|
 
  * דגנם 2: 
 
 |דְּגָנָם 2|
 |-|
 |דְגָנָם 2|
-|dEgEnEmE|
+|dsvgAnAm|
 
  * וישלח 2: 
 
 |וַיִּשְׁלַח 1|וַיְשַׁלַּח 1|
 |-|-|
 |וַיִשְׁלַח 1|וַיְשַׁלַח 1|
-|wEyEšElEHE|wEyEšElEHE|
+|wayišsvlaH|waysvšalaH|
 
  * הבט 2: 
 
 |הַבֵּט 2|
 |-|
 |הַבֵּט 2|
-|hEbETE|
+|habET|
 
  * תרשיש 2: 
 
 |תַּרְשִׁישׁ 1|תַרְשִׁישׁ 1|
 |-|-|
 |תַרְשִׁישׁ 1|תַרְשִׁישׁ 1|
-|tErEšEyEšE|tErEšEyEšE|
+|tarsvšiyš|tarsvšiyš|
 
  * משכן 2: 
 
 |מִשְׁכַּן 2|
 |-|
 |מִשְׁכַּן 2|
-|mEšEkEnE|
+|mišsvkan|
 
  * ואור 2: 
 
 |וְאוֹר 2|
 |-|
 |וְאוֹֹר 2|
-|wE'EwErE|
+|wsv'wor|
 
  * כי־אמרתי 2: 
 
 |כִּי־אָמַרְתִּי 2|
 |-|
 |כִּי־אָמַרְתִי 2|
-|kEyE־E'EmErEtEyE|
+|kiy־'Amarsvtiy|
 
  * ויאבדו 2: 
 
 |וְיֹאבֵדוּ 1|וְיֹאבְדוּ 1|
 |-|-|
 |וְיֹאבֵדוּ 1|וְיֹאבְדוּ 1|
-|wEyE'EvEdEuE|wEyE'EvEdEuE|
+|wsvyo'vEdu|wsvyo'vsvdu|
 
  * ועבדך 2: 
 
 |וְעַבְדְּךָ 2|
 |-|
 |וְעַבְדְךָ 2|
-|wEɣEvEdExE|
+|wsvɣavsvdsvxA|
 
  * אשמע 2: 
 
 |אֶשְׁמָע 2|
 |-|
 |אֶשְׁמָע 2|
-|'EšEmEɣE|
+|'ešsvmAɣ|
 
  * הוחלתי 2: 
 
 |הוֹחָלְתִּי 2|
 |-|
 |הוֹֹחָלְתִי 2|
-|hEwEHElEtEyE|
+|hwoHAlsvtiy|
 
  * צמאה 2: 
 
 |צָמְאָה 2|
 |-|
 |צָמְאָה 2|
-|cEmE'EhE|
+|cAmsv'Ah|
 
  * בנגינות 2: 
 
 |בִּנְגִינוֹת 2|
 |-|
 |בִּנְגִינוֹֹת 2|
-|bEnEgEyEnEwEtE|
+|binsvgiynwot|
 
  * ודם 2: 
 
 |וְדַם 1|וְדָם 1|
 |-|-|
 |וְדַם 1|וְדָם 1|
-|wEdEmE|wEdEmE|
+|wsvdam|wsvdAm|
 
  * יושב 2: 
 
 |יוֹשֵׁב 2|
 |-|
 |יוֹֹשֵׁב 2|
-|yEwEšEvE|
+|ywošEv|
 
  * עשיהם 2: 
 
 |עֹשֵׂיהֶם 2|
 |-|
 |עֹשֵׂיהֶם 2|
-|ɣESEyEhEmE|
+|ɣoSEyhem|
 
  * ייראו 2: 
 
 |יִירָאוּ 1|יִירְאוּ 1|
 |-|-|
 |יִירָאוּ 1|יִירְאוּ 1|
-|yEyErE'EuE|yEyErE'EuE|
+|yiyrA'u|yiyrsv'u|
 
  * לפני־רוח 2: 
 
 |לִפְנֵי־רוּחַ 2|
 |-|
 |לִפְנֵי־רוּחַ 2|
-|lEfEnEyE־ErEuEHE|
+|lifsvnEy־ruHa|
 
  * אויביו 2: 
 
 |אוֹיְבָיו 2|
 |-|
 |אוֹֹיְבָיו 2|
-|'EwEyEvEyEwE|
+|'woysvvAyw|
 
  * בעודי 2: 
 
 |בְּעוֹדִי 2|
 |-|
 |בְּעוֹֹדִי 2|
-|bEɣEwEdEyE|
+|bsvɣwodiy|
 
  * כל־עבדי 2: 
 
 |כָּל־עַבְדֵי 1|כָּל־עֹבְדֵי 1|
 |-|-|
 |כָּל־עַבְדֵי 1|כָּל־עֹבְדֵי 1|
-|kElE־EɣEvEdEyE|kElE־EɣEvEdEyE|
+|kAl־ɣavsvdEy|kAl־ɣovsvdEy|
 
  * אוכיחך 2: 
 
 |אוֹכִיחֶךָ 1|אוֹכִיחֲךָ 1|
 |-|-|
 |אוֹֹכִיחֶךָ 1|אוֹֹכִיחֲךָ 1|
-|'EwExEyEHExE|'EwExEyEHExE|
+|'woxiyHexA|'woxiyHaxA|
 
  * מצאוני 2: 
 
 |מְצָאוּנִי 2|
 |-|
 |מְצָאוּנִי 2|
-|mEcE'EuEnEyE|
+|msvcA'uniy|
 
  * במצותיך 2: 
 
 |בְּמִצְוֺתֶיךָ 1|בְמִצְוֺתֶיךָ 1|
 |-|-|
 |בְּמִצְוֺתֶיךָ 1|בְמִצְוֺתֶיךָ 1|
-|bEmEcEwEtEyExE|vEmEcEwEtEyExE|
+|bsvmicsvw_o_teyxA|vsvmicsvw_o_teyxA|
 
  * אף־תכון 2: 
 
 |אַף־תִּכּוֹן 2|
 |-|
 |אַף־תִכּוֹֹן 2|
-|'EfE־EtEkEwEnE|
+|'af־tikwon|
 
  * בתף 2: 
 
 |בְתֹף 1|בְּתֹף 1|
 |-|-|
 |בְתֹף 1|בְּתֹף 1|
-|vEtEfE|bEtEfE|
+|vsvtof|bsvtof|
 
  * ויקם 2: 
 
 |וַיָּקֶם 2|
 |-|
 |וַיָקֶם 2|
-|wEyEqEmE|
+|wayAqem|
 
  * הוד־והדר 2: 
 
 |הוֹד־וְהָדָר 2|
 |-|
 |הוֹֹד־וְהָדָר 2|
-|hEwEdE־EwEhEdErE|
+|hwod־wsvhAdAr|
 
  * תאבתי 2: 
 
 |תָּאַבְתִּי 2|
 |-|
 |תָאַבְתִי 2|
-|tE'EvEtEyE|
+|tA'avsvtiy|
 
  * האלהים 2: 
 
 |הָאֱלֹהִים 2|
 |-|
 |הָאֱלֹהִים 2|
-|hE'ElEhEyEmE|
+|hA'elohiym|
 
  * אל־תאחר 2: 
 
 |אַל־תְּאַחַר 2|
 |-|
 |אַל־תְאַחַר 2|
-|'ElE־EtE'EHErE|
+|'al־tsv'aHar|
 
  * גלעד 2: 
 
 |גִלְעָד 2|
 |-|
 |גִלְעָד 2|
-|gElEɣEdE|
+|gilsvɣAd|
 
  * היתה־לי 2: 
 
 |הָיְתָה־לִּי 2|
 |-|
 |הָיְתָה־לִי 2|
-|hEyEtEhE־ElEyE|
+|hAysvtAh־liy|
 
  * עבדיו 2: 
 
 |עֲבָדָיו 2|
 |-|
 |עֲבָדָיו 2|
-|ɣEvEdEyEwE|
+|ɣavAdAyw|
 
  * יבלו 2: 
 
 |יִבְלוּ 1|יִבֹּלוּ 1|
 |-|-|
 |יִבְלוּ 1|יִבֹּלוּ 1|
-|yEvElEuE|yEbElEuE|
+|yivsvlu|yibolu|
 
  * מעלי 2: 
 
 |מֵעָלַי 2|
 |-|
 |מֵעָלַי 2|
-|mEɣElEyE|
+|mEɣAlay|
 
  * פרים 2: 
 
 |פָרִים 1|פָּרִים 1|
 |-|-|
 |פָרִים 1|פָּרִים 1|
-|fErEyEmE|pErEyEmE|
+|fAriym|pAriym|
 
  * כי־בו 2: 
 
 |כִּי־בוֹ 2|
 |-|
 |כִּי־בוֹֹ 2|
-|kEyE־EvEwE|
+|kiy־vwo|
 
  * וגם 2: 
 
 |וְגַם 2|
 |-|
 |וְגַם 2|
-|wEgEmE|
+|wsvgam|
 
  * ובני 2: 
 
 |וּבְנֵי 2|
 |-|
 |וּבְנֵי 2|
-|uEvEnEyE|
+|uvsvnEy|
 
  * בחרב 2: 
 
 |בְּחֹרֵב 1|בַּחֶרֶב 1|
 |-|-|
 |בְּחֹרֵב 1|בַּחֶרֶב 1|
-|bEHErEvE|bEHErEvE|
+|bsvHorEv|baHerev|
 
  * תשועת 2: 
 
 |תְּשׁוּעַת 2|
 |-|
 |תְשׁוּעַת 2|
-|tEšEuEɣEtE|
+|tsvšuɣat|
 
  * פלטני 2: 
 
 |פַלְּטֵנִי 1|פַּלְּטֵנִי 1|
 |-|-|
 |פַלְטֵנִי 1|פַּלְטֵנִי 1|
-|fElETEnEyE|pElETEnEyE|
+|falsvTEniy|palsvTEniy|
 
  * שניו 2: 
 
 |שִׁנָּיו 2|
 |-|
 |שִׁנָיו 2|
-|šEnEyEwE|
+|šinAyw|
 
  * תודיעני 2: 
 
 |תוֹדִיעֵנִי 1|תּוֹדִיעֵנִי 1|
 |-|-|
 |תוֹֹדִיעֵנִי 1|תוֹֹדִיעֵנִי 1|
-|tEwEdEyEɣEnEyE|tEwEdEyEɣEnEyE|
+|twodiyɣEniy|twodiyɣEniy|
 
  * ילדתיך 2: 
 
 |יַלְדֻתֶיךָ 1|יְלִדְתִּיךָ 1|
 |-|-|
 |יַלְדֻתֶיךָ 1|יְלִדְתִיךָ 1|
-|yElEdEtEyExE|yElEdEtEyExE|
+|yalsvduteyxA|ysvlidsvtiyxA|
 
  * חבלי־מות 2: 
 
 |חֶבְלֵי־מָוֶת 2|
 |-|
 |חֶבְלֵי־מָוֶת 2|
-|HEvElEyE־EmEwEtE|
+|HevsvlEy־mAwet|
 
  * שפך 2: 
 
 |שְׁפֹךְ 1|שֹׁפֵךְ 1|
 |-|-|
 |שְׁפֹךְ 1|שֹׁפֵךְ 1|
-|šEfExE|šEfExE|
+|šsvfoxsv|šofExsv|
 
  * הצילה 2: 
 
 |הַצִּילָה 2|
 |-|
 |הַצִילָה 2|
-|hEcEyElEhE|
+|haciylAh|
 
  * דורים 2: 
 
 |דּוֹרִים 2|
 |-|
 |דוֹֹרִים 2|
-|dEwErEyEmE|
+|dworiym|
 
  * תיסרני 2: 
 
 |תְיַסְּרֵנִי 2|
 |-|
 |תְיַסְרֵנִי 2|
-|tEyEsErEnEyE|
+|tsvyassvrEniy|
 
  * כנען 2: 
 
 |כְנָעַן 1|כְּנָעַן 1|
 |-|-|
 |כְנָעַן 1|כְּנָעַן 1|
-|xEnEɣEnE|kEnEɣEnE|
+|xsvnAɣan|ksvnAɣan|
 
  * הפכת 2: 
 
 |הָפַכְתָּ 2|
 |-|
 |הָפַכְתָ 2|
-|hEfExEtE|
+|hAfaxsvtA|
 
  * מני־צר 2: 
 
 |מִנִּי־צָר 2|
 |-|
 |מִנִי־צָר 2|
-|mEnEyE־EcErE|
+|miniy־cAr|
 
  * לחמי 2: 
 
 |לַחְמִי 2|
 |-|
 |לַחְמִי 2|
-|lEHEmEyE|
+|laHsvmiy|
 
  * ממצרים 2: 
 
 |מִמִּצְרָיִם 1|מִמִּצְרַיִם 1|
 |-|-|
 |מִמִצְרָיִם 1|מִמִצְרַיִם 1|
-|mEmEcErEyEmE|mEmEcErEyEmE|
+|mimicsvrAyim|mimicsvrayim|
 
  * לשנא 2: 
 
 |לִשְׂנֹא 2|
 |-|
 |לִשְׂנֹא 2|
-|lESEnE'E|
+|liSsvno'|
 
  * למשפט 2: 
 
 |לַמִּשְׁפָּט 1|לְמִשְׁפָּט 1|
 |-|-|
 |לַמִשְׁפָּט 1|לְמִשְׁפָּט 1|
-|lEmEšEpETE|lEmEšEpETE|
+|lamišsvpAT|lsvmišsvpAT|
 
  * וצדקה 2: 
 
 |וּצְדָקָה 2|
 |-|
 |וּצְדָקָה 2|
-|uEcEdEqEhE|
+|ucsvdAqAh|
 
  * ונתן 2: 
 
 |וְנָתַן 2|
 |-|
 |וְנָתַן 2|
-|wEnEtEnE|
+|wsvnAtan|
 
  * ויזכר 2: 
 
 |וַיִּזְכֹּר 2|
 |-|
 |וַיִזְכֹּר 2|
-|wEyEzEkErE|
+|wayizsvkor|
 
  * לאסר 2: 
 
 |לֶאְסֹר 2|
 |-|
 |לֶאְסֹר 2|
-|lE'EsErE|
+|le'svsor|
 
  * מצות 2: 
 
 |מִצְוֺת 1|מִצְוַת 1|
 |-|-|
 |מִצְוֺת 1|מִצְוַת 1|
-|mEcEwEtE|mEcEwEtE|
+|micsvw_o_t|micsvwat|
 
  * דומיה 2: 
 
 |דּוּמִיָּה 1|דוּמִיָּה 1|
 |-|-|
 |דוּמִיָה 1|דוּמִיָה 1|
-|dEuEmEyEhE|dEuEmEyEhE|
+|dumiyAh|dumiyAh|
 
  * ורעה 2: 
 
 |וּרְעֵה 1|וְרָעָה 1|
 |-|-|
 |וּרְעֵה 1|וְרָעָה 1|
-|uErEɣEhE|wErEɣEhE|
+|ursvɣEh|wsvrAɣAh|
 
  * שבת 2: 
 
 |שַׁבְתָּ 1|שֶׁבֶת 1|
 |-|-|
 |שַׁבְתָ 1|שֶׁבֶת 1|
-|šEvEtE|šEvEtE|
+|šavsvtA|ševet|
 
  * וישבעו 2: 
 
 |וַיִּשְׂבְּעוּ 1|וְיִשְׂבָּעוּ 1|
 |-|-|
 |וַיִשְׂבְּעוּ 1|וְיִשְׂבָּעוּ 1|
-|wEyESEbEɣEuE|wEyESEbEɣEuE|
+|wayiSsvbsvɣu|wsvyiSsvbAɣu|
 
  * עדיך 2: 
 
 |עֶדְיֵךְ 1|עָדֶיךָ 1|
 |-|-|
 |עֶדְיֵךְ 1|עָדֶיךָ 1|
-|ɣEdEyExE|ɣEdEyExE|
+|ɣedsvyExsv|ɣAdeyxA|
 
  * פר 2: 
 
 |פָּר 1|פָר 1|
 |-|-|
 |פָּר 1|פָר 1|
-|pErE|fErE|
+|pAr|fAr|
 
  * מפחד 2: 
 
 |מִפַּחַד 2|
 |-|
 |מִפַּחַד 2|
-|mEpEHEdE|
+|mipaHad|
 
  * וחסדי 2: 
 
 |וְחַסְדִּי 2|
 |-|
 |וְחַסְדִי 2|
-|wEHEsEdEyE|
+|wsvHassvdiy|
 
  * לעני 2: 
 
 |לֶעָנִי 1|לְעָנִי 1|
 |-|-|
 |לֶעָנִי 1|לְעָנִי 1|
-|lEɣEnEyE|lEɣEnEyE|
+|leɣAniy|lsvɣAniy|
 
  * ואשיחה 2: 
 
 |וְאָשִׂיחָה 2|
 |-|
 |וְאָשִׂיחָה 2|
-|wE'ESEyEHEhE|
+|wsv'ASiyHAh|
 
  * אפפוני 2: 
 
 |אֲפָפוּנִי 2|
 |-|
 |אֲפָפוּנִי 2|
-|'EfEfEuEnEyE|
+|'afAfuniy|
 
  * ברקים 2: 
 
 |בְּרָקִים 1|בְרָקִים 1|
 |-|-|
 |בְּרָקִים 1|בְרָקִים 1|
-|bErEqEyEmE|vErEqEyEmE|
+|bsvrAqiym|vsvrAqiym|
 
  * לארך 2: 
 
 |לְאֹרֶךְ 2|
 |-|
 |לְאֹרֶךְ 2|
-|lE'ErExE|
+|lsv'orexsv|
 
  * אניות 2: 
 
 |אֳנִיּוֹת 2|
 |-|
 |אֳנִיוֹֹת 2|
-|'EnEyEwEtE|
+|'Aniywot|
 
  * כי־סלעי 2: 
 
 |כִּי־סַלְעִי 2|
 |-|
 |כִּי־סַלְעִי 2|
-|kEyE־EsElEɣEyE|
+|kiy־salsvɣiy|
 
  * מאז 2: 
 
 |מֵאָז 2|
 |-|
 |מֵאָז 2|
-|mE'EzE|
+|mE'Az|
 
  * כל־נפלאותיך 2: 
 
 |כָּל־נִפְלְאוֹתֶיךָ 2|
 |-|
 |כָּל־נִפְלְאוֹֹתֶיךָ 2|
-|kElE־EnEfElE'EwEtEyExE|
+|kAl־nifsvlsv'woteyxA|
 
  * יחננו 2: 
 
 |יְחֹנֵנוּ 1|יְחָנֵּנוּ 1|
 |-|-|
 |יְחֹנֵנוּ 1|יְחָנֵנוּ 1|
-|yEHEnEnEuE|yEHEnEnEuE|
+|ysvHonEnu|ysvHAnEnu|
 
  * ממזרח־שמש 2: 
 
 |מִמִּזְרַח־שֶׁמֶשׁ 2|
 |-|
 |מִמִזְרַח־שֶׁמֶשׁ 2|
-|mEmEzErEHE־EšEmEšE|
+|mimizsvraH־šemeš|
 
  * היטיבה 2: 
 
 |הֵיטִיבָה 2|
 |-|
 |הֵיטִיבָה 2|
-|hEyETEyEvEhE|
+|hEyTiyvAh|
 
  * בעיני 2: 
 
 |בְעֵינָי 1|בְּעֵינֵי 1|
 |-|-|
 |בְעֵינָי 1|בְּעֵינֵי 1|
-|vEɣEyEnEyE|bEɣEyEnEyE|
+|vsvɣEynAy|bsvɣEynEy|
 
  * ריבי 2: 
 
 |רִיבִי 2|
 |-|
 |רִיבִי 2|
-|rEyEvEyE|
+|riyviy|
 
  * שלחן 2: 
 
 |שֻׁלְחָן 2|
 |-|
 |שֻׁלְחָן 2|
-|šElEHEnE|
+|šulsvHAn|
 
  * ומלאה 2: 
 
 |וּמְלֹאָהּ 2|
 |-|
 |וּמְלֹאָה 2|
-|uEmElE'EhE|
+|umsvlo'Ah|
 
  * שמי 2: 
 
 |שְׁמִי 1|שְׁמֵי 1|
 |-|-|
 |שְׁמִי 1|שְׁמֵי 1|
-|šEmEyE|šEmEyE|
+|šsvmiy|šsvmEy|
 
  * ועד־שחקים 2: 
 
 |וְעַד־שְׁחָקִים 2|
 |-|
 |וְעַד־שְׁחָקִים 2|
-|wEɣEdE־EšEHEqEyEmE|
+|wsvɣad־šsvHAqiym|
 
  * ותרעש 2: 
 
 |וַתִּרְעַשׁ 2|
 |-|
 |וַתִרְעַשׁ 2|
-|wEtErEɣEšE|
+|watirsvɣaš|
 
  * אלם 2: 
 
 |אֵלֶם 2|
 |-|
 |אֵלֶם 2|
-|'ElEmE|
+|'Elem|
 
  * פתחו 2: 
 
 |פָּתְחוּ 1|פָּתָחוּ 1|
 |-|-|
 |פָּתְחוּ 1|פָּתָחוּ 1|
-|pEtEHEuE|pEtEHEuE|
+|pAtsvHu|pAtAHu|
 
  * מפח 2: 
 
 |מִפַּח 2|
 |-|
 |מִפַּח 2|
-|mEpEHE|
+|mipaH|
 
  * זנחת 2: 
 
 |זָנַחְתָּ 2|
 |-|
 |זָנַחְתָ 2|
-|zEnEHEtE|
+|zAnaHsvtA|
 
  * ידידיך 2: 
 
 |יְדִידֶיךָ 2|
 |-|
 |יְדִידֶיךָ 2|
-|yEdEyEdEyExE|
+|ysvdiydeyxA|
 
  * אברכך 2: 
 
 |אֲבָרֶכְךָ 1|אֲבָרֲכֶךָּ 1|
 |-|-|
 |אֲבָרֶכְךָ 1|אֲבָרֲכֶךָּ 1|
-|'EvErExExE|'EvErExEkE|
+|'avArexsvxA|'avAraxekA|
 
  * שנונים 2: 
 
 |שְׁנוּנִים 2|
 |-|
 |שְׁנוּנִים 2|
-|šEnEuEnEyEmE|
+|šsvnuniym|
 
  * תשכח 2: 
 
 |תִּשְׁכַּח 2|
 |-|
 |תִשְׁכַּח 2|
-|tEšEkEHE|
+|tišsvkaH|
 
  * השמש 2: 
 
 |הַשֶּׁמֶשׁ 2|
 |-|
 |הַשֶׁמֶשׁ 2|
-|hEšEmEšE|
+|hašemeš|
 
  * כי־המרו 2: 
 
 |כִּי־הִמְרוּ 2|
 |-|
 |כִּי־הִמְרוּ 2|
-|kEyE־EhEmErEuE|
+|kiy־himsvru|
 
  * אעירה 2: 
 
 |אָעִירָה 2|
 |-|
 |אָעִירָה 2|
-|'EɣEyErEhE|
+|'AɣiyrAh|
 
  * וגיל 2: 
 
 |וָגִיל 1|וְגִיל 1|
 |-|-|
 |וָגִיל 1|וְגִיל 1|
-|wEgEyElE|wEgEyElE|
+|wAgiyl|wsvgiyl|
 
  * חלקות 2: 
 
 |חֲלָקוֹת 2|
 |-|
 |חֲלָקוֹֹת 2|
-|HElEqEwEtE|
+|HalAqwot|
 
  * אדיר 2: 
 
 |אַדִּיר 2|
 |-|
 |אַדִיר 2|
-|'EdEyErE|
+|'adiyr|
 
  * עד־העולם 2: 
 
 |עַד־הָעוֹלָם 2|
 |-|
 |עַד־הָעוֹֹלָם 2|
-|ɣEdE־EhEɣEwElEmE|
+|ɣad־hAɣwolAm|
 
  * גאלת 2: 
 
 |גָּאַלְתָּ 2|
 |-|
 |גָאַלְתָ 2|
-|gE'ElEtE|
+|gA'alsvtA|
 
  * היש 2: 
 
 |הֲיֵשׁ 2|
 |-|
 |הֲיֵשׁ 2|
-|hEyEšE|
+|hayEš|
 
  * בכפי 2: 
 
 |בְּכַפָּי 1|בְכַפִּי 1|
 |-|-|
 |בְּכַפָּי 1|בְכַפִּי 1|
-|bExEpEyE|vExEpEyE|
+|bsvxapAy|vsvxapiy|
 
  * מידי 2: 
 
 |מִידֵי 2|
 |-|
 |מִידֵי 2|
-|mEyEdEyE|
+|miydEy|
 
  * נפלאותיו 2: 
 
 |נִפְלְאוֹתָיו 2|
 |-|
 |נִפְלְאוֹֹתָיו 2|
-|nEfElE'EwEtEyEwE|
+|nifsvlsv'wotAyw|
 
  * האמרי 2: 
 
 |הָאֱמֹרִי 2|
 |-|
 |הָאֱמֹרִי 2|
-|hE'EmErEyE|
+|hA'emoriy|
 
  * כל־ימי 2: 
 
 |כָּל־יְמֵי 2|
 |-|
 |כָּל־יְמֵי 2|
-|kElE־EyEmEyE|
+|kAl־ysvmEy|
 
  * וחרב 2: 
 
 |וְחֶרֶב 2|
 |-|
 |וְחֶרֶב 2|
-|wEHErEvE|
+|wsvHerev|
 
  * פיך 2: 
 
 |פִּיךָ 2|
 |-|
 |פִּיךָ 2|
-|pEyExE|
+|piyxA|
 
  * צדקה 2: 
 
 |צְדָקָה 2|
 |-|
 |צְדָקָה 2|
-|cEdEqEhE|
+|csvdAqAh|
 
  * משכנות 2: 
 
 |מִשְׁכָּנוֹת 1|מִשְׁכְּנוֹת 1|
 |-|-|
 |מִשְׁכָּנוֹֹת 1|מִשְׁכְּנוֹֹת 1|
-|mEšEkEnEwEtE|mEšEkEnEwEtE|
+|mišsvkAnwot|mišsvksvnwot|
 
  * לישועה 2: 
 
 |לִישׁוּעָה 2|
 |-|
 |לִישׁוּעָה 2|
-|lEyEšEuEɣEhE|
+|liyšuɣAh|
 
  * רכב 2: 
 
 |רְכַב 1|רֶכֶב 1|
 |-|-|
 |רְכַב 1|רֶכֶב 1|
-|rExEvE|rExEvE|
+|rsvxav|rexev|
 
  * לא־אירא 2: 
 
 |לֹא־אִירָא 2|
 |-|
 |לֹא־אִירָא 2|
-|lE'E־E'EyErE'E|
+|lo'־'iyrA'|
 
  * אלהיהם 2: 
 
 |אֱלֹהֵיהֶם 1|אֱ‍לֹהֵיהֶם 1|
 |-|-|
 |אֱלֹהֵיהֶם 1|אֱלֹהֵיהֶם 1|
-|'ElEhEyEhEmE|'ElEhEyEhEmE|
+|'elohEyhem|'elohEyhem|
 
  * אמדד 2: 
 
 |אֲמַדֵּד 2|
 |-|
 |אֲמַדֵד 2|
-|'EmEdEdE|
+|'amadEd|
 
  * להצילני 2: 
 
 |לְהַצִּילֵנִי 2|
 |-|
 |לְהַצִילֵנִי 2|
-|lEhEcEyElEnEyE|
+|lsvhaciylEniy|
 
  * צנה 2: 
 
 |צִנָּה 1|צֹנֶה 1|
 |-|-|
 |צִנָה 1|צֹנֶה 1|
-|cEnEhE|cEnEhE|
+|cinAh|coneh|
 
  * לבושי 2: 
 
 |לְבוּשִׁי 2|
 |-|
 |לְבוּשִׁי 2|
-|lEvEuEšEyE|
+|lsvvušiy|
 
  * פעמיו 2: 
 
 |פְּעָמָיו 2|
 |-|
 |פְּעָמָיו 2|
-|pEɣEmEyEwE|
+|psvɣAmAyw|
 
  * דבריו 2: 
 
 |דְבָרָיו 1|דְּבָרָיו 1|
 |-|-|
 |דְבָרָיו 1|דְבָרָיו 1|
-|dEvErEyEwE|dEvErEyEwE|
+|dsvvArAyw|dsvvArAyw|
 
  * וכוכבים 2: 
 
 |וְכוֹכָבִים 2|
 |-|
 |וְכוֹֹכָבִים 2|
-|wExEwExEvEyEmE|
+|wsvxwoxAviym|
 
  * ושמתי 2: 
 
 |וְשַׂמְתִּי 2|
 |-|
 |וְשַׂמְתִי 2|
-|wESEmEtEyE|
+|wsvSamsvtiy|
 
  * נמשל 2: 
 
 |נִמְשַׁל 2|
 |-|
 |נִמְשַׁל 2|
-|nEmEšElE|
+|nimsvšal|
 
  * פיו 2: 
 
 |פִּיו 2|
 |-|
 |פִּיו 2|
-|pEyEwE|
+|piyw|
 
  * תבזה 2: 
 
 |תִבְזֶה 1|תִּבְזֶה 1|
 |-|-|
 |תִבְזֶה 1|תִבְזֶה 1|
-|tEvEzEhE|tEvEzEhE|
+|tivsvzeh|tivsvzeh|
 
  * אראה 2: 
 
 |אֶרְאֶה 2|
 |-|
 |אֶרְאֶה 2|
-|'ErE'EhE|
+|'ersv'eh|
 
  * אחד 2: 
 
 |אֶחָד 2|
 |-|
 |אֶחָד 2|
-|'EHEdE|
+|'eHAd|
 
  * ערו 2: 
 
 |עָרוּ 2|
 |-|
 |עָרוּ 2|
-|ɣErEuE|
+|ɣAru|
 
  * תהלות 2: 
 
 |תְּהִלּוֹת 2|
 |-|
 |תְהִלוֹֹת 2|
-|tEhElEwEtE|
+|tsvhilwot|
 
  * בקש 2: 
 
 |בַּקֵּשׁ 2|
 |-|
 |בַּקֵשׁ 2|
-|bEqEšE|
+|baqEš|
 
  * קרב 2: 
 
 |קְרֹב 1|קְרָב 1|
 |-|-|
 |קְרֹב 1|קְרָב 1|
-|qErEvE|qErEvE|
+|qsvrov|qsvrAv|
 
  * ידרך 2: 
 
 |יַדְרֵךְ 1|יִדְרֹךְ 1|
 |-|-|
 |יַדְרֵךְ 1|יִדְרֹךְ 1|
-|yEdErExE|yEdErExE|
+|yadsvrExsv|yidsvroxsv|
 
  * ומשנאינו 2: 
 
 |וּמְשַׂנְאֵינוּ 2|
 |-|
 |וּמְשַׂנְאֵינוּ 2|
-|uEmESEnE'EyEnEuE|
+|umsvSansv'Eynu|
 
  * אשרינו 2: 
 
 |אֲשֻׁרֵינוּ 1|אַשֻּׁרֵינוּ 1|
 |-|-|
 |אֲשֻׁרֵינוּ 1|אַשֻׁרֵינוּ 1|
-|'EšErEyEnEuE|'EšErEyEnEuE|
+|'ašurEynu|'ašurEynu|
 
  * לאלהינו 2: 
 
 |לֵאלֹהֵינוּ 2|
 |-|
 |לֵאלֹהֵינוּ 2|
-|lE'ElEhEyEnEuE|
+|lE'lohEynu|
 
  * זכרו 2: 
 
 |זִכְרוּ 1|זָכְרוּ 1|
 |-|-|
 |זִכְרוּ 1|זָכְרוּ 1|
-|zExErEuE|zExErEuE|
+|zixsvru|zAxsvru|
 
  * מגערתך 2: 
 
 |מִגַּעֲרָתְךָ 2|
 |-|
 |מִגַעֲרָתְךָ 2|
-|mEgEɣErEtExE|
+|migaɣarAtsvxA|
 
  * מדבש 2: 
 
 |מִדְּבַשׁ 2|
 |-|
 |מִדְבַשׁ 2|
-|mEdEvEšE|
+|midsvvaš|
 
  * עבות 2: 
 
 |עָבוֹת 1|עֲבוֹת 1|
 |-|-|
 |עָבוֹֹת 1|עֲבוֹֹת 1|
-|ɣEvEwEtE|ɣEvEwEtE|
+|ɣAvwot|ɣavwot|
 
  * עמד 2: 
 
 |עָמָד 1|עָמַד 1|
 |-|-|
 |עָמָד 1|עָמַד 1|
-|ɣEmEdE|ɣEmEdE|
+|ɣAmAd|ɣAmad|
 
  * פרצת 2: 
 
 |פָּרַצְתָּ 2|
 |-|
 |פָּרַצְתָ 2|
-|pErEcEtE|
+|pAracsvtA|
 
  * כרתי 2: 
 
 |כָּרַתִּי 1|כֹּרְתֵי 1|
 |-|-|
 |כָּרַתִי 1|כֹּרְתֵי 1|
-|kErEtEyE|kErEtEyE|
+|kAratiy|korsvtEy|
 
  * את־עמו 2: 
 
 |אֶת־עַמּוֹ 2|
 |-|
 |אֶת־עַמוֹֹ 2|
-|'EtE־EɣEmEwE|
+|'et־ɣamwo|
 
  * מריבה 2: 
 
 |מְרִיבָה 2|
 |-|
 |מְרִיבָה 2|
-|mErEyEvEhE|
+|msvriyvAh|
 
  * יראיך 2: 
 
 |יְרֵאֶיךָ 2|
 |-|
 |יְרֵאֶיךָ 2|
-|yErE'EyExE|
+|ysvrE'eyxA|
 
  * גליהם 2: 
 
 |גַּלֵּיהֶם 2|
 |-|
 |גַלֵיהֶם 2|
-|gElEyEhEmE|
+|galEyhem|
 
  * יגעתי 2: 
 
 |יָגַעְתִּי 2|
 |-|
 |יָגַעְתִי 2|
-|yEgEɣEtEyE|
+|yAgaɣsvtiy|
 
  * שבעתים 2: 
 
 |שִׁבְעָתַיִם 1|שִׁבְעָתָיִם 1|
 |-|-|
 |שִׁבְעָתַיִם 1|שִׁבְעָתָיִם 1|
-|šEvEɣEtEyEmE|šEvEɣEtEyEmE|
+|šivsvɣAtayim|šivsvɣAtAyim|
 
  * ידדון 2: 
 
 |יִדֹּדוּן 2|
 |-|
 |יִדֹדוּן 2|
-|yEdEdEuEnE|
+|yidodun|
 
  * לראש 2: 
 
 |לְרֹאשׁ 2|
 |-|
 |לְרֹאשׁ 2|
-|lErE'EšE|
+|lsvro'š|
 
  * שמן 2: 
 
 |שֶׁמֶן 2|
 |-|
 |שֶׁמֶן 2|
-|šEmEnE|
+|šemen|
 
  * ומפז 2: 
 
 |וּמִפָּז 1|וּמִפַּז 1|
 |-|-|
 |וּמִפָּז 1|וּמִפַּז 1|
-|uEmEpEzE|uEmEpEzE|
+|umipAz|umipaz|
 
  * כעפר 2: 
 
 |כְּעָפָר 1|כֶּעָפָר 1|
 |-|-|
 |כְּעָפָר 1|כֶּעָפָר 1|
-|kEɣEfErE|kEɣEfErE|
+|ksvɣAfAr|keɣAfAr|
 
  * אשר־חפץ 2: 
 
 |אֲשֶׁר־חָפֵץ 2|
 |-|
 |אֲשֶׁר־חָפֵץ 2|
-|'EšErE־EHEfEcE|
+|'ašer־HAfEc|
 
  * יבוס 2: 
 
 |יָבוּס 2|
 |-|
 |יָבוּס 2|
-|yEvEuEsE|
+|yAvus|
 
  * כאש 2: 
 
 |כְּאֵשׁ 2|
 |-|
 |כְּאֵשׁ 2|
-|kE'EšE|
+|ksv'Eš|
 
  * ויציצו 2: 
 
 |וְיָצִיצוּ 1|וַיָּצִיצוּ 1|
 |-|-|
 |וְיָצִיצוּ 1|וַיָצִיצוּ 1|
-|wEyEcEyEcEuE|wEyEcEyEcEuE|
+|wsvyAciycu|wayAciycu|
 
  * יחל 2: 
 
 |יַחֵל 2|
 |-|
 |יַחֵל 2|
-|yEHElE|
+|yaHEl|
 
  * אלים 2: 
 
 |אֵלִים 2|
 |-|
 |אֵלִים 2|
-|'ElEyEmE|
+|'Eliym|
 
  * אלמנה 2: 
 
 |אַלְמָנָה 2|
 |-|
 |אַלְמָנָה 2|
-|'ElEmEnEhE|
+|'alsvmAnAh|
 
  * דעת 2: 
 
 |דַעַת 1|דָּעַת 1|
 |-|-|
 |דַעַת 1|דָעַת 1|
-|dEɣEtE|dEɣEtE|
+|daɣat|dAɣat|
 
  * אשליך 2: 
 
 |אַשְׁלִיךְ 2|
 |-|
 |אַשְׁלִיךְ 2|
-|'EšElEyExE|
+|'ašsvliyxsv|
 
  * אעלזה 2: 
 
 |אֶעְלֹזָה 2|
 |-|
 |אֶעְלֹזָה 2|
-|'EɣElEzEhE|
+|'eɣsvlozAh|
 
  * חסיד 2: 
 
 |חָסִיד 2|
 |-|
 |חָסִיד 2|
-|HEsEyEdE|
+|HAsiyd|
 
  * עדת 2: 
 
 |עֲדַת 2|
 |-|
 |עֲדַת 2|
-|ɣEdEtE|
+|ɣadat|
 
  * ישפט 2: 
 
 |יִשְׁפֹּט 2|
 |-|
 |יִשְׁפֹּט 2|
-|yEšEpETE|
+|yišsvpoT|
 
  * כלכם 2: 
 
 |כֻּלְּכֶם 1|כֻלְּכֶם 1|
 |-|-|
 |כֻּלְכֶם 1|כֻלְכֶם 1|
-|kElExEmE|xElExEmE|
+|kulsvxem|xulsvxem|
 
  * את־אברהם 2: 
 
 |אֶת־אַבְרָהָם 2|
 |-|
 |אֶת־אַבְרָהָם 2|
-|'EtE־E'EvErEhEmE|
+|'et־'avsvrAhAm|
 
  * בצרות 2: 
 
 |בְצָרוֹת 1|בְּצָרוֹת 1|
 |-|-|
 |בְצָרוֹֹת 1|בְּצָרוֹֹת 1|
-|vEcErEwEtE|bEcErEwEtE|
+|vsvcArwot|bsvcArwot|
 
  * מן 2: 
 
 |מַן 1|מָן 1|
 |-|-|
 |מַן 1|מָן 1|
-|mEnE|mEnE|
+|man|mAn|
 
  * ישועתו 2: 
 
 |יְשׁוּעָתוֹ 2|
 |-|
 |יְשׁוּעָתוֹֹ 2|
-|yEšEuEɣEtEwE|
+|ysvšuɣAtwo|
 
  * ונמשלתי 2: 
 
 |וְנִמְשַׁלְתִּי 2|
 |-|
 |וְנִמְשַׁלְתִי 2|
-|wEnEmEšElEtEyE|
+|wsvnimsvšalsvtiy|
 
  * זמה 2: 
 
 |זִמָּה 2|
 |-|
 |זִמָה 2|
-|zEmEhE|
+|zimAh|
 
  * אל־יאמרו 2: 
 
 |אַל־יֹאמְרוּ 2|
 |-|
 |אַל־יֹאמְרוּ 2|
-|'ElE־EyE'EmErEuE|
+|'al־yo'msvru|
 
  * עתודים 2: 
 
 |עַתּוּדִים 2|
 |-|
 |עַתוּדִים 2|
-|ɣEtEuEdEyEmE|
+|ɣatudiym|
 
  * בלחץ 2: 
 
 |בְּלַחַץ 2|
 |-|
 |בְּלַחַץ 2|
-|bElEHEcE|
+|bsvlaHac|
 
  * אפרים 2: 
 
 |אֶפְרַיִם 2|
 |-|
 |אֶפְרַיִם 2|
-|'EfErEyEmE|
+|'efsvrayim|
 
  * מלאו 2: 
 
 |מָלְאוּ 2|
 |-|
 |מָלְאוּ 2|
-|mElE'EuE|
+|mAlsv'u|
 
  * רחוק 2: 
 
 |רָחוֹק 2|
 |-|
 |רָחוֹֹק 2|
-|rEHEwEqE|
+|rAHwoq|
 
  * עלמות 2: 
 
 |עֲלָמוֹת 1|עַלְמוּת 1|
 |-|-|
 |עֲלָמוֹֹת 1|עַלְמוּת 1|
-|ɣElEmEwEtE|ɣElEmEuEtE|
+|ɣalAmwot|ɣalsvmut|
 
  * עונת 2: 
 
 |עֲוֺנֹת 2|
 |-|
 |עֲוֺנֹת 2|
-|ɣEwEnEtE|
+|ɣaw_o_not|
 
  * אלביש 2: 
 
 |אַלְבִּישׁ 2|
 |-|
 |אַלְבִּישׁ 2|
-|'ElEbEyEšE|
+|'alsvbiyš|
 
  * בימי 2: 
 
 |בִּימֵי 2|
 |-|
 |בִּימֵי 2|
-|bEyEmEyE|
+|biymEy|
 
  * סיר 2: 
 
 |סִיר 2|
 |-|
 |סִיר 2|
-|sEyErE|
+|siyr|
 
  * קיץ 2: 
 
 |קַיִץ 2|
 |-|
 |קַיִץ 2|
-|qEyEcE|
+|qayic|
 
  * פצני 2: 
 
 |פְּצֵנִי 2|
 |-|
 |פְּצֵנִי 2|
-|pEcEnEyE|
+|psvcEniy|
 
  * בבוא 2: 
 
 |בְּבוֹא 2|
 |-|
 |בְּבוֹֹא 2|
-|bEvEwE'E|
+|bsvvwo'|
 
  * ספרו־לנו 2: 
 
 |סִפְּרוּ־לָנוּ 2|
 |-|
 |סִפְּרוּ־לָנוּ 2|
-|sEpErEuE־ElEnEuE|
+|sipsvru־lAnu|
 
  * אויביהם 2: 
 
 |אוֹיְבֵיהֶם 2|
 |-|
 |אוֹֹיְבֵיהֶם 2|
-|'EwEyEvEyEhEmE|
+|'woysvvEyhem|
 
  * נמצא 2: 
 
 |נִמְצָא 2|
 |-|
 |נִמְצָא 2|
-|nEmEcE'E|
+|nimsvcA'|
 
  * גבורתך 2: 
 
 |גְּבוּרָתֶךָ 2|
 |-|
 |גְבוּרָתֶךָ 2|
-|gEvEuErEtExE|
+|gsvvurAtexA|
 
  * על־עקב 2: 
 
 |עַל־עֵקֶב 2|
 |-|
 |עַל־עֵקֶב 2|
-|ɣElE־EɣEqEvE|
+|ɣal־ɣEqev|
 
  * וישבר 2: 
 
 |וַיְשַׁבֵּר 2|
 |-|
 |וַיְשַׁבֵּר 2|
-|wEyEšEbErE|
+|waysvšabEr|
 
  * שנת 2: 
 
 |שְׁנַת 2|
 |-|
 |שְׁנַת 2|
-|šEnEtE|
+|šsvnat|
 
  * שרעפי 2: 
 
 |שַׂרְעַפַּי 1|שַׂרְעַפָּי 1|
 |-|-|
 |שַׂרְעַפַּי 1|שַׂרְעַפָּי 1|
-|SErEɣEpEyE|SErEɣEpEyE|
+|Sarsvɣapay|SarsvɣapAy|
 
  * בישועתו 2: 
 
 |בִּישׁוּעָתוֹ 2|
 |-|
 |בִּישׁוּעָתוֹֹ 2|
-|bEyEšEuEɣEtEwE|
+|biyšuɣAtwo|
 
  * תפלטני 2: 
 
 |תְּפַלְּטֵנִי 1|תְפַלְּטֵנִי 1|
 |-|-|
 |תְפַלְטֵנִי 1|תְפַלְטֵנִי 1|
-|tEfElETEnEyE|tEfElETEnEyE|
+|tsvfalsvTEniy|tsvfalsvTEniy|
 
  * לשם 2: 
 
 |לְשֵׁם 2|
 |-|
 |לְשֵׁם 2|
-|lEšEmE|
+|lsvšEm|
 
  * וכעס 2: 
 
 |וָכַעַס 1|וְכָעָס 1|
 |-|-|
 |וָכַעַס 1|וְכָעָס 1|
-|wExEɣEsE|wExEɣEsE|
+|wAxaɣas|wsvxAɣAs|
 
  * אמרים 2: 
 
 |אֹמְרִים 2|
 |-|
 |אֹמְרִים 2|
-|'EmErEyEmE|
+|'omsvriym|
 
  * כעשב 2: 
 
 |כָּעֵשֶׂב 1|כְּעֵשֶׂב 1|
 |-|-|
 |כָּעֵשֶׂב 1|כְּעֵשֶׂב 1|
-|kEɣESEvE|kEɣESEvE|
+|kAɣESev|ksvɣESev|
 
  * [ענוים 2: 
 
 |[עֲנָוִים 2|
 |-|
 |[עֲנָוִים 2|
-|[EɣEnEwEyEmE|
+|[ɣanAwiym|
 
  * ומשנאי 2: 
 
 |וּמִשֹּׂנְאַי 1|וּמְשַׂנְאַי 1|
 |-|-|
 |וּמִשֹׂנְאַי 1|וּמְשַׂנְאַי 1|
-|uEmESEnE'EyE|uEmESEnE'EyE|
+|umiSonsv'ay|umsvSansv'ay|
 
  * יהלכו 2: 
 
 |יְהַלֵּכוּ 2|
 |-|
 |יְהַלֵכוּ 2|
-|yEhElExEuE|
+|ysvhalExu|
 
  * עזרת 2: 
 
 |עֶזְרָת 2|
 |-|
 |עֶזְרָת 2|
-|ɣEzErEtE|
+|ɣezsvrAt|
 
  * ודעו 2: 
 
 |וּדְעוּ 2|
 |-|
 |וּדְעוּ 2|
-|uEdEɣEuE|
+|udsvɣu|
 
  * תנצרני 2: 
 
 |תִּנְצְרֵנִי 2|
 |-|
 |תִנְצְרֵנִי 2|
-|tEnEcErEnEyE|
+|tinsvcsvrEniy|
 
  * שירו־לו 2: 
 
 |שִׁירוּ־לוֹ 2|
 |-|
 |שִׁירוּ־לוֹֹ 2|
-|šEyErEuE־ElEwE|
+|šiyru־lwo|
 
  * נאוה 2: 
 
 |נָאוָה 2|
 |-|
 |נָאוָה 2|
-|nE'EwEhE|
+|nA'wAh|
 
  * משגב־לנו 2: 
 
 |מִשְׂגָּב־לָנוּ 2|
 |-|
 |מִשְׂגָב־לָנוּ 2|
-|mESEgEvE־ElEnEuE|
+|miSsvgAv־lAnu|
 
  * רחקים 2: 
 
 |רְחֹקִים 2|
 |-|
 |רְחֹקִים 2|
-|rEHEqEyEmE|
+|rsvHoqiym|
 
  * אצמית 2: 
 
 |אַצְמִית 2|
 |-|
 |אַצְמִית 2|
-|'EcEmEyEtE|
+|'acsvmiyt|
 
  * קשת 2: 
 
 |קֶשֶׁת 2|
 |-|
 |קֶשֶׁת 2|
-|qEšEtE|
+|qešet|
 
  * וישבו 2: 
 
 |וְיָשֻׁבוּ 1|וְיָשְׁבוּ 1|
 |-|-|
 |וְיָשֻׁבוּ 1|וְיָשְׁבוּ 1|
-|wEyEšEvEuE|wEyEšEvEuE|
+|wsvyAšuvu|wsvyAšsvvu|
 
  * על־עבדך 2: 
 
 |עַל־עַבְדְּךָ 1|עַל־עַבְדֶּךָ 1|
 |-|-|
 |עַל־עַבְדְךָ 1|עַל־עַבְדֶךָ 1|
-|ɣElE־EɣEvEdExE|ɣElE־EɣEvEdExE|
+|ɣal־ɣavsvdsvxA|ɣal־ɣavsvdexA|
 
  * כלמה 2: 
 
 |כְלִמָּה 1|כְּלִמָּה 1|
 |-|-|
 |כְלִמָה 1|כְּלִמָה 1|
-|xElEmEhE|kElEmEhE|
+|xsvlimAh|ksvlimAh|
 
  * תהיה 2: 
 
 |תִּהְיֶה 2|
 |-|
 |תִהְיֶה 2|
-|tEhEyEhE|
+|tihsvyeh|
 
  * אזמרך 2: 
 
 |אֲזַמְּרֶךָּ 1|אֲזַמֶּרְךָ 1|
 |-|-|
 |אֲזַמְרֶךָּ 1|אֲזַמֶרְךָ 1|
-|'EzEmErEkE|'EzEmErExE|
+|'azamsvrekA|'azamersvxA|
 
  * תנחמני 2: 
 
 |תְּנַחֲמֵנִי 2|
 |-|
 |תְנַחֲמֵנִי 2|
-|tEnEHEmEnEyE|
+|tsvnaHamEniy|
 
  * מעין 2: 
 
 |מַעְיָן 2|
 |-|
 |מַעְיָן 2|
-|mEɣEyEnE|
+|maɣsvyAn|
 
  * ענו 2: 
 
 |עֱנוּ 1|עִנּוּ 1|
 |-|-|
 |עֱנוּ 1|עִנוּ 1|
-|ɣEnEuE|ɣEnEuE|
+|ɣenu|ɣinu|
 
  * בחיים 2: 
 
 |בַּחַיִּים 2|
 |-|
 |בַּחַיִים 2|
-|bEHEyEyEmE|
+|baHayiym|
 
  * ישישו 2: 
 
 |יָשִׂישׂוּ 2|
 |-|
 |יָשִׂישׂוּ 2|
-|yESEyESEuE|
+|yASiySu|
 
  * בדם 2: 
 
 |בְּדָם 1|בְּדַם 1|
 |-|-|
 |בְּדָם 1|בְּדַם 1|
-|bEdEmE|bEdEmE|
+|bsvdAm|bsvdam|
 
  * נעים 2: 
 
 |נָעִים 2|
 |-|
 |נָעִים 2|
-|nEɣEyEmE|
+|nAɣiym|
 
  * ויבש 2: 
 
 |וַיִּבַשׁ 1|וְיָבֵשׁ 1|
 |-|-|
 |וַיִבַשׁ 1|וְיָבֵשׁ 1|
-|wEyEvEšE|wEyEvEšE|
+|wayivaš|wsvyAvEš|
 
  * אחזת 2: 
 
 |אָחַזְתָּ 2|
 |-|
 |אָחַזְתָ 2|
-|'EHEzEtE|
+|'AHazsvtA|
 
  * גדלו 2: 
 
 |גֻּדְלוֹ 1|גַּדְּלוּ 1|
 |-|-|
 |גֻדְלוֹֹ 1|גַדְלוּ 1|
-|gEdElEwE|gEdElEuE|
+|gudsvlwo|gadsvlu|
 
  * כליותי 2: 
 
 |כִלְיוֹתַי 1|כִלְיוֹתָי 1|
 |-|-|
 |כִלְיוֹֹתַי 1|כִלְיוֹֹתָי 1|
-|xElEyEwEtEyE|xElEyEwEtEyE|
+|xilsvywotay|xilsvywotAy|
 
  * כחרש 2: 
 
 |כְחֵרֵשׁ 1|כַּחֶרֶשׂ 1|
 |-|-|
 |כְחֵרֵשׁ 1|כַּחֶרֶשׂ 1|
-|xEHErEšE|kEHErESE|
+|xsvHErEš|kaHereS|
 
  * מטוב 2: 
 
 |מִטּוֹב 2|
 |-|
 |מִטוֹֹב 2|
-|mETEwEvE|
+|miTwov|
 
  * אבקש 2: 
 
 |אֲבַקֵּשׁ 2|
 |-|
 |אֲבַקֵשׁ 2|
-|'EvEqEšE|
+|'avaqEš|
 
  * יעבר 2: 
 
 |יַעֲבֹר 2|
 |-|
 |יַעֲבֹר 2|
-|yEɣEvErE|
+|yaɣavor|
 
  * סוררים 2: 
 
 |סוֹרְרִים 1|סוֹרֲרִים 1|
 |-|-|
 |סוֹֹרְרִים 1|סוֹֹרֲרִים 1|
-|sEwErErEyEmE|sEwErErEyEmE|
+|sworsvriym|sworariym|
 
  * מכף 2: 
 
 |מִכַּף 2|
 |-|
 |מִכַּף 2|
-|mEkEfE|
+|mikaf|
 
  * ארחות 2: 
 
 |אָרְחוֹת 2|
 |-|
 |אָרְחוֹֹת 2|
-|'ErEHEwEtE|
+|'ArsvHwot|
 
  * על־שמים 2: 
 
 |עַל־שָׁמַיִם 2|
 |-|
 |עַל־שָׁמַיִם 2|
-|ɣElE־EšEmEyEmE|
+|ɣal־šAmayim|
 
  * מרעיתו 2: 
 
 |מַרְעִיתוֹ 2|
 |-|
 |מַרְעִיתוֹֹ 2|
-|mErEɣEyEtEwE|
+|marsvɣiytwo|
 
  * נדמו 2: 
 
 |נִדְמוּ 2|
 |-|
 |נִדְמוּ 2|
-|nEdEmEuE|
+|nidsvmu|
 
  * יקרא 2: 
 
 |יִקְרָא 2|
 |-|
 |יִקְרָא 2|
-|yEqErE'E|
+|yiqsvrA'|
 
  * ותאמר 2: 
 
 |וַתֹּאמֶר 2|
 |-|
 |וַתֹאמֶר 2|
-|wEtE'EmErE|
+|wato'mer|
 
  * שנאת 2: 
 
 |שָׂנֵאתָ 2|
 |-|
 |שָׂנֵאתָ 2|
-|SEnE'EtE|
+|SAnE'tA|
 
  * אחסה 2: 
 
 |אֶחְסֶה 1|אֶחֱסֶה 1|
 |-|-|
 |אֶחְסֶה 1|אֶחֱסֶה 1|
-|'EHEsEhE|'EHEsEhE|
+|'eHsvseh|'eHeseh|
 
  * להודיעם 2: 
 
 |לְהוֹדִיעָם 2|
 |-|
 |לְהוֹֹדִיעָם 2|
-|lEhEwEdEyEɣEmE|
+|lsvhwodiyɣAm|
 
  * כבגד 2: 
 
 |כַּבֶּגֶד 1|כְּבֶגֶד 1|
 |-|-|
 |כַּבֶּגֶד 1|כְּבֶגֶד 1|
-|kEbEgEdE|kEvEgEdE|
+|kabeged|ksvveged|
 
  * למוט 2: 
 
 |לַמּוֹט 2|
 |-|
 |לַמוֹֹט 2|
-|lEmEwETE|
+|lamwoT|
 
  * בשחק 2: 
 
 |בַשַּׁחַק 1|בַּשַּׁחַק 1|
 |-|-|
 |בַשַׁחַק 1|בַּשַׁחַק 1|
-|vEšEHEqE|bEšEHEqE|
+|vašaHaq|bašaHaq|
 
  * מפרי 2: 
 
 |מִפְּרִי 2|
 |-|
 |מִפְּרִי 2|
-|mEpErEyE|
+|mipsvriy|
 
  * יתהלכו 2: 
 
 |יִתְהַלָּכוּ 2|
 |-|
 |יִתְהַלָכוּ 2|
-|yEtEhElExEuE|
+|yitsvhalAxu|
 
  * לשוא 2: 
 
 |לַשָּׁוְא 2|
 |-|
 |לַשָׁוְא 2|
-|lEšEwE'E|
+|lašAwsv'|
 
  * תהגה 2: 
 
 |תֶּהְגֶּה 2|
 |-|
 |תֶהְגֶה 2|
-|tEhEgEhE|
+|tehsvgeh|
 
  * חם 2: 
 
 |חָם 2|
 |-|
 |חָם 2|
-|HEmE|
+|HAm|
 
  * עניתי 2: 
 
 |עִנֵּיתִי 1|עָנִיתִי 1|
 |-|-|
 |עִנֵיתִי 1|עָנִיתִי 1|
-|ɣEnEyEtEyE|ɣEnEyEtEyE|
+|ɣinEytiy|ɣAniytiy|
 
  * בכסף 2: 
 
 |בְּכֶסֶף 1|בַכֶּסֶף 1|
 |-|-|
 |בְּכֶסֶף 1|בַכֶּסֶף 1|
-|bExEsEfE|vEkEsEfE|
+|bsvxesef|vakesef|
 
  * ראוך 2: 
 
 |רָאוּךָ 2|
 |-|
 |רָאוּךָ 2|
-|rE'EuExE|
+|rA'uxA|
 
  * בעניי 2: 
 
 |בְעָנְיִי 2|
 |-|
 |בְעָנְיִי 2|
-|vEɣEnEyEyE|
+|vsvɣAnsvyiy|
 
  * הדריכני 2: 
 
 |הַדְרִיכֵנִי 2|
 |-|
 |הַדְרִיכֵנִי 2|
-|hEdErEyExEnEyE|
+|hadsvriyxEniy|
 
  * בקולו 2: 
 
 |בְּקוֹלוֹ 2|
 |-|
 |בְּקוֹֹלוֹֹ 2|
-|bEqEwElEwE|
+|bsvqwolwo|
 
  * לא־נשא 2: 
 
 |לֹא־נָשָׂא 2|
 |-|
 |לֹא־נָשָׂא 2|
-|lE'E־EnESE'E|
+|lo'־nASA'|
 
  * שפת 2: 
 
 |שְׂפַת 2|
 |-|
 |שְׂפַת 2|
-|SEfEtE|
+|Ssvfat|
 
  * חשבתי 2: 
 
 |חִשַּׁבְתִּי 2|
 |-|
 |חִשַׁבְתִי 2|
-|HEšEvEtEyE|
+|Hišavsvtiy|
 
  * עמדו 2: 
 
 |עָמְדוּ 1|עָמָדוּ 1|
 |-|-|
 |עָמְדוּ 1|עָמָדוּ 1|
-|ɣEmEdEuE|ɣEmEdEuE|
+|ɣAmsvdu|ɣAmAdu|
 
  * אמוט 2: 
 
 |אֶמּוֹט 2|
 |-|
 |אֶמוֹֹט 2|
-|'EmEwETE|
+|'emwoT|
 
  * ואמונתך 2: 
 
 |וֶאֱמוּנָתְךָ 2|
 |-|
 |וֶאֱמוּנָתְךָ 2|
-|wE'EmEuEnEtExE|
+|we'emunAtsvxA|
 
  * הבטחים 2: 
 
 |הַבֹּטְחִים 2|
 |-|
 |הַבֹּטְחִים 2|
-|hEbETEHEyEmE|
+|haboTsvHiym|
 
  * חלל 2: 
 
 |חָלַל 1|חִלֵּל 1|
 |-|-|
 |חָלַל 1|חִלֵל 1|
-|HElElE|HElElE|
+|HAlal|HilEl|
 
  * וצלמות 2: 
 
 |וְצַלְמָוֶת 2|
 |-|
 |וְצַלְמָוֶת 2|
-|wEcElEmEwEtE|
+|wsvcalsvmAwet|
 
  * ואפרים 2: 
 
 |וְאֶפְרַיִם 2|
 |-|
 |וְאֶפְרַיִם 2|
-|wE'EfErEyEmE|
+|wsv'efsvrayim|
 
  * תצילני 2: 
 
 |תַּצִּילֵנִי 2|
 |-|
 |תַצִילֵנִי 2|
-|tEcEyElEnEyE|
+|taciylEniy|
 
  * להמיתו 2: 
 
 |לַהֲמִיתוֹ 2|
 |-|
 |לַהֲמִיתוֹֹ 2|
-|lEhEmEyEtEwE|
+|lahamiytwo|
 
  * נבהלו 2: 
 
 |נִבְהֲלוּ 2|
 |-|
 |נִבְהֲלוּ 2|
-|nEvEhElEuE|
+|nivsvhalu|
 
  * עזרתי 2: 
 
 |עֶזְרָתִי 2|
 |-|
 |עֶזְרָתִי 2|
-|ɣEzErEtEyE|
+|ɣezsvrAtiy|
 
  * על־ערש 2: 
 
 |עַל־עֶרֶשׂ 2|
 |-|
 |עַל־עֶרֶשׂ 2|
-|ɣElE־EɣErESE|
+|ɣal־ɣereS|
 
  * אהלך 2: 
 
 |אֲהַלֵּךְ 2|
 |-|
 |אֲהַלֵךְ 2|
-|'EhElExE|
+|'ahalExsv|
 
  * מרבבות 2: 
 
 |מֵרִבְבוֹת 1|מְרֻבָּבוֹת 1|
 |-|-|
 |מֵרִבְבוֹֹת 1|מְרֻבָּבוֹֹת 1|
-|mErEvEvEwEtE|mErEbEvEwEtE|
+|mErivsvvwot|msvrubAvwot|
 
  * אל־תתן 2: 
 
 |אַל־תִּתֵּן 2|
 |-|
 |אַל־תִתֵן 2|
-|'ElE־EtEtEnE|
+|'al־titEn|
 
  * עם־עבדך 2: 
 
 |עִם־עַבְדְּךָ 2|
 |-|
 |עִם־עַבְדְךָ 2|
-|ɣEmE־EɣEvEdExE|
+|ɣim־ɣavsvdsvxA|
 
  * אוכל 2: 
 
 |אוּכָל 1|אוֹכֵל 1|
 |-|-|
 |אוּכָל 1|אוֹֹכֵל 1|
-|'EuExElE|'EwExElE|
+|'uxAl|'woxEl|
 
  * יסדתם 2: 
 
 |יְסַדְתָּם 2|
 |-|
 |יְסַדְתָם 2|
-|yEsEdEtEmE|
+|ysvsadsvtAm|
 
  * רגלינו 2: 
 
 |רַגְלֵינוּ 2|
 |-|
 |רַגְלֵינוּ 2|
-|rEgElEyEnEuE|
+|ragsvlEynu|
 
  * ובשרי 2: 
 
 |וּבְשָׂרִי 2|
 |-|
 |וּבְשָׂרִי 2|
-|uEvESErEyE|
+|uvsvSAriy|
 
  * יקראני 2: 
 
 |יִקְרָאֵנִי 2|
 |-|
 |יִקְרָאֵנִי 2|
-|yEqErE'EnEyE|
+|yiqsvrA'Eniy|
 
  * חייתני 2: 
 
 |חִיִּיתַנִי 1|חִיִּיתָנִי 1|
 |-|-|
 |חִיִיתַנִי 1|חִיִיתָנִי 1|
-|HEyEyEtEnEyE|HEyEyEtEnEyE|
+|Hiyiytaniy|HiyiytAniy|
 
  * והרבה 2: 
 
 |וְהִרְבָּה 1|וְהַרְבֵּה 1|
 |-|-|
 |וְהִרְבָּה 1|וְהַרְבֵּה 1|
-|wEhErEbEhE|wEhErEbEhE|
+|wsvhirsvbAh|wsvharsvbEh|
 
  * להושיעני 2: 
 
 |לְהוֹשִׁיעֵנִי 2|
 |-|
 |לְהוֹֹשִׁיעֵנִי 2|
-|lEhEwEšEyEɣEnEyE|
+|lsvhwošiyɣEniy|
 
  * רוממו 2: 
 
 |רוֹמְמוּ 2|
 |-|
 |רוֹֹמְמוּ 2|
-|rEwEmEmEuE|
+|rwomsvmu|
 
  * ישיב 2: 
 
 |ישיב 1|יָשִׁיב 1|
 |-|-|
 |ישיב 1|יָשִׁיב 1|
-|yEשEyEvE|yEšEyEvE|
+|yשyv|yAšiyv|
 
  * אל־תבטחו 2: 
 
 |אַל־תִּבְטְחוּ 2|
 |-|
 |אַל־תִבְטְחוּ 2|
-|'ElE־EtEvETEHEuE|
+|'al־tivsvTsvHu|
 
  * ידינו 2: 
 
 |יָדֵינוּ 2|
 |-|
 |יָדֵינוּ 2|
-|yEdEyEnEuE|
+|yAdEynu|
 
  * בנו 2: 
 
 |בְּנוֹ 1|בָּנוּ 1|
 |-|-|
 |בְּנוֹֹ 1|בָּנוּ 1|
-|bEnEwE|bEnEuE|
+|bsvnwo|bAnu|
 
  * הגידו 2: 
 
 |הַגִּידוּ 1|הִגִּידוּ 1|
 |-|-|
 |הַגִידוּ 1|הִגִידוּ 1|
-|hEgEyEdEuE|hEgEyEdEuE|
+|hagiydu|higiydu|
 
  * פדות 2: 
 
 |פְּדוּת 1|פְדוּת 1|
 |-|-|
 |פְּדוּת 1|פְדוּת 1|
-|pEdEuEtE|fEdEuEtE|
+|psvdut|fsvdut|
 
  * תענה 2: 
 
 |תַעֲנֶה 2|
 |-|
 |תַעֲנֶה 2|
-|tEɣEnEhE|
+|taɣaneh|
 
  * תבער 2: 
 
 |תִּבְעַר 2|
 |-|
 |תִבְעַר 2|
-|tEvEɣErE|
+|tivsvɣar|
 
  * אתם 2: 
 
 |אַתֶּם 2|
 |-|
 |אַתֶם 2|
-|'EtEmE|
+|'atem|
 
  * עלות 2: 
 
 |עֹלוֹת 1|עָלוֹת 1|
 |-|-|
 |עֹלוֹֹת 1|עָלוֹֹת 1|
-|ɣElEwEtE|ɣElEwEtE|
+|ɣolwot|ɣAlwot|
 
  * רחום 2: 
 
 |רַחוּם 2|
 |-|
 |רַחוּם 2|
-|rEHEuEmE|
+|raHum|
 
  * זרים 2: 
 
 |זָרִים 2|
 |-|
 |זָרִים 2|
-|zErEyEmE|
+|zAriym|
 
  * אזמרה־לך 2: 
 
 |אֲזַמְּרָה־לָּךְ 2|
 |-|
 |אֲזַמְרָה־לָךְ 2|
-|'EzEmErEhE־ElExE|
+|'azamsvrAh־lAxsv|
 
  * אביונים 2: 
 
 |אֶבְיוֹנִים 2|
 |-|
 |אֶבְיוֹֹנִים 2|
-|'EvEyEwEnEyEmE|
+|'evsvywoniym|
 
  * אמרת 2: 
 
 |אִמְרַת 1|אָמַרְתְּ 1|
 |-|-|
 |אִמְרַת 1|אָמַרְתְ 1|
-|'EmErEtE|'EmErEtE|
+|'imsvrat|'Amarsvtsv|
 
  * בין 2: 
 
 |בֵּין 2|
 |-|
 |בֵּין 2|
-|bEyEnE|
+|bEyn|
 
  * חננו 2: 
 
 |חָנֵּנוּ 2|
 |-|
 |חָנֵנוּ 2|
-|HEnEnEuE|
+|HAnEnu|
 
  * ככלי 2: 
 
 |כִּכְלִי 2|
 |-|
 |כִּכְלִי 2|
-|kExElEyE|
+|kixsvliy|
 
  * יבש 2: 
 
 |יָבֵשׁ 2|
 |-|
 |יָבֵשׁ 2|
-|yEvEšE|
+|yAvEš|
 
  * כל־עצמותי 2: 
 
 |כָּל־עַצְמוֹתָי 2|
 |-|
 |כָּל־עַצְמוֹֹתָי 2|
-|kElE־EɣEcEmEwEtEyE|
+|kAl־ɣacsvmwotAy|
 
  * מעשה 2: 
 
 |מַעֲשֵׂה 2|
 |-|
 |מַעֲשֵׂה 2|
-|mEɣESEhE|
+|maɣaSEh|
 
  * לדם 2: 
 
 |לְדָם 2|
 |-|
 |לְדָם 2|
-|lEdEmE|
+|lsvdAm|
 
  * תחנתי 2: 
 
 |תְּחִנָּתִי 2|
 |-|
 |תְחִנָתִי 2|
-|tEHEnEtEyE|
+|tsvHinAtiy|
 
  * תורתי 2: 
 
 |תּוֹרָתִי 2|
 |-|
 |תוֹֹרָתִי 2|
-|tEwErEtEyE|
+|tworAtiy|
 
  * יירשו 2: 
 
 |יִירְשׁוּ 1|יִירָשׁוּ 1|
 |-|-|
 |יִירְשׁוּ 1|יִירָשׁוּ 1|
-|yEyErEšEuE|yEyErEšEuE|
+|yiyrsvšu|yiyrAšu|
 
  * רדפו 2: 
 
 |רִדְפוּ 1|רָדָפוּ 1|
 |-|-|
 |רִדְפוּ 1|רָדָפוּ 1|
-|rEdEfEuE|rEdEfEuE|
+|ridsvfu|rAdAfu|
 
  * כליתי 2: 
 
 |כִלְיֹתָי 1|כָלִיתִי 1|
 |-|-|
 |כִלְיֹתָי 1|כָלִיתִי 1|
-|xElEyEtEyE|xElEyEtEyE|
+|xilsvyotAy|xAliytiy|
 
  * ועדת 2: 
 
 |וַעֲדַת 2|
 |-|
 |וַעֲדַת 2|
-|wEɣEdEtE|
+|waɣadat|
 
  * ויספרו 2: 
 
 |וִיסַפְּרוּ 2|
 |-|
 |וִיסַפְּרוּ 2|
-|wEyEsEpErEuE|
+|wiysapsvru|
 
  * וברב 2: 
 
 |וּבְרֹב 2|
 |-|
 |וּבְרֹב 2|
-|uEvErEvE|
+|uvsvrov|
 
  * אסיר 2: 
 
 |אָסִיר 2|
 |-|
 |אָסִיר 2|
-|'EsEyErE|
+|'Asiyr|
 
  * כלבוש 2: 
 
 |כַּלְּבוּשׁ 2|
 |-|
 |כַּלְבוּשׁ 2|
-|kElEvEuEšE|
+|kalsvvuš|
 
  * יהרג 2: 
 
 |יַהֲרֹג 2|
 |-|
 |יַהֲרֹג 2|
-|yEhErEgE|
+|yaharog|
 
  * וינסו 2: 
 
 |וַיְנַסּוּ 2|
 |-|
 |וַיְנַסוּ 2|
-|wEyEnEsEuE|
+|waysvnasu|
 
  * תתן 2: 
 
 |תִּתֵּן 2|
 |-|
 |תִתֵן 2|
-|tEtEnE|
+|titEn|
 
  * בימינך 2: 
 
 |בִּימִינֶךָ 1|בִּימִינְךָ 1|
 |-|-|
 |בִּימִינֶךָ 1|בִּימִינְךָ 1|
-|bEyEmEyEnExE|bEyEmEyEnExE|
+|biymiynexA|biymiynsvxA|
 
  * יבלני 2: 
 
 |יֹבִלֵנִי 2|
 |-|
 |יֹבִלֵנִי 2|
-|yEvElEnEyE|
+|yovilEniy|
 
  * אהללה 2: 
 
 |אֲהַלְלָה 2|
 |-|
 |אֲהַלְלָה 2|
-|'EhElElEhE|
+|'ahalsvlAh|
 
  * קנית 2: 
 
 |קָנִיתָ 2|
 |-|
 |קָנִיתָ 2|
-|qEnEyEtE|
+|qAniytA|
 
  * מה 2: 
 
 |מָה 1|מֶה 1|
 |-|-|
 |מָה 1|מֶה 1|
-|mEhE|mEhE|
+|mAh|meh|
 
  * נשאת 2: 
 
 |נָשָׂאתָ 2|
 |-|
 |נָשָׂאתָ 2|
-|nESE'EtE|
+|nASA'tA|
 
  * לדעת 2: 
 
 |לָדַעַת 2|
 |-|
 |לָדַעַת 2|
-|lEdEɣEtE|
+|lAdaɣat|
 
  * שבענו 2: 
 
 |שָׂבַעְנוּ 1|שַׂבְּעֵנוּ 1|
 |-|-|
 |שָׂבַעְנוּ 1|שַׂבְּעֵנוּ 1|
-|SEvEɣEnEuE|SEbEɣEnEuE|
+|SAvaɣsvnu|SabsvɣEnu|
 
  * אנחנו 2: 
 
 |אֲנָחְנוּ 1|אֲנַחְנוּ 1|
 |-|-|
 |אֲנָחְנוּ 1|אֲנַחְנוּ 1|
-|'EnEHEnEuE|'EnEHEnEuE|
+|'anAHsvnu|'anaHsvnu|
 
  * כי־חסדך 2: 
 
 |כִּי־חַסְדְּךָ 2|
 |-|
 |כִּי־חַסְדְךָ 2|
-|kEyE־EHEsEdExE|
+|kiy־HassvdsvxA|
 
  * בוז 2: 
 
 |בוּז 1|בּוּז 1|
 |-|-|
 |בוּז 1|בּוּז 1|
-|vEuEzE|bEuEzE|
+|vuz|buz|
 
  * ואודך 2: 
 
 |וְאוֹדֶךָּ 1|וְאוֹדְךָ 1|
 |-|-|
 |וְאוֹֹדֶךָּ 1|וְאוֹֹדְךָ 1|
-|wE'EwEdEkE|wE'EwEdExE|
+|wsv'wodekA|wsv'wodsvxA|
 
  * נא 2: 
 
 |נָּא 2|
 |-|
 |נָא 2|
-|nE'E|
+|nA'|
 
  * כצפור 2: 
 
 |כְּצִפּוֹר 2|
 |-|
 |כְּצִפּוֹֹר 2|
-|kEcEpEwErE|
+|ksvcipwor|
 
  * זקנים 2: 
 
 |זְקֵנִים 2|
 |-|
 |זְקֵנִים 2|
-|zEqEnEyEmE|
+|zsvqEniym|
 
  * ארום 2: 
 
 |אָרוּם 2|
 |-|
 |אָרוּם 2|
-|'ErEuEmE|
+|'Arum|
 
  * ואהרן 2: 
 
 |וְאַהֲרֹן 2|
 |-|
 |וְאַהֲרֹן 2|
-|wE'EhErEnE|
+|wsv'aharon|
 
  * את־ציון 2: 
 
 |אֶת־צִיּוֹן 2|
 |-|
 |אֶת־צִיוֹֹן 2|
-|'EtE־EcEyEwEnE|
+|'et־ciywon|
 
  * השכילו 2: 
 
 |הִשְׂכִּילוּ 1|הַשְׂכִּילוּ 1|
 |-|-|
 |הִשְׂכִּילוּ 1|הַשְׂכִּילוּ 1|
-|hESEkEyElEuE|hESEkEyElEuE|
+|hiSsvkiylu|haSsvkiylu|
 
  * את־בית 2: 
 
 |אֶת־בֵּית 2|
 |-|
 |אֶת־בֵּית 2|
-|'EtE־EbEyEtE|
+|'et־bEyt|
 
  * הופיע 2: 
 
 |הוֹפִיַע 1|הוֹפִיעַ 1|
 |-|-|
 |הוֹֹפִיַע 1|הוֹֹפִיעַ 1|
-|hEwEfEyEɣE|hEwEfEyEɣE|
+|hwofiyaɣ|hwofiyɣa|
 
  * חרפתי 2: 
 
 |חֶרְפָּתִי 2|
 |-|
 |חֶרְפָּתִי 2|
-|HErEpEtEyE|
+|HersvpAtiy|
 
  * לבניהם 2: 
 
 |לִבְנֵיהֶם 2|
 |-|
 |לִבְנֵיהֶם 2|
-|lEvEnEyEhEmE|
+|livsvnEyhem|
 
  * אתחנן 2: 
 
 |אֶתְחַנָּן 2|
 |-|
 |אֶתְחַנָן 2|
-|'EtEHEnEnE|
+|'etsvHanAn|
 
  * זממו 2: 
 
 |זְמָמוֹ 1|זָמָמוּ 1|
 |-|-|
 |זְמָמוֹֹ 1|זָמָמוּ 1|
-|zEmEmEwE|zEmEmEuE|
+|zsvmAmwo|zAmAmu|
 
  * כל־בכור 2: 
 
 |כָּל־בְּכוֹר 2|
 |-|
 |כָּל־בְּכוֹֹר 2|
-|kElE־EbExEwErE|
+|kAl־bsvxwor|
 
  * כדונג 2: 
 
 |כַּדּוֹנָג 1|כַּדּוֹנַג 1|
 |-|-|
 |כַּדוֹֹנָג 1|כַּדוֹֹנַג 1|
-|kEdEwEnEgE|kEdEwEnEgE|
+|kadwonAg|kadwonag|
 
  * ימיו 2: 
 
 |יָמָיו 2|
 |-|
 |יָמָיו 2|
-|yEmEyEwE|
+|yAmAyw|
 
  * פקדת 2: 
 
 |פָּקַדְתָּ 2|
 |-|
 |פָּקַדְתָ 2|
-|pEqEdEtE|
+|pAqadsvtA|
 
  * בצום 2: 
 
 |בַצּוֹם 2|
 |-|
 |בַצוֹֹם 2|
-|vEcEwEmE|
+|vacwom|
 
  * כגמל 2: 
 
 |כְּגָמֻל 1|כַּגָּמֻל 1|
 |-|-|
 |כְּגָמֻל 1|כַּגָמֻל 1|
-|kEgEmElE|kEgEmElE|
+|ksvgAmul|kagAmul|
 
  * למלכי־ארץ 2: 
 
 |לְמַלְכֵי־אָרֶץ 2|
 |-|
 |לְמַלְכֵי־אָרֶץ 2|
-|lEmElExEyE־E'ErEcE|
+|lsvmalsvxEy־'Arec|
 
  * הכין 2: 
 
 |הֵכִין 2|
 |-|
 |הֵכִין 2|
-|hExEyEnE|
+|hExiyn|
 
  * ולא־יכלו 2: 
 
 |וְלֹא־יָכְלוּ 1|וְלֹא־יֻכְלוּ 1|
 |-|-|
 |וְלֹא־יָכְלוּ 1|וְלֹא־יֻכְלוּ 1|
-|wElE'E־EyExElEuE|wElE'E־EyExElEuE|
+|wsvlo'־yAxsvlu|wsvlo'־yuxsvlu|
 
  * כלתה 2: 
 
 |כָּלְתָה 2|
 |-|
 |כָּלְתָה 2|
-|kElEtEhE|
+|kAlsvtAh|
 
  * תנינים 2: 
 
 |תַּנִּינִים 1|תַנִּינִים 1|
 |-|-|
 |תַנִינִים 1|תַנִינִים 1|
-|tEnEyEnEyEmE|tEnEyEnEyEmE|
+|taniyniym|taniyniym|
 
  * נאמנו 2: 
 
 |נֶאֶמְנוּ 2|
 |-|
 |נֶאֶמְנוּ 2|
-|nE'EmEnEuE|
+|ne'emsvnu|
 
  * כח 2: 
 
 |כֹּחַ 1|כֹחַ 1|
 |-|-|
 |כֹּחַ 1|כֹחַ 1|
-|kEHE|xEHE|
+|koHa|xoHa|
 
  * ימצו 2: 
 
 |יִמָּצוּ 1|יִמְצוּ 1|
 |-|-|
 |יִמָצוּ 1|יִמְצוּ 1|
-|yEmEcEuE|yEmEcEuE|
+|yimAcu|yimsvcu|
 
  * וחטאים 2: 
 
 |וְחַטָּאִים 2|
 |-|
 |וְחַטָאִים 2|
-|wEHETE'EyEmE|
+|wsvHaTA'iym|
 
  * בזאת 2: 
 
 |בְּזֹאת 2|
 |-|
 |בְּזֹאת 2|
-|bEzE'EtE|
+|bsvzo't|
 
  * בחשך 2: 
 
 |בַּחֹשֶׁךְ 2|
 |-|
 |בַּחֹשֶׁךְ 2|
-|bEHEšExE|
+|baHošexsv|
 
  * וישבי 2: 
 
 |וְיֹשְׁבֵי 2|
 |-|
 |וְיֹשְׁבֵי 2|
-|wEyEšEvEyE|
+|wsvyošsvvEy|
 
  * ואף 2: 
 
 |וְאַף 2|
 |-|
 |וְאַף 2|
-|wE'EfE|
+|wsv'af|
 
  * ללכת 2: 
 
 |לָלֶכֶת 2|
 |-|
 |לָלֶכֶת 2|
-|lElExEtE|
+|lAlexet|
 
  * היכלך 2: 
 
 |הֵיכָלֶךָ 2|
 |-|
 |הֵיכָלֶךָ 2|
-|hEyExElExE|
+|hEyxAlexA|
 
  * מחה 2: 
 
 |מְחֵה 2|
 |-|
 |מְחֵה 2|
-|mEHEhE|
+|msvHEh|
 
  * חסידיו 2: 
 
 |חֲסִידָיו 2|
 |-|
 |חֲסִידָיו 2|
-|HEsEyEdEyEwE|
+|HasiydAyw|
 
  * משערות 2: 
 
 |מִשַּׂעֲרוֹת 2|
 |-|
 |מִשַׂעֲרוֹֹת 2|
-|mESEɣErEwEtE|
+|miSaɣarwot|
 
  * הלכתי 2: 
 
 |הָלַכְתִּי 1|הִלָּכְתִּי 1|
 |-|-|
 |הָלַכְתִי 1|הִלָכְתִי 1|
-|hElExEtEyE|hElExEtEyE|
+|hAlaxsvtiy|hilAxsvtiy|
 
  * להדם 2: 
 
 |לַהֲדֹם 2|
 |-|
 |לַהֲדֹם 2|
-|lEhEdEmE|
+|lahadom|
 
  * צדקי 2: 
 
 |צִדְקִי 2|
 |-|
 |צִדְקִי 2|
-|cEdEqEyE|
+|cidsvqiy|
 
  * נאצו 2: 
 
 |נִאֲצוּ 1|נָאָצוּ 1|
 |-|-|
 |נִאֲצוּ 1|נָאָצוּ 1|
-|nE'EcEuE|nE'EcEuE|
+|ni'acu|nA'Acu|
 
  * שמה 2: 
 
 |שָׁמָּה 2|
 |-|
 |שָׁמָה 2|
-|šEmEhE|
+|šAmAh|
 
  * ובשם 2: 
 
 |וּבְשֵׁם 2|
 |-|
 |וּבְשֵׁם 2|
-|uEvEšEmE|
+|uvsvšEm|
 
  * יגיעו 2: 
 
 |יְגִיעוֹ 1|יַגִּיעוּ 1|
 |-|-|
 |יְגִיעוֹֹ 1|יַגִיעוּ 1|
-|yEgEyEɣEwE|yEgEyEɣEuE|
+|ysvgiyɣwo|yagiyɣu|
 
  * חרפו 2: 
 
 |חֵרְפוּ 2|
 |-|
 |חֵרְפוּ 2|
-|HErEfEuE|
+|HErsvfu|
 
  * כוננתה 2: 
 
 |כּוֹנָנְתָּה 1|כוֹנַנְתָּהּ 1|
 |-|-|
 |כּוֹֹנָנְתָה 1|כוֹֹנַנְתָה 1|
-|kEwEnEnEtEhE|xEwEnEnEtEhE|
+|kwonAnsvtAh|xwonansvtAh|
 
  * תהום 2: 
 
 |תְּהוֹם 2|
 |-|
 |תְהוֹֹם 2|
-|tEhEwEmE|
+|tsvhwom|
 
  * וכלמה 2: 
 
 |וּכְלִמָּה 2|
 |-|
 |וּכְלִמָה 2|
-|uExElEmEhE|
+|uxsvlimAh|
 
  * מאלהי 2: 
 
 |מֵאֱלֹהָי 1|מֵאֱלֹהֵי 1|
 |-|-|
 |מֵאֱלֹהָי 1|מֵאֱלֹהֵי 1|
-|mE'ElEhEyE|mE'ElEhEyE|
+|mE'elohAy|mE'elohEy|
 
  * לכסא־לך 2: 
 
 |לְכִסֵּא־לָךְ 2|
 |-|
 |לְכִסֵא־לָךְ 2|
-|lExEsE'E־ElExE|
+|lsvxisE'־lAxsv|
 
  * לאמרי־פי 2: 
 
 |לְאִמְרֵי־פִי 2|
 |-|
 |לְאִמְרֵי־פִי 2|
-|lE'EmErEyE־EfEyE|
+|lsv'imsvrEy־fiy|
 
  * חרב 2: 
 
 |חֶרֶב 2|
 |-|
 |חֶרֶב 2|
-|HErEvE|
+|Herev|
 
  * ובחמתך 2: 
 
 |וּבַחֲמָתְךָ 2|
 |-|
 |וּבַחֲמָתְךָ 2|
-|uEvEHEmEtExE|
+|uvaHamAtsvxA|
 
  * אל־תשליכני 2: 
 
 |אַל־תַּשְׁלִיכֵנִי 2|
 |-|
 |אַל־תַשְׁלִיכֵנִי 2|
-|'ElE־EtEšElEyExEnEyE|
+|'al־tašsvliyxEniy|
 
  * למה־קדר 2: 
 
 |לָמָּה־קֹדֵר 2|
 |-|
 |לָמָה־קֹדֵר 2|
-|lEmEhE־EqEdErE|
+|lAmAh־qodEr|
 
  * ויסובבו 2: 
 
 |וִיסוֹבְבוּ 2|
 |-|
 |וִיסוֹֹבְבוּ 2|
-|wEyEsEwEvEvEuE|
+|wiyswovsvvu|
 
  * זעמך 2: 
 
 |זַעְמֶךָ 2|
 |-|
 |זַעְמֶךָ 2|
-|zEɣEmExE|
+|zaɣsvmexA|
 
  * לויתן 2: 
 
 |לִוְיָתָן 2|
 |-|
 |לִוְיָתָן 2|
-|lEwEyEtEnE|
+|liwsvyAtAn|
 
  * האירו 2: 
 
 |הֵאִירוּ 2|
 |-|
 |הֵאִירוּ 2|
-|hE'EyErEuE|
+|hE'iyru|
 
  * כאבותם 2: 
 
 |כַּאֲבוֹתָם 2|
 |-|
 |כַּאֲבוֹֹתָם 2|
-|kE'EvEwEtEmE|
+|ka'avwotAm|
 
  * אתותיו 2: 
 
 |אֹתוֹתָיו 2|
 |-|
 |אֹתוֹֹתָיו 2|
-|'EtEwEtEyEwE|
+|'otwotAyw|
 
  * ושוא 2: 
 
 |וְשָׁוְא 2|
 |-|
 |וְשָׁוְא 2|
-|wEšEwE'E|
+|wsvšAwsv'|
 
  * ככלב 2: 
 
 |כַכָּלֶב 2|
 |-|
 |כַכָּלֶב 2|
-|xEkElEvE|
+|xakAlev|
 
  * תחינו 2: 
 
 |תְּחַיֵּנוּ 2|
 |-|
 |תְחַיֵנוּ 2|
-|tEHEyEnEuE|
+|tsvHayEnu|
 
  * יאשמו 2: 
 
 |יֶאְשְׁמוּ 1|יֶאְשָׁמוּ 1|
 |-|-|
 |יֶאְשְׁמוּ 1|יֶאְשָׁמוּ 1|
-|yE'EšEmEuE|yE'EšEmEuE|
+|ye'svšsvmu|ye'svšAmu|
 
  * ויפל 2: 
 
 |וַיַּפֵּל 1|וַיִּפֹּל 1|
 |-|-|
 |וַיַפֵּל 1|וַיִפֹּל 1|
-|wEyEpElE|wEyEpElE|
+|wayapEl|wayipol|
 
  * יכון 2: 
 
 |יִכּוֹן 2|
 |-|
 |יִכּוֹֹן 2|
-|yEkEwEnE|
+|yikwon|
 
  * ימיהם 2: 
 
 |יְמֵיהֶם 2|
 |-|
 |יְמֵיהֶם 2|
-|yEmEyEhEmE|
+|ysvmEyhem|
 
  * שופט 2: 
 
 |שׁוֹפֵט 2|
 |-|
 |שׁוֹֹפֵט 2|
-|šEwEfETE|
+|šwofET|
 
  * וימינך 2: 
 
 |וִימִינְךָ 1|וִימִינֶךָ 1|
 |-|-|
 |וִימִינְךָ 1|וִימִינֶךָ 1|
-|wEyEmEyEnExE|wEyEmEyEnExE|
+|wiymiynsvxA|wiymiynexA|
 
  * בידו 2: 
 
 |בְיָדוֹ 1|בְּיָדוֹ 1|
 |-|-|
 |בְיָדוֹֹ 1|בְּיָדוֹֹ 1|
-|vEyEdEwE|bEyEdEwE|
+|vsvyAdwo|bsvyAdwo|
 
  * בברחו 2: 
 
 |בְּבָרְחוֹ 2|
 |-|
 |בְּבָרְחוֹֹ 2|
-|bEvErEHEwE|
+|bsvvArsvHwo|
 
  * אם־יהוה 2: 
 
 |אִם־יְהוָה 2|
 |-|
 |אִם־יְהוָה 2|
-|'EmE־EyEhEwEhE|
+|'im־ysvhwAh|
 
  * ויאכל 2: 
 
 |וַיֹּאכַל 2|
 |-|
 |וַיֹאכַל 2|
-|wEyE'ExElE|
+|wayo'xal|
 
  * רבו 2: 
 
 |רַבּוּ 1|רָבּוּ 1|
 |-|-|
 |רַבּוּ 1|רָבּוּ 1|
-|rEbEuE|rEbEuE|
+|rabu|rAbu|
 
  * בעמל 2: 
 
 |בֶּעָמָל 1|בַּעֲמַל 1|
 |-|-|
 |בֶּעָמָל 1|בַּעֲמַל 1|
-|bEɣEmElE|bEɣEmElE|
+|beɣAmAl|baɣamal|
 
  * נשתחוה 2: 
 
 |נִשְׁתַּחֲוֶה 2|
 |-|
 |נִשְׁתַחֲוֶה 2|
-|nEšEtEHEwEhE|
+|nišsvtaHaweh|
 
  * צררוני 2: 
 
 |צְרָרוּנִי 2|
 |-|
 |צְרָרוּנִי 2|
-|cErErEuEnEyE|
+|csvrAruniy|
 
  * פריו 2: 
 
 |פִּרְיוֹ 2|
 |-|
 |פִּרְיוֹֹ 2|
-|pErEyEwE|
+|pirsvywo|
 
  * וידברו 2: 
 
 |וִידַבְּרוּ 1|וַיְדַבְּרוּ 1|
 |-|-|
 |וִידַבְּרוּ 1|וַיְדַבְּרוּ 1|
-|wEyEdEbErEuE|wEyEdEbErEuE|
+|wiydabsvru|waysvdabsvru|
 
  * ועשה 2: 
 
 |וְעֹשֵׂה 1|וְעֹשֶׂה 1|
 |-|-|
 |וְעֹשֵׂה 1|וְעֹשֶׂה 1|
-|wEɣESEhE|wEɣESEhE|
+|wsvɣoSEh|wsvɣoSeh|
 
  * בשחת 2: 
 
 |בְּשַׁחַת 2|
 |-|
 |בְּשַׁחַת 2|
-|bEšEHEtE|
+|bsvšaHat|
 
  * ונחל 2: 
 
 |וְנַחַל 1|וָנָחַל 1|
 |-|-|
 |וְנַחַל 1|וָנָחַל 1|
-|wEnEHElE|wEnEHElE|
+|wsvnaHal|wAnAHal|
 
  * בחילך 2: 
 
 |בְּחֵילֵךְ 1|בְחֵילְךָ 1|
 |-|-|
 |בְּחֵילֵךְ 1|בְחֵילְךָ 1|
-|bEHEyElExE|vEHEyElExE|
+|bsvHEylExsv|vsvHEylsvxA|
 
  * אנשי 2: 
 
 |אַנְשֵׁי 2|
 |-|
 |אַנְשֵׁי 2|
-|'EnEšEyE|
+|'ansvšEy|
 
  * קרנו 2: 
 
 |קַרְנוֹ 2|
 |-|
 |קַרְנוֹֹ 2|
-|qErEnEwE|
+|qarsvnwo|
 
  * אך־אלהים 2: 
 
 |אַךְ־אֱלֹהִים 2|
 |-|
 |אַךְ־אֱלֹהִים 2|
-|'ExE־E'ElEhEyEmE|
+|'axsv־'elohiym|
 
  * כל־ארח 2: 
 
 |כָּל־אֹרַח 2|
 |-|
 |כָּל־אֹרַח 2|
-|kElE־E'ErEHE|
+|kAl־'oraH|
 
  * גפן 2: 
 
 |גֶּפֶן 2|
 |-|
 |גֶפֶן 2|
-|gEfEnE|
+|gefen|
 
  * מצור 2: 
 
 |מָצוֹר 2|
 |-|
 |מָצוֹֹר 2|
-|mEcEwErE|
+|mAcwor|
 
  * מחשך 2: 
 
 |מַחְשָׁךְ 1|מֵחֹשֶׁךְ 1|
 |-|-|
 |מַחְשָׁךְ 1|מֵחֹשֶׁךְ 1|
-|mEHEšExE|mEHEšExE|
+|maHsvšAxsv|mEHošexsv|
 
  * אדירים 2: 
 
 |אַדִּירִים 2|
 |-|
 |אַדִירִים 2|
-|'EdEyErEyEmE|
+|'adiyriym|
 
  * לפניהם 2: 
 
 |לִפְנֵיהֶם 2|
 |-|
 |לִפְנֵיהֶם 2|
-|lEfEnEyEhEmE|
+|lifsvnEyhem|
 
  * פזר 2: 
 
 |פִּזַּר 2|
 |-|
 |פִּזַר 2|
-|pEzErE|
+|pizar|
 
  * אגילה 2: 
 
 |אָגִילָה 2|
 |-|
 |אָגִילָה 2|
-|'EgEyElEhE|
+|'AgiylAh|
 
  * חקיו 2: 
 
 |חֻקָּיו 2|
 |-|
 |חֻקָיו 2|
-|HEqEyEwE|
+|HuqAyw|
 
  * לאחור 2: 
 
 |לְאָחוֹר 2|
 |-|
 |לְאָחוֹֹר 2|
-|lE'EHEwErE|
+|lsv'AHwor|
 
  * כי־חסיתי 2: 
 
 |כִּי־חָסִיתִי 2|
 |-|
 |כִּי־חָסִיתִי 2|
-|kEyE־EHEsEyEtEyE|
+|kiy־HAsiytiy|
 
  * בתרועה 2: 
 
 |בִּתְרוּעָה 2|
 |-|
 |בִּתְרוּעָה 2|
-|bEtErEuEɣEhE|
+|bitsvruɣAh|
 
  * יודעי 2: 
 
 |יוֹדְעֵי 2|
 |-|
 |יוֹֹדְעֵי 2|
-|yEwEdEɣEyE|
+|ywodsvɣEy|
 
  * ויעשנו 2: 
 
 |וְיֶעֱשָׁנוּ 2|
 |-|
 |וְיֶעֱשָׁנוּ 2|
-|wEyEɣEšEnEuE|
+|wsvyeɣešAnu|
 
  * שלו 2: 
 
 |שְׂלָו 1|שִׁלוֹ 1|
 |-|-|
 |שְׂלָו 1|שִׁלוֹֹ 1|
-|SElEwE|šElEwE|
+|SsvlAw|šilwo|
 
  * בעשי 2: 
 
 |בְּעֹשֵׂי 2|
 |-|
 |בְּעֹשֵׂי 2|
-|bEɣESEyE|
+|bsvɣoSEy|
 
  * צעיר 2: 
 
 |צָעִיר 2|
 |-|
 |צָעִיר 2|
-|cEɣEyErE|
+|cAɣiyr|
 
  * בעת 2: 
 
 |בְּעֵת 2|
 |-|
 |בְּעֵת 2|
-|bEɣEtE|
+|bsvɣEt|
 
  * אבוש 2: 
 
 |אֵבוֹשׁ 2|
 |-|
 |אֵבוֹֹשׁ 2|
-|'EvEwEšE|
+|'Evwoš|
 
  * ברכות 2: 
 
 |בִּרְכוֹת 1|בְרָכוֹת 1|
 |-|-|
 |בִּרְכוֹֹת 1|בְרָכוֹֹת 1|
-|bErExEwEtE|vErExEwEtE|
+|birsvxwot|vsvrAxwot|
 
  * ודרכו 2: 
 
 |וְדָרְכוּ 1|וְדַרְכּוֹ 1|
 |-|-|
 |וְדָרְכוּ 1|וְדַרְכּוֹֹ 1|
-|wEdErExEuE|wEdErEkEwE|
+|wsvdArsvxu|wsvdarsvkwo|
 
  * על־הארץ 2: 
 
 |עַל־הָאָרֶץ 2|
 |-|
 |עַל־הָאָרֶץ 2|
-|ɣElE־EhE'ErEcE|
+|ɣal־hA'Arec|
 
  * רעבים 2: 
 
 |רְעֵבִים 2|
 |-|
 |רְעֵבִים 2|
-|rEɣEvEyEmE|
+|rsvɣEviym|
 
  * אזני 2: 
 
 |אָזְנִי 1|אָזְנָי 1|
 |-|-|
 |אָזְנִי 1|אָזְנָי 1|
-|'EzEnEyE|'EzEnEyE|
+|'Azsvniy|'AzsvnAy|
 
  * הרחקת 2: 
 
 |הִרְחַקְתָּ 2|
 |-|
 |הִרְחַקְתָ 2|
-|hErEHEqEtE|
+|hirsvHaqsvtA|
 
  * שיחו 2: 
 
 |שִׂיחוּ 1|שִׂיחוֹ 1|
 |-|-|
 |שִׂיחוּ 1|שִׂיחוֹֹ 1|
-|SEyEHEuE|SEyEHEwE|
+|SiyHu|SiyHwo|
 
  * צריהם 2: 
 
 |צָרֵיהֶם 2|
 |-|
 |צָרֵיהֶם 2|
-|cErEyEhEmE|
+|cArEyhem|
 
  * גליו 2: 
 
 |גַּלָּיו 1|גַלָּיו 1|
 |-|-|
 |גַלָיו 1|גַלָיו 1|
-|gElEyEwE|gElEyEwE|
+|galAyw|galAyw|
 
  * לפני־יהוה 2: 
 
 |לִפְנֵי־יְהוָה 2|
 |-|
 |לִפְנֵי־יְהוָה 2|
-|lEfEnEyE־EyEhEwEhE|
+|lifsvnEy־ysvhwAh|
 
  * וימאס 2: 
 
 |וַיִּמְאַס 2|
 |-|
 |וַיִמְאַס 2|
-|wEyEmE'EsE|
+|wayimsv'as|
 
  * ותכס 2: 
 
 |וַתְּכַס 2|
 |-|
 |וַתְכַס 2|
-|wEtExEsE|
+|watsvxas|
 
  * ישברו 2: 
 
 |יְשַׂבֵּרוּ 1|יִשְׁבְּרוּ 1|
 |-|-|
 |יְשַׂבֵּרוּ 1|יִשְׁבְּרוּ 1|
-|yESEbErEuE|yEšEbErEuE|
+|ysvSabEru|yišsvbsvru|
 
  * עשב 2: 
 
 |עֵשֶׂב 2|
 |-|
 |עֵשֶׂב 2|
-|ɣESEvE|
+|ɣESev|
 
  * רוחך 2: 
 
 |רוּחֲךָ 2|
 |-|
 |רוּחֲךָ 2|
-|rEuEHExE|
+|ruHaxA|
 
  * אנקת 2: 
 
 |אֶנְקַת 2|
 |-|
 |אֶנְקַת 2|
-|'EnEqEtE|
+|'ensvqat|
 
  * ספרתי 2: 
 
 |סִפַּרְתִּי 2|
 |-|
 |סִפַּרְתִי 2|
-|sEpErEtEyE|
+|siparsvtiy|
 
  * תסתירני 2: 
 
 |תַּסְתִּירֵנִי 2|
 |-|
 |תַסְתִירֵנִי 2|
-|tEsEtEyErEnEyE|
+|tassvtiyrEniy|
 
  * על־בני 2: 
 
 |עַל־בְּנֵי 2|
 |-|
 |עַל־בְּנֵי 2|
-|ɣElE־EbEnEyE|
+|ɣal־bsvnEy|
 
  * תכון 2: 
 
 |תִּכּוֹן 2|
 |-|
 |תִכּוֹֹן 2|
-|tEkEwEnE|
+|tikwon|
 
  * דרש 2: 
 
 |דֹּרֵשׁ 2|
 |-|
 |דֹרֵשׁ 2|
-|dErEšE|
+|dorEš|
 
  * לאמרתך 2: 
 
 |לְאִמְרָתְךָ 1|לְאִמְרָתֶךָ 1|
 |-|-|
 |לְאִמְרָתְךָ 1|לְאִמְרָתֶךָ 1|
-|lE'EmErEtExE|lE'EmErEtExE|
+|lsv'imsvrAtsvxA|lsv'imsvrAtexA|
 
  * כי־בך 2: 
 
 |כִּי־בְךָ 2|
 |-|
 |כִּי־בְךָ 2|
-|kEyE־EvExE|
+|kiy־vsvxA|
 
  * יברכנו 2: 
 
 |יְבָרְכֵנוּ 2|
 |-|
 |יְבָרְכֵנוּ 2|
-|yEvErExEnEuE|
+|ysvvArsvxEnu|
 
  * בעם 2: 
 
 |בְּעַם 1|בָּעָם 1|
 |-|-|
 |בְּעַם 1|בָּעָם 1|
-|bEɣEmE|bEɣEmE|
+|bsvɣam|bAɣAm|
 
  * כי־עליך 2: 
 
 |כִּי־עָלֶיךָ 2|
 |-|
 |כִּי־עָלֶיךָ 2|
-|kEyE־EɣElEyExE|
+|kiy־ɣAleyxA|
 
  * צרות 2: 
 
 |צָרוֹת 2|
 |-|
 |צָרוֹֹת 2|
-|cErEwEtE|
+|cArwot|
 
  * ויצעקו 2: 
 
 |וַיִּצְעֲקוּ 2|
 |-|
 |וַיִצְעֲקוּ 2|
-|wEyEcEɣEqEuE|
+|wayicsvɣaqu|
 
  * לאיש 2: 
 
 |לְאִישׁ 2|
 |-|
 |לְאִישׁ 2|
-|lE'EyEšE|
+|lsv'iyš|
 
  * תפתח 2: 
 
 |תִּפְתַּח 1|תִּפְתָּח 1|
 |-|-|
 |תִפְתַח 1|תִפְתָח 1|
-|tEfEtEHE|tEfEtEHE|
+|tifsvtaH|tifsvtAH|
 
  * ישעו 2: 
 
 |יִשְׁעוֹ 2|
 |-|
 |יִשְׁעוֹֹ 2|
-|yEšEɣEwE|
+|yišsvɣwo|
 
  * שכחי 2: 
 
 |שְׁכֵחֵי 1|שֹׁכְחֵי 1|
 |-|-|
 |שְׁכֵחֵי 1|שֹׁכְחֵי 1|
-|šExEHEyE|šExEHEyE|
+|šsvxEHEy|šoxsvHEy|
 
  * תורת 2: 
 
 |תּוֹרַת 2|
 |-|
 |תוֹֹרַת 2|
-|tEwErEtE|
+|tworat|
 
  * לבהמה 2: 
 
 |לִבְהֵמָה 1|לַבְּהֵמָה 1|
 |-|-|
 |לִבְהֵמָה 1|לַבְּהֵמָה 1|
-|lEvEhEmEhE|lEbEhEmEhE|
+|livsvhEmAh|labsvhEmAh|
 
  * שננו 2: 
 
 |שָׁנֲנוּ 1|שָׁנְנוּ 1|
 |-|-|
 |שָׁנֲנוּ 1|שָׁנְנוּ 1|
-|šEnEnEuE|šEnEnEuE|
+|šAnanu|šAnsvnu|
 
  * כי־כן 2: 
 
 |כִּי־כֵן 1|כִי־כֵן 1|
 |-|-|
 |כִּי־כֵן 1|כִי־כֵן 1|
-|kEyE־ExEnE|xEyE־ExEnE|
+|kiy־xEn|xiy־xEn|
 
  * שמעתי 2: 
 
 |שָׁמַעְתִּי 1|שָׁמָעְתִּי 1|
 |-|-|
 |שָׁמַעְתִי 1|שָׁמָעְתִי 1|
-|šEmEɣEtEyE|šEmEɣEtEyE|
+|šAmaɣsvtiy|šAmAɣsvtiy|
 
  * ראשיכם 2: 
 
 |רָאשֵׁיכֶם 2|
 |-|
 |רָאשֵׁיכֶם 2|
-|rE'EšEyExEmE|
+|rA'šEyxem|
 
  * כל־זרע 2: 
 
 |כָּל־זֶרַע 2|
 |-|
 |כָּל־זֶרַע 2|
-|kElE־EzErEɣE|
+|kAl־zeraɣ|
 
  * דמעתי 2: 
 
 |דִמְעָתִי 2|
 |-|
 |דִמְעָתִי 2|
-|dEmEɣEtEyE|
+|dimsvɣAtiy|
 
  * להושיע 2: 
 
 |לְהוֹשִׁיעַ 2|
 |-|
 |לְהוֹֹשִׁיעַ 2|
-|lEhEwEšEyEɣE|
+|lsvhwošiyɣa|
 
  * תשועה 2: 
 
 |תְשׁוּעָה 1|תְּשׁוּעָה 1|
 |-|-|
 |תְשׁוּעָה 1|תְשׁוּעָה 1|
-|tEšEuEɣEhE|tEšEuEɣEhE|
+|tsvšuɣAh|tsvšuɣAh|
 
  * תשגבני 2: 
 
 |תְּשַׂגְּבֵנִי 2|
 |-|
 |תְשַׂגְבֵנִי 2|
-|tESEgEvEnEyE|
+|tsvSagsvvEniy|
 
  * אתות 2: 
 
 |אֹתוֹת 2|
 |-|
 |אֹתוֹֹת 2|
-|'EtEwEtE|
+|'otwot|
 
  * כל־עברי 2: 
 
 |כָּל־עֹבְרֵי 2|
 |-|
 |כָּל־עֹבְרֵי 2|
-|kElE־EɣEvErEyE|
+|kAl־ɣovsvrEy|
 
  * כאילים 2: 
 
 |כְאֵילִים 2|
 |-|
 |כְאֵילִים 2|
-|xE'EyElEyEmE|
+|xsv'Eyliym|
 
  * בגרונם 2: 
 
 |בִּגְרוֹנָם 2|
 |-|
 |בִּגְרוֹֹנָם 2|
-|bEgErEwEnEmE|
+|bigsvrwonAm|
 
  * ממים 2: 
 
 |מִמַּיִם 2|
 |-|
 |מִמַיִם 2|
-|mEmEyEmE|
+|mimayim|
 
  * אדום 2: 
 
 |אֱדוֹם 2|
 |-|
 |אֱדוֹֹם 2|
-|'EdEwEmE|
+|'edwom|
 
  * עולמים 2: 
 
 |עוֹלָמִים 2|
 |-|
 |עוֹֹלָמִים 2|
-|ɣEwElEmEyEmE|
+|ɣwolAmiym|
 
  * כבהמות 2: 
 
 |כַּבְּהֵמוֹת 2|
 |-|
 |כַּבְּהֵמוֹֹת 2|
-|kEbEhEmEwEtE|
+|kabsvhEmwot|
 
  * מכון 2: 
 
 |מְכוֹן 2|
 |-|
 |מְכוֹֹן 2|
-|mExEwEnE|
+|msvxwon|
 
  * בגבורת 2: 
 
 |בִּגְבוּרֹת 1|בִגְבוּרַת 1|
 |-|-|
 |בִּגְבוּרֹת 1|בִגְבוּרַת 1|
-|bEgEvEuErEtE|vEgEvEuErEtE|
+|bigsvvurot|vigsvvurat|
 
  * שכר 2: 
 
 |שֵׁכָר 1|שָׂכָר 1|
 |-|-|
 |שֵׁכָר 1|שָׂכָר 1|
-|šExErE|SExErE|
+|šExAr|SAxAr|
 
  * על־יתר 2: 
 
 |עַל־יֶתֶר 2|
 |-|
 |עַל־יֶתֶר 2|
-|ɣElE־EyEtErE|
+|ɣal־yeter|
 
  * נגדה־נא 2: 
 
 |נֶגְדָה־נָּא 2|
 |-|
 |נֶגְדָה־נָא 2|
-|nEgEdEhE־EnE'E|
+|negsvdAh־nA'|
 
  * כל־מצותיך 2: 
 
 |כָּל־מִצְוֺתֶיךָ 1|כָל־מִצְוֺתֶיךָ 1|
 |-|-|
 |כָּל־מִצְוֺתֶיךָ 1|כָל־מִצְוֺתֶיךָ 1|
-|kElE־EmEcEwEtEyExE|xElE־EmEcEwEtEyExE|
+|kAl־micsvw_o_teyxA|xAl־micsvw_o_teyxA|
 
  * מלכיהם 2: 
 
 |מַלְכֵיהֶם 2|
 |-|
 |מַלְכֵיהֶם 2|
-|mElExEyEhEmE|
+|malsvxEyhem|
 
  * ויכוננו 2: 
 
 |וְיִכּוֹנָנוּ 1|וַיְכוֹנְנוּ 1|
 |-|-|
 |וְיִכּוֹֹנָנוּ 1|וַיְכוֹֹנְנוּ 1|
-|wEyEkEwEnEnEuE|wEyExEwEnEnEuE|
+|wsvyikwonAnu|waysvxwonsvnu|
 
  * מעוזי 2: 
 
 |מָעוּזִּי 2|
 |-|
 |מָעוּזִי 2|
-|mEɣEuEzEyE|
+|mAɣuziy|
 
  * ידם 2: 
 
 |יִדֹּם 1|יָדָם 1|
 |-|-|
 |יִדֹם 1|יָדָם 1|
-|yEdEmE|yEdEmE|
+|yidom|yAdAm|
 
  * לשבת 2: 
 
 |לָשָׁבֶת 1|לָשֶׁבֶת 1|
 |-|-|
 |לָשָׁבֶת 1|לָשֶׁבֶת 1|
-|lEšEvEtE|lEšEvEtE|
+|lAšAvet|lAševet|
 
  * הבית 2: 
 
 |הַבַּיִת 2|
 |-|
 |הַבַּיִת 2|
-|hEbEyEtE|
+|habayit|
 
  * נשברה 2: 
 
 |נִשְׁבָּרָה 2|
 |-|
 |נִשְׁבָּרָה 2|
-|nEšEbErEhE|
+|nišsvbArAh|
 
  * ילד־שם 2: 
 
 |יֻלַּד־שָׁם 2|
 |-|
 |יֻלַד־שָׁם 2|
-|yElEdE־EšEmE|
+|yulad־šAm|
 
  * למען־שמך 2: 
 
 |לְמַעַן־שִׁמְךָ 2|
 |-|
 |לְמַעַן־שִׁמְךָ 2|
-|lEmEɣEnE־EšEmExE|
+|lsvmaɣan־šimsvxA|
 
  * מה־אדיר 2: 
 
 |מָה־אַדִּיר 2|
 |-|
 |מָה־אַדִיר 2|
-|mEhE־E'EdEyErE|
+|mAh־'adiyr|
 
  * צרריך 2: 
 
 |צֹרְרֶיךָ 2|
 |-|
 |צֹרְרֶיךָ 2|
-|cErErEyExE|
+|corsvreyxA|
 
  * זמרו־לו 2: 
 
 |זַמְּרוּ־לוֹ 2|
 |-|
 |זַמְרוּ־לוֹֹ 2|
-|zEmErEuE־ElEwE|
+|zamsvru־lwo|
 
  * לנגדם 2: 
 
 |לְנֶגְדָּם 2|
 |-|
 |לְנֶגְדָם 2|
-|lEnEgEdEmE|
+|lsvnegsvdAm|
 
  * נאלחו 2: 
 
 |נֶאֱלָחוּ 2|
 |-|
 |נֶאֱלָחוּ 2|
-|nE'ElEHEuE|
+|ne'elAHu|
 
  * ומתנקם 2: 
 
 |וּמִתְנַקֵּם 2|
 |-|
 |וּמִתְנַקֵם 2|
-|uEmEtEnEqEmE|
+|umitsvnaqEm|
 
  * בעמו 2: 
 
 |בְּעַמּוֹ 2|
 |-|
 |בְּעַמוֹֹ 2|
-|bEɣEmEwE|
+|bsvɣamwo|
 
  * ועמים 2: 
 
 |וְעַמִּים 2|
 |-|
 |וְעַמִים 2|
-|wEɣEmEyEmE|
+|wsvɣamiym|
 
  * שאר 2: 
 
 |שְׁאֵר 2|
 |-|
 |שְׁאֵר 2|
-|šE'ErE|
+|šsv'Er|
 
  * ולחם 2: 
 
 |וְלֶחֶם 2|
 |-|
 |וְלֶחֶם 2|
-|wElEHEmE|
+|wsvleHem|
 
  * לבש 2: 
 
 |לָבֵשׁ 2|
 |-|
 |לָבֵשׁ 2|
-|lEvEšE|
+|lAvEš|
 
  * על־מחלת 2: 
 
 |עַל־מָחֲלַת 2|
 |-|
 |עַל־מָחֲלַת 2|
-|ɣElE־EmEHElEtE|
+|ɣal־mAHalat|
 
  * מעי 2: 
 
 |מֵעָי 2|
 |-|
 |מֵעָי 2|
-|mEɣEyE|
+|mEɣAy|
 
  * ורחב 2: 
 
 |וּרְחַב 2|
 |-|
 |וּרְחַב 2|
-|uErEHEvE|
+|ursvHav|
 
  * שמעו 2: 
 
 |שָׁמְעוּ 2|
 |-|
 |שָׁמְעוּ 2|
-|šEmEɣEuE|
+|šAmsvɣu|
 
  * זכרך 2: 
 
 |זִכְרְךָ 1|זִכְרֶךָ 1|
 |-|-|
 |זִכְרְךָ 1|זִכְרֶךָ 1|
-|zExErExE|zExErExE|
+|zixsvrsvxA|zixsvrexA|
 
  * מעוז 2: 
 
 |מָעוֹז 2|
 |-|
 |מָעוֹֹז 2|
-|mEɣEwEzE|
+|mAɣwoz|
 
  * זבחי־צדק 2: 
 
 |זִבְחֵי־צֶדֶק 2|
 |-|
 |זִבְחֵי־צֶדֶק 2|
-|zEvEHEyE־EcEdEqE|
+|zivsvHEy־cedeq|
 
  * עיניהם 2: 
 
 |עֵינֵיהֶם 2|
 |-|
 |עֵינֵיהֶם 2|
-|ɣEyEnEyEhEmE|
+|ɣEynEyhem|
 
  * חבלי 2: 
 
 |חֶבְלֵי 2|
 |-|
 |חֶבְלֵי 2|
-|HEvElEyE|
+|HevsvlEy|
 
  * מהרו 2: 
 
 |מָהָרוּ 1|מִהֲרוּ 1|
 |-|-|
 |מָהָרוּ 1|מִהֲרוּ 1|
-|mEhErEuE|mEhErEuE|
+|mAhAru|miharu|
 
  * כגבור 2: 
 
 |כְּגִבּוֹר 2|
 |-|
 |כְּגִבּוֹֹר 2|
-|kEgEbEwErE|
+|ksvgibwor|
 
  * קוו 2: 
 
 |קִוּוּ 2|
 |-|
 |קִוּוּ 2|
-|qEuEuE|
+|qiuu|
 
  * פנה־אלי 2: 
 
 |פְּנֵה־אֵלַי 2|
 |-|
 |פְּנֵה־אֵלַי 2|
-|pEnEhE־E'ElEyE|
+|psvnEh־'Elay|
 
  * יירא 2: 
 
 |יִירָא 2|
 |-|
 |יִירָא 2|
-|yEyErE'E|
+|yiyrA'|
 
  * שמחתי 2: 
 
 |שִׂמְחָתִי 1|שָׂמַחְתִּי 1|
 |-|-|
 |שִׂמְחָתִי 1|שָׂמַחְתִי 1|
-|SEmEHEtEyE|SEmEHEtEyE|
+|SimsvHAtiy|SAmaHsvtiy|
 
  * ובמושב 2: 
 
 |וּבְמוֹשַׁב 2|
 |-|
 |וּבְמוֹֹשַׁב 2|
-|uEvEmEwEšEvE|
+|uvsvmwošav|
 
  * שהיה 2: 
 
 |שֶׁהָיָה 2|
 |-|
 |שֶׁהָיָה 2|
-|šEhEyEhE|
+|šehAyAh|
 
  * בגברות 2: 
 
 |בִּגְבֻרוֹת 2|
 |-|
 |בִּגְבֻרוֹֹת 2|
-|bEgEvErEwEtE|
+|bigsvvurwot|
 
  * שיתמו 2: 
 
 |שִׁיתֵמוֹ 2|
 |-|
 |שִׁיתֵמוֹֹ 2|
-|šEyEtEmEwE|
+|šiytEmwo|
 
  * חילו 2: 
 
 |חֵילוֹ 1|חִילוּ 1|
 |-|-|
 |חֵילוֹֹ 1|חִילוּ 1|
-|HEyElEwE|HEyElEuE|
+|HEylwo|Hiylu|
 
  * ואעידה 2: 
 
 |וְאָעִידָה 2|
 |-|
 |וְאָעִידָה 2|
-|wE'EɣEyEdEhE|
+|wsv'AɣiydAh|
 
  * הלך 2: 
 
 |הָלַךְ 1|הֹלֵךְ 1|
 |-|-|
 |הָלַךְ 1|הֹלֵךְ 1|
-|hElExE|hElExE|
+|hAlaxsv|holExsv|
 
  * סומך 2: 
 
 |סוֹמֵךְ 2|
 |-|
 |סוֹֹמֵךְ 2|
-|sEwEmExE|
+|swomExsv|
 
  * בדרכי 2: 
 
 |בְּדַרְכֵי 1|בִּדְרָכַי 1|
 |-|-|
 |בְּדַרְכֵי 1|בִּדְרָכַי 1|
-|bEdErExEyE|bEdErExEyE|
+|bsvdarsvxEy|bidsvrAxay|
 
  * בעדי 2: 
 
 |בַּעֲדִי 2|
 |-|
 |בַּעֲדִי 2|
-|bEɣEdEyE|
+|baɣadiy|
 
  * להזכיר 2: 
 
 |לְהַזְכִּיר 2|
 |-|
 |לְהַזְכִּיר 2|
-|lEhEzEkEyErE|
+|lsvhazsvkiyr|
 
  * חמת 2: 
 
 |חֲמַת 1|חֵמֹת 1|
 |-|-|
 |חֲמַת 1|חֵמֹת 1|
-|HEmEtE|HEmEtE|
+|Hamat|HEmot|
 
  * באמרתך 2: 
 
 |בְּאִמְרָתֶךָ 2|
 |-|
 |בְּאִמְרָתֶךָ 2|
-|bE'EmErEtExE|
+|bsv'imsvrAtexA|
 
  * נצר 2: 
 
 |נֹצֵר 1|נְצֹר 1|
 |-|-|
 |נֹצֵר 1|נְצֹר 1|
-|nEcErE|nEcErE|
+|nocEr|nsvcor|
 
  * את־עיני 2: 
 
 |אֶת־עֵינַי 1|אֶת־עֵינִי 1|
 |-|-|
 |אֶת־עֵינַי 1|אֶת־עֵינִי 1|
-|'EtE־EɣEyEnEyE|'EtE־EɣEyEnEyE|
+|'et־ɣEynay|'et־ɣEyniy|
 
  * אבטח 2: 
 
 |אֶבְטָח 2|
 |-|
 |אֶבְטָח 2|
-|'EvETEHE|
+|'evsvTAH|
 
  * שחר 2: 
 
 |שָּׁחַר 2|
 |-|
 |שָׁחַר 2|
-|šEHErE|
+|šAHar|
 
  * וישמע 2: 
 
 |וַיִּשְׁמַע 2|
 |-|
 |וַיִשְׁמַע 2|
-|wEyEšEmEɣE|
+|wayišsvmaɣ|
 
  * בהרים 2: 
 
 |בֶּהָרִים 2|
 |-|
 |בֶּהָרִים 2|
-|bEhErEyEmE|
+|behAriym|
 
  * מלכי־ארץ 2: 
 
 |מַלְכֵי־אֶרֶץ 2|
 |-|
 |מַלְכֵי־אֶרֶץ 2|
-|mElExEyE־E'ErEcE|
+|malsvxEy־'erec|
 
  * וישם 2: 
 
 |וַיָּשֶׂם 1|וְיָשֵׂם 1|
 |-|-|
 |וַיָשֶׂם 1|וְיָשֵׂם 1|
-|wEyESEmE|wEyESEmE|
+|wayASem|wsvyASEm|
 
  * ותתעטף 2: 
 
 |וְתִתְעַטֵּף 1|וַתִּתְעַטֵּף 1|
 |-|-|
 |וְתִתְעַטֵף 1|וַתִתְעַטֵף 1|
-|wEtEtEɣETEfE|wEtEtEɣETEfE|
+|wsvtitsvɣaTEf|watitsvɣaTEf|
 
  * צר־לי 2: 
 
 |צַר־לִי 2|
 |-|
 |צַר־לִי 2|
-|cErE־ElEyE|
+|car־liy|
 
  * כוננת 2: 
 
 |כּוֹנַנְתָּ 2|
 |-|
 |כּוֹֹנַנְתָ 2|
-|kEwEnEnEtE|
+|kwonansvtA|
 
  * ויבטחו 2: 
 
 |וְיִבְטְחוּ 2|
 |-|
 |וְיִבְטְחוּ 2|
-|wEyEvETEHEuE|
+|wsvyivsvTsvHu|
 
  * מידעי 2: 
 
 |מְיֻדָּעַי 2|
 |-|
 |מְיֻדָעַי 2|
-|mEyEdEɣEyE|
+|msvyudAɣay|
 
  * בלילות 2: 
 
 |בַּלֵּילוֹת 2|
 |-|
 |בַּלֵילוֹֹת 2|
-|bElEyElEwEtE|
+|balEylwot|
 
  * ולבקר 2: 
 
 |וּלְבַקֵּר 1|וְלַבֹּקֶר 1|
 |-|-|
 |וּלְבַקֵר 1|וְלַבֹּקֶר 1|
-|uElEvEqErE|wElEbEqErE|
+|ulsvvaqEr|wsvlaboqer|
 
  * לעג 2: 
 
 |לַעַג 2|
 |-|
 |לַעַג 2|
-|lEɣEgE|
+|laɣag|
 
  * יהללוהו 2: 
 
 |יְהַלְלוּהוּ 2|
 |-|
 |יְהַלְלוּהוּ 2|
-|yEhElElEuEhEuE|
+|ysvhalsvluhu|
 
  * עם־יורדי 2: 
 
 |עִם־יוֹרְדֵי 2|
 |-|
 |עִם־יוֹֹרְדֵי 2|
-|ɣEmE־EyEwErEdEyE|
+|ɣim־yworsvdEy|
 
  * וברוך 2: 
 
 |וּבָרוּךְ 2|
 |-|
 |וּבָרוּךְ 2|
-|uEvErEuExE|
+|uvAruxsv|
 
  * הפך 2: 
 
 |הָפַךְ 2|
 |-|
 |הָפַךְ 2|
-|hEfExE|
+|hAfaxsv|
 
  * וקלס 2: 
 
 |וָקֶלֶס 2|
 |-|
 |וָקֶלֶס 2|
-|wEqElEsE|
+|wAqeles|
 
  * תגלנה 2: 
 
 |תָּגֵלְנָה 2|
 |-|
 |תָגֵלְנָה 2|
-|tEgElEnEhE|
+|tAgElsvnAh|
 
  * ועזו 2: 
 
 |וְעֻזּוֹ 2|
 |-|
 |וְעֻזוֹֹ 2|
-|wEɣEzEwE|
+|wsvɣuzwo|
 
  * בהיכל 2: 
 
 |בְּהֵיכַל 2|
 |-|
 |בְּהֵיכַל 2|
-|bEhEyExElE|
+|bsvhEyxal|
 
  * בנפשי 2: 
 
 |בְּנַפְשִׁי 1|בְנַפְשִׁי 1|
 |-|-|
 |בְּנַפְשִׁי 1|בְנַפְשִׁי 1|
-|bEnEfEšEyE|vEnEfEšEyE|
+|bsvnafsvšiy|vsvnafsvšiy|
 
  * הנותן 2: 
 
 |הַנּוֹתֵן 2|
 |-|
 |הַנוֹֹתֵן 2|
-|hEnEwEtEnE|
+|hanwotEn|
 
  * ארנן 2: 
 
 |אֲרַנֵּן 2|
 |-|
 |אֲרַנֵן 2|
-|'ErEnEnE|
+|'aranEn|
 
  * יחידתי 2: 
 
 |יְחִידָתִי 2|
 |-|
 |יְחִידָתִי 2|
-|yEHEyEdEtEyE|
+|ysvHiydAtiy|
 
  * ויסגר 2: 
 
 |וַיַּסְגֵּר 2|
 |-|
 |וַיַסְגֵר 2|
-|wEyEsEgErE|
+|wayassvgEr|
 
  * יעטה 2: 
 
 |יַעְטֶה 2|
 |-|
 |יַעְטֶה 2|
-|yEɣETEhE|
+|yaɣsvTeh|
 
  * הצדיקים 2: 
 
 |הַצַּדִּיקִים 2|
 |-|
 |הַצַדִיקִים 2|
-|hEcEdEyEqEyEmE|
+|hacadiyqiym|
 
  * מרשת 2: 
 
 |מֵרֶשֶׁת 2|
 |-|
 |מֵרֶשֶׁת 2|
-|mErEšEtE|
+|mErešet|
 
  * ברצונך 2: 
 
 |בִרְצוֹנְךָ 1|בִּרְצוֹנְךָ 1|
 |-|-|
 |בִרְצוֹֹנְךָ 1|בִּרְצוֹֹנְךָ 1|
-|vErEcEwEnExE|bErEcEwEnExE|
+|virsvcwonsvxA|birsvcwonsvxA|
 
  * ועליו 2: 
 
 |וְעָלָיו 2|
 |-|
 |וְעָלָיו 2|
-|wEɣElEyEwE|
+|wsvɣAlAyw|
 
  * על־נפשנו 2: 
 
 |עַל־נַפְשֵׁנוּ 2|
 |-|
 |עַל־נַפְשֵׁנוּ 2|
-|ɣElE־EnEfEšEnEuE|
+|ɣal־nafsvšEnu|
 
  * יכרתו 2: 
 
 |יִכָּרֵתוּ 1|יִכְרֹתוּ 1|
 |-|-|
 |יִכָּרֵתוּ 1|יִכְרֹתוּ 1|
-|yEkErEtEuE|yExErEtEuE|
+|yikArEtu|yixsvrotu|
 
  * הללי 2: 
 
 |הַלְלִי 2|
 |-|
 |הַלְלִי 2|
-|hElElEyE|
+|halsvliy|
 
  * תתננו 2: 
 
 |תִּתְּנֵנוּ 1|תִּתְּנֶנּוּ 1|
 |-|-|
 |תִתְנֵנוּ 1|תִתְנֶנוּ 1|
-|tEtEnEnEuE|tEtEnEnEuE|
+|titsvnEnu|titsvnenu|
 
  * אם־אמרתי 2: 
 
 |אִם־אָמַרְתִּי 2|
 |-|
 |אִם־אָמַרְתִי 2|
-|'EmE־E'EmErEtEyE|
+|'im־'Amarsvtiy|
 
  * שק 2: 
 
 |שָׂק 2|
 |-|
 |שָׂק 2|
-|SEqE|
+|SAq|
 
  * דבר־בליעל 2: 
 
 |דְּבַר־בְּלִיָּעַל 1|דְּבַר־בְּלִיַּעַל 1|
 |-|-|
 |דְבַר־בְּלִיָעַל 1|דְבַר־בְּלִיַעַל 1|
-|dEvErE־EbElEyEɣElE|dEvErE־EbElEyEɣElE|
+|dsvvar־bsvliyAɣal|dsvvar־bsvliyaɣal|
 
  * מורה 2: 
 
 |מוֹרָה 1|מוֹרֶה 1|
 |-|-|
 |מוֹֹרָה 1|מוֹֹרֶה 1|
-|mEwErEhE|mEwErEhE|
+|mworAh|mworeh|
 
  * משרתיו 2: 
 
 |מְשָׁרְתָיו 2|
 |-|
 |מְשָׁרְתָיו 2|
-|mEšErEtEyEwE|
+|msvšArsvtAyw|
 
  * יראוני 2: 
 
 |יִרְאוּנִי 2|
 |-|
 |יִרְאוּנִי 2|
-|yErE'EuEnEyE|
+|yirsv'uniy|
 
  * הלכו 2: 
 
 |הָלְכוּ 1|הָלָכוּ 1|
 |-|-|
 |הָלְכוּ 1|הָלָכוּ 1|
-|hElExEuE|hElExEuE|
+|hAlsvxu|hAlAxu|
 
  * ואקוה 2: 
 
 |וָאֲקַוֶּה 1|וַאֲקַוֶּה 1|
 |-|-|
 |וָאֲקַוֶּה 1|וַאֲקַוֶּה 1|
-|wE'EqEuEhE|wE'EqEuEhE|
+|wA'aqaueh|wa'aqaueh|
 
  * שמות 2: 
 
 |שֵׁמוֹת 1|שַׁמּוֹת 1|
 |-|-|
 |שֵׁמוֹֹת 1|שַׁמוֹֹת 1|
-|šEmEwEtE|šEmEwEtE|
+|šEmwot|šamwot|
 
  * תביט 2: 
 
 |תַּבִּיט 1|תַבִּיט 1|
 |-|-|
 |תַבִּיט 1|תַבִּיט 1|
-|tEbEyETE|tEbEyETE|
+|tabiyT|tabiyT|
 
  * אמונים 2: 
 
 |אֱמוּנִים 2|
 |-|
 |אֱמוּנִים 2|
-|'EmEuEnEyEmE|
+|'emuniym|
 
  * חן 2: 
 
 |חֵן 2|
 |-|
 |חֵן 2|
-|HEnE|
+|HEn|
 
  * נועצו 2: 
 
 |נוֹעֲצוּ 2|
 |-|
 |נוֹֹעֲצוּ 2|
-|nEwEɣEcEuE|
+|nwoɣacu|
 
  * צפון 2: 
 
 |צָפוֹן 2|
 |-|
 |צָפוֹֹן 2|
-|cEfEwEnE|
+|cAfwon|
 
  * כל־חיתו־יער 2: 
 
 |כָּל־חַיְתוֹ־יָעַר 1|כָל־חַיְתוֹ־יָעַר 1|
 |-|-|
 |כָּל־חַיְתוֹֹ־יָעַר 1|כָל־חַיְתוֹֹ־יָעַר 1|
-|kElE־EHEyEtEwE־EyEɣErE|xElE־EHEyEtEwE־EyEɣErE|
+|kAl־Haysvtwo־yAɣar|xAl־Haysvtwo־yAɣar|
 
  * מה־רבו 2: 
 
 |מָה־רַבּוּ 2|
 |-|
 |מָה־רַבּוּ 2|
-|mEhE־ErEbEuE|
+|mAh־rabu|
 
  * בנקיון 2: 
 
 |בְּנִקָּיוֹן 2|
 |-|
 |בְּנִקָיוֹֹן 2|
-|bEnEqEyEwEnE|
+|bsvniqAywon|
 
  * את־ישראל 2: 
 
 |אֶת־יִשְׂרָאֵל 2|
 |-|
 |אֶת־יִשְׂרָאֵל 2|
-|'EtE־EyESErE'ElE|
+|'et־yiSsvrA'El|
 
  * במקום 2: 
 
 |בִּמְקוֹם 2|
 |-|
 |בִּמְקוֹֹם 2|
-|bEmEqEwEmE|
+|bimsvqwom|
 
  * וחסידיך 2: 
 
 |וַחֲסִידֶיךָ 2|
 |-|
 |וַחֲסִידֶיךָ 2|
-|wEHEsEyEdEyExE|
+|waHasiydeyxA|
 
  * נעלי 2: 
 
 |נַעֲלִי 2|
 |-|
 |נַעֲלִי 2|
-|nEɣElEyE|
+|naɣaliy|
 
  * לאהבי 2: 
 
 |לְאֹהֲבֵי 2|
 |-|
 |לְאֹהֲבֵי 2|
-|lE'EhEvEyE|
+|lsv'ohavEy|
 
  * כבר 2: 
 
 |כְּבֹר 2|
 |-|
 |כְּבֹר 2|
-|kEvErE|
+|ksvvor|
 
  * והאר 2: 
 
 |וְהָאֵר 2|
 |-|
 |וְהָאֵר 2|
-|wEhE'ErE|
+|wsvhA'Er|
 
  * בארצות 2: 
 
 |בָּאֲרָצוֹת 1|בְּאַרְצוֹת 1|
 |-|-|
 |בָּאֲרָצוֹֹת 1|בְּאַרְצוֹֹת 1|
-|bE'ErEcEwEtE|bE'ErEcEwEtE|
+|bA'arAcwot|bsv'arsvcwot|
 
  * חציך 2: 
 
 |חִצֶּיךָ 2|
 |-|
 |חִצֶיךָ 2|
-|HEcEyExE|
+|HiceyxA|
 
  * וזיז 2: 
 
 |וְזִיז 2|
 |-|
 |וְזִיז 2|
-|wEzEyEzE|
+|wsvziyz|
 
  * בתוככי 2: 
 
 |בְּתוֹכֵכִי 2|
 |-|
 |בְּתוֹֹכֵכִי 2|
-|bEtEwExExEyE|
+|bsvtwoxExiy|
 
  * פתחי 2: 
 
 |פִּתְחֵי 2|
 |-|
 |פִּתְחֵי 2|
-|pEtEHEyE|
+|pitsvHEy|
 
  * ממתים 2: 
 
 |מִמְתִים 2|
 |-|
 |מִמְתִים 2|
-|mEmEtEyEmE|
+|mimsvtiym|
 
  * מחלב 2: 
 
 |מֵחֵלֶב 2|
 |-|
 |מֵחֵלֶב 2|
-|mEHElEvE|
+|mEHElev|
 
  * במעשי 2: 
 
 |בְּמַעֲשֵׂי 2|
 |-|
 |בְּמַעֲשֵׂי 2|
-|bEmEɣESEyE|
+|bsvmaɣaSEy|
 
  * אדנינו 2: 
 
 |אֲדֹנֵינוּ 2|
 |-|
 |אֲדֹנֵינוּ 2|
-|'EdEnEyEnEuE|
+|'adonEynu|
 
  * יבולה 2: 
 
 |יְבוּלָהּ 2|
 |-|
 |יְבוּלָה 2|
-|yEvEuElEhE|
+|ysvvulAh|
 
  * ואצרה 2: 
 
 |וְאֶצְּרָה 2|
 |-|
 |וְאֶצְרָה 2|
-|wE'EcErEhE|
+|wsv'ecsvrAh|
 
  * יחזו 2: 
 
 |יֶחֱזוּ 2|
 |-|
 |יֶחֱזוּ 2|
-|yEHEzEuE|
+|yeHezu|
 
  * פתחת 2: 
 
 |פִּתַּחְתָּ 2|
 |-|
 |פִּתַחְתָ 2|
-|pEtEHEtE|
+|pitaHsvtA|
 
  * וכבודי 2: 
 
 |וּכְבוֹדִי 2|
 |-|
 |וּכְבוֹֹדִי 2|
-|uExEvEwEdEyE|
+|uxsvvwodiy|
 
  * מנשה 2: 
 
 |מְנַשֶּׁה 2|
 |-|
 |מְנַשֶׁה 2|
-|mEnEšEhE|
+|msvnašeh|
 
  * עלילה 2: 
 
 |עֲלִילָה 2|
 |-|
 |עֲלִילָה 2|
-|ɣElEyElEhE|
+|ɣaliylAh|
 
  * כפירים 2: 
 
 |כְּפִירִים 2|
 |-|
 |כְּפִירִים 2|
-|kEfEyErEyEmE|
+|ksvfiyriym|
 
  * הקיצה 2: 
 
 |הָקִיצָה 2|
 |-|
 |הָקִיצָה 2|
-|hEqEyEcEhE|
+|hAqiycAh|
 
  * עניי 2: 
 
 |עָנְיִי 2|
 |-|
 |עָנְיִי 2|
-|ɣEnEyEyE|
+|ɣAnsvyiy|
 
  * רגע 2: 
 
 |רֶגַע 1|רָגַע 1|
 |-|-|
 |רֶגַע 1|רָגַע 1|
-|rEgEɣE|rEgEɣE|
+|regaɣ|rAgaɣ|
 
  * מרעיתך 2: 
 
 |מַרְעִיתֶךָ 2|
 |-|
 |מַרְעִיתֶךָ 2|
-|mErEɣEyEtExE|
+|marsvɣiytexA|
 
  * אמרות 2: 
 
 |אֲמָרוֹת 1|אִמֲרוֹת 1|
 |-|-|
 |אֲמָרוֹֹת 1|אִמֲרוֹֹת 1|
-|'EmErEwEtE|'EmErEwEtE|
+|'amArwot|'imarwot|
 
  * מבין 2: 
 
 |מֵבִין 1|מִבֵּין 1|
 |-|-|
 |מֵבִין 1|מִבֵּין 1|
-|mEvEyEnE|mEbEyEnE|
+|mEviyn|mibEyn|
 
  * נאספו 2: 
 
 |נֶאֶסְפוּ 1|נֶאֱסָפוּ 1|
 |-|-|
 |נֶאֶסְפוּ 1|נֶאֱסָפוּ 1|
-|nE'EsEfEuE|nE'EsEfEuE|
+|ne'essvfu|ne'esAfu|
 
  * על־חסדך 2: 
 
 |עַל־חַסְדְּךָ 2|
 |-|
 |עַל־חַסְדְךָ 2|
-|ɣElE־EHEsEdExE|
+|ɣal־HassvdsvxA|
 
  * נדריך 2: 
 
 |נְדָרֶיךָ 2|
 |-|
 |נְדָרֶיךָ 2|
-|nEdErEyExE|
+|nsvdAreyxA|
 
  * את־ירושלם 2: 
 
 |אֶת־יְרוּשָׁלִַם 2|
 |-|
 |אֶת־יְרוּשָׁלַם 2|
-|'EtE־EyErEuEšElEmE|
+|'et־ysvrušAlam|
 
  * רדפוני 2: 
 
 |רְדָפוּנִי 2|
 |-|
 |רְדָפוּנִי 2|
-|rEdEfEuEnEyE|
+|rsvdAfuniy|
 
  * כי־שקר 2: 
 
 |כִּי־שֶׁקֶר 2|
 |-|
 |כִּי־שֶׁקֶר 2|
-|kEyE־EšEqErE|
+|kiy־šeqer|
 
  * אמרי 2: 
 
 |אֲמָרַי 2|
 |-|
 |אֲמָרַי 2|
-|'EmErEyE|
+|'amAray|
 
  * במערה 2: 
 
 |בַּמְּעָרָה 1|בַמְּעָרָה 1|
 |-|-|
 |בַּמְעָרָה 1|בַמְעָרָה 1|
-|bEmEɣErEhE|vEmEɣErEhE|
+|bamsvɣArAh|vamsvɣArAh|
 
  * המלמד 2: 
 
 |הַמְלַמֵּד 2|
 |-|
 |הַמְלַמֵד 2|
-|hEmElEmEdE|
+|hamsvlamEd|
 
  * יארב 2: 
 
 |יֶאֱרֹב 2|
 |-|
 |יֶאֱרֹב 2|
-|yE'ErEvE|
+|ye'erov|
 
  * הטה־אלי 2: 
 
 |הַטֵּה־אֵלַי 2|
 |-|
 |הַטֵה־אֵלַי 2|
-|hETEhE־E'ElEyE|
+|haTEh־'Elay|
 
  * ויענני 2: 
 
 |וַיַּעֲנֵנִי 2|
 |-|
 |וַיַעֲנֵנִי 2|
-|wEyEɣEnEnEyE|
+|wayaɣanEniy|
 
  * על־עמך 2: 
 
 |עַל־עַמְּךָ 2|
 |-|
 |עַל־עַמְךָ 2|
-|ɣElE־EɣEmExE|
+|ɣal־ɣamsvxA|
 
  * בשבט 2: 
 
 |בְּשֵׁבֶט 1|בְשֵׁבֶט 1|
 |-|-|
 |בְּשֵׁבֶט 1|בְשֵׁבֶט 1|
-|bEšEvETE|vEšEvETE|
+|bsvšEveT|vsvšEveT|
 
  * קולם 2: 
 
 |קוֹלָם 2|
 |-|
 |קוֹֹלָם 2|
-|qEwElEmE|
+|qwolAm|
 
  * אברהם 2: 
 
 |אַבְרָהָם 2|
 |-|
 |אַבְרָהָם 2|
-|'EvErEhEmE|
+|'avsvrAhAm|
 
  * אחריך 2: 
 
 |אַחֲרֶיךָ 2|
 |-|
 |אַחֲרֶיךָ 2|
-|'EHErEyExE|
+|'aHareyxA|
 
  * הוד 2: 
 
 |הוֹד 2|
 |-|
 |הוֹֹד 2|
-|hEwEdE|
+|hwod|
 
  * שמע־יהוה 2: 
 
 |שְׁמַע־יְהוָה 2|
 |-|
 |שְׁמַע־יְהוָה 2|
-|šEmEɣE־EyEhEwEhE|
+|šsvmaɣ־ysvhwAh|
 
  * ומלאך 2: 
 
 |וּמַלְאַךְ 2|
 |-|
 |וּמַלְאַךְ 2|
-|uEmElE'ExE|
+|umalsv'axsv|
 
  * באפך 2: 
 
 |בְּאַפֶּךָ 1|בְאַפֶּךָ 1|
 |-|-|
 |בְּאַפֶּךָ 1|בְאַפֶּךָ 1|
-|bE'EpExE|vE'EpExE|
+|bsv'apexA|vsv'apexA|
 
  * שי 2: 
 
 |שָׁי 1|שַׁי 1|
 |-|-|
 |שָׁי 1|שַׁי 1|
-|šEyE|šEyE|
+|šAy|šay|
 
  * יגילו 2: 
 
 |יָגִילוּ 2|
 |-|
 |יָגִילוּ 2|
-|yEgEyElEuE|
+|yAgiylu|
 
  * חצם 2: 
 
 |חִצָּם 2|
 |-|
 |חִצָם 2|
-|HEcEmE|
+|HicAm|
 
  * הנבל 2: 
 
 |הַנֵּבֶל 2|
 |-|
 |הַנֵבֶל 2|
-|hEnEvElE|
+|hanEvel|
 
  * נשמדו 2: 
 
 |נִשְׁמְדוּ 2|
 |-|
 |נִשְׁמְדוּ 2|
-|nEšEmEdEuE|
+|nišsvmsvdu|
 
  * בכבוד 2: 
 
 |בְּכָבוֹד 2|
 |-|
 |בְּכָבוֹֹד 2|
-|bExEvEwEdE|
+|bsvxAvwod|
 
  * לדבר 2: 
 
 |לַדֶּבֶר 1|לְדָבָר 1|
 |-|-|
 |לַדֶבֶר 1|לְדָבָר 1|
-|lEdEvErE|lEdEvErE|
+|ladever|lsvdAvAr|
 
  * זהב 2: 
 
 |זָהָב 2|
 |-|
 |זָהָב 2|
-|zEhEvE|
+|zAhAv|
 
  * לקחת 2: 
 
 |לָקַחַת 1|לָקַחְתָּ 1|
 |-|-|
 |לָקַחַת 1|לָקַחְתָ 1|
-|lEqEHEtE|lEqEHEtE|
+|lAqaHat|lAqaHsvtA|
 
  * בזרוע 2: 
 
 |בִּזְרוֹעַ 2|
 |-|
 |בִּזְרוֹֹעַ 2|
-|bEzErEwEɣE|
+|bizsvrwoɣa|
 
  * בפיו 2: 
 
 |בְּפִיו 2|
 |-|
 |בְּפִיו 2|
-|bEfEyEwE|
+|bsvfiyw|
 
  * עינינו 2: 
 
 |עֵינֵינוּ 2|
 |-|
 |עֵינֵינוּ 2|
-|ɣEyEnEyEnEuE|
+|ɣEynEynu|
 
  * בנדיבים 2: 
 
 |בִנְדִיבִים 1|בִּנְדִיבִים 1|
 |-|-|
 |בִנְדִיבִים 1|בִּנְדִיבִים 1|
-|vEnEdEyEvEyEmE|bEnEdEyEvEyEmE|
+|vinsvdiyviym|binsvdiyviym|
 
  * לשכן 2: 
 
 |לִשְׁכֹּן 2|
 |-|
 |לִשְׁכֹּן 2|
-|lEšEkEnE|
+|lišsvkon|
 
  * מעל 2: 
 
 |מֵעָל 1|מֵעַל 1|
 |-|-|
 |מֵעָל 1|מֵעַל 1|
-|mEɣElE|mEɣElE|
+|mEɣAl|mEɣal|
 
  * כל־בשר 2: 
 
 |כָּל־בָּשָׂר 2|
 |-|
 |כָּל־בָּשָׂר 2|
-|kElE־EbESErE|
+|kAl־bASAr|
 
  * ותענני 2: 
 
 |וַתַּעֲנֵנִי 2|
 |-|
 |וַתַעֲנֵנִי 2|
-|wEtEɣEnEnEyE|
+|wataɣanEniy|
 
  * תשבע 2: 
 
 |תִּשְׂבַּע 2|
 |-|
 |תִשְׂבַּע 2|
-|tESEbEɣE|
+|tiSsvbaɣ|
 
  * אשתחוה 2: 
 
 |אֶשְׁתַּחֲוֶה 2|
 |-|
 |אֶשְׁתַחֲוֶה 2|
-|'EšEtEHEwEhE|
+|'ešsvtaHaweh|
 
  * נאלמתי 2: 
 
 |נֶאֱלַמְתִּי 2|
 |-|
 |נֶאֱלַמְתִי 2|
-|nE'ElEmEtEyE|
+|ne'elamsvtiy|
 
  * שפתימו 2: 
 
 |שְׂפָתֵימוֹ 2|
 |-|
 |שְׂפָתֵימוֹֹ 2|
-|SEfEtEyEmEwE|
+|SsvfAtEymwo|
 
  * ויבחר 2: 
 
 |וַיִּבְחַר 2|
 |-|
 |וַיִבְחַר 2|
-|wEyEvEHErE|
+|wayivsvHar|
 
  * ביתה 2: 
 
 |בֵּיתָהּ 1|בַּיְתָה 1|
 |-|-|
 |בֵּיתָה 1|בַּיְתָה 1|
-|bEyEtEhE|bEyEtEhE|
+|bEytAh|baysvtAh|
 
  * כל־מבקשיך 2: 
 
 |כָּל־מְבַקְשֶׁיךָ 2|
 |-|
 |כָּל־מְבַקְשֶׁיךָ 2|
-|kElE־EmEvEqEšEyExE|
+|kAl־msvvaqsvšeyxA|
 
  * עת 2: 
 
 |עֵת 2|
 |-|
 |עֵת 2|
-|ɣEtE|
+|ɣEt|
 
  * אל־תרימו 2: 
 
 |אַל־תָּרִימוּ 2|
 |-|
 |אַל־תָרִימוּ 2|
-|'ElE־EtErEyEmEuE|
+|'al־tAriymu|
 
  * חפצתי 2: 
 
 |חָפָצְתִּי 2|
 |-|
 |חָפָצְתִי 2|
-|HEfEcEtEyE|
+|HAfAcsvtiy|
 
  * יושיעם 2: 
 
 |יוֹשִׁיעֵם 2|
 |-|
 |יוֹֹשִׁיעֵם 2|
-|yEwEšEyEɣEmE|
+|ywošiyɣEm|
 
  * והודו 2: 
 
 |וְהוֹדוּ 2|
 |-|
 |וְהוֹֹדוּ 2|
-|wEhEwEdEuE|
+|wsvhwodu|
 
  * קדים 2: 
 
 |קָדִים 2|
 |-|
 |קָדִים 2|
-|qEdEyEmE|
+|qAdiym|
 
  * פשעם 2: 
 
 |פִּשְׁעָם 2|
 |-|
 |פִּשְׁעָם 2|
-|pEšEɣEmE|
+|pišsvɣAm|
 
  * בהיותו 2: 
 
 |בִּהְיוֹתוֹ 2|
 |-|
 |בִּהְיוֹֹתוֹֹ 2|
-|bEhEyEwEtEwE|
+|bihsvywotwo|
 
  * לרכב 2: 
 
 |לָרֹכֵב 2|
 |-|
 |לָרֹכֵב 2|
-|lErExEvE|
+|lAroxEv|
 
  * הגיון 2: 
 
 |הִגָּיוֹן 2|
 |-|
 |הִגָיוֹֹן 2|
-|hEgEyEwEnE|
+|higAywon|
 
  * יתומים 2: 
 
 |יְתוֹמִים 2|
 |-|
 |יְתוֹֹמִים 2|
-|yEtEwEmEyEmE|
+|ysvtwomiym|
 
  * מנת 2: 
 
 |מְנָת 2|
 |-|
 |מְנָת 2|
-|mEnEtE|
+|msvnAt|
 
  * לישרים 2: 
 
 |לַיְשָׁרִים 2|
 |-|
 |לַיְשָׁרִים 2|
-|lEyEšErEyEmE|
+|laysvšAriym|
 
  * ילכו 2: 
 
 |יֵלְכוּ 2|
 |-|
 |יֵלְכוּ 2|
-|yElExEuE|
+|yElsvxu|
 
  * ירומו 2: 
 
 |יָרוּמוּ 2|
 |-|
 |יָרוּמוּ 2|
-|yErEuEmEuE|
+|yArumu|
 
  * העולם 2: 
 
 |הָעוֹלָם 2|
 |-|
 |הָעוֹֹלָם 2|
-|hEɣEwElEmE|
+|hAɣwolAm|
 
  * ומה־תהמי 2: 
 
 |וּמַה־תֶּהֱמִי 2|
 |-|
 |וּמַה־תֶהֱמִי 2|
-|uEmEhE־EtEhEmEyE|
+|umah־tehemiy|
 
  * לעתות 2: 
 
 |לְעִתּוֹת 2|
 |-|
 |לְעִתוֹֹת 2|
-|lEɣEtEwEtE|
+|lsvɣitwot|
 
  * אף־לך 2: 
 
 |אַף־לְךָ 2|
 |-|
 |אַף־לְךָ 2|
-|'EfE־ElExE|
+|'af־lsvxA|
 
  * יעזב 2: 
 
 |יַעֲזֹב 2|
 |-|
 |יַעֲזֹב 2|
-|yEɣEzEvE|
+|yaɣazov|
 
  * וצדק 2: 
 
 |וְצֶדֶק 1|וָצֶדֶק 1|
 |-|-|
 |וְצֶדֶק 1|וָצֶדֶק 1|
-|wEcEdEqE|wEcEdEqE|
+|wsvcedeq|wAcedeq|
 
  * מחרב 2: 
 
 |מֵחֶרֶב 2|
 |-|
 |מֵחֶרֶב 2|
-|mEHErEvE|
+|mEHerev|
 
  * וישובו 2: 
 
 |וְיָשׁוּבוּ 1|וַיָּשׁוּבוּ 1|
 |-|-|
 |וְיָשׁוּבוּ 1|וַיָשׁוּבוּ 1|
-|wEyEšEuEvEuE|wEyEšEuEvEuE|
+|wsvyAšuvu|wayAšuvu|
 
  * יאמר 2: 
 
 |יֹאמַר 1|יֵאָמַר 1|
 |-|-|
 |יֹאמַר 1|יֵאָמַר 1|
-|yE'EmErE|yE'EmErE|
+|yo'mar|yE'Amar|
 
  * ותפלתי 2: 
 
 |וּתְפִלָּתִי 2|
 |-|
 |וּתְפִלָתִי 2|
-|uEtEfElEtEyE|
+|utsvfilAtiy|
 
  * לא־יתן 2: 
 
 |לֹא־יִתֵּן 2|
 |-|
 |לֹא־יִתֵן 2|
-|lE'E־EyEtEnE|
+|lo'־yitEn|
 
  * יעננו 2: 
 
 |יַעֲנֵנוּ 1|יְעַנֶּנּוּ 1|
 |-|-|
 |יַעֲנֵנוּ 1|יְעַנֶנוּ 1|
-|yEɣEnEnEuE|yEɣEnEnEuE|
+|yaɣanEnu|ysvɣanenu|
 
  * אזן 2: 
 
 |אֹזֶן 2|
 |-|
 |אֹזֶן 2|
-|'EzEnE|
+|'ozen|
 
  * ואביטה 2: 
 
 |וְאַבִּיטָה 2|
 |-|
 |וְאַבִּיטָה 2|
-|wE'EbEyETEhE|
+|wsv'abiyTAh|
 
  * בחפזי 2: 
 
 |בְחָפְזִי 2|
 |-|
 |בְחָפְזִי 2|
-|vEHEfEzEyE|
+|vsvHAfsvziy|
 
  * אך־הוא 2: 
 
 |אַךְ־הוּא 2|
 |-|
 |אַךְ־הוּא 2|
-|'ExE־EhEuE'E|
+|'axsv־hu'|
 
  * עקבי 2: 
 
 |עֲקֵבַי 2|
 |-|
 |עֲקֵבַי 2|
-|ɣEqEvEyE|
+|ɣaqEvay|
 
  * פשעי 2: 
 
 |פְשָׁעָי 1|פְשָׁעַי 1|
 |-|-|
 |פְשָׁעָי 1|פְשָׁעַי 1|
-|fEšEɣEyE|fEšEɣEyE|
+|fsvšAɣAy|fsvšAɣay|
 
  * יעשה 2: 
 
 |יַעֲשֶׂה 2|
 |-|
 |יַעֲשֶׂה 2|
-|yEɣESEhE|
+|yaɣaSeh|
 
  * בתורת 2: 
 
 |בְּתוֹרַת 2|
 |-|
 |בְּתוֹֹרַת 2|
-|bEtEwErEtE|
+|bsvtworat|
 
  * וימרו 2: 
 
 |וַיַּמְרוּ 2|
 |-|
 |וַיַמְרוּ 2|
-|wEyEmErEuE|
+|wayamsvru|
 
  * באף 2: 
 
 |בְּאַף 2|
 |-|
 |בְּאַף 2|
-|bE'EfE|
+|bsv'af|
 
  * ועמל 2: 
 
 |וְעָמָל 1|וַעֲמַל 1|
 |-|-|
 |וְעָמָל 1|וַעֲמַל 1|
-|wEɣEmElE|wEɣEmElE|
+|wsvɣAmAl|waɣamal|
 
  * ויתעבר 2: 
 
 |וַיִּתְעַבָּר 2|
 |-|
 |וַיִתְעַבָּר 2|
-|wEyEtEɣEbErE|
+|wayitsvɣabAr|
 
  * והשתחוו 2: 
 
 |וְהִשְׁתַּחֲווּ 2|
 |-|
 |וְהִשְׁתַחֲווּ 2|
-|wEhEšEtEHEwEuE|
+|wsvhišsvtaHawu|
 
  * יכרעו 2: 
 
 |יִכְרְעוּ 2|
 |-|
 |יִכְרְעוּ 2|
-|yExErEɣEuE|
+|yixsvrsvɣu|
 
  * גמר 2: 
 
 |גָּמַר 1|גֹּמֵר 1|
 |-|-|
 |גָמַר 1|גֹמֵר 1|
-|gEmErE|gEmErE|
+|gAmar|gomEr|
 
  * ישטנוני 2: 
 
 |יִשְׂטְנוּנִי 2|
 |-|
 |יִשְׂטְנוּנִי 2|
-|yESETEnEuEnEyE|
+|yiSsvTsvnuniy|
 
  * ויגון 2: 
 
 |וְיָגוֹן 2|
 |-|
 |וְיָגוֹֹן 2|
-|wEyEgEwEnE|
+|wsvyAgwon|
 
  * חלקי 2: 
 
 |חֶלְקִי 2|
 |-|
 |חֶלְקִי 2|
-|HElEqEyE|
+|Helsvqiy|
 
  * על־השמים 2: 
 
 |עַל־הַשָּׁמַיִם 1|עַל־הַשָּׁמָיִם 1|
 |-|-|
 |עַל־הַשָׁמַיִם 1|עַל־הַשָׁמָיִם 1|
-|ɣElE־EhEšEmEyEmE|ɣElE־EhEšEmEyEmE|
+|ɣal־hašAmayim|ɣal־hašAmAyim|
 
  * שהכה 2: 
 
 |שֶׁהִכָּה 2|
 |-|
 |שֶׁהִכָּה 2|
-|šEhEkEhE|
+|šehikAh|
 
  * במעלליהם 2: 
 
 |בְּמַעַלְלֵיהֶם 2|
 |-|
 |בְּמַעַלְלֵיהֶם 2|
-|bEmEɣElElEyEhEmE|
+|bsvmaɣalsvlEyhem|
 
  * תהומות 2: 
 
 |תְהוֹמוֹת 1|תְּהוֹמוֹת 1|
 |-|-|
 |תְהוֹֹמוֹֹת 1|תְהוֹֹמוֹֹת 1|
-|tEhEwEmEwEtE|tEhEwEmEwEtE|
+|tsvhwomwot|tsvhwomwot|
 
  * ויט 2: 
 
 |וַיֵּט 2|
 |-|
 |וַיֵט 2|
-|wEyETE|
+|wayET|
 
  * וירד 2: 
 
 |וְיֵרְדְּ 1|וַיֵּרַד 1|
 |-|-|
 |וְיֵרְדְ 1|וַיֵרַד 1|
-|wEyErEdE|wEyErEdE|
+|wsvyErsvdsv|wayErad|
 
  * ממי 2: 
 
 |מִמִּי 2|
 |-|
 |מִמִי 2|
-|mEmEyE|
+|mimiy|
 
  * כונן 2: 
 
 |כּוֹנֵן 2|
 |-|
 |כּוֹֹנֵן 2|
-|kEwEnEnE|
+|kwonEn|
 
  * שכן 2: 
 
 |שֹׁכֵן 1|שִׁכֵּן 1|
 |-|-|
 |שֹׁכֵן 1|שִׁכֵּן 1|
-|šExEnE|šEkEnE|
+|šoxEn|šikEn|
 
  * ומפתים 2: 
 
 |וּמֹפְתִים 2|
 |-|
 |וּמֹפְתִים 2|
-|uEmEfEtEyEmE|
+|umofsvtiym|
 
  * מהרה 2: 
 
 |מְהֵרָה 2|
 |-|
 |מְהֵרָה 2|
-|mEhErEhE|
+|msvhErAh|
 
  * אותו 2: 
 
 |אוֹתוֹ 2|
 |-|
 |אוֹֹתוֹֹ 2|
-|'EwEtEwE|
+|'wotwo|
 
  * להשיב 2: 
 
 |לְהָשִׁיב 2|
 |-|
 |לְהָשִׁיב 2|
-|lEhEšEyEvE|
+|lsvhAšiyv|
 
  * שבתי 2: 
 
 |שִׁבְתִּי 2|
 |-|
 |שִׁבְתִי 2|
-|šEvEtEyE|
+|šivsvtiy|
 
  * שלג 2: 
 
 |שֶׁלֶג 2|
 |-|
 |שֶׁלֶג 2|
-|šElEgE|
+|šeleg|
 
  * הר־בשן 2: 
 
 |הַר־בָּשָׁן 2|
 |-|
 |הַר־בָּשָׁן 2|
-|hErE־EbEšEnE|
+|har־bAšAn|
 
  * דמינו 2: 
 
 |דִּמְיֹנוֹ 1|דִּמִּינוּ 1|
 |-|-|
 |דִמְיֹנוֹֹ 1|דִמִינוּ 1|
-|dEmEyEnEwE|dEmEyEnEuE|
+|dimsvyonwo|dimiynu|
 
  * וירעם 2: 
 
 |וַיַּרְעֵם 1|וַיִּרְעֵם 1|
 |-|-|
 |וַיַרְעֵם 1|וַיִרְעֵם 1|
-|wEyErEɣEmE|wEyErEɣEmE|
+|wayarsvɣEm|wayirsvɣEm|
 
  * מפעלות 2: 
 
 |מִפְעֲלוֹת 2|
 |-|
 |מִפְעֲלוֹֹת 2|
-|mEfEɣElEwEtE|
+|mifsvɣalwot|
 
  * תהי־ידך 2: 
 
 |תְּהִי־יָדְךָ 2|
 |-|
 |תְהִי־יָדְךָ 2|
-|tEhEyE־EyEdExE|
+|tsvhiy־yAdsvxA|
 
  * להודיע 2: 
 
 |לְהוֹדִיעַ 2|
 |-|
 |לְהוֹֹדִיעַ 2|
-|lEhEwEdEyEɣE|
+|lsvhwodiyɣa|
 
  * גחלים 2: 
 
 |גֶּחָלִים 2|
 |-|
 |גֶחָלִים 2|
-|gEHElEyEmE|
+|geHAliym|
 
  * מטיט 2: 
 
 |מִטִּיט 2|
 |-|
 |מִטִיט 2|
-|mETEyETE|
+|miTiyT|
 
  * [ולו] 2: 
 
 |[וְלוֹ] 2|
 |-|
 |[וְלוֹֹ] 2|
-|[EwElEwE]E|
+|[wsvlwo]|
 
  * בדבר 2: 
 
 |בִּדְבַר 2|
 |-|
 |בִּדְבַר 2|
-|bEdEvErE|
+|bidsvvar|
 
  * ירצו 2: 
 
 |יִרְצוּ 2|
 |-|
 |יִרְצוּ 2|
-|yErEcEuE|
+|yirsvcu|
 
  * קול־יהוה 2: 
 
 |קוֹל־יְהוָה 2|
 |-|
 |קוֹֹל־יְהוָה 2|
-|qEwElE־EyEhEwEhE|
+|qwol־ysvhwAh|
 
  * גפנם 2: 
 
 |גַּפְנָם 2|
 |-|
 |גַפְנָם 2|
-|gEfEnEmE|
+|gafsvnAm|
 
  * דרכיך 2: 
 
 |דְּרָכֶיךָ 2|
 |-|
 |דְרָכֶיךָ 2|
-|dErExEyExE|
+|dsvrAxeyxA|
 
  * אקום 2: 
 
 |אָקוּם 2|
 |-|
 |אָקוּם 2|
-|'EqEuEmE|
+|'Aqum|
 
  * מהם 2: 
 
 |מֵהֶם 2|
 |-|
 |מֵהֶם 2|
-|mEhEmE|
+|mEhem|
 
  * ויאמץ 2: 
 
 |וְיַאֲמֵץ 2|
 |-|
 |וְיַאֲמֵץ 2|
-|wEyE'EmEcE|
+|wsvya'amEc|
 
  * רעמך 2: 
 
 |רַעַמְךָ 2|
 |-|
 |רַעַמְךָ 2|
-|rEɣEmExE|
+|raɣamsvxA|
 
  * בדברך 2: 
 
 |בְּדָבְרֶךָ 1|בִּדְבָרֶךָ 1|
 |-|-|
 |בְּדָבְרֶךָ 1|בִּדְבָרֶךָ 1|
-|bEdEvErExE|bEdEvErExE|
+|bsvdAvsvrexA|bidsvvArexA|
 
  * רחצי 2: 
 
 |רַחְצִי 2|
 |-|
 |רַחְצִי 2|
-|rEHEcEyE|
+|raHsvciy|
 
  * על־אלהים 2: 
 
 |עַל־אֱלֹהִים 2|
 |-|
 |עַל־אֱלֹהִים 2|
-|ɣElE־E'ElEhEyEmE|
+|ɣal־'elohiym|
 
  * פחדו 2: 
 
 |פָּחֲדוּ 1|פָחָדוּ 1|
 |-|-|
 |פָּחֲדוּ 1|פָחָדוּ 1|
-|pEHEdEuE|fEHEdEuE|
+|pAHadu|fAHAdu|
 
  * שונא 2: 
 
 |שׂוֹנֵא 2|
 |-|
 |שׂוֹֹנֵא 2|
-|SEwEnE'E|
+|SwonE'|
 
  * שאגתי 2: 
 
 |שַׁאֲגָתִי 1|שָׁאַגְתִּי 1|
 |-|-|
 |שַׁאֲגָתִי 1|שָׁאַגְתִי 1|
-|šE'EgEtEyE|šE'EgEtEyE|
+|ša'agAtiy|šA'agsvtiy|
 
  * ונפלו 2: 
 
 |וְנָפָלוּ 2|
 |-|
 |וְנָפָלוּ 2|
-|wEnEfElEuE|
+|wsvnAfAlu|
 
  * לסיחון 2: 
 
 |לְסִיחוֹן 2|
 |-|
 |לְסִיחוֹֹן 2|
-|lEsEyEHEwEnE|
+|lsvsiyHwon|
 
  * תשועתי 2: 
 
 |תְּשׁוּעָתִי 2|
 |-|
 |תְשׁוּעָתִי 2|
-|tEšEuEɣEtEyE|
+|tsvšuɣAtiy|
 
  * יחילו 2: 
 
 |יָחִילוּ 2|
 |-|
 |יָחִילוּ 2|
-|yEHEyElEuE|
+|yAHiylu|
 
  * ליראיך 2: 
 
 |לִּירֵאֶיךָ 2|
 |-|
 |לִירֵאֶיךָ 2|
-|lEyErE'EyExE|
+|liyrE'eyxA|
 
  * חרף 2: 
 
 |חֵרֵף 2|
 |-|
 |חֵרֵף 2|
-|HErEfE|
+|HErEf|
 
  * שיחה 2: 
 
 |שִׂיחָה 1|שִׁיחָה 1|
 |-|-|
 |שִׂיחָה 1|שִׁיחָה 1|
-|SEyEHEhE|šEyEHEhE|
+|SiyHAh|šiyHAh|
 
  * ינחם 2: 
 
 |יִנָּחֵם 1|יַנְחֵם 1|
 |-|-|
 |יִנָחֵם 1|יַנְחֵם 1|
-|yEnEHEmE|yEnEHEmE|
+|yinAHEm|yansvHEm|
 
  * לבב־אנוש 2: 
 
 |לְבַב־אֱנוֹשׁ 2|
 |-|
 |לְבַב־אֱנוֹֹשׁ 2|
-|lEvEvE־E'EnEwEšE|
+|lsvvav־'enwoš|
 
  * לא־כסיתי 2: 
 
 |לֹא־כִסִּיתִי 2|
 |-|
 |לֹא־כִסִיתִי 2|
-|lE'E־ExEsEyEtEyE|
+|lo'־xisiytiy|
 
  * תלך 2: 
 
 |תֵּלֵךְ 1|תֵלֵךְ 1|
 |-|-|
 |תֵלֵךְ 1|תֵלֵךְ 1|
-|tElExE|tElExE|
+|tElExsv|tElExsv|
 
  * יצרו 2: 
 
 |יֻצָּרוּ 1|יָצָרוּ 1|
 |-|-|
 |יֻצָרוּ 1|יָצָרוּ 1|
-|yEcErEuE|yEcErEuE|
+|yucAru|yAcAru|
 
  * לחסדו 2: 
 
 |לְחַסְדּוֹ 2|
 |-|
 |לְחַסְדוֹֹ 2|
-|lEHEsEdEwE|
+|lsvHassvdwo|
 
  * בצר־לי 2: 
 
 |בַּצַּר־לִי 2|
 |-|
 |בַּצַר־לִי 2|
-|bEcErE־ElEyE|
+|bacar־liy|
 
  * יחלצון 2: 
 
 |יֵחָלְצוּן 2|
 |-|
 |יֵחָלְצוּן 2|
-|yEHElEcEuEnE|
+|yEHAlsvcun|
 
  * אבי 2: 
 
 |אֲבִי 1|אָבִי 1|
 |-|-|
 |אֲבִי 1|אָבִי 1|
-|'EvEyE|'EvEyE|
+|'aviy|'Aviy|
 
  * ומשפטים 2: 
 
 |וּמִשְׁפָּטִים 2|
 |-|
 |וּמִשְׁפָּטִים 2|
-|uEmEšEpETEyEmE|
+|umišsvpATiym|
 
  * אבירי 2: 
 
 |אַבִּירֵי 2|
 |-|
 |אַבִּירֵי 2|
-|'EbEyErEyE|
+|'abiyrEy|
 
  * באהל 2: 
 
 |בְּאֹהֶל 2|
 |-|
 |בְּאֹהֶל 2|
-|bE'EhElE|
+|bsv'ohel|
 
  * נעשה־חיל 2: 
 
 |נַעֲשֶׂה־חָיִל 2|
 |-|
 |נַעֲשֶׂה־חָיִל 2|
-|nEɣESEhE־EHEyElE|
+|naɣaSeh־HAyil|
 
  * ינצרו 2: 
 
 |יִנְצֹרוּ 2|
 |-|
 |יִנְצֹרוּ 2|
-|yEnEcErEuE|
+|yinsvcoru|
 
  * צפור 2: 
 
 |צִפּוֹר 2|
 |-|
 |צִפּוֹֹר 2|
-|cEpEwErE|
+|cipwor|
 
  * וקול 2: 
 
 |וְקוֹל 2|
 |-|
 |וְקוֹֹל 2|
-|wEqEwElE|
+|wsvqwol|
 
  * חרבו 2: 
 
 |חַרְבּוֹ 2|
 |-|
 |חַרְבּוֹֹ 2|
-|HErEbEwE|
+|Harsvbwo|
 
  * להבות 2: 
 
 |לֶהָבוֹת 1|לַהֲבוֹת 1|
 |-|-|
 |לֶהָבוֹֹת 1|לַהֲבוֹֹת 1|
-|lEhEvEwEtE|lEhEvEwEtE|
+|lehAvwot|lahavwot|
 
  * עין 2: 
 
 |עַיִן 1|עֵין 1|
 |-|-|
 |עַיִן 1|עֵין 1|
-|ɣEyEnE|ɣEyEnE|
+|ɣayin|ɣEyn|
 
  * שתני 2: 
 
 |שַׁתַּנִי 2|
 |-|
 |שַׁתַנִי 2|
-|šEtEnEyE|
+|šataniy|
 
  * ישם 2: 
 
 |יָשֵׂם 2|
 |-|
 |יָשֵׂם 2|
-|yESEmE|
+|yASEm|
 
  * חציו 2: 
 
 |חִצָּיו 2|
 |-|
 |חִצָיו 2|
-|HEcEyEwE|
+|HicAyw|
 
  * שבא 2: 
 
 |שְׁבָא 2|
 |-|
 |שְׁבָא 2|
-|šEvE'E|
+|šsvvA'|
 
  * מדחי 2: 
 
 |מִדֶּחִי 2|
 |-|
 |מִדֶחִי 2|
-|mEdEHEyE|
+|mideHiy|
 
  * לירות 2: 
 
 |לִירוֹת 2|
 |-|
 |לִירוֹֹת 2|
-|lEyErEwEtE|
+|liyrwot|
 
  * עשן 2: 
 
 |עָשָׁן 2|
 |-|
 |עָשָׁן 2|
-|ɣEšEnE|
+|ɣAšAn|
 
  * תעו 2: 
 
 |תָּעוּ 2|
 |-|
 |תָעוּ 2|
-|tEɣEuE|
+|tAɣu|
 
  * הרשע 2: 
 
 |הָרֶשַׁע 1|הָרָשָׁע 1|
 |-|-|
 |הָרֶשַׁע 1|הָרָשָׁע 1|
-|hErEšEɣE|hErEšEɣE|
+|hArešaɣ|hArAšAɣ|
 
  * תלהט 2: 
 
 |תְּלַהֵט 2|
 |-|
 |תְלַהֵט 2|
-|tElEhETE|
+|tsvlahET|
 
  * לנחלה 2: 
 
 |לְנַחֲלָה 2|
 |-|
 |לְנַחֲלָה 2|
-|lEnEHElEhE|
+|lsvnaHalAh|
 
  * ויין 2: 
 
 |וְיַיִן 2|
 |-|
 |וְיַיִן 2|
-|wEyEyEnE|
+|wsvyayin|
 
  * אשמר 2: 
 
 |אֶשְׁמֹר 2|
 |-|
 |אֶשְׁמֹר 2|
-|'EšEmErE|
+|'ešsvmor|
 
  * תעיתי 2: 
 
 |תָּעִיתִי 1|תָעִיתִי 1|
 |-|-|
 |תָעִיתִי 1|תָעִיתִי 1|
-|tEɣEyEtEyE|tEɣEyEtEyE|
+|tAɣiytiy|tAɣiytiy|
 
  * באור 2: 
 
 |בְּאוֹר 2|
 |-|
 |בְּאוֹֹר 2|
-|bE'EwErE|
+|bsv'wor|
 
  * נקמות 2: 
 
 |נְקָמוֹת 2|
 |-|
 |נְקָמוֹֹת 2|
-|nEqEmEwEtE|
+|nsvqAmwot|
 
  * החפץ 2: 
 
 |הֶחָפֵץ 2|
 |-|
 |הֶחָפֵץ 2|
-|hEHEfEcE|
+|heHAfEc|
 
  * קללה 2: 
 
 |קְלָלָה 2|
 |-|
 |קְלָלָה 2|
-|qElElEhE|
+|qsvlAlAh|
 
  * בצבאותינו 2: 
 
 |בְּצִבְאוֹתֵינוּ 2|
 |-|
 |בְּצִבְאוֹֹתֵינוּ 2|
-|bEcEvE'EwEtEyEnEuE|
+|bsvcivsv'wotEynu|
 
  * וירח 2: 
 
 |וְיָרֵחַ 2|
 |-|
 |וְיָרֵחַ 2|
-|wEyErEHE|
+|wsvyArEHa|
 
  * במרחב 2: 
 
 |בַמֶּרְחָב 2|
 |-|
 |בַמֶרְחָב 2|
-|vEmErEHEvE|
+|vamersvHAv|
 
  * וצור 2: 
 
 |וְצוֹר 1|וְצוּר 1|
 |-|-|
 |וְצוֹֹר 1|וְצוּר 1|
-|wEcEwErE|wEcEuErE|
+|wsvcwor|wsvcur|
 
  * אהללך 2: 
 
 |אֲהַלְלֶךָּ 2|
 |-|
 |אֲהַלְלֶךָּ 2|
-|'EhElElEkE|
+|'ahalsvlekA|
 
  * על־השמינית 2: 
 
 |עַל־הַשְּׁמִינִית 2|
 |-|
 |עַל־הַשְׁמִינִית 2|
-|ɣElE־EhEšEmEyEnEyEtE|
+|ɣal־hašsvmiyniyt|
 
  * יאיר 2: 
 
 |יָאִיר 2|
 |-|
 |יָאִיר 2|
-|yE'EyErE|
+|yA'iyr|
 
  * תחיני 2: 
 
 |תְּחַיֵּנִי 2|
 |-|
 |תְחַיֵנִי 2|
-|tEHEyEnEyE|
+|tsvHayEniy|
 
  * וישימו 2: 
 
 |וַיָּשִׂימוּ 1|וְיָשִׂימוּ 1|
 |-|-|
 |וַיָשִׂימוּ 1|וְיָשִׂימוּ 1|
-|wEyESEyEmEuE|wEyESEyEmEuE|
+|wayASiymu|wsvyASiymu|
 
  * תמותה 2: 
 
 |תְמוּתָה 2|
 |-|
 |תְמוּתָה 2|
-|tEmEuEtEhE|
+|tsvmutAh|
 
  * מלחמה 2: 
 
 |מִלְחָמָה 2|
 |-|
 |מִלְחָמָה 2|
-|mElEHEmEhE|
+|milsvHAmAh|
 
  * וחנון 2: 
 
 |וְחַנּוּן 2|
 |-|
 |וְחַנוּן 2|
-|wEHEnEuEnE|
+|wsvHanun|
 
  * הודינו 2: 
 
 |הוֹדִינוּ 2|
 |-|
 |הוֹֹדִינוּ 2|
-|hEwEdEyEnEuE|
+|hwodiynu|
 
  * כי־עמך 2: 
 
 |כִּי־עִמְּךָ 2|
 |-|
 |כִּי־עִמְךָ 2|
-|kEyE־EɣEmExE|
+|kiy־ɣimsvxA|
 
  * השיבה 2: 
 
 |הָשִׁיבָה 2|
 |-|
 |הָשִׁיבָה 2|
-|hEšEyEvEhE|
+|hAšiyvAh|
 
  * תקותי 2: 
 
 |תִּקְוָתִי 1|תִקְוָתִי 1|
 |-|-|
 |תִקְוָתִי 1|תִקְוָתִי 1|
-|tEqEwEtEyE|tEqEwEtEyE|
+|tiqsvwAtiy|tiqsvwAtiy|
 
  * יתמו 2: 
 
 |יִתַּמּוּ 1|יִתָּמּוּ 1|
 |-|-|
 |יִתַמוּ 1|יִתָמוּ 1|
-|yEtEmEuE|yEtEmEuE|
+|yitamu|yitAmu|
 
  * כוננו 2: 
 
 |כּוֹנְנוּ 1|כּוֹנָנוּ 1|
 |-|-|
 |כּוֹֹנְנוּ 1|כּוֹֹנָנוּ 1|
-|kEwEnEnEuE|kEwEnEnEuE|
+|kwonsvnu|kwonAnu|
 
  * יובילו 2: 
 
 |יוֹבִילוּ 2|
 |-|
 |יוֹֹבִילוּ 2|
-|yEwEvEyElEuE|
+|ywoviylu|
 
  * פיה 2: 
 
 |פִּיהָ 2|
 |-|
 |פִּיהָ 2|
-|pEyEhE|
+|piyhA|
 
  * אריה 2: 
 
 |אַרְיֵה 2|
 |-|
 |אַרְיֵה 2|
-|'ErEyEhE|
+|'arsvyEh|
 
  * ולפני 2: 
 
 |וְלִפְנֵי 2|
 |-|
 |וְלִפְנֵי 2|
-|wElEfEnEyE|
+|wsvlifsvnEy|
 
  * הולך 2: 
 
 |הוֹלֵךְ 2|
 |-|
 |הוֹֹלֵךְ 2|
-|hEwElExE|
+|hwolExsv|
 
  * שאו 2: 
 
 |שְׂאוּ 2|
 |-|
 |שְׂאוּ 2|
-|SE'EuE|
+|Ssv'u|
 
  * שערים 2: 
 
 |שְׁעָרִים 2|
 |-|
 |שְׁעָרִים 2|
-|šEɣErEyEmE|
+|šsvɣAriym|
 
  * רק 2: 
 
 |רַק 2|
 |-|
 |רַק 2|
-|rEqE|
+|raq|
 
  * גורל 2: 
 
 |גוֹרָל 1|גּוֹרַל 1|
 |-|-|
 |גוֹֹרָל 1|גוֹֹרַל 1|
-|gEwErElE|gEwErElE|
+|gworAl|gworal|
 
  * עד־ים 2: 
 
 |עַד־יָם 2|
 |-|
 |עַד־יָם 2|
-|ɣEdE־EyEmE|
+|ɣad־yAm|
 
  * אנא 2: 
 
 |אָנָּא 2|
 |-|
 |אָנָא 2|
-|'EnE'E|
+|'AnA'|
 
  * זר 2: 
 
 |זָר 2|
 |-|
 |זָר 2|
-|zErE|
+|zAr|
 
  * אני־אמרתי 2: 
 
 |אֲ‍נִי־אָמַרְתִּי 2|
 |-|
 |אֲנִי־אָמַרְתִי 2|
-|'EnEyE־E'EmErEtEyE|
+|'aniy־'Amarsvtiy|
 
  * מועד 2: 
 
 |מוֹעֵד 2|
 |-|
 |מוֹֹעֵד 2|
-|mEwEɣEdE|
+|mwoɣEd|
 
  * ולשוני 2: 
 
 |וּלְשׁוֹנִי 2|
 |-|
 |וּלְשׁוֹֹנִי 2|
-|uElEšEwEnEyE|
+|ulsvšwoniy|
 
  * בניו 2: 
 
 |בָנָיו 2|
 |-|
 |בָנָיו 2|
-|vEnEyEwE|
+|vAnAyw|
 
  * בישע 2: 
 
 |בְּיֵשַׁע 2|
 |-|
 |בְּיֵשַׁע 2|
-|bEyEšEɣE|
+|bsvyEšaɣ|
 
  * ימלט 2: 
 
 |יְמַלֵּט 2|
 |-|
 |יְמַלֵט 2|
-|yEmElETE|
+|ysvmalET|
 
  * סכות 2: 
 
 |סֻכּוֹת 2|
 |-|
 |סֻכּוֹֹת 2|
-|sEkEwEtE|
+|sukwot|
 
  * וזרע 2: 
 
 |וְזֶרַע 2|
 |-|
 |וְזֶרַע 2|
-|wEzErEɣE|
+|wsvzeraɣ|
 
  * חסידים 2: 
 
 |חֲסִידִים 2|
 |-|
 |חֲסִידִים 2|
-|HEsEyEdEyEmE|
+|Hasiydiym|
 
  * שיחי 2: 
 
 |שִׂיחִי 2|
 |-|
 |שִׂיחִי 2|
-|SEyEHEyE|
+|SiyHiy|
 
  * למכה 2: 
 
 |לְמַכֵּה 2|
 |-|
 |לְמַכֵּה 2|
-|lEmEkEhE|
+|lsvmakEh|
 
  * להפיל 2: 
 
 |לְהַפִּיל 2|
 |-|
 |לְהַפִּיל 2|
-|lEhEpEyElE|
+|lsvhapiyl|
 
  * עטרת 2: 
 
 |עֲטֶרֶת 1|עִטַּרְתָּ 1|
 |-|-|
 |עֲטֶרֶת 1|עִטַרְתָ 1|
-|ɣETErEtE|ɣETErEtE|
+|ɣaTeret|ɣiTarsvtA|
 
  * ואת 2: 
 
 |וְאֵת 1|ואת 1|
 |-|-|
 |וְאֵת 1|ואת 1|
-|wE'EtE|wE'EtE|
+|wsv'Et|w't|
 
  * הרפא 2: 
 
 |הָרֹפֵא 2|
 |-|
 |הָרֹפֵא 2|
-|hErEfE'E|
+|hArofE'|
 
  * בל־תמצא 2: 
 
 |בַל־תִּמְצָא 2|
 |-|
 |בַל־תִמְצָא 2|
-|vElE־EtEmEcE'E|
+|val־timsvcA'|
 
  * כתוב 2: 
 
 |כָּתוּב 2|
 |-|
 |כָּתוּב 2|
-|kEtEuEvE|
+|kAtuv|
 
  * יפיח 2: 
 
 |יָפִיחַ 2|
 |-|
 |יָפִיחַ 2|
-|yEfEyEHE|
+|yAfiyHa|
 
  * כאין 2: 
 
 |כְאַיִן 1|כְּאַיִן 1|
 |-|-|
 |כְאַיִן 1|כְּאַיִן 1|
-|xE'EyEnE|kE'EyEnE|
+|xsv'ayin|ksv'ayin|
 
  * ומלאו 2: 
 
 |וּמְלֹאוֹ 2|
 |-|
 |וּמְלֹאוֹֹ 2|
-|uEmElE'EwE|
+|umsvlo'wo|
 
  * חמסים 2: 
 
 |חֲמָסִים 2|
 |-|
 |חֲמָסִים 2|
-|HEmEsEyEmE|
+|HamAsiym|
 
  * ויסגו 2: 
 
 |וְיִסֹּגוּ 1|וַיִּסֹּגוּ 1|
 |-|-|
 |וְיִסֹגוּ 1|וַיִסֹגוּ 1|
-|wEyEsEgEuE|wEyEsEgEuE|
+|wsvyisogu|wayisogu|
 
  * בחנני 2: 
 
 |בְּחָנֵנִי 2|
 |-|
 |בְּחָנֵנִי 2|
-|bEHEnEnEyE|
+|bsvHAnEniy|
 
  * זבחו 2: 
 
 |זִבְּחוּ 1|זִבְחוּ 1|
 |-|-|
 |זִבְּחוּ 1|זִבְחוּ 1|
-|zEbEHEuE|zEvEHEuE|
+|zibsvHu|zivsvHu|
 
  * סלעי 2: 
 
 |סַלְעִי 2|
 |-|
 |סַלְעִי 2|
-|sElEɣEyE|
+|salsvɣiy|
 
  * דבר־שוא 2: 
 
 |דִּבֶּר־שָׁוְא 2|
 |-|
 |דִבֶּר־שָׁוְא 2|
-|dEbErE־EšEwE'E|
+|diber־šAwsv'|
 
  * יהמיון 2: 
 
 |יֶהֱמָיוּן 2|
 |-|
 |יֶהֱמָיוּן 2|
-|yEhEmEyEuEnE|
+|yehemAyun|
 
  * בתחתיות 2: 
 
 |בְּתַחְתִּיּוֹת 2|
 |-|
 |בְּתַחְתִיוֹֹת 2|
-|bEtEHEtEyEwEtE|
+|bsvtaHsvtiywot|
 
  * כמוהם 2: 
 
 |כְּמוֹהֶם 2|
 |-|
 |כְּמוֹֹהֶם 2|
-|kEmEwEhEmE|
+|ksvmwohem|
 
  * לכל־עמו 2: 
 
 |לְכָל־עַמּוֹ 2|
 |-|
 |לְכָל־עַמוֹֹ 2|
-|lExElE־EɣEmEwE|
+|lsvxAl־ɣamwo|
 
  * להגיד 2: 
 
 |לְהַגִּיד 2|
 |-|
 |לְהַגִיד 2|
-|lEhEgEyEdE|
+|lsvhagiyd|
 
  * פלג 2: 
 
 |פֶּלֶג 1|פַּלַּג 1|
 |-|-|
 |פֶּלֶג 1|פַּלַג 1|
-|pElEgE|pElEgE|
+|peleg|palag|
 
  * נדבות 2: 
 
 |נִדְבוֹת 1|נְדָבוֹת 1|
 |-|-|
 |נִדְבוֹֹת 1|נְדָבוֹֹת 1|
-|nEdEvEwEtE|nEdEvEwEtE|
+|nidsvvwot|nsvdAvwot|
 
  * וזרעם 2: 
 
 |וְזַרְעָם 2|
 |-|
 |וְזַרְעָם 2|
-|wEzErEɣEmE|
+|wsvzarsvɣAm|
 
  * לסביבותינו 2: 
 
 |לִסְבִיבוֹתֵינוּ 2|
 |-|
 |לִסְבִיבוֹֹתֵינוּ 2|
-|lEsEvEyEvEwEtEyEnEuE|
+|lissvviyvwotEynu|
 
  * עשור 2: 
 
 |עָשׂוֹר 2|
 |-|
 |עָשׂוֹֹר 2|
-|ɣESEwErE|
+|ɣASwor|
 
  * מצולה 2: 
 
 |מְצוּלָה 2|
 |-|
 |מְצוּלָה 2|
-|mEcEuElEhE|
+|msvculAh|
 
  * תושיע 2: 
 
 |תוֹשִׁיעַ 2|
 |-|
 |תוֹֹשִׁיעַ 2|
-|tEwEšEyEɣE|
+|twošiyɣa|
 
  * יביעו 2: 
 
 |יַבִּיעוּ 2|
 |-|
 |יַבִּיעוּ 2|
-|yEbEyEɣEuE|
+|yabiyɣu|
 
  * ולשונם 2: 
 
 |וּלְשׁוֹנָם 2|
 |-|
 |וּלְשׁוֹֹנָם 2|
-|uElEšEwEnEmE|
+|ulsvšwonAm|
 
  * ממצותיך 2: 
 
 |מִמִּצְוֺתֶיךָ 2|
 |-|
 |מִמִצְוֺתֶיךָ 2|
-|mEmEcEwEtEyExE|
+|mimicsvw_o_teyxA|
 
  * משפחות 2: 
 
 |מִשְׁפְּחוֹת 1|מִשְׁפָּחוֹת 1|
 |-|-|
 |מִשְׁפְּחוֹֹת 1|מִשְׁפָּחוֹֹת 1|
-|mEšEpEHEwEtE|mEšEpEHEwEtE|
+|mišsvpsvHwot|mišsvpAHwot|
 
  * בתוכה 2: 
 
 |בְתוֹכָהּ 1|בְּתוֹכָהּ 1|
 |-|-|
 |בְתוֹֹכָה 1|בְּתוֹֹכָה 1|
-|vEtEwExEhE|bEtEwExEhE|
+|vsvtwoxAh|bsvtwoxAh|
 
  * וימטר 2: 
 
 |וַיַּמְטֵר 2|
 |-|
 |וַיַמְטֵר 2|
-|wEyEmETErE|
+|wayamsvTEr|
 
  * בשיחי 2: 
 
 |בְּשִׂיחִי 1|בְשִׂיחִי 1|
 |-|-|
 |בְּשִׂיחִי 1|בְשִׂיחִי 1|
-|bESEyEHEyE|vESEyEHEyE|
+|bsvSiyHiy|vsvSiyHiy|
 
  * יעלזו 2: 
 
 |יַעְלְזוּ 1|יַעֲלֹזוּ 1|
 |-|-|
 |יַעְלְזוּ 1|יַעֲלֹזוּ 1|
-|yEɣElEzEuE|yEɣElEzEuE|
+|yaɣsvlsvzu|yaɣalozu|
 
  * וישר 2: 
 
 |וְיָשָׁר 2|
 |-|
 |וְיָשָׁר 2|
-|wEyEšErE|
+|wsvyAšAr|
 
  * אבדו 2: 
 
 |אָבְדוּ 2|
 |-|
 |אָבְדוּ 2|
-|'EvEdEuE|
+|'Avsvdu|
 
  * ריקם 2: 
 
 |רֵיקָם 2|
 |-|
 |רֵיקָם 2|
-|rEyEqEmE|
+|rEyqAm|
 
  * ודע 2: 
 
 |וְדַע 2|
 |-|
 |וְדַע 2|
-|wEdEɣE|
+|wsvdaɣ|
 
  * אל־יד 2: 
 
 |אֶל־יַד 2|
 |-|
 |אֶל־יַד 2|
-|'ElE־EyEdE|
+|'el־yad|
 
  * מושיע 2: 
 
 |מוֹשִׁיעַ 2|
 |-|
 |מוֹֹשִׁיעַ 2|
-|mEwEšEyEɣE|
+|mwošiyɣa|
 
  * יוציאם 2: 
 
 |יוֹצִיאֵם 2|
 |-|
 |יוֹֹצִיאֵם 2|
-|yEwEcEyE'EmE|
+|ywociy'Em|
 
  * סיני 2: 
 
 |סִינַי 2|
 |-|
 |סִינַי 2|
-|sEyEnEyE|
+|siynay|
 
  * ובארץ 2: 
 
 |וּבָאָרֶץ 2|
 |-|
 |וּבָאָרֶץ 2|
-|uEvE'ErEcE|
+|uvA'Arec|
 
  * תשברנה 2: 
 
 |תִּשָּׁבַרְנָה 2|
 |-|
 |תִשָׁבַרְנָה 2|
-|tEšEvErEnEhE|
+|tišAvarsvnAh|
 
  * וגחלי־אש 2: 
 
 |וְגַחֲלֵי־אֵשׁ 2|
 |-|
 |וְגַחֲלֵי־אֵשׁ 2|
-|wEgEHElEyE־E'EšE|
+|wsvgaHalEy־'Eš|
 
  * ואלהינו 2: 
 
 |וֵאלֹהֵינוּ 2|
 |-|
 |וֵאלֹהֵינוּ 2|
-|wE'ElEhEyEnEuE|
+|wE'lohEynu|
 
  * כי־לי 2: 
 
 |כִּי־לִי 2|
 |-|
 |כִּי־לִי 2|
-|kEyE־ElEyE|
+|kiy־liy|
 
  * עליכם 2: 
 
 |עֲלֵיכֶם 2|
 |-|
 |עֲלֵיכֶם 2|
-|ɣElEyExEmE|
+|ɣalEyxem|
 
  * כי־עני 2: 
 
 |כִּי־עָנִי 2|
 |-|
 |כִּי־עָנִי 2|
-|kEyE־EɣEnEyE|
+|kiy־ɣAniy|
 
  * לבקרים 2: 
 
 |לַבְּקָרִים 2|
 |-|
 |לַבְּקָרִים 2|
-|lEbEqErEyEmE|
+|labsvqAriym|
 
  * לבנו 2: 
 
 |לִבֵּנוּ 2|
 |-|
 |לִבֵּנוּ 2|
-|lEbEnEuE|
+|libEnu|
 
  * בשועי 2: 
 
 |בְּשַׁוְּעִי 2|
 |-|
 |בְּשַׁוְּעִי 2|
-|bEšEuEɣEyE|
+|bsvšausvɣiy|
 
  * קהל 2: 
 
 |קָהָל 1|קְהַל 1|
 |-|-|
 |קָהָל 1|קְהַל 1|
-|qEhElE|qEhElE|
+|qAhAl|qsvhal|
 
  * זרועך 2: 
 
 |זְרוֹעֲךָ 2|
 |-|
 |זְרוֹֹעֲךָ 2|
-|zErEwEɣExE|
+|zsvrwoɣaxA|
 
  * למשל 2: 
 
 |לְמָשָׁל 2|
 |-|
 |לְמָשָׁל 2|
-|lEmEšElE|
+|lsvmAšAl|
 
  * ואמונה 2: 
 
 |וֶאֱמוּנָה 2|
 |-|
 |וֶאֱמוּנָה 2|
-|wE'EmEuEnEhE|
+|we'emunAh|
 
  * האר 2: 
 
 |הָאֵר 2|
 |-|
 |הָאֵר 2|
-|hE'ErE|
+|hA'Er|
 
  * יברכך 2: 
 
 |יְבָרֶכְךָ 2|
 |-|
 |יְבָרֶכְךָ 2|
-|yEvErExExE|
+|ysvvArexsvxA|
 
  * כצל 2: 
 
 |כְּצֵל 2|
 |-|
 |כְּצֵל 2|
-|kEcElE|
+|ksvcEl|
 
  * נודה 2: 
 
 |נוֹדֶה 2|
 |-|
 |נוֹֹדֶה 2|
-|nEwEdEhE|
+|nwodeh|
 
  * מספרים 2: 
 
 |מְסַפְּרִים 2|
 |-|
 |מְסַפְּרִים 2|
-|mEsEpErEyEmE|
+|msvsapsvriym|
 
  * דומה 2: 
 
 |דוּמָה 2|
 |-|
 |דוּמָה 2|
-|dEuEmEhE|
+|dumAh|
 
  * האירה 2: 
 
 |הָאִירָה 2|
 |-|
 |הָאִירָה 2|
-|hE'EyErEhE|
+|hA'iyrAh|
 
  * הבשן 2: 
 
 |הַבָּשָׁן 2|
 |-|
 |הַבָּשָׁן 2|
-|hEbEšEnE|
+|habAšAn|
 
  * עמלו 2: 
 
 |עָמְלוּ 1|עֲמָלוֹ 1|
 |-|-|
 |עָמְלוּ 1|עֲמָלוֹֹ 1|
-|ɣEmElEuE|ɣEmElEwE|
+|ɣAmsvlu|ɣamAlwo|
 
  * בדרכיו 2: 
 
 |בִּדְרָכָיו 2|
 |-|
 |בִּדְרָכָיו 2|
-|bEdErExEyEwE|
+|bidsvrAxAyw|
 
  * בשמחת 2: 
 
 |בְּשִׂמְחַת 1|בִּשְׂמָחֹת 1|
 |-|-|
 |בְּשִׂמְחַת 1|בִּשְׂמָחֹת 1|
-|bESEmEHEtE|bESEmEHEtE|
+|bsvSimsvHat|biSsvmAHot|
 
  * יקחני 2: 
 
 |יִקָּחֵנִי 2|
 |-|
 |יִקָחֵנִי 2|
-|yEqEHEnEyE|
+|yiqAHEniy|
 
  * תדבר 2: 
 
 |תְדַבֵּר 1|תְּדַבֵּר 1|
 |-|-|
 |תְדַבֵּר 1|תְדַבֵּר 1|
-|tEdEbErE|tEdEbErE|
+|tsvdabEr|tsvdabEr|
 
  * שלא 2: 
 
 |שֶׁלֹּא 2|
 |-|
 |שֶׁלֹא 2|
-|šElE'E|
+|šelo'|
 
  * כל־רשעי־ארץ 2: 
 
 |כָל־רִשְׁעֵי־אָרֶץ 1|כָּל־רִשְׁעֵי־אָרֶץ 1|
 |-|-|
 |כָל־רִשְׁעֵי־אָרֶץ 1|כָּל־רִשְׁעֵי־אָרֶץ 1|
-|xElE־ErEšEɣEyE־E'ErEcE|kElE־ErEšEɣEyE־E'ErEcE|
+|xAl־rišsvɣEy־'Arec|kAl־rišsvɣEy־'Arec|
 
  * וגילו 2: 
 
 |וְגִילוּ 2|
 |-|
 |וְגִילוּ 2|
-|wEgEyElEuE|
+|wsvgiylu|
 
  * חק 2: 
 
 |חֹק 2|
 |-|
 |חֹק 2|
-|HEqE|
+|Hoq|
 
  * מלחמות 2: 
 
 |מִלְחָמוֹת 2|
 |-|
 |מִלְחָמוֹֹת 2|
-|mElEHEmEwEtE|
+|milsvHAmwot|
 
  * רשת 2: 
 
 |רֶשֶׁת 2|
 |-|
 |רֶשֶׁת 2|
-|rEšEtE|
+|rešet|
 
  * חית 2: 
 
 |חַיַּת 2|
 |-|
 |חַיַת 2|
-|HEyEtE|
+|Hayat|
 
  * אבותינו 2: 
 
 |אֲבוֹתֵינוּ 2|
 |-|
 |אֲבוֹֹתֵינוּ 2|
-|'EvEwEtEyEnEuE|
+|'avwotEynu|
 
  * ועמק 2: 
 
 |וְעֵמֶק 2|
 |-|
 |וְעֵמֶק 2|
-|wEɣEmEqE|
+|wsvɣEmeq|
 
  * שנים 2: 
 
 |שָׁנִים 1|שְׁנֵים 1|
 |-|-|
 |שָׁנִים 1|שְׁנֵים 1|
-|šEnEyEmE|šEnEyEmE|
+|šAniym|šsvnEym|
 
  * הלא־אתה 2: 
 
 |הֲלֹא־אַתָּה 2|
 |-|
 |הֲלֹא־אַתָה 2|
-|hElE'E־E'EtEhE|
+|halo'־'atAh|
 
  * על־דבר 1: 
 
 |עַל־דְּבַר 1|
 |-|
 |עַל־דְבַר 1|
-|ɣElE־EdEvErE|
+|ɣal־dsvvar|
 
  * כי־שאפני 1: 
 
 |כִּי־שְׁאָפַנִי 1|
 |-|
 |כִּי־שְׁאָפַנִי 1|
-|kEyE־EšE'EfEnEyE|
+|kiy־šsv'Afaniy|
 
  * פסל 1: 
 
 |פֶסֶל 1|
 |-|
 |פֶסֶל 1|
-|fEsElE|
+|fesel|
 
  * עד־אין 1: 
 
 |עַד־אֵין 1|
 |-|
 |עַד־אֵין 1|
-|ɣEdE־E'EyEnE|
+|ɣad־'Eyn|
 
  * שפכה 1: 
 
 |שפכה 1|
 |-|
 |שפכה 1|
-|שEfExEhE|
+|שfxh|
 
  * ותאותם 1: 
 
 |וְתַאֲוָתָם 1|
 |-|
 |וְתַאֲוָתָם 1|
-|wEtE'EwEtEmE|
+|wsvta'awAtAm|
 
  * כל־עלמים 1: 
 
 |כָּל־עֹלָמִים 1|
 |-|
 |כָּל־עֹלָמִים 1|
-|kElE־EɣElEmEyEmE|
+|kAl־ɣolAmiym|
 
  * לא־אמוט 1: 
 
 |לֹא־אֶמּוֹט 1|
 |-|
 |לֹא־אֶמוֹֹט 1|
-|lE'E־E'EmEwETE|
+|lo'־'emwoT|
 
  * באנחתי 1: 
 
 |בְּאַנְחָתִי 1|
 |-|
 |בְּאַנְחָתִי 1|
-|bE'EnEHEtEyE|
+|bsv'ansvHAtiy|
 
  * משפטי־יהוה 1: 
 
 |מִשְׁפְּטֵי־יְהוָה 1|
 |-|
 |מִשְׁפְּטֵי־יְהוָה 1|
-|mEšEpETEyE־EyEhEwEhE|
+|mišsvpsvTEy־ysvhwAh|
 
  * ורבבה 1: 
 
 |וּרְבָבָה 1|
 |-|
 |וּרְבָבָה 1|
-|uErEvEvEhE|
+|ursvvAvAh|
 
  * ידבר־פי 1: 
 
 |יְדַבֶּר־פִּי 1|
 |-|
 |יְדַבֶּר־פִּי 1|
-|yEdEbErE־EpEyE|
+|ysvdaber־piy|
 
  * נשיה 1: 
 
 |נְשִׁיָּה 1|
 |-|
 |נְשִׁיָה 1|
-|nEšEyEhE|
+|nsvšiyAh|
 
  * לעוני 1: 
 
 |לַעֲוֺנִי 1|
 |-|
 |לַעֲוֺנִי 1|
-|lEɣEwEnEyE|
+|laɣaw_o_niy|
 
  * ודגי 1: 
 
 |וּדְגֵי 1|
 |-|
 |וּדְגֵי 1|
-|uEdEgEyE|
+|udsvgEy|
 
  * ושנותיך 1: 
 
 |וּשְׁנוֹתֶיךָ 1|
 |-|
 |וּשְׁנוֹֹתֶיךָ 1|
-|uEšEnEwEtEyExE|
+|ušsvnwoteyxA|
 
  * עצי 1: 
 
 |עֲצֵי 1|
 |-|
 |עֲצֵי 1|
-|ɣEcEyE|
+|ɣacEy|
 
  * אם־יבאון 1: 
 
 |אִם־יְבֹאוּן 1|
 |-|
 |אִם־יְבֹאוּן 1|
-|'EmE־EyEvE'EuEnE|
+|'im־ysvvo'un|
 
  * כי־בנה 1: 
 
 |כִּי־בָנָה 1|
 |-|
 |כִּי־בָנָה 1|
-|kEyE־EvEnEhE|
+|kiy־vAnAh|
 
  * ננגח 1: 
 
 |נְנַגֵּחַ 1|
 |-|
 |נְנַגֵחַ 1|
-|nEnEgEHE|
+|nsvnagEHa|
 
  * ומופתיו 1: 
 
 |וּמוֹפְתָיו 1|
 |-|
 |וּמוֹֹפְתָיו 1|
-|uEmEwEfEtEyEwE|
+|umwofsvtAyw|
 
  * צוה־לעולם 1: 
 
 |צִוָּה־לְעוֹלָם 1|
 |-|
 |צִוָּה־לְעוֹֹלָם 1|
-|cEuEhE־ElEɣEwElEmE|
+|ciuAh־lsvɣwolAm|
 
  * ובנגעים 1: 
 
 |וּבִנְגָעִים 1|
 |-|
 |וּבִנְגָעִים 1|
-|uEvEnEgEɣEyEmE|
+|uvinsvgAɣiym|
 
  * חלקו 1: 
 
 |חָלְקוּ 1|
 |-|
 |חָלְקוּ 1|
-|HElEqEuE|
+|HAlsvqu|
 
  * והעביר 1: 
 
 |וְהֶעֱבִיר 1|
 |-|
 |וְהֶעֱבִיר 1|
-|wEhEɣEvEyErE|
+|wsvheɣeviyr|
 
  * כי־יעטף 1: 
 
 |כִי־יַעֲטֹף 1|
 |-|
 |כִי־יַעֲטֹף 1|
-|xEyE־EyEɣETEfE|
+|xiy־yaɣaTof|
 
  * יראו־אור 1: 
 
 |יִרְאוּ־אוֹר 1|
 |-|
 |יִרְאוּ־אוֹֹר 1|
-|yErE'EuE־E'EwErE|
+|yirsv'u־'wor|
 
  * טמנו־לי 1: 
 
 |טָמְנוּ־לִי 1|
 |-|
 |טָמְנוּ־לִי 1|
-|TEmEnEuE־ElEyE|
+|TAmsvnu־liy|
 
  * אל־מחוז 1: 
 
 |אֶל־מְחוֹז 1|
 |-|
 |אֶל־מְחוֹֹז 1|
-|'ElE־EmEHEwEzE|
+|'el־msvHwoz|
 
  * דכיתנו 1: 
 
 |דִכִּיתָנוּ 1|
 |-|
 |דִכִּיתָנוּ 1|
-|dEkEyEtEnEuE|
+|dikiytAnu|
 
  * וימירו 1: 
 
 |וַיָּמִירוּ 1|
 |-|
 |וַיָמִירוּ 1|
-|wEyEmEyErEuE|
+|wayAmiyru|
 
  * ומלכותו 1: 
 
 |וּמַלְכוּתוֹ 1|
 |-|
 |וּמַלְכוּתוֹֹ 1|
-|uEmElExEuEtEwE|
+|umalsvxutwo|
 
  * מה־תתהלל 1: 
 
 |מַה־תִּתְהַלֵּל 1|
 |-|
 |מַה־תִתְהַלֵל 1|
-|mEhE־EtEtEhElElE|
+|mah־titsvhalEl|
 
  * לאלף 1: 
 
 |לְאֶלֶף 1|
 |-|
 |לְאֶלֶף 1|
-|lE'ElEfE|
+|lsv'elef|
 
  * כאלהים 1: 
 
 |כֵּאלֹהִים 1|
 |-|
 |כֵּאלֹהִים 1|
-|kE'ElEhEyEmE|
+|kE'lohiym|
 
  * כל־בגדי 1: 
 
 |כָּל־בֹּגְדֵי 1|
 |-|
 |כָּל־בֹּגְדֵי 1|
-|kElE־EbEgEdEyE|
+|kAl־bogsvdEy|
 
  * ימרו 1: 
 
 |יַמְרוּ 1|
 |-|
 |יַמְרוּ 1|
-|yEmErEuE|
+|yamsvru|
 
  * פי־פערתי 1: 
 
 |פִּי־פָעַרְתִּי 1|
 |-|
 |פִּי־פָעַרְתִי 1|
-|pEyE־EfEɣErEtEyE|
+|piy־fAɣarsvtiy|
 
  * מדבק 1: 
 
 |מֻדְבָּק 1|
 |-|
 |מֻדְבָּק 1|
-|mEdEbEqE|
+|mudsvbAq|
 
  * בענן 1: 
 
 |בֶּעָנָן 1|
 |-|
 |בֶּעָנָן 1|
-|bEɣEnEnE|
+|beɣAnAn|
 
  * יבין 1: 
 
 |יָבִין 1|
 |-|
 |יָבִין 1|
-|yEvEyEnE|
+|yAviyn|
 
  * בידם 1: 
 
 |בְּיָדָם 1|
 |-|
 |בְּיָדָם 1|
-|bEyEdEmE|
+|bsvyAdAm|
 
  * מלכו 1: 
 
 |מַלְכּוֹ 1|
 |-|
 |מַלְכּוֹֹ 1|
-|mElEkEwE|
+|malsvkwo|
 
  * תולעת 1: 
 
 |תוֹלַעַת 1|
 |-|
 |תוֹֹלַעַת 1|
-|tEwElEɣEtE|
+|twolaɣat|
 
  * לדין 1: 
 
 |לָדִין 1|
 |-|
 |לָדִין 1|
-|lEdEyEnE|
+|lAdiyn|
 
  * בן־ראמים 1: 
 
 |בֶן־רְאֵמִים 1|
 |-|
 |בֶן־רְאֵמִים 1|
-|vEnE־ErE'EmEyEmE|
+|ven־rsv'Emiym|
 
  * [חסדי] 1: 
 
 |[חַסְדִּי] 1|
 |-|
 |[חַסְדִי] 1|
-|[EHEsEdEyE]E|
+|[Hassvdiy]|
 
  * ברעות 1: 
 
 |בְרָעוֹת 1|
 |-|
 |בְרָעוֹֹת 1|
-|vErEɣEwEtE|
+|vsvrAɣwot|
 
  * עלו 1: 
 
 |עָלוּ 1|
 |-|
 |עָלוּ 1|
-|ɣElEuE|
+|ɣAlu|
 
  * יכסומו 1: 
 
 |יכסומו 1|
 |-|
 |יכסומו 1|
-|yExEsEwEmEwE|
+|yxswmw|
 
  * כל־יום 1: 
 
 |כָּל־יוֹם 1|
 |-|
 |כָּל־יוֹֹם 1|
-|kElE־EyEwEmE|
+|kAl־ywom|
 
  * לבלות 1: 
 
 |לְבַלּוֹת 1|
 |-|
 |לְבַלוֹֹת 1|
-|lEvElEwEtE|
+|lsvvalwot|
 
  * הטה־יהוה 1: 
 
 |הַטֵּה־יְהוָה 1|
 |-|
 |הַטֵה־יְהוָה 1|
-|hETEhE־EyEhEwEhE|
+|haTEh־ysvhwAh|
 
  * כי־רצו 1: 
 
 |כִּי־רָצוּ 1|
 |-|
 |כִּי־רָצוּ 1|
-|kEyE־ErEcEuE|
+|kiy־rAcu|
 
  * לשבתו 1: 
 
 |לְשִׁבְתּוֹ 1|
 |-|
 |לְשִׁבְתוֹֹ 1|
-|lEšEvEtEwE|
+|lsvšivsvtwo|
 
  * ויקרא 1: 
 
 |וַיִּקְרָא 1|
 |-|
 |וַיִקְרָא 1|
-|wEyEqErE'E|
+|wayiqsvrA'|
 
  * אפפו־עלי 1: 
 
 |אָפְפוּ־עָלַי 1|
 |-|
 |אָפְפוּ־עָלַי 1|
-|'EfEfEuE־EɣElEyE|
+|'Afsvfu־ɣAlay|
 
  * אולים 1: 
 
 |אֱוִלִים 1|
 |-|
 |אֱוִלִים 1|
-|'EwElEyEmE|
+|'ewiliym|
 
  * בישועה 1: 
 
 |בִּישׁוּעָה 1|
 |-|
 |בִּישׁוּעָה 1|
-|bEyEšEuEɣEhE|
+|biyšuɣAh|
 
  * ראי 1: 
 
 |רֹאַי 1|
 |-|
 |רֹאַי 1|
-|rE'EyE|
+|ro'ay|
 
  * ובחן 1: 
 
 |וּבֹחֵן 1|
 |-|
 |וּבֹחֵן 1|
-|uEvEHEnE|
+|uvoHEn|
 
  * תאיר 1: 
 
 |תָּאִיר 1|
 |-|
 |תָאִיר 1|
-|tE'EyErE|
+|tA'iyr|
 
  * יפרח־בימיו 1: 
 
 |יִפְרַח־בְּיָמָיו 1|
 |-|
 |יִפְרַח־בְּיָמָיו 1|
-|yEfErEHE־EbEyEmEyEwE|
+|yifsvraH־bsvyAmAyw|
 
  * ורעד 1: 
 
 |וָרַעַד 1|
 |-|
 |וָרַעַד 1|
-|wErEɣEdE|
+|wAraɣad|
 
  * תחתיה 1: 
 
 |תַּחְתִּיָּה 1|
 |-|
 |תַחְתִיָה 1|
-|tEHEtEyEhE|
+|taHsvtiyAh|
 
  * לא־נסתרה 1: 
 
 |לֹא־נִסְתָּרָה 1|
 |-|
 |לֹא־נִסְתָרָה 1|
-|lE'E־EnEsEtErEhE|
+|lo'־nissvtArAh|
 
  * מברך 1: 
 
 |מְבֹרָךְ 1|
 |-|
 |מְבֹרָךְ 1|
-|mEvErExE|
+|msvvorAxsv|
 
  * ותאכלם 1: 
 
 |וְתֹאכְלֵם 1|
 |-|
 |וְתֹאכְלֵם 1|
-|wEtE'ExElEmE|
+|wsvto'xsvlEm|
 
  * ונשליכה 1: 
 
 |וְנַשְׁלִיכָה 1|
 |-|
 |וְנַשְׁלִיכָה 1|
-|wEnEšElEyExEhE|
+|wsvnašsvliyxAh|
 
  * יחלנו 1: 
 
 |יִחַלְנוּ 1|
 |-|
 |יִחַלְנוּ 1|
-|yEHElEnEuE|
+|yiHalsvnu|
 
  * בחוצותינו 1: 
 
 |בְּחוּצוֹתֵינוּ 1|
 |-|
 |בְּחוּצוֹֹתֵינוּ 1|
-|bEHEuEcEwEtEyEnEuE|
+|bsvHucwotEynu|
 
  * בכושרות 1: 
 
 |בַּכּוֹשָׁרוֹת 1|
 |-|
 |בַּכּוֹֹשָׁרוֹֹת 1|
-|bEkEwEšErEwEtE|
+|bakwošArwot|
 
  * [נטיו] 1: 
 
 |[נָטָיוּ] 1|
 |-|
 |[נָטָיוּ] 1|
-|[EnETEyEuE]E|
+|[nATAyu]|
 
  * תרוממנה 1: 
 
 |תְּרוֹמַמְנָה 1|
 |-|
 |תְרוֹֹמַמְנָה 1|
-|tErEwEmEmEnEhE|
+|tsvrwomamsvnAh|
 
  * נסתר 1: 
 
 |נִסְתָּר 1|
 |-|
 |נִסְתָר 1|
-|nEsEtErE|
+|nissvtAr|
 
  * תכבד 1: 
 
 |תִּכְבַּד 1|
 |-|
 |תִכְבַּד 1|
-|tExEbEdE|
+|tixsvbad|
 
  * מסער 1: 
 
 |מִסָּעַר 1|
 |-|
 |מִסָעַר 1|
-|mEsEɣErE|
+|misAɣar|
 
  * וחיתם 1: 
 
 |וְחַיָּתָם 1|
 |-|
 |וְחַיָתָם 1|
-|wEHEyEtEmE|
+|wsvHayAtAm|
 
  * חכתה 1: 
 
 |חִכְּתָה 1|
 |-|
 |חִכְּתָה 1|
-|HEkEtEhE|
+|HiksvtAh|
 
  * מוסדות 1: 
 
 |מוֹסְדוֹת 1|
 |-|
 |מוֹֹסְדוֹֹת 1|
-|mEwEsEdEwEtE|
+|mwossvdwot|
 
  * את־פשעינו 1: 
 
 |אֶת־פְּשָׁעֵינוּ 1|
 |-|
 |אֶת־פְּשָׁעֵינוּ 1|
-|'EtE־EpEšEɣEyEnEuE|
+|'et־psvšAɣEynu|
 
  * על־סלע 1: 
 
 |עַל־סֶלַע 1|
 |-|
 |עַל־סֶלַע 1|
-|ɣElE־EsElEɣE|
+|ɣal־selaɣ|
 
  * היוכל 1: 
 
 |הֲיוּכַל 1|
 |-|
 |הֲיוּכַל 1|
-|hEyEuExElE|
+|hayuxal|
 
  * מאסו 1: 
 
 |מָאֲסוּ 1|
 |-|
 |מָאֲסוּ 1|
-|mE'EsEuE|
+|mA'asu|
 
  * נביא 1: 
 
 |נָבִיא 1|
 |-|
 |נָבִיא 1|
-|nEvEyE'E|
+|nAviy'|
 
  * ככלות 1: 
 
 |כִּכְלוֹת 1|
 |-|
 |כִּכְלוֹֹת 1|
-|kExElEwEtE|
+|kixsvlwot|
 
  * נדי 1: 
 
 |נֹדִי 1|
 |-|
 |נֹדִי 1|
-|nEdEyE|
+|nodiy|
 
  * על־ששנים 1: 
 
 |עַל־שֹׁשַׁנִּים 1|
 |-|
 |עַל־שֹׁשַׁנִים 1|
-|ɣElE־EšEšEnEyEmE|
+|ɣal־šošaniym|
 
  * תשובב 1: 
 
 |תְּשׁוֹבֵב 1|
 |-|
 |תְשׁוֹֹבֵב 1|
-|tEšEwEvEvE|
+|tsvšwovEv|
 
  * אחזתני 1: 
 
 |אֲחָזַתְנִי 1|
 |-|
 |אֲחָזַתְנִי 1|
-|'EHEzEtEnEyE|
+|'aHAzatsvniy|
 
  * שם־יהוה 1: 
 
 |שֵׁם־יְהוָה 1|
 |-|
 |שֵׁם־יְהוָה 1|
-|šEmE־EyEhEwEhE|
+|šEm־ysvhwAh|
 
  * באמר 1: 
 
 |בֶּאֱמֹר 1|
 |-|
 |בֶּאֱמֹר 1|
-|bE'EmErE|
+|be'emor|
 
  * הצבת 1: 
 
 |הִצַּבְתָּ 1|
 |-|
 |הִצַבְתָ 1|
-|hEcEvEtE|
+|hicavsvtA|
 
  * מחקרי־ארץ 1: 
 
 |מֶחְקְרֵי־אָרֶץ 1|
 |-|
 |מֶחְקְרֵי־אָרֶץ 1|
-|mEHEqErEyE־E'ErEcE|
+|meHsvqsvrEy־'Arec|
 
  * תנה 1: 
 
 |תְּנָה 1|
 |-|
 |תְנָה 1|
-|tEnEhE|
+|tsvnAh|
 
  * כנאד 1: 
 
 |כְּנֹאד 1|
 |-|
 |כְּנֹאד 1|
-|kEnE'EdE|
+|ksvno'd|
 
  * ודלתי 1: 
 
 |וְדַלְתֵי 1|
 |-|
 |וְדַלְתֵי 1|
-|wEdElEtEyE|
+|wsvdalsvtEy|
 
  * נעויתי 1: 
 
 |נַעֲוֵיתִי 1|
 |-|
 |נַעֲוֵיתִי 1|
-|nEɣEwEyEtEyE|
+|naɣawEytiy|
 
  * ומקשות 1: 
 
 |וּמֹקְשׁוֹת 1|
 |-|
 |וּמֹקְשׁוֹֹת 1|
-|uEmEqEšEwEtE|
+|umoqsvšwot|
 
  * אפם 1: 
 
 |אַפָּם 1|
 |-|
 |אַפָּם 1|
-|'EpEmE|
+|'apAm|
 
  * [שבית] 1: 
 
 |[שְׁבִית] 1|
 |-|
 |[שְׁבִית] 1|
-|[EšEvEyEtE]E|
+|[šsvviyt]|
 
  * כי־שבר 1: 
 
 |כִּי־שִׁבַּר 1|
 |-|
 |כִּי־שִׁבַּר 1|
-|kEyE־EšEbErE|
+|kiy־šibar|
 
  * באזנינו 1: 
 
 |בְּאָזְנֵינוּ 1|
 |-|
 |בְּאָזְנֵינוּ 1|
-|bE'EzEnEyEnEuE|
+|bsv'AzsvnEynu|
 
  * אם־ראית 1: 
 
 |אִם־רָאִיתָ 1|
 |-|
 |אִם־רָאִיתָ 1|
-|'EmE־ErE'EyEtE|
+|'im־rA'iytA|
 
  * עשוני 1: 
 
 |עָשׂוּנִי 1|
 |-|
 |עָשׂוּנִי 1|
-|ɣESEuEnEyE|
+|ɣASuniy|
 
  * נסה־עלינו 1: 
 
 |נְסָה־עָלֵינוּ 1|
 |-|
 |נְסָה־עָלֵינוּ 1|
-|nEsEhE־EɣElEyEnEuE|
+|nsvsAh־ɣAlEynu|
 
  * בהביטי 1: 
 
 |בְּהַבִּיטִי 1|
 |-|
 |בְּהַבִּיטִי 1|
-|bEhEbEyETEyE|
+|bsvhabiyTiy|
 
  * מלכנו 1: 
 
 |מַלְכֵּנוּ 1|
 |-|
 |מַלְכֵּנוּ 1|
-|mElEkEnEuE|
+|malsvkEnu|
 
  * ולעפר־מות 1: 
 
 |וְלַעֲפַר־מָוֶת 1|
 |-|
 |וְלַעֲפַר־מָוֶת 1|
-|wElEɣEfErE־EmEwEtE|
+|wsvlaɣafar־mAwet|
 
  * בשפה 1: 
 
 |בְשָׂפָה 1|
 |-|
 |בְשָׂפָה 1|
-|vESEfEhE|
+|vsvSAfAh|
 
  * כוסי 1: 
 
 |כּוֹסִי 1|
 |-|
 |כּוֹֹסִי 1|
-|kEwEsEyE|
+|kwosiy|
 
  * הר 1: 
 
 |הַר 1|
 |-|
 |הַר 1|
-|hErE|
+|har|
 
  * הפלתם 1: 
 
 |הִפַּלְתָּם 1|
 |-|
 |הִפַּלְתָם 1|
-|hEpElEtEmE|
+|hipalsvtAm|
 
  * לכל־עשיהם 1: 
 
 |לְכָל־עֹשֵׂיהֶם 1|
 |-|
 |לְכָל־עֹשֵׂיהֶם 1|
-|lExElE־EɣESEyEhEmE|
+|lsvxAl־ɣoSEyhem|
 
  * מן־הדור 1: 
 
 |מִן־הַדּוֹר 1|
 |-|
 |מִן־הַדוֹֹר 1|
-|mEnE־EhEdEwErE|
+|min־hadwor|
 
  * במעשיהם 1: 
 
 |בְמַעֲשֵׂיהֶם 1|
 |-|
 |בְמַעֲשֵׂיהֶם 1|
-|vEmEɣESEyEhEmE|
+|vsvmaɣaSEyhem|
 
  * מוט 1: 
 
 |מוֹט 1|
 |-|
 |מוֹֹט 1|
-|mEwETE|
+|mwoT|
 
  * בקום 1: 
 
 |בְּקוּם 1|
 |-|
 |בְּקוּם 1|
-|bEqEuEmE|
+|bsvqum|
 
  * אל־יעז 1: 
 
 |אַל־יָעֹז 1|
 |-|
 |אַל־יָעֹז 1|
-|'ElE־EyEɣEzE|
+|'al־yAɣoz|
 
  * עברתך 1: 
 
 |עֶבְרָתֶךָ 1|
 |-|
 |עֶבְרָתֶךָ 1|
-|ɣEvErEtExE|
+|ɣevsvrAtexA|
 
  * בן־אנוש 1: 
 
 |בֶּן־אֱנוֹשׁ 1|
 |-|
 |בֶּן־אֱנוֹֹשׁ 1|
-|bEnE־E'EnEwEšE|
+|ben־'enwoš|
 
  * וינקים 1: 
 
 |וְיֹנְקִים 1|
 |-|
 |וְיֹנְקִים 1|
-|wEyEnEqEyEmE|
+|wsvyonsvqiym|
 
  * אגורה 1: 
 
 |אָגוּרָה 1|
 |-|
 |אָגוּרָה 1|
-|'EgEuErEhE|
+|'AgurAh|
 
  * כמשפט 1: 
 
 |כְּמִשְׁפָּט 1|
 |-|
 |כְּמִשְׁפָּט 1|
-|kEmEšEpETE|
+|ksvmišsvpAT|
 
  * חרצבות 1: 
 
 |חַרְצֻבּוֹת 1|
 |-|
 |חַרְצֻבּוֹֹת 1|
-|HErEcEbEwEtE|
+|Harsvcubwot|
 
  * מי־לי 1: 
 
 |מִי־לִי 1|
 |-|
 |מִי־לִי 1|
-|mEyE־ElEyE|
+|miy־liy|
 
  * תאנף 1: 
 
 |תֶּאֱנַף 1|
 |-|
 |תֶאֱנַף 1|
-|tE'EnEfE|
+|te'enaf|
 
  * כלינו 1: 
 
 |כִּלִּינוּ 1|
 |-|
 |כִּלִינוּ 1|
-|kElEyEnEuE|
+|kiliynu|
 
  * ויתגעשו 1: 
 
 |וַיִּתְגָּעֲשׁוּ 1|
 |-|
 |וַיִתְגָעֲשׁוּ 1|
-|wEyEtEgEɣEšEuE|
+|wayitsvgAɣašu|
 
  * לא־הסיר 1: 
 
 |לֹא־הֵסִיר 1|
 |-|
 |לֹא־הֵסִיר 1|
-|lE'E־EhEsEyErE|
+|lo'־hEsiyr|
 
  * לתאבה 1: 
 
 |לְתַאֲבָה 1|
 |-|
 |לְתַאֲבָה 1|
-|lEtE'EvEhE|
+|lsvta'avAh|
 
  * ומחמס 1: 
 
 |וּמֵחָמָס 1|
 |-|
 |וּמֵחָמָס 1|
-|uEmEHEmEsE|
+|umEHAmAs|
 
  * נגילה 1: 
 
 |נָגִילָה 1|
 |-|
 |נָגִילָה 1|
-|nEgEyElEhE|
+|nAgiylAh|
 
  * תסתר 1: 
 
 |תִּסָּתֵר 1|
 |-|
 |תִסָתֵר 1|
-|tEsEtErE|
+|tisAtEr|
 
  * פעמים 1: 
 
 |פְּעָמִים 1|
 |-|
 |פְּעָמִים 1|
-|pEɣEmEyEmE|
+|psvɣAmiym|
 
  * כי־נעים 1: 
 
 |כִּי־נָעִים 1|
 |-|
 |כִּי־נָעִים 1|
-|kEyE־EnEɣEyEmE|
+|kiy־nAɣiym|
 
  * ומי־יעמד 1: 
 
 |וּמִי־יַעֲמֹד 1|
 |-|
 |וּמִי־יַעֲמֹד 1|
-|uEmEyE־EyEɣEmEdE|
+|umiy־yaɣamod|
 
  * תהום־אל־תהום 1: 
 
 |תְּהוֹם־אֶל־תְּהוֹם 1|
 |-|
 |תְהוֹֹם־אֶל־תְהוֹֹם 1|
-|tEhEwEmE־E'ElE־EtEhEwEmE|
+|tsvhwom־'el־tsvhwom|
 
  * וגבה 1: 
 
 |וְגָבֹהַּ 1|
 |-|
 |וְגָבֹהַ 1|
-|wEgEvEhE|
+|wsvgAvoha|
 
  * בהותו 1: 
 
 |בְּהַוָּתוֹ 1|
 |-|
 |בְּהַוָּתוֹֹ 1|
-|bEhEuEtEwE|
+|bsvhauAtwo|
 
  * ממזרח 1: 
 
 |מִמִּזְרָח 1|
 |-|
 |מִמִזְרָח 1|
-|mEmEzErEHE|
+|mimizsvrAH|
 
  * גם־לשוני 1: 
 
 |גַּם־לְשׁוֹנִי 1|
 |-|
 |גַם־לְשׁוֹֹנִי 1|
-|gEmE־ElEšEwEnEyE|
+|gam־lsvšwoniy|
 
  * נר־לרגלי 1: 
 
 |נֵר־לְרַגְלִי 1|
 |-|
 |נֵר־לְרַגְלִי 1|
-|nErE־ElErEgElEyE|
+|nEr־lsvragsvliy|
 
  * ומעגליך 1: 
 
 |וּמַעְגָּלֶיךָ 1|
 |-|
 |וּמַעְגָלֶיךָ 1|
-|uEmEɣEgElEyExE|
+|umaɣsvgAleyxA|
 
  * כסיל 1: 
 
 |כְּסִיל 1|
 |-|
 |כְּסִיל 1|
-|kEsEyElE|
+|ksvsiyl|
 
  * שיחתי 1: 
 
 |שִׂיחָתִי 1|
 |-|
 |שִׂיחָתִי 1|
-|SEyEHEtEyE|
+|SiyHAtiy|
 
  * אשכח 1: 
 
 |אֶשְׁכַּח 1|
 |-|
 |אֶשְׁכַּח 1|
-|'EšEkEHE|
+|'ešsvkaH|
 
  * אתכם 1: 
 
 |אֶתְכֶם 1|
 |-|
 |אֶתְכֶם 1|
-|'EtExEmE|
+|'etsvxem|
 
  * מה־היא 1: 
 
 |מַה־הִיא 1|
 |-|
 |מַה־הִיא 1|
-|mEhE־EhEyE'E|
+|mah־hiy'|
 
  * עשוים 1: 
 
 |עֲשׂוּיִם 1|
 |-|
 |עֲשׂוּיִם 1|
-|ɣESEuEyEmE|
+|ɣaSuyim|
 
  * בסך 1: 
 
 |בַּסָּךְ 1|
 |-|
 |בַּסָךְ 1|
-|bEsExE|
+|basAxsv|
 
  * בפיהו 1: 
 
 |בְּפִיהוּ 1|
 |-|
 |בְּפִיהוּ 1|
-|bEfEyEhEuE|
+|bsvfiyhu|
 
  * תשיש 1: 
 
 |תָּשִׂישׂ 1|
 |-|
 |תָשִׂישׂ 1|
-|tESEyESE|
+|tASiyS|
 
  * וירחיבו 1: 
 
 |וַיַּרְחִיבוּ 1|
 |-|
 |וַיַרְחִיבוּ 1|
-|wEyErEHEyEvEuE|
+|wayarsvHiyvu|
 
  * מני־נבל 1: 
 
 |מִנִּי־נָבָל 1|
 |-|
 |מִנִי־נָבָל 1|
-|mEnEyE־EnEvElE|
+|miniy־nAvAl|
 
  * כי־המלך 1: 
 
 |כִּי־הַמֶּלֶךְ 1|
 |-|
 |כִּי־הַמֶלֶךְ 1|
-|kEyE־EhEmElExE|
+|kiy־hamelexsv|
 
  * וחלף 1: 
 
 |וְחָלָף 1|
 |-|
 |וְחָלָף 1|
-|wEHElEfE|
+|wsvHAlAf|
 
  * בכל־דר 1: 
 
 |בְּכָל־דֹּר 1|
 |-|
 |בְּכָל־דֹר 1|
-|bExElE־EdErE|
+|bsvxAl־dor|
 
  * פותח 1: 
 
 |פּוֹתֵחַ 1|
 |-|
 |פּוֹֹתֵחַ 1|
-|pEwEtEHE|
+|pwotEHa|
 
  * ומן־איבי 1: 
 
 |וּמִן־אֹיְבַי 1|
 |-|
 |וּמִן־אֹיְבַי 1|
-|uEmEnE־E'EyEvEyE|
+|umin־'oysvvay|
 
  * ואתה־הוא 1: 
 
 |וְאַתָּה־הוּא 1|
 |-|
 |וְאַתָה־הוּא 1|
-|wE'EtEhE־EhEuE'E|
+|wsv'atAh־hu'|
 
  * את־פעלי 1: 
 
 |אֶת־פֹּעֲלֵי 1|
 |-|
 |אֶת־פֹּעֲלֵי 1|
-|'EtE־EpEɣElEyE|
+|'et־poɣalEy|
 
  * הקיצותי 1: 
 
 |הֱקִיצוֹתִי 1|
 |-|
 |הֱקִיצוֹֹתִי 1|
-|hEqEyEcEwEtEyE|
+|heqiycwotiy|
 
  * עדיו 1: 
 
 |עֶדְיוֹ 1|
 |-|
 |עֶדְיוֹֹ 1|
-|ɣEdEyEwE|
+|ɣedsvywo|
 
  * כל־ירא 1: 
 
 |כָּל־יְרֵא 1|
 |-|
 |כָּל־יְרֵא 1|
-|kElE־EyErE'E|
+|kAl־ysvrE'|
 
  * נמתיק 1: 
 
 |נַמְתִּיק 1|
 |-|
 |נַמְתִיק 1|
-|nEmEtEyEqE|
+|namsvtiyq|
 
  * יתן־לך 1: 
 
 |יִתֶּן־לְךָ 1|
 |-|
 |יִתֶן־לְךָ 1|
-|yEtEnE־ElExE|
+|yiten־lsvxA|
 
  * ויגער 1: 
 
 |וַיִּגְעַר 1|
 |-|
 |וַיִגְעַר 1|
-|wEyEgEɣErE|
+|wayigsvɣar|
 
  * בשמעו 1: 
 
 |בְּשָׁמְעוֹ 1|
 |-|
 |בְּשָׁמְעוֹֹ 1|
-|bEšEmEɣEwE|
+|bsvšAmsvɣwo|
 
  * יבחנו 1: 
 
 |יִבְחֲנוּ 1|
 |-|
 |יִבְחֲנוּ 1|
-|yEvEHEnEuE|
+|yivsvHanu|
 
  * זמרות 1: 
 
 |זְמִרוֹת 1|
 |-|
 |זְמִרוֹֹת 1|
-|zEmErEwEtE|
+|zsvmirwot|
 
  * להתנכל 1: 
 
 |לְהִתְנַכֵּל 1|
 |-|
 |לְהִתְנַכֵּל 1|
-|lEhEtEnEkElE|
+|lsvhitsvnakEl|
 
  * מהעולם 1: 
 
 |מֵהָעוֹלָם 1|
 |-|
 |מֵהָעוֹֹלָם 1|
-|mEhEɣEwElEmE|
+|mEhAɣwolAm|
 
  * ואספרה 1: 
 
 |וַאֲסַפְּרָה 1|
 |-|
 |וַאֲסַפְּרָה 1|
-|wE'EsEpErEhE|
+|wa'asapsvrAh|
 
  * ואל־תאטר־עלי 1: 
 
 |וְאַל־תֶּאְטַר־עָלַי 1|
 |-|
 |וְאַל־תֶאְטַר־עָלַי 1|
-|wE'ElE־EtE'ETErE־EɣElEyE|
+|wsv'al־te'svTar־ɣAlay|
 
  * כמעשהו 1: 
 
 |כְּמַעֲשֵׂהוּ 1|
 |-|
 |כְּמַעֲשֵׂהוּ 1|
-|kEmEɣESEhEuE|
+|ksvmaɣaSEhu|
 
  * כי־ממנו 1: 
 
 |כִּי־מִמֶּנּוּ 1|
 |-|
 |כִּי־מִמֶנוּ 1|
-|kEyE־EmEmEnEuE|
+|kiy־mimenu|
 
  * וקדוש 1: 
 
 |וּקְדוֹשׁ 1|
 |-|
 |וּקְדוֹֹשׁ 1|
-|uEqEdEwEšE|
+|uqsvdwoš|
 
  * הפקד 1: 
 
 |הַפְקֵד 1|
 |-|
 |הַפְקֵד 1|
-|hEfEqEdE|
+|hafsvqEd|
 
  * לנוד 1: 
 
 |לָנוּד 1|
 |-|
 |לָנוּד 1|
-|lEnEuEdE|
+|lAnud|
 
  * לא־משנאי 1: 
 
 |לֹא־מְשַׂנְאִי 1|
 |-|
 |לֹא־מְשַׂנְאִי 1|
-|lE'E־EmESEnE'EyE|
+|lo'־msvSansv'iy|
 
  * מצא 1: 
 
 |מְצֹא 1|
 |-|
 |מְצֹא 1|
-|mEcE'E|
+|msvco'|
 
  * נוף 1: 
 
 |נוֹף 1|
 |-|
 |נוֹֹף 1|
-|nEwEfE|
+|nwof|
 
  * ומכל־מגורותי 1: 
 
 |וּמִכָּל־מְגוּרוֹתַי 1|
 |-|
 |וּמִכָּל־מְגוּרוֹֹתַי 1|
-|uEmEkElE־EmEgEuErEwEtEyE|
+|umikAl־msvgurwotay|
 
  * למשפטי 1: 
 
 |לְמִשְׁפָּטִי 1|
 |-|
 |לְמִשְׁפָּטִי 1|
-|lEmEšEpETEyE|
+|lsvmišsvpATiy|
 
  * עול 1: 
 
 |עָוֶל 1|
 |-|
 |עָוֶל 1|
-|ɣEwElE|
+|ɣAwel|
 
  * ובחסדך 1: 
 
 |וּבְחַסְדְּךָ 1|
 |-|
 |וּבְחַסְדְךָ 1|
-|uEvEHEsEdExE|
+|uvsvHassvdsvxA|
 
  * ועקבותיך 1: 
 
 |וְעִקְּבוֹתֶיךָ 1|
 |-|
 |וְעִקְבוֹֹתֶיךָ 1|
-|wEɣEqEvEwEtEyExE|
+|wsvɣiqsvvwoteyxA|
 
  * מיער 1: 
 
 |מִיָּעַר 1|
 |-|
 |מִיָעַר 1|
-|mEyEɣErE|
+|miyAɣar|
 
  * וברד 1: 
 
 |וּבָרָד 1|
 |-|
 |וּבָרָד 1|
-|uEvErEdE|
+|uvArAd|
 
  * כי־רעות 1: 
 
 |כִּי־רָעוֹת 1|
 |-|
 |כִּי־רָעוֹֹת 1|
-|kEyE־ErEɣEwEtE|
+|kiy־rAɣwot|
 
  * בחייו 1: 
 
 |בְּחַיָּיו 1|
 |-|
 |בְּחַיָיו 1|
-|bEHEyEyEwE|
+|bsvHayAyw|
 
  * טהרות 1: 
 
 |טְהֹרוֹת 1|
 |-|
 |טְהֹרוֹֹת 1|
-|TEhErEwEtE|
+|Tsvhorwot|
 
  * בכל־לבב 1: 
 
 |בְּכָל־לֵבָב 1|
 |-|
 |בְּכָל־לֵבָב 1|
-|bExElE־ElEvEvE|
+|bsvxAl־lEvAv|
 
  * רננות 1: 
 
 |רְנָנוֹת 1|
 |-|
 |רְנָנוֹֹת 1|
-|rEnEnEwEtE|
+|rsvnAnwot|
 
  * וינועו 1: 
 
 |וְיָנוּעוּ 1|
 |-|
 |וְיָנוּעוּ 1|
-|wEyEnEuEɣEuE|
+|wsvyAnuɣu|
 
  * רתמים 1: 
 
 |רְתָמִים 1|
 |-|
 |רְתָמִים 1|
-|rEtEmEyEmE|
+|rsvtAmiym|
 
  * אמצו 1: 
 
 |אָמְצוּ 1|
 |-|
 |אָמְצוּ 1|
-|'EmEcEuE|
+|'Amsvcu|
 
  * פזרת 1: 
 
 |פִּזַּרְתָּ 1|
 |-|
 |פִּזַרְתָ 1|
-|pEzErEtE|
+|pizarsvtA|
 
  * נדבת 1: 
 
 |נְדָבֹת 1|
 |-|
 |נְדָבֹת 1|
-|nEdEvEtE|
+|nsvdAvot|
 
  * אבקשה 1: 
 
 |אֲבַקְשָׁה 1|
 |-|
 |אֲבַקְשָׁה 1|
-|'EvEqEšEhE|
+|'avaqsvšAh|
 
  * נדרו 1: 
 
 |נִדֲרוּ 1|
 |-|
 |נִדֲרוּ 1|
-|nEdErEuE|
+|nidaru|
 
  * אשרי־איש 1: 
 
 |אַשְׁרֵי־אִישׁ 1|
 |-|
 |אַשְׁרֵי־אִישׁ 1|
-|'EšErEyE־E'EyEšE|
+|'ašsvrEy־'iyš|
 
  * תעי 1: 
 
 |תֹּעֵי 1|
 |-|
 |תֹעֵי 1|
-|tEɣEyE|
+|toɣEy|
 
  * שועי 1: 
 
 |שַׁוְעִי 1|
 |-|
 |שַׁוְעִי 1|
-|šEwEɣEyE|
+|šawsvɣiy|
 
  * תניף 1: 
 
 |תָּנִיף 1|
 |-|
 |תָנִיף 1|
-|tEnEyEfE|
+|tAniyf|
 
  * ובחטא 1: 
 
 |וּבְחֵטְא 1|
 |-|
 |וּבְחֵטְא 1|
-|uEvEHETE'E|
+|uvsvHETsv'|
 
  * ולך־אדני 1: 
 
 |וּלְךָ־אֲדֹנָי 1|
 |-|
 |וּלְךָ־אֲדֹנָי 1|
-|uElExE־E'EdEnEyE|
+|ulsvxA־'adonAy|
 
  * הכרובים 1: 
 
 |הַכְּרוּבִים 1|
 |-|
 |הַכְּרוּבִים 1|
-|hEkErEuEvEyEmE|
+|haksvruviym|
 
  * נרי 1: 
 
 |נֵרִי 1|
 |-|
 |נֵרִי 1|
-|nErEyE|
+|nEriy|
 
  * לאויבים 1: 
 
 |לְאוֹיְבִים 1|
 |-|
 |לְאוֹֹיְבִים 1|
-|lE'EwEyEvEyEmE|
+|lsv'woysvviym|
 
  * אתן 1: 
 
 |אֶתֵּן 1|
 |-|
 |אֶתֵן 1|
-|'EtEnE|
+|'etEn|
 
  * נוזלים 1: 
 
 |נוֹזְלִים 1|
 |-|
 |נוֹֹזְלִים 1|
-|nEwEzElEyEmE|
+|nwozsvliym|
 
  * פתאים 1: 
 
 |פְּתָאיִם 1|
 |-|
 |פְּתָאיִם 1|
-|pEtE'EyEmE|
+|psvtA'yim|
 
  * וימאסו 1: 
 
 |וַיִּמְאֲסוּ 1|
 |-|
 |וַיִמְאֲסוּ 1|
-|wEyEmE'EsEuE|
+|wayimsv'asu|
 
  * יתהלכון 1: 
 
 |יִתְהַלָּכוּן 1|
 |-|
 |יִתְהַלָכוּן 1|
-|yEtEhElExEuEnE|
+|yitsvhalAxun|
 
  * מעפר 1: 
 
 |מֵעָפָר 1|
 |-|
 |מֵעָפָר 1|
-|mEɣEfErE|
+|mEɣAfAr|
 
  * בקמים 1: 
 
 |בַּקָּמִים 1|
 |-|
 |בַּקָמִים 1|
-|bEqEmEyEmE|
+|baqAmiym|
 
  * וגליך 1: 
 
 |וְגַלֶּיךָ 1|
 |-|
 |וְגַלֶיךָ 1|
-|wEgElEyExE|
+|wsvgaleyxA|
 
  * לחית 1: 
 
 |לְחַיַּת 1|
 |-|
 |לְחַיַת 1|
-|lEHEyEtE|
+|lsvHayat|
 
  * הלם 1: 
 
 |הֲלֹם 1|
 |-|
 |הֲלֹם 1|
-|hElEmE|
+|halom|
 
  * את־נחלתך 1: 
 
 |אֶת־נַחֲלָתֶךָ 1|
 |-|
 |אֶת־נַחֲלָתֶךָ 1|
-|'EtE־EnEHElEtExE|
+|'et־naHalAtexA|
 
  * כי־נפשו 1: 
 
 |כִּי־נַפְשׁוֹ 1|
 |-|
 |כִּי־נַפְשׁוֹֹ 1|
-|kEyE־EnEfEšEwE|
+|kiy־nafsvšwo|
 
  * ובאו 1: 
 
 |וּבֹאוּ 1|
 |-|
 |וּבֹאוּ 1|
-|uEvE'EuE|
+|uvo'u|
 
  * ואין־עזר 1: 
 
 |וְאֵין־עֹזֵר 1|
 |-|
 |וְאֵין־עֹזֵר 1|
-|wE'EyEnE־EɣEzErE|
+|wsv'Eyn־ɣozEr|
 
  * נתנה 1: 
 
 |נָתְנָה 1|
 |-|
 |נָתְנָה 1|
-|nEtEnEhE|
+|nAtsvnAh|
 
  * אבותיו 1: 
 
 |אֲבוֹתָיו 1|
 |-|
 |אֲבוֹֹתָיו 1|
-|'EvEwEtEyEwE|
+|'avwotAyw|
 
  * ואל־מעונתם 1: 
 
 |וְאֶל־מְעוֹנֹתָם 1|
 |-|
 |וְאֶל־מְעוֹֹנֹתָם 1|
-|wE'ElE־EmEɣEwEnEtEmE|
+|wsv'el־msvɣwonotAm|
 
  * ותאבדו 1: 
 
 |וְתֹאבְדוּ 1|
 |-|
 |וְתֹאבְדוּ 1|
-|wEtE'EvEdEuE|
+|wsvto'vsvdu|
 
  * מזוינו 1: 
 
 |מְזָוֵינוּ 1|
 |-|
 |מְזָוֵינוּ 1|
-|mEzEwEyEnEuE|
+|msvzAwEynu|
 
  * וגם־כלתה 1: 
 
 |וְגַם־כָּלְתָה 1|
 |-|
 |וְגַם־כָּלְתָה 1|
-|wEgEmE־EkElEtEhE|
+|wsvgam־kAlsvtAh|
 
  * עקש 1: 
 
 |עִקֵּשׁ 1|
 |-|
 |עִקֵשׁ 1|
-|ɣEqEšE|
+|ɣiqEš|
 
  * יעמדו 1: 
 
 |יַעֲמֹדוּ 1|
 |-|
 |יַעֲמֹדוּ 1|
-|yEɣEmEdEuE|
+|yaɣamodu|
 
  * כי־השקיף 1: 
 
 |כִּי־הִשְׁקִיף 1|
 |-|
 |כִּי־הִשְׁקִיף 1|
-|kEyE־EhEšEqEyEfE|
+|kiy־hišsvqiyf|
 
  * תחפץ 1: 
 
 |תַּחְפֹּץ 1|
 |-|
 |תַחְפֹּץ 1|
-|tEHEpEcE|
+|taHsvpoc|
 
  * לביתו 1: 
 
 |לְבֵיתוֹ 1|
 |-|
 |לְבֵיתוֹֹ 1|
-|lEvEyEtEwE|
+|lsvvEytwo|
 
  * לברית 1: 
 
 |לַבְּרִית 1|
 |-|
 |לַבְּרִית 1|
-|lEbErEyEtE|
+|labsvriyt|
 
  * מצרה 1: 
 
 |מִצָּרָה 1|
 |-|
 |מִצָרָה 1|
-|mEcErEhE|
+|micArAh|
 
  * גער 1: 
 
 |גְּעַר 1|
 |-|
 |גְעַר 1|
-|gEɣErE|
+|gsvɣar|
 
  * על־דברי־כוש 1: 
 
 |עַל־דִּבְרֵי־כוּשׁ 1|
 |-|
 |עַל־דִבְרֵי־כוּשׁ 1|
-|ɣElE־EdEvErEyE־ExEuEšE|
+|ɣal־divsvrEy־xuš|
 
  * אל־תאסף 1: 
 
 |אַל־תֶּאֱסֹף 1|
 |-|
 |אַל־תֶאֱסֹף 1|
-|'ElE־EtE'EsEfE|
+|'al־te'esof|
 
  * ממערב 1: 
 
 |מִמַּעֲרָב 1|
 |-|
 |מִמַעֲרָב 1|
-|mEmEɣErEvE|
+|mimaɣarAv|
 
  * ארחי 1: 
 
 |אָרְחִי 1|
 |-|
 |אָרְחִי 1|
-|'ErEHEyE|
+|'ArsvHiy|
 
  * מנחה 1: 
 
 |מִנְחָה 1|
 |-|
 |מִנְחָה 1|
-|mEnEHEhE|
+|minsvHAh|
 
  * גבול־שמת 1: 
 
 |גְּבוּל־שַׂמְתָּ 1|
 |-|
 |גְבוּל־שַׂמְתָ 1|
-|gEvEuElE־ESEmEtE|
+|gsvvul־SamsvtA|
 
  * מחטוא 1: 
 
 |מֵחֲטוֹא 1|
 |-|
 |מֵחֲטוֹֹא 1|
-|mEHETEwE'E|
+|mEHaTwo'|
 
  * מה־נמלצו 1: 
 
 |מַה־נִּמְלְצוּ 1|
 |-|
 |מַה־נִמְלְצוּ 1|
-|mEhE־EnEmElEcEuE|
+|mah־nimsvlsvcu|
 
  * כל־פקודיו 1: 
 
 |כָּל־פִּקּוּדָיו 1|
 |-|
 |כָּל־פִּקוּדָיו 1|
-|kElE־EpEqEuEdEyEwE|
+|kAl־piqudAyw|
 
  * בעינינו 1: 
 
 |בְּעֵינֵינוּ 1|
 |-|
 |בְּעֵינֵינוּ 1|
-|bEɣEyEnEyEnEuE|
+|bsvɣEynEynu|
 
  * הבלי־שוא 1: 
 
 |הַבְלֵי־שָׁוְא 1|
 |-|
 |הַבְלֵי־שָׁוְא 1|
-|hEvElEyE־EšEwE'E|
+|havsvlEy־šAwsv'|
 
  * אתה־הוא 1: 
 
 |אַתָּה־הוּא 1|
 |-|
 |אַתָה־הוּא 1|
-|'EtEhE־EhEuE'E|
+|'atAh־hu'|
 
  * ובתוך 1: 
 
 |וּבְתוֹךְ 1|
 |-|
 |וּבְתוֹֹךְ 1|
-|uEvEtEwExE|
+|uvsvtwoxsv|
 
  * מאתי 1: 
 
 |מֵאִתִּי 1|
 |-|
 |מֵאִתִי 1|
-|mE'EtEyE|
+|mE'itiy|
 
  * נזכיר 1: 
 
 |נַזְכִּיר 1|
 |-|
 |נַזְכִּיר 1|
-|nEzEkEyErE|
+|nazsvkiyr|
 
  * כי־דרש 1: 
 
 |כִּי־דֹרֵשׁ 1|
 |-|
 |כִּי־דֹרֵשׁ 1|
-|kEyE־EdErEšE|
+|kiy־dorEš|
 
  * [ומדברך] 1: 
 
 |[וּמִדְּבָרְךָ] 1|
 |-|
 |[וּמִדְבָרְךָ] 1|
-|[EuEmEdEvErExE]E|
+|[umidsvvArsvxA]|
 
  * וטוב 1: 
 
 |וְטוֹב 1|
 |-|
 |וְטוֹֹב 1|
-|wETEwEvE|
+|wsvTwov|
 
  * ותושיעני 1: 
 
 |וְתוֹשִׁיעֵנִי 1|
 |-|
 |וְתוֹֹשִׁיעֵנִי 1|
-|wEtEwEšEyEɣEnEyE|
+|wsvtwošiyɣEniy|
 
  * ישכח 1: 
 
 |יִשָּׁכַח 1|
 |-|
 |יִשָׁכַח 1|
-|yEšExEHE|
+|yišAxaH|
 
  * תמנו 1: 
 
 |תַּמְנוּ 1|
 |-|
 |תַמְנוּ 1|
-|tEmEnEuE|
+|tamsvnu|
 
  * בנותינו 1: 
 
 |בְּנוֹתֵינוּ 1|
 |-|
 |בְּנוֹֹתֵינוּ 1|
-|bEnEwEtEyEnEuE|
+|bsvnwotEynu|
 
  * וישפכו 1: 
 
 |וַיִּשְׁפְּכוּ 1|
 |-|
 |וַיִשְׁפְּכוּ 1|
-|wEyEšEpExEuE|
+|wayišsvpsvxu|
 
  * אחלצך 1: 
 
 |אֲחַלֶּצְךָ 1|
 |-|
 |אֲחַלֶצְךָ 1|
-|'EHElEcExE|
+|'aHalecsvxA|
 
  * לחרב 1: 
 
 |לַחֶרֶב 1|
 |-|
 |לַחֶרֶב 1|
-|lEHErEvE|
+|laHerev|
 
  * על־מקומו 1: 
 
 |עַל־מְקוֹמוֹ 1|
 |-|
 |עַל־מְקוֹֹמוֹֹ 1|
-|ɣElE־EmEqEwEmEwE|
+|ɣal־msvqwomwo|
 
  * שותי 1: 
 
 |שׁוֹתֵי 1|
 |-|
 |שׁוֹֹתֵי 1|
-|šEwEtEyE|
+|šwotEy|
 
  * לענות 1: 
 
 |לְעַנּוֹת 1|
 |-|
 |לְעַנוֹֹת 1|
-|lEɣEnEwEtE|
+|lsvɣanwot|
 
  * יחפצו 1: 
 
 |יֶחְפָּצוּ 1|
 |-|
 |יֶחְפָּצוּ 1|
-|yEHEpEcEuE|
+|yeHsvpAcu|
 
  * תחשב 1: 
 
 |תַּחְשֹׁב 1|
 |-|
 |תַחְשֹׁב 1|
-|tEHEšEvE|
+|taHsvšov|
 
  * לבחירי 1: 
 
 |לִבְחִירִי 1|
 |-|
 |לִבְחִירִי 1|
-|lEvEHEyErEyE|
+|livsvHiyriy|
 
  * ואם 1: 
 
 |וְאִם 1|
 |-|
 |וְאִם 1|
-|wE'EmE|
+|wsv'im|
 
  * גדלת 1: 
 
 |גָּדַלְתָּ 1|
 |-|
 |גָדַלְתָ 1|
-|gEdElEtE|
+|gAdalsvtA|
 
  * אם־רפאים 1: 
 
 |אִם־רְפָאִים 1|
 |-|
 |אִם־רְפָאִים 1|
-|'EmE־ErEfE'EyEmE|
+|'im־rsvfA'iym|
 
  * עם־ירדי 1: 
 
 |עִם־יֹרְדֵי 1|
 |-|
 |עִם־יֹרְדֵי 1|
-|ɣEmE־EyErEdEyE|
+|ɣim־yorsvdEy|
 
  * את־אכלם 1: 
 
 |אֶת־אָכְלָם 1|
 |-|
 |אֶת־אָכְלָם 1|
-|'EtE־E'ExElEmE|
+|'et־'AxsvlAm|
 
  * כי־מרו 1: 
 
 |כִּי־מָרוּ 1|
 |-|
 |כִּי־מָרוּ 1|
-|kEyE־EmErEuE|
+|kiy־mAru|
 
  * בתוכי 1: 
 
 |בְּתוֹכִי 1|
 |-|
 |בְּתוֹֹכִי 1|
-|bEtEwExEyE|
+|bsvtwoxiy|
 
  * אל־נפשי 1: 
 
 |אֶל־נַפְשִׁי 1|
 |-|
 |אֶל־נַפְשִׁי 1|
-|'ElE־EnEfEšEyE|
+|'el־nafsvšiy|
 
  * השירה 1: 
 
 |הַשִּׁירָה 1|
 |-|
 |הַשִׁירָה 1|
-|hEšEyErEhE|
+|hašiyrAh|
 
  * ברכת־יהוה 1: 
 
 |בִּרְכַּת־יְהוָה 1|
 |-|
 |בִּרְכַּת־יְהוָה 1|
-|bErEkEtE־EyEhEwEhE|
+|birsvkat־ysvhwAh|
 
  * בפעל 1: 
 
 |בְּפֹעַל 1|
 |-|
 |בְּפֹעַל 1|
-|bEfEɣElE|
+|bsvfoɣal|
 
  * תעלני 1: 
 
 |תַּעֲלֵנִי 1|
 |-|
 |תַעֲלֵנִי 1|
-|tEɣElEnEyE|
+|taɣalEniy|
 
  * והתחולל 1: 
 
 |וְהִתְחוֹלֵל 1|
 |-|
 |וְהִתְחוֹֹלֵל 1|
-|wEhEtEHEwElElE|
+|wsvhitsvHwolEl|
 
  * בנשף 1: 
 
 |בַנֶּשֶׁף 1|
 |-|
 |בַנֶשֶׁף 1|
-|vEnEšEfE|
+|vanešef|
 
  * גם־איש 1: 
 
 |גַּם־אִישׁ 1|
 |-|
 |גַם־אִישׁ 1|
-|gEmE־E'EyEšE|
+|gam־'iyš|
 
  * נמאס 1: 
 
 |נִמְאָס 1|
 |-|
 |נִמְאָס 1|
-|nEmE'EsE|
+|nimsv'As|
 
  * מהיכלו 1: 
 
 |מֵהֵיכָלוֹ 1|
 |-|
 |מֵהֵיכָלוֹֹ 1|
-|mEhEyExElEwE|
+|mEhEyxAlwo|
 
  * ונכרעה 1: 
 
 |וְנִכְרָעָה 1|
 |-|
 |וְנִכְרָעָה 1|
-|wEnExErEɣEhE|
+|wsvnixsvrAɣAh|
 
  * וכל 1: 
 
 |וְכֹל 1|
 |-|
 |וְכֹל 1|
-|wExElE|
+|wsvxol|
 
  * יקדמונו 1: 
 
 |יְקַדְּמוּנוּ 1|
 |-|
 |יְקַדְמוּנוּ 1|
-|yEqEdEmEuEnEuE|
+|ysvqadsvmunu|
 
  * במלכם 1: 
 
 |בְמַלְכָּם 1|
 |-|
 |בְמַלְכָּם 1|
-|vEmElEkEmE|
+|vsvmalsvkAm|
 
  * יוליכם 1: 
 
 |יוֹלִיכֵם 1|
 |-|
 |יוֹֹלִיכֵם 1|
-|yEwElEyExEmE|
+|ywoliyxEm|
 
  * תען 1: 
 
 |תַּעַן 1|
 |-|
 |תַעַן 1|
-|tEɣEnE|
+|taɣan|
 
  * בתפלת 1: 
 
 |בִּתְפִלַּת 1|
 |-|
 |בִּתְפִלַת 1|
-|bEtEfElEtE|
+|bitsvfilat|
 
  * אל־דמי־לך 1: 
 
 |אַל־דֳּמִי־לָךְ 1|
 |-|
 |אַל־דֳמִי־לָךְ 1|
-|'ElE־EdEmEyE־ElExE|
+|'al־dAmiy־lAxsv|
 
  * אל־יחפרו 1: 
 
 |אַל־יֶחְפָּרוּ 1|
 |-|
 |אַל־יֶחְפָּרוּ 1|
-|'ElE־EyEHEpErEuE|
+|'al־yeHsvpAru|
 
  * ינוסון 1: 
 
 |יְנוּסוּן 1|
 |-|
 |יְנוּסוּן 1|
-|yEnEuEsEuEnE|
+|ysvnusun|
 
  * אערך־לך 1: 
 
 |אֶעֱרָךְ־לְךָ 1|
 |-|
 |אֶעֱרָךְ־לְךָ 1|
-|'EɣErExE־ElExE|
+|'eɣerAxsv־lsvxA|
 
  * ובחרונו 1: 
 
 |וּבַחֲרוֹנוֹ 1|
 |-|
 |וּבַחֲרוֹֹנוֹֹ 1|
-|uEvEHErEwEnEwE|
+|uvaHarwonwo|
 
  * לשבע 1: 
 
 |לָשֹׂבַע 1|
 |-|
 |לָשֹׂבַע 1|
-|lESEvEɣE|
+|lASovaɣ|
 
  * ויחשף 1: 
 
 |וַיֶּחֱשֹׂף 1|
 |-|
 |וַיֶחֱשֹׂף 1|
-|wEyEHESEfE|
+|wayeHeSof|
 
  * ותמלא־ארץ 1: 
 
 |וַתְּמַלֵּא־אָרֶץ 1|
 |-|
 |וַתְמַלֵא־אָרֶץ 1|
-|wEtEmElE'E־E'ErEcE|
+|watsvmalE'־'Arec|
 
  * אבתיך 1: 
 
 |אֲבֹתֶיךָ 1|
 |-|
 |אֲבֹתֶיךָ 1|
-|'EvEtEyExE|
+|'avoteyxA|
 
  * על־צפוניך 1: 
 
 |עַל־צְפוּנֶיךָ 1|
 |-|
 |עַל־צְפוּנֶיךָ 1|
-|ɣElE־EcEfEuEnEyExE|
+|ɣal־csvfuneyxA|
 
  * לא־יריע 1: 
 
 |לֹא־יָרִיעַ 1|
 |-|
 |לֹא־יָרִיעַ 1|
-|lE'E־EyErEyEɣE|
+|lo'־yAriyɣa|
 
  * עמק 1: 
 
 |עָמֹק 1|
 |-|
 |עָמֹק 1|
-|ɣEmEqE|
+|ɣAmoq|
 
  * תשפתני 1: 
 
 |תִּשְׁפְּתֵנִי 1|
 |-|
 |תִשְׁפְּתֵנִי 1|
-|tEšEpEtEnEyE|
+|tišsvpsvtEniy|
 
  * ארבעים 1: 
 
 |אַרְבָּעִים 1|
 |-|
 |אַרְבָּעִים 1|
-|'ErEbEɣEyEmE|
+|'arsvbAɣiym|
 
  * ונעזרתי 1: 
 
 |וְנֶעֱזָרְתִּי 1|
 |-|
 |וְנֶעֱזָרְתִי 1|
-|wEnEɣEzErEtEyE|
+|wsvneɣezArsvtiy|
 
  * [ישיב] 1: 
 
 |[יָשִׁיב] 1|
 |-|
 |[יָשִׁיב] 1|
-|[EyEšEyEvE]E|
+|[yAšiyv]|
 
  * כעל 1: 
 
 |כְּעַל 1|
 |-|
 |כְּעַל 1|
-|kEɣElE|
+|ksvɣal|
 
  * על־ים־סוף 1: 
 
 |עַל־יַם־סוּף 1|
 |-|
 |עַל־יַם־סוּף 1|
-|ɣElE־EyEmE־EsEuEfE|
+|ɣal־yam־suf|
 
  * והמון 1: 
 
 |וַהֲמוֹן 1|
 |-|
 |וַהֲמוֹֹן 1|
-|wEhEmEwEnE|
+|wahamwon|
 
  * אם־אעלה 1: 
 
 |אִם־אֶעֱלֶה 1|
 |-|
 |אִם־אֶעֱלֶה 1|
-|'EmE־E'EɣElEhE|
+|'im־'eɣeleh|
 
  * ממצוקותיהם 1: 
 
 |מִמְּצוּקוֹתֵיהֶם 1|
 |-|
 |מִמְצוּקוֹֹתֵיהֶם 1|
-|mEmEcEuEqEwEtEyEhEmE|
+|mimsvcuqwotEyhem|
 
  * והקיפוה 1: 
 
 |וְהַקִּיפוּהָ 1|
 |-|
 |וְהַקִיפוּהָ 1|
-|wEhEqEyEfEuEhE|
+|wsvhaqiyfuhA|
 
  * ישמרהו 1: 
 
 |יִשְׁמְרֵהוּ 1|
 |-|
 |יִשְׁמְרֵהוּ 1|
-|yEšEmErEhEuE|
+|yišsvmsvrEhu|
 
  * מי־יראנו 1: 
 
 |מִי־יַרְאֵנוּ 1|
 |-|
 |מִי־יַרְאֵנוּ 1|
-|mEyE־EyErE'EnEuE|
+|miy־yarsv'Enu|
 
  * כנשר 1: 
 
 |כַּנֶּשֶׁר 1|
 |-|
 |כַּנֶשֶׁר 1|
-|kEnEšErE|
+|kanešer|
 
  * טוב־אתה 1: 
 
 |טוֹב־אַתָּה 1|
 |-|
 |טוֹֹב־אַתָה 1|
-|TEwEvE־E'EtEhE|
+|Twov־'atAh|
 
  * מחשכי־ארץ 1: 
 
 |מַחֲשַׁכֵּי־אֶרֶץ 1|
 |-|
 |מַחֲשַׁכֵּי־אֶרֶץ 1|
-|mEHEšEkEyE־E'ErEcE|
+|maHašakEy־'erec|
 
  * ותורה 1: 
 
 |וְתוֹרָה 1|
 |-|
 |וְתוֹֹרָה 1|
-|wEtEwErEhE|
+|wsvtworAh|
 
  * צלך 1: 
 
 |צִלְּךָ 1|
 |-|
 |צִלְךָ 1|
-|cElExE|
+|cilsvxA|
 
  * כסיתו 1: 
 
 |כִּסִּיתוֹ 1|
 |-|
 |כִּסִיתוֹֹ 1|
-|kEsEyEtEwE|
+|kisiytwo|
 
  * אל־תזכר־לנו 1: 
 
 |אַל־תִּזְכָּר־לָנוּ 1|
 |-|
 |אַל־תִזְכָּר־לָנוּ 1|
-|'ElE־EtEzEkErE־ElEnEuE|
+|'al־tizsvkAr־lAnu|
 
  * יאר 1: 
 
 |יָאֵר 1|
 |-|
 |יָאֵר 1|
-|yE'ErE|
+|yA'Er|
 
  * נמס 1: 
 
 |נָמֵס 1|
 |-|
 |נָמֵס 1|
-|nEmEsE|
+|nAmEs|
 
  * ומנחה 1: 
 
 |וּמִנְחָה 1|
 |-|
 |וּמִנְחָה 1|
-|uEmEnEHEhE|
+|uminsvHAh|
 
  * אשת 1: 
 
 |אֵשֶׁת 1|
 |-|
 |אֵשֶׁת 1|
-|'EšEtE|
+|'Ešet|
 
  * יפרח 1: 
 
 |יִפְרָח 1|
 |-|
 |יִפְרָח 1|
-|yEfErEHE|
+|yifsvrAH|
 
  * למדחפת 1: 
 
 |לְמַדְחֵפֹת 1|
 |-|
 |לְמַדְחֵפֹת 1|
-|lEmEdEHEfEtE|
+|lsvmadsvHEfot|
 
  * שריו 1: 
 
 |שָׂרָיו 1|
 |-|
 |שָׂרָיו 1|
-|SErEyEwE|
+|SArAyw|
 
  * בקעות 1: 
 
 |בְקָעוֹת 1|
 |-|
 |בְקָעוֹֹת 1|
-|vEqEɣEwEtE|
+|vsvqAɣwot|
 
  * בקהל־עם 1: 
 
 |בִּקְהַל־עָם 1|
 |-|
 |בִּקְהַל־עָם 1|
-|bEqEhElE־EɣEmE|
+|biqsvhal־ɣAm|
 
  * תנחם 1: 
 
 |תַּנְחֵם 1|
 |-|
 |תַנְחֵם 1|
-|tEnEHEmE|
+|tansvHEm|
 
  * משכיות 1: 
 
 |מַשְׂכִּיּוֹת 1|
 |-|
 |מַשְׂכִּיוֹֹת 1|
-|mESEkEyEwEtE|
+|maSsvkiywot|
 
  * לעוף 1: 
 
 |לְעוֹף 1|
 |-|
 |לְעוֹֹף 1|
-|lEɣEwEfE|
+|lsvɣwof|
 
  * ושם 1: 
 
 |וְשָׂם 1|
 |-|
 |וְשָׂם 1|
-|wESEmE|
+|wsvSAm|
 
  * וחרמונים 1: 
 
 |וְחֶרְמוֹנִים 1|
 |-|
 |וְחֶרְמוֹֹנִים 1|
-|wEHErEmEwEnEyEmE|
+|wsvHersvmwoniym|
 
  * שכחנוך 1: 
 
 |שְׁכַחֲנוּךָ 1|
 |-|
 |שְׁכַחֲנוּךָ 1|
-|šExEHEnEuExE|
+|šsvxaHanuxA|
 
  * ובשתי 1: 
 
 |וּבָשְׁתִּי 1|
 |-|
 |וּבָשְׁתִי 1|
-|uEvEšEtEyE|
+|uvAšsvtiy|
 
  * הודיע 1: 
 
 |הוֹדִיעַ 1|
 |-|
 |הוֹֹדִיעַ 1|
-|hEwEdEyEɣE|
+|hwodiyɣa|
 
  * ממקור 1: 
 
 |מִמְּקוֹר 1|
 |-|
 |מִמְקוֹֹר 1|
-|mEmEqEwErE|
+|mimsvqwor|
 
  * את־אבותינו 1: 
 
 |אֶת־אֲבוֹתֵינוּ 1|
 |-|
 |אֶת־אֲבוֹֹתֵינוּ 1|
-|'EtE־E'EvEwEtEyEnEuE|
+|'et־'avwotEynu|
 
  * על־כל־גוים 1: 
 
 |עַל־כָּל־גּוֹיִם 1|
 |-|
 |עַל־כָּל־גוֹֹיִם 1|
-|ɣElE־EkElE־EgEwEyEmE|
+|ɣal־kAl־gwoyim|
 
  * דורש 1: 
 
 |דּוֹרֵשׁ 1|
 |-|
 |דוֹֹרֵשׁ 1|
-|dEwErEšE|
+|dworEš|
 
  * הביטו 1: 
 
 |הִבִּיטוּ 1|
 |-|
 |הִבִּיטוּ 1|
-|hEbEyETEuE|
+|hibiyTu|
 
  * ההלך 1: 
 
 |הַהֹלֵךְ 1|
 |-|
 |הַהֹלֵךְ 1|
-|hEhElExE|
+|haholExsv|
 
  * אשר־יעשה 1: 
 
 |אֲשֶׁר־יַעֲשֶׂה 1|
 |-|
 |אֲשֶׁר־יַעֲשֶׂה 1|
-|'EšErE־EyEɣESEhE|
+|'ašer־yaɣaSeh|
 
  * אופיר 1: 
 
 |אוֹפִיר 1|
 |-|
 |אוֹֹפִיר 1|
-|'EwEfEyErE|
+|'wofiyr|
 
  * הסתרת 1: 
 
 |הִסְתַּרְתָּ 1|
 |-|
 |הִסְתַרְתָ 1|
-|hEsEtErEtE|
+|hissvtarsvtA|
 
  * על־עון 1: 
 
 |עַל־עָוֺן 1|
 |-|
 |עַל־עָוֺן 1|
-|ɣElE־EɣEwEnE|
+|ɣal־ɣAw_o_n|
 
  * לא־יצדק 1: 
 
 |לֹא־יִצְדַּק 1|
 |-|
 |לֹא־יִצְדַק 1|
-|lE'E־EyEcEdEqE|
+|lo'־yicsvdaq|
 
  * תורת־פיך 1: 
 
 |תוֹרַת־פִּיךָ 1|
 |-|
 |תוֹֹרַת־פִּיךָ 1|
-|tEwErEtE־EpEyExE|
+|tworat־piyxA|
 
  * הר־אלהים 1: 
 
 |הַר־אֱלֹהִים 1|
 |-|
 |הַר־אֱלֹהִים 1|
-|hErE־E'ElEhEyEmE|
+|har־'elohiym|
 
  * והוספתי 1: 
 
 |וְהוֹסַפְתִּי 1|
 |-|
 |וְהוֹֹסַפְתִי 1|
-|wEhEwEsEfEtEyE|
+|wsvhwosafsvtiy|
 
  * קן 1: 
 
 |קֵן 1|
 |-|
 |קֵן 1|
-|qEnE|
+|qEn|
 
  * וקרובי 1: 
 
 |וּקְרוֹבַי 1|
 |-|
 |וּקְרוֹֹבַי 1|
-|uEqErEwEvEyE|
+|uqsvrwovay|
 
  * ברושים 1: 
 
 |בְּרוֹשִׁים 1|
 |-|
 |בְּרוֹֹשִׁים 1|
-|bErEwEšEyEmE|
+|bsvrwošiym|
 
  * ראשם 1: 
 
 |רֹאשָׁם 1|
 |-|
 |רֹאשָׁם 1|
-|rE'EšEmE|
+|ro'šAm|
 
  * מכאובים 1: 
 
 |מַכְאוֹבִים 1|
 |-|
 |מַכְאוֹֹבִים 1|
-|mExE'EwEvEyEmE|
+|maxsv'woviym|
 
  * לבושה 1: 
 
 |לְבוּשָׁהּ 1|
 |-|
 |לְבוּשָׁה 1|
-|lEvEuEšEhE|
+|lsvvušAh|
 
  * ומקום 1: 
 
 |וּמְקוֹם 1|
 |-|
 |וּמְקוֹֹם 1|
-|uEmEqEwEmE|
+|umsvqwom|
 
  * וילכדו 1: 
 
 |וְיִלָּכְדוּ 1|
 |-|
 |וְיִלָכְדוּ 1|
-|wEyElExEdEuE|
+|wsvyilAxsvdu|
 
  * אל־תקנא 1: 
 
 |אַל־תְּקַנֵּא 1|
 |-|
 |אַל־תְקַנֵא 1|
-|'ElE־EtEqEnE'E|
+|'al־tsvqanE'|
 
  * דשנת 1: 
 
 |דִּשַּׁנְתָּ 1|
 |-|
 |דִשַׁנְתָ 1|
-|dEšEnEtE|
+|dišansvtA|
 
  * ראה־עניי 1: 
 
 |רְאֵה־עָנְיִי 1|
 |-|
 |רְאֵה־עָנְיִי 1|
-|rE'EhE־EɣEnEyEyE|
+|rsv'Eh־ɣAnsvyiy|
 
  * ישליו 1: 
 
 |יִשְׁלָיוּ 1|
 |-|
 |יִשְׁלָיוּ 1|
-|yEšElEyEuE|
+|yišsvlAyu|
 
  * תלמדנו 1: 
 
 |תְלַמְּדֶנּוּ 1|
 |-|
 |תְלַמְדֶנוּ 1|
-|tElEmEdEnEuE|
+|tsvlamsvdenu|
 
  * פתוחיה 1: 
 
 |פִּתּוּחֶיהָ 1|
 |-|
 |פִּתוּחֶיהָ 1|
-|pEtEuEHEyEhE|
+|pituHeyhA|
 
  * ותעצמות 1: 
 
 |וְתַעֲצֻמוֹת 1|
 |-|
 |וְתַעֲצֻמוֹֹת 1|
-|wEtEɣEcEmEwEtE|
+|wsvtaɣacumwot|
 
  * שכבתי 1: 
 
 |שָׁכַבְתִּי 1|
 |-|
 |שָׁכַבְתִי 1|
-|šExEvEtEyE|
+|šAxavsvtiy|
 
  * מתם 1: 
 
 |מְתֹם 1|
 |-|
 |מְתֹם 1|
-|mEtEmE|
+|msvtom|
 
  * כי־יעשר 1: 
 
 |כִּי־יַעֲשִׁר 1|
 |-|
 |כִּי־יַעֲשִׁר 1|
-|kEyE־EyEɣEšErE|
+|kiy־yaɣašir|
 
  * כי־השביע 1: 
 
 |כִּי־הִשְׂבִּיעַ 1|
 |-|
 |כִּי־הִשְׂבִּיעַ 1|
-|kEyE־EhESEbEyEɣE|
+|kiy־hiSsvbiyɣa|
 
  * על־נקי 1: 
 
 |עַל־נָקִי 1|
 |-|
 |עַל־נָקִי 1|
-|ɣElE־EnEqEyE|
+|ɣal־nAqiy|
 
  * פלטו־דל 1: 
 
 |פַּלְּטוּ־דַל 1|
 |-|
 |פַּלְטוּ־דַל 1|
-|pElETEuE־EdElE|
+|palsvTu־dal|
 
  * תתחדש 1: 
 
 |תִּתְחַדֵּשׁ 1|
 |-|
 |תִתְחַדֵשׁ 1|
-|tEtEHEdEšE|
+|titsvHadEš|
 
  * מחכם 1: 
 
 |מְחֻכָּם 1|
 |-|
 |מְחֻכָּם 1|
-|mEHEkEmE|
+|msvHukAm|
 
  * וחלדי 1: 
 
 |וְחֶלְדִּי 1|
 |-|
 |וְחֶלְדִי 1|
-|wEHElEdEyE|
+|wsvHelsvdiy|
 
  * לצור־מעוז 1: 
 
 |לְצוּר־מָעוֹז 1|
 |-|
 |לְצוּר־מָעוֹֹז 1|
-|lEcEuErE־EmEɣEwEzE|
+|lsvcur־mAɣwoz|
 
  * וילחצום 1: 
 
 |וַיִּלְחָצוּם 1|
 |-|
 |וַיִלְחָצוּם 1|
-|wEyElEHEcEuEmE|
+|wayilsvHAcum|
 
  * השמחת 1: 
 
 |הִשְׂמַחְתָּ 1|
 |-|
 |הִשְׂמַחְתָ 1|
-|hESEmEHEtE|
+|hiSsvmaHsvtA|
 
  * חקי 1: 
 
 |חֻקָּי 1|
 |-|
 |חֻקָי 1|
-|HEqEyE|
+|HuqAy|
 
  * יהי־נא 1: 
 
 |יְהִי־נָא 1|
 |-|
 |יְהִי־נָא 1|
-|yEhEyE־EnE'E|
+|ysvhiy־nA'|
 
  * אל־יעשקני 1: 
 
 |אַל־יַעַשְׁקֻנִי 1|
 |-|
 |אַל־יַעַשְׁקֻנִי 1|
-|'ElE־EyEɣEšEqEnEyE|
+|'al־yaɣašsvquniy|
 
  * לשמש 1: 
 
 |לַשֶּׁמֶשׁ 1|
 |-|
 |לַשֶׁמֶשׁ 1|
-|lEšEmEšE|
+|lašemeš|
 
  * בשנותו 1: 
 
 |בְּשַׁנּוֹתוֹ 1|
 |-|
 |בְּשַׁנוֹֹתוֹֹ 1|
-|bEšEnEwEtEwE|
+|bsvšanwotwo|
 
  * יזנח 1: 
 
 |יִזְנַח 1|
 |-|
 |יִזְנַח 1|
-|yEzEnEHE|
+|yizsvnaH|
 
  * אף־בשרי 1: 
 
 |אַף־בְּשָׂרִי 1|
 |-|
 |אַף־בְּשָׂרִי 1|
-|'EfE־EbESErEyE|
+|'af־bsvSAriy|
 
  * ועמלק 1: 
 
 |וַעֲמָלֵק 1|
 |-|
 |וַעֲמָלֵק 1|
-|wEɣEmElEqE|
+|waɣamAlEq|
 
  * ויכל־בהבל 1: 
 
 |וַיְכַל־בַּהֶבֶל 1|
 |-|
 |וַיְכַל־בַּהֶבֶל 1|
-|wEyExElE־EbEhEvElE|
+|waysvxal־bahevel|
 
  * אם־יכין 1: 
 
 |אִם־יָכִין 1|
 |-|
 |אִם־יָכִין 1|
-|'EmE־EyExEyEnE|
+|'im־yAxiyn|
 
  * יחוגו 1: 
 
 |יָחוֹגּוּ 1|
 |-|
 |יָחוֹֹגוּ 1|
-|yEHEwEgEuE|
+|yAHwogu|
 
  * שם־אהל 1: 
 
 |שָׂם־אֹהֶל 1|
 |-|
 |שָׂם־אֹהֶל 1|
-|SEmE־E'EhElE|
+|SAm־'ohel|
 
  * נחית 1: 
 
 |נָחִיתָ 1|
 |-|
 |נָחִיתָ 1|
-|nEHEyEtE|
+|nAHiytA|
 
  * ותמס 1: 
 
 |וַתֶּמֶס 1|
 |-|
 |וַתֶמֶס 1|
-|wEtEmEsE|
+|watemes|
 
  * עדי 1: 
 
 |עֵדֵי 1|
 |-|
 |עֵדֵי 1|
-|ɣEdEyE|
+|ɣEdEy|
 
  * שנימו 1: 
 
 |שִׁנֵּימוֹ 1|
 |-|
 |שִׁנֵימוֹֹ 1|
-|šEnEyEmEwE|
+|šinEymwo|
 
  * כי־מי 1: 
 
 |כִּי־מִי 1|
 |-|
 |כִּי־מִי 1|
-|kEyE־EmEyE|
+|kiy־miy|
 
  * סמכני 1: 
 
 |סָמְכֵנִי 1|
 |-|
 |סָמְכֵנִי 1|
-|sEmExEnEyE|
+|sAmsvxEniy|
 
  * מפתיו 1: 
 
 |מֹפְתָיו 1|
 |-|
 |מֹפְתָיו 1|
-|mEfEtEyEwE|
+|mofsvtAyw|
 
  * תאמרו 1: 
 
 |תֹּאמְרוּ 1|
 |-|
 |תֹאמְרוּ 1|
-|tE'EmErEuE|
+|to'msvru|
 
  * יהלל־פי 1: 
 
 |יְהַלֶּל־פִּי 1|
 |-|
 |יְהַלֶל־פִּי 1|
-|yEhElElE־EpEyE|
+|ysvhalel־piy|
 
  * נעורי 1: 
 
 |נְעוּרַי 1|
 |-|
 |נְעוּרַי 1|
-|nEɣEuErEyE|
+|nsvɣuray|
 
  * תצרני 1: 
 
 |תִּצְּרֵנִי 1|
 |-|
 |תִצְרֵנִי 1|
-|tEcErEnEyE|
+|ticsvrEniy|
 
  * טהרני 1: 
 
 |טַהֲרֵנִי 1|
 |-|
 |טַהֲרֵנִי 1|
-|TEhErEnEyE|
+|TaharEniy|
 
  * על־כפים 1: 
 
 |עַל־כַּפַּיִם 1|
 |-|
 |עַל־כַּפַּיִם 1|
-|ɣElE־EkEpEyEmE|
+|ɣal־kapayim|
 
  * בכי 1: 
 
 |בֶּכִי 1|
 |-|
 |בֶּכִי 1|
-|bExEyE|
+|bexiy|
 
  * ראשנים 1: 
 
 |רִאשֹׁנִים 1|
 |-|
 |רִאשֹׁנִים 1|
-|rE'EšEnEyEmE|
+|ri'šoniym|
 
  * ותרעד 1: 
 
 |וַתִּרְעָד 1|
 |-|
 |וַתִרְעָד 1|
-|wEtErEɣEdE|
+|watirsvɣAd|
 
  * בליעל 1: 
 
 |בְלִיַּעַל 1|
 |-|
 |בְלִיַעַל 1|
-|vElEyEɣElE|
+|vsvliyaɣal|
 
  * בעזרתי 1: 
 
 |בְּעֶזְרָתִי 1|
 |-|
 |בְּעֶזְרָתִי 1|
-|bEɣEzErEtEyE|
+|bsvɣezsvrAtiy|
 
  * כל־אויביו 1: 
 
 |כָּל־אוֹיְבָיו 1|
 |-|
 |כָּל־אוֹֹיְבָיו 1|
-|kElE־E'EwEyEvEyEwE|
+|kAl־'woysvvAyw|
 
  * משחך 1: 
 
 |מְשָׁחֲךָ 1|
 |-|
 |מְשָׁחֲךָ 1|
-|mEšEHExE|
+|msvšAHaxA|
 
  * יחרק 1: 
 
 |יַחֲרֹק 1|
 |-|
 |יַחֲרֹק 1|
-|yEHErEqE|
+|yaHaroq|
 
  * בכורי 1: 
 
 |בְּכוֹרֵי 1|
 |-|
 |בְּכוֹֹרֵי 1|
-|bExEwErEyE|
+|bsvxworEy|
 
  * מאחר 1: 
 
 |מֵאַחַר 1|
 |-|
 |מֵאַחַר 1|
-|mE'EHErE|
+|mE'aHar|
 
  * לכל־חטאותי 1: 
 
 |לְכָל־חַטֹּאותָי 1|
 |-|
 |לְכָל־חַטֹאותָי 1|
-|lExElE־EHETE'EwEtEyE|
+|lsvxAl־HaTo'wtAy|
 
  * אבותם 1: 
 
 |אֲבוֹתָם 1|
 |-|
 |אֲבוֹֹתָם 1|
-|'EvEwEtEmE|
+|'avwotAm|
 
  * ויתומים 1: 
 
 |וִיתוֹמִים 1|
 |-|
 |וִיתוֹֹמִים 1|
-|wEyEtEwEmEyEmE|
+|wiytwomiym|
 
  * וידריכם 1: 
 
 |וַיַּדְרִיכֵם 1|
 |-|
 |וַיַדְרִיכֵם 1|
-|wEyEdErEyExEmE|
+|wayadsvriyxEm|
 
  * כל־צבאו 1: 
 
 |כָּל־צבאו 1|
 |-|
 |כָּל־צבאו 1|
-|kElE־EcEvE'EwE|
+|kAl־cv'w|
 
  * דמן 1: 
 
 |דֹּמֶן 1|
 |-|
 |דֹמֶן 1|
-|dEmEnE|
+|domen|
 
  * אף־יהוה 1: 
 
 |אַף־יְהוָה 1|
 |-|
 |אַף־יְהוָה 1|
-|'EfE־EyEhEwEhE|
+|'af־ysvhwAh|
 
  * תושיבני 1: 
 
 |תּוֹשִׁיבֵנִי 1|
 |-|
 |תוֹֹשִׁיבֵנִי 1|
-|tEwEšEyEvEnEyE|
+|twošiyvEniy|
 
  * שכנה־לה 1: 
 
 |שָׁכְנָה־לָּהּ 1|
 |-|
 |שָׁכְנָה־לָה 1|
-|šExEnEhE־ElEhE|
+|šAxsvnAh־lAh|
 
  * ויעצמהו 1: 
 
 |וַיַּעֲצִמֵהוּ 1|
 |-|
 |וַיַעֲצִמֵהוּ 1|
-|wEyEɣEcEmEhEuE|
+|wayaɣacimEhu|
 
  * לריבי 1: 
 
 |לְרִיבִי 1|
 |-|
 |לְרִיבִי 1|
-|lErEyEvEyE|
+|lsvriyviy|
 
  * כלי־מות 1: 
 
 |כְּלֵי־מָוֶת 1|
 |-|
 |כְּלֵי־מָוֶת 1|
-|kElEyE־EmEwEtE|
+|ksvlEy־mAwet|
 
  * עזבו 1: 
 
 |עֲזָבוֹ 1|
 |-|
 |עֲזָבוֹֹ 1|
-|ɣEzEvEwE|
+|ɣazAvwo|
 
  * עזבי 1: 
 
 |עֹזְבֵי 1|
 |-|
 |עֹזְבֵי 1|
-|ɣEzEvEyE|
+|ɣozsvvEy|
 
  * תצמח 1: 
 
 |תִּצְמָח 1|
 |-|
 |תִצְמָח 1|
-|tEcEmEHE|
+|ticsvmAH|
 
  * התוו 1: 
 
 |הִתְווּ 1|
 |-|
 |הִתְווּ 1|
-|hEtEwEuE|
+|hitsvwu|
 
  * ומנהר 1: 
 
 |וּמִנָּהָר 1|
 |-|
 |וּמִנָהָר 1|
-|uEmEnEhErE|
+|uminAhAr|
 
  * במות 1: 
 
 |בַּמָּוֶת 1|
 |-|
 |בַּמָוֶת 1|
-|bEmEwEtE|
+|bamAwet|
 
  * וראי 1: 
 
 |וּרְאִי 1|
 |-|
 |וּרְאִי 1|
-|uErE'EyE|
+|ursv'iy|
 
  * סמכה 1: 
 
 |סָמְכָה 1|
 |-|
 |סָמְכָה 1|
-|sEmExEhE|
+|sAmsvxAh|
 
  * [ידכה] 1: 
 
 |[יִדְכֶּה] 1|
 |-|
 |[יִדְכֶּה] 1|
-|[EyEdEkEhE]E|
+|[yidsvkeh]|
 
  * לספותה 1: 
 
 |לִסְפּוֹתָהּ 1|
 |-|
 |לִסְפּוֹֹתָה 1|
-|lEsEpEwEtEhE|
+|lissvpwotAh|
 
  * נזהר 1: 
 
 |נִזְהָר 1|
 |-|
 |נִזְהָר 1|
-|nEzEhErE|
+|nizsvhAr|
 
  * תבואה 1: 
 
 |תְבוּאָה 1|
 |-|
 |תְבוּאָה 1|
-|tEvEuE'EhE|
+|tsvvu'Ah|
 
  * שבחוהו 1: 
 
 |שַׁבְּחוּהוּ 1|
 |-|
 |שַׁבְּחוּהוּ 1|
-|šEbEHEuEhEuE|
+|šabsvHuhu|
 
  * פתחו־לי 1: 
 
 |פִּתְחוּ־לִי 1|
 |-|
 |פִּתְחוּ־לִי 1|
-|pEtEHEuE־ElEyE|
+|pitsvHu־liy|
 
  * בעולתה 1: 
 
 |בְּעַוְלָתָה 1|
 |-|
 |בְּעַוְלָתָה 1|
-|bEɣEwElEtEhE|
+|bsvɣawsvlAtAh|
 
  * אביעה 1: 
 
 |אַבִּיעָה 1|
 |-|
 |אַבִּיעָה 1|
-|'EbEyEɣEhE|
+|'abiyɣAh|
 
  * ברדתי 1: 
 
 |בְּרִדְתִּי 1|
 |-|
 |בְּרִדְתִי 1|
-|bErEdEtEyE|
+|bsvridsvtiy|
 
  * המביט 1: 
 
 |הַמַּבִּיט 1|
 |-|
 |הַמַבִּיט 1|
-|hEmEbEyETE|
+|hamabiyT|
 
  * דרך־מצותיך 1: 
 
 |דֶּרֶךְ־מִצְוֺתֶיךָ 1|
 |-|
 |דֶרֶךְ־מִצְוֺתֶיךָ 1|
-|dErExE־EmEcEwEtEyExE|
+|derexsv־micsvw_o_teyxA|
 
  * מעל־שמים 1: 
 
 |מֵעַל־שָׁמַיִם 1|
 |-|
 |מֵעַל־שָׁמַיִם 1|
-|mEɣElE־EšEmEyEmE|
+|mEɣal־šAmayim|
 
  * כי־יבא 1: 
 
 |כִּי־יָבֹא 1|
 |-|
 |כִּי־יָבֹא 1|
-|kEyE־EyEvE'E|
+|kiy־yAvo'|
 
  * יעודד 1: 
 
 |יְעוֹדֵד 1|
 |-|
 |יְעוֹֹדֵד 1|
-|yEɣEwEdEdE|
+|ysvɣwodEd|
 
  * ושאו 1: 
 
 |וּשְׂאוּ 1|
 |-|
 |וּשְׂאוּ 1|
-|uESE'EuE|
+|uSsv'u|
 
  * הנה־באתי 1: 
 
 |הִנֵּה־בָאתִי 1|
 |-|
 |הִנֵה־בָאתִי 1|
-|hEnEhE־EvE'EtEyE|
+|hinEh־vA'tiy|
 
  * הורתני 1: 
 
 |הוֹרֵתָנִי 1|
 |-|
 |הוֹֹרֵתָנִי 1|
-|hEwErEtEnEyE|
+|hworEtAniy|
 
  * בסמכי 1: 
 
 |בְּסֹמְכֵי 1|
 |-|
 |בְּסֹמְכֵי 1|
-|bEsEmExEyE|
+|bsvsomsvxEy|
 
  * בחנמל 1: 
 
 |בַּחֲנָמַל 1|
 |-|
 |בַּחֲנָמַל 1|
-|bEHEnEmElE|
+|baHanAmal|
 
  * יחסיון 1: 
 
 |יֶחֱסָיוּן 1|
 |-|
 |יֶחֱסָיוּן 1|
-|yEHEsEyEuEnE|
+|yeHesAyun|
 
  * יתפשו 1: 
 
 |יִתָּפְשׂוּ 1|
 |-|
 |יִתָפְשׂוּ 1|
-|yEtEfESEuE|
+|yitAfsvSu|
 
  * מחכימת 1: 
 
 |מַחְכִּימַת 1|
 |-|
 |מַחְכִּימַת 1|
-|mEHEkEyEmEtE|
+|maHsvkiymat|
 
  * הליכות 1: 
 
 |הֲלִיכוֹת 1|
 |-|
 |הֲלִיכוֹֹת 1|
-|hElEyExEwEtE|
+|haliyxwot|
 
  * יעצו 1: 
 
 |יָעֲצוּ 1|
 |-|
 |יָעֲצוּ 1|
-|yEɣEcEuE|
+|yAɣacu|
 
  * תנה־עון 1: 
 
 |תְּנָה־עָוֺן 1|
 |-|
 |תְנָה־עָוֺן 1|
-|tEnEhE־EɣEwEnE|
+|tsvnAh־ɣAw_o_n|
 
  * רקדו 1: 
 
 |רָקְדוּ 1|
 |-|
 |רָקְדוּ 1|
-|rEqEdEuE|
+|rAqsvdu|
 
  * ערשי 1: 
 
 |עַרְשִׂי 1|
 |-|
 |עַרְשִׂי 1|
-|ɣErESEyE|
+|ɣarsvSiy|
 
  * בדמעות 1: 
 
 |בִּדְמָעוֹת 1|
 |-|
 |בִּדְמָעוֹֹת 1|
-|bEdEmEɣEwEtE|
+|bidsvmAɣwot|
 
  * הורשת 1: 
 
 |הוֹרַשְׁתָּ 1|
 |-|
 |הוֹֹרַשְׁתָ 1|
-|hEwErEšEtE|
+|hworašsvtA|
 
  * מחרף 1: 
 
 |מְחָרֵף 1|
 |-|
 |מְחָרֵף 1|
-|mEHErEfE|
+|msvHArEf|
 
  * את־נבלת 1: 
 
 |אֶת־נִבְלַת 1|
 |-|
 |אֶת־נִבְלַת 1|
-|'EtE־EnEvElEtE|
+|'et־nivsvlat|
 
  * ואלמדה 1: 
 
 |וְאֶלְמְדָה 1|
 |-|
 |וְאֶלְמְדָה 1|
-|wE'ElEmEdEhE|
+|wsv'elsvmsvdAh|
 
  * בשעריך 1: 
 
 |בִּשְׁעָרַיִךְ 1|
 |-|
 |בִּשְׁעָרַיִךְ 1|
-|bEšEɣErEyExE|
+|bišsvɣArayixsv|
 
  * נכלם 1: 
 
 |נִכְלָם 1|
 |-|
 |נִכְלָם 1|
-|nExElEmE|
+|nixsvlAm|
 
  * מביתך 1: 
 
 |מִבֵּיתְךָ 1|
 |-|
 |מִבֵּיתְךָ 1|
-|mEbEyEtExE|
+|mibEytsvxA|
 
  * כי־חסו 1: 
 
 |כִּי־חָסוּ 1|
 |-|
 |כִּי־חָסוּ 1|
-|kEyE־EHEsEuE|
+|kiy־HAsu|
 
  * שמחתני 1: 
 
 |שִׂמַּחְתַּנִי 1|
 |-|
 |שִׂמַחְתַנִי 1|
-|SEmEHEtEnEyE|
+|SimaHsvtaniy|
 
  * ובריחי 1: 
 
 |וּבְרִיחֵי 1|
 |-|
 |וּבְרִיחֵי 1|
-|uEvErEyEHEyE|
+|uvsvriyHEy|
 
  * יצליח 1: 
 
 |יַצְלִיחַ 1|
 |-|
 |יַצְלִיחַ 1|
-|yEcElEyEHE|
+|yacsvliyHa|
 
  * בן־ימיני 1: 
 
 |בֶּן־יְמִינִי 1|
 |-|
 |בֶּן־יְמִינִי 1|
-|bEnE־EyEmEyEnEyE|
+|ben־ysvmiyniy|
 
  * ממוצא 1: 
 
 |מִמּוֹצָא 1|
 |-|
 |מִמוֹֹצָא 1|
-|mEmEwEcE'E|
+|mimwocA'|
 
  * מקטב 1: 
 
 |מִקֶּטֶב 1|
 |-|
 |מִקֶטֶב 1|
-|mEqETEvE|
+|miqeTev|
 
  * דעו 1: 
 
 |דְּעוּ 1|
 |-|
 |דְעוּ 1|
-|dEɣEuE|
+|dsvɣu|
 
  * שערי־צדק 1: 
 
 |שַׁעֲרֵי־צֶדֶק 1|
 |-|
 |שַׁעֲרֵי־צֶדֶק 1|
-|šEɣErEyE־EcEdEqE|
+|šaɣarEy־cedeq|
 
  * את־הר 1: 
 
 |אֶת־הַר 1|
 |-|
 |אֶת־הַר 1|
-|'EtE־EhErE|
+|'et־har|
 
  * והאזין 1: 
 
 |וְהַאֲזִין 1|
 |-|
 |וְהַאֲזִין 1|
-|wEhE'EzEyEnE|
+|wsvha'aziyn|
 
  * דחו 1: 
 
 |דֹּחוּ 1|
 |-|
 |דֹחוּ 1|
-|dEHEuE|
+|doHu|
 
  * אחלצהו 1: 
 
 |אֲחַלְּצֵהוּ 1|
 |-|
 |אֲחַלְצֵהוּ 1|
-|'EHElEcEhEuE|
+|'aHalsvcEhu|
 
  * קצירה 1: 
 
 |קְצִירֶהָ 1|
 |-|
 |קְצִירֶהָ 1|
-|qEcEyErEhE|
+|qsvciyrehA|
 
  * שבריה 1: 
 
 |שְׁבָרֶיהָ 1|
 |-|
 |שְׁבָרֶיהָ 1|
-|šEvErEyEhE|
+|šsvvAreyhA|
 
  * גם־אל 1: 
 
 |גַּם־אֵל 1|
 |-|
 |גַם־אֵל 1|
-|gEmE־E'ElE|
+|gam־'El|
 
  * אקראך 1: 
 
 |אֶקְרָאֶךָּ 1|
 |-|
 |אֶקְרָאֶךָּ 1|
-|'EqErE'EkE|
+|'eqsvrA'ekA|
 
  * ותחולל 1: 
 
 |וַתְּחוֹלֵל 1|
 |-|
 |וַתְחוֹֹלֵל 1|
-|wEtEHEwElElE|
+|watsvHwolEl|
 
  * איכה 1: 
 
 |אֵיכָה 1|
 |-|
 |אֵיכָה 1|
-|'EyExEhE|
+|'EyxAh|
 
  * נבהל 1: 
 
 |נִבְהָל 1|
 |-|
 |נִבְהָל 1|
-|nEvEhElE|
+|nivsvhAl|
 
  * לחסים 1: 
 
 |לַחֹסִים 1|
 |-|
 |לַחֹסִים 1|
-|lEHEsEyEmE|
+|laHosiym|
 
  * כשה 1: 
 
 |כְּשֶׂה 1|
 |-|
 |כְּשֶׂה 1|
-|kESEhE|
+|ksvSeh|
 
  * יודה־לך 1: 
 
 |יוֹדֶה־לָּךְ 1|
 |-|
 |יוֹֹדֶה־לָךְ 1|
-|yEwEdEhE־ElExE|
+|ywodeh־lAxsv|
 
  * כיבין 1: 
 
 |כְיָבִין 1|
 |-|
 |כְיָבִין 1|
-|xEyEvEyEnE|
+|xsvyAviyn|
 
  * נשמטו 1: 
 
 |נִשְׁמְטוּ 1|
 |-|
 |נִשְׁמְטוּ 1|
-|nEšEmETEuE|
+|nišsvmsvTu|
 
  * במרעים 1: 
 
 |בַּמְּרֵעִים 1|
 |-|
 |בַּמְרֵעִים 1|
-|bEmErEɣEyEmE|
+|bamsvrEɣiym|
 
  * מנשמת 1: 
 
 |מִנִּשְׁמַת 1|
 |-|
 |מִנִשְׁמַת 1|
-|mEnEšEmEtE|
+|minišsvmat|
 
  * קרבות 1: 
 
 |קְרָבוֹת 1|
 |-|
 |קְרָבוֹֹת 1|
-|qErEvEwEtE|
+|qsvrAvwot|
 
  * למידעי 1: 
 
 |לִמְיֻדָּעָי 1|
 |-|
 |לִמְיֻדָעָי 1|
-|lEmEyEdEɣEyE|
+|limsvyudAɣAy|
 
  * אלינו 1: 
 
 |אֵלֵינוּ 1|
 |-|
 |אֵלֵינוּ 1|
-|'ElEyEnEuE|
+|'ElEynu|
 
  * את־כל־אהביו 1: 
 
 |אֶת־כָּל־אֹהֲבָיו 1|
 |-|
 |אֶת־כָּל־אֹהֲבָיו 1|
-|'EtE־EkElE־E'EhEvEyEwE|
+|'et־kAl־'ohavAyw|
 
  * הניא 1: 
 
 |הֵנִיא 1|
 |-|
 |הֵנִיא 1|
-|hEnEyE'E|
+|hEniy'|
 
  * כי־אחיה 1: 
 
 |כִּי־אֶחְיֶה 1|
 |-|
 |כִּי־אֶחְיֶה 1|
-|kEyE־E'EHEyEhE|
+|kiy־'eHsvyeh|
 
  * אשחה 1: 
 
 |אַשְׂחֶה 1|
 |-|
 |אַשְׂחֶה 1|
-|'ESEHEhE|
+|'aSsvHeh|
 
  * וכלהבה 1: 
 
 |וּכְלֶהָבָה 1|
 |-|
 |וּכְלֶהָבָה 1|
-|uExElEhEvEhE|
+|uxsvlehAvAh|
 
  * הרודד 1: 
 
 |הָרוֹדֵד 1|
 |-|
 |הָרוֹֹדֵד 1|
-|hErEwEdEdE|
+|hArwodEd|
 
  * שפך־עליהם 1: 
 
 |שְׁפָךְ־עֲלֵיהֶם 1|
 |-|
 |שְׁפָךְ־עֲלֵיהֶם 1|
-|šEfExE־EɣElEyEhEmE|
+|šsvfAxsv־ɣalEyhem|
 
  * נרדם 1: 
 
 |נִרְדָּם 1|
 |-|
 |נִרְדָם 1|
-|nErEdEmE|
+|nirsvdAm|
 
  * לשלחנך 1: 
 
 |לְשֻׁלְחָנֶךָ 1|
 |-|
 |לְשֻׁלְחָנֶךָ 1|
-|lEšElEHEnExE|
+|lsvšulsvHAnexA|
 
  * את־כבודך 1: 
 
 |אֶת־כְּבוֹדֶךָ 1|
 |-|
 |אֶת־כְּבוֹֹדֶךָ 1|
-|'EtE־EkEvEwEdExE|
+|'et־ksvvwodexA|
 
  * ישעשעו 1: 
 
 |יְשַׁעַשְׁעוּ 1|
 |-|
 |יְשַׁעַשְׁעוּ 1|
-|yEšEɣEšEɣEuE|
+|ysvšaɣašsvɣu|
 
  * ספו 1: 
 
 |סָפוּ 1|
 |-|
 |סָפוּ 1|
-|sEfEuE|
+|sAfu|
 
  * וגפרית 1: 
 
 |וְגָפְרִית 1|
 |-|
 |וְגָפְרִית 1|
-|wEgEfErEyEtE|
+|wsvgAfsvriyt|
 
  * ברה 1: 
 
 |בָּרָה 1|
 |-|
 |בָּרָה 1|
-|bErEhE|
+|bArAh|
 
  * כל־מנחתך 1: 
 
 |כָּל־מִנְחֹתֶךָ 1|
 |-|
 |כָּל־מִנְחֹתֶךָ 1|
-|kElE־EmEnEHEtExE|
+|kAl־minsvHotexA|
 
  * ילך 1: 
 
 |יֵלֵךְ 1|
 |-|
 |יֵלֵךְ 1|
-|yElExE|
+|yElExsv|
 
  * עשו 1: 
 
 |עָשׂוּ 1|
 |-|
 |עָשׂוּ 1|
-|ɣESEuE|
+|ɣASu|
 
  * אונים 1: 
 
 |אוֹנִים 1|
 |-|
 |אוֹֹנִים 1|
-|'EwEnEyEmE|
+|'woniym|
 
  * האויב 1: 
 
 |הָאוֹיֵב 1|
 |-|
 |הָאוֹֹיֵב 1|
-|hE'EwEyEvE|
+|hA'woyEv|
 
  * תבער־יער 1: 
 
 |תִּבְעַר־יָעַר 1|
 |-|
 |תִבְעַר־יָעַר 1|
-|tEvEɣErE־EyEɣErE|
+|tivsvɣar־yAɣar|
 
  * משחתיו 1: 
 
 |מְשַׁחְתִּיו 1|
 |-|
 |מְשַׁחְתִיו 1|
-|mEšEHEtEyEwE|
+|msvšaHsvtiyw|
 
  * וירקידם 1: 
 
 |וַיַּרְקִידֵם 1|
 |-|
 |וַיַרְקִידֵם 1|
-|wEyErEqEyEdEmE|
+|wayarsvqiydEm|
 
  * נושה 1: 
 
 |נוֹשֶׁה 1|
 |-|
 |נוֹֹשֶׁה 1|
-|nEwEšEhE|
+|nwošeh|
 
  * עם־לבבי 1: 
 
 |עִם־לְבָבִי 1|
 |-|
 |עִם־לְבָבִי 1|
-|ɣEmE־ElEvEvEyE|
+|ɣim־lsvvAviy|
 
  * ילעגו 1: 
 
 |יַלְעִגוּ 1|
 |-|
 |יַלְעִגוּ 1|
-|yElEɣEgEuE|
+|yalsvɣigu|
 
  * בשמרם 1: 
 
 |בְּשָׁמְרָם 1|
 |-|
 |בְּשָׁמְרָם 1|
-|bEšEmErEmE|
+|bsvšAmsvrAm|
 
  * וישא 1: 
 
 |וַיִּשָּׂא 1|
 |-|
 |וַיִשָׂא 1|
-|wEyESE'E|
+|wayiSA'|
 
  * הרעים 1: 
 
 |הִרְעִים 1|
 |-|
 |הִרְעִים 1|
-|hErEɣEyEmE|
+|hirsvɣiym|
 
  * אותה 1: 
 
 |אוֹתָהּ 1|
 |-|
 |אוֹֹתָה 1|
-|'EwEtEhE|
+|'wotAh|
 
  * יגרתי 1: 
 
 |יָגֹרְתִּי 1|
 |-|
 |יָגֹרְתִי 1|
-|yEgErEtEyE|
+|yAgorsvtiy|
 
  * זלעפות 1: 
 
 |זִלְעָפוֹת 1|
 |-|
 |זִלְעָפוֹֹת 1|
-|zElEɣEfEwEtE|
+|zilsvɣAfwot|
 
  * את־דבר 1: 
 
 |אֶת־דְּבַר 1|
 |-|
 |אֶת־דְבַר 1|
-|'EtE־EdEvErE|
+|'et־dsvvar|
 
  * ממשבצות 1: 
 
 |מִמִּשְׁבְּצוֹת 1|
 |-|
 |מִמִשְׁבְּצוֹֹת 1|
-|mEmEšEbEcEwEtE|
+|mimišsvbsvcwot|
 
  * דמית 1: 
 
 |דִּמִּיתָ 1|
 |-|
 |דִמִיתָ 1|
-|dEmEyEtE|
+|dimiytA|
 
  * וילמדו 1: 
 
 |וַיִּלְמְדוּ 1|
 |-|
 |וַיִלְמְדוּ 1|
-|wEyElEmEdEuE|
+|wayilsvmsvdu|
 
  * אל־ארץ 1: 
 
 |אֶל־אֶרֶץ 1|
 |-|
 |אֶל־אֶרֶץ 1|
-|'ElE־E'ErEcE|
+|'el־'erec|
 
  * בשנאי 1: 
 
 |בְשֹׂנְאָי 1|
 |-|
 |בְשֹׂנְאָי 1|
-|vESEnE'EyE|
+|vsvSonsv'Ay|
 
  * איעצה 1: 
 
 |אִיעֲצָה 1|
 |-|
 |אִיעֲצָה 1|
-|'EyEɣEcEhE|
+|'iyɣacAh|
 
  * לרבים 1: 
 
 |לְרַבִּים 1|
 |-|
 |לְרַבִּים 1|
-|lErEbEyEmE|
+|lsvrabiym|
 
  * אל־תט־באף 1: 
 
 |אַל־תַּט־בְּאַף 1|
 |-|
 |אַל־תַט־בְּאַף 1|
-|'ElE־EtETE־EbE'EfE|
+|'al־taT־bsv'af|
 
  * החשיתי 1: 
 
 |הֶחֱשֵׁיתִי 1|
 |-|
 |הֶחֱשֵׁיתִי 1|
-|hEHEšEyEtEyE|
+|heHešEytiy|
 
  * וקצץ 1: 
 
 |וְקִצֵּץ 1|
 |-|
 |וְקִצֵץ 1|
-|wEqEcEcE|
+|wsvqicEc|
 
  * חפרו 1: 
 
 |חָפְרוּ 1|
 |-|
 |חָפְרוּ 1|
-|HEfErEuE|
+|HAfsvru|
 
  * חייך 1: 
 
 |חַיֶּיךָ 1|
 |-|
 |חַיֶיךָ 1|
-|HEyEyExE|
+|HayeyxA|
 
  * כעסך 1: 
 
 |כַּעַסְךָ 1|
 |-|
 |כַּעַסְךָ 1|
-|kEɣEsExE|
+|kaɣassvxA|
 
  * רוחם 1: 
 
 |רוּחָם 1|
 |-|
 |רוּחָם 1|
-|rEuEHEmE|
+|ruHAm|
 
  * חשתי 1: 
 
 |חַשְׁתִּי 1|
 |-|
 |חַשְׁתִי 1|
-|HEšEtEyE|
+|Hašsvtiy|
 
  * סגים 1: 
 
 |סִגִים 1|
 |-|
 |סִגִים 1|
-|sEgEyEmE|
+|sigiym|
 
  * ממשלתו 1: 
 
 |מֶמְשַׁלְתּוֹ 1|
 |-|
 |מֶמְשַׁלְתוֹֹ 1|
-|mEmEšElEtEwE|
+|memsvšalsvtwo|
 
  * ואין־מושיע 1: 
 
 |וְאֵין־מוֹשִׁיעַ 1|
 |-|
 |וְאֵין־מוֹֹשִׁיעַ 1|
-|wE'EyEnE־EmEwEšEyEɣE|
+|wsv'Eyn־mwošiyɣa|
 
  * ברחבתינו 1: 
 
 |בִּרְחֹבֹתֵינוּ 1|
 |-|
 |בִּרְחֹבֹתֵינוּ 1|
-|bErEHEvEtEyEnEuE|
+|birsvHovotEynu|
 
  * בחרבם 1: 
 
 |בְחַרְבָּם 1|
 |-|
 |בְחַרְבָּם 1|
-|vEHErEbEmE|
+|vsvHarsvbAm|
 
  * ואל־ישובו 1: 
 
 |וְאַל־יָשׁוּבוּ 1|
 |-|
 |וְאַל־יָשׁוּבוּ 1|
-|wE'ElE־EyEšEuEvEuE|
+|wsv'al־yAšuvu|
 
  * עד־נצח 1: 
 
 |עַד־נֵצַח 1|
 |-|
 |עַד־נֵצַח 1|
-|ɣEdE־EnEcEHE|
+|ɣad־nEcaH|
 
  * ושבו 1: 
 
 |וְשָׁבוּ 1|
 |-|
 |וְשָׁבוּ 1|
-|wEšEvEuE|
+|wsvšAvu|
 
  * נאם־פשע 1: 
 
 |נְאֻם־פֶּשַׁע 1|
 |-|
 |נְאֻם־פֶּשַׁע 1|
-|nE'EmE־EpEšEɣE|
+|nsv'um־pešaɣ|
 
  * כי־נפל 1: 
 
 |כִּי־נָפַל 1|
 |-|
 |כִּי־נָפַל 1|
-|kEyE־EnEfElE|
+|kiy־nAfal|
 
  * וינקשו 1: 
 
 |וַיְנַקְשׁוּ 1|
 |-|
 |וַיְנַקְשׁוּ 1|
-|wEyEnEqEšEuE|
+|waysvnaqsvšu|
 
  * בשואה 1: 
 
 |בְּשׁוֹאָה 1|
 |-|
 |בְּשׁוֹֹאָה 1|
-|bEšEwE'EhE|
+|bsvšwo'Ah|
 
  * חוללתי 1: 
 
 |חוֹלָלְתִּי 1|
 |-|
 |חוֹֹלָלְתִי 1|
-|HEwElElEtEyE|
+|HwolAlsvtiy|
 
  * לשדים 1: 
 
 |לַשֵּׁדִים 1|
 |-|
 |לַשֵׁדִים 1|
-|lEšEdEyEmE|
+|lašEdiym|
 
  * נמלטנו 1: 
 
 |נִמְלָטְנוּ 1|
 |-|
 |נִמְלָטְנוּ 1|
-|nEmElETEnEuE|
+|nimsvlATsvnu|
 
  * יבחר־לנו 1: 
 
 |יִבְחַר־לָנוּ 1|
 |-|
 |יִבְחַר־לָנוּ 1|
-|yEvEHErE־ElEnEuE|
+|yivsvHar־lAnu|
 
  * את־בחיריו 1: 
 
 |אֶת־בְּחִירָיו 1|
 |-|
 |אֶת־בְּחִירָיו 1|
-|'EtE־EbEHEyErEyEwE|
+|'et־bsvHiyrAyw|
 
  * בכל־דור 1: 
 
 |בְּכָל־דּוֹר 1|
 |-|
 |בְּכָל־דוֹֹר 1|
-|bExElE־EdEwErE|
+|bsvxAl־dwor|
 
  * יושיעני 1: 
 
 |יוֹשִׁיעֵנִי 1|
 |-|
 |יוֹֹשִׁיעֵנִי 1|
-|yEwEšEyEɣEnEyE|
+|ywošiyɣEniy|
 
  * אמצתה 1: 
 
 |אִמַּצְתָּה 1|
 |-|
 |אִמַצְתָה 1|
-|'EmEcEtEhE|
+|'imacsvtAh|
 
  * ברוך־יהוה 1: 
 
 |בָּרוּךְ־יְהוָה 1|
 |-|
 |בָּרוּךְ־יְהוָה 1|
-|bErEuExE־EyEhEwEhE|
+|bAruxsv־ysvhwAh|
 
  * ובכל־עבדיו 1: 
 
 |וּבְכָל־עֲבָדָיו 1|
 |-|
 |וּבְכָל־עֲבָדָיו 1|
-|uEvExElE־EɣEvEdEyEwE|
+|uvsvxAl־ɣavAdAyw|
 
  * למשואות 1: 
 
 |לְמַשּׁוּאוֹת 1|
 |-|
 |לְמַשׁוּאוֹֹת 1|
-|lEmEšEuE'EwEtE|
+|lsvmašu'wot|
 
  * ויעשו 1: 
 
 |וַיַּעֲשׂוּ 1|
 |-|
 |וַיַעֲשׂוּ 1|
-|wEyEɣESEuE|
+|wayaɣaSu|
 
  * ברעב 1: 
 
 |בָּרָעָב 1|
 |-|
 |בָּרָעָב 1|
-|bErEɣEvE|
+|bArAɣAv|
 
  * שוטני 1: 
 
 |שׂוֹטְנַי 1|
 |-|
 |שׂוֹֹטְנַי 1|
-|SEwETEnEyE|
+|SwoTsvnay|
 
  * כי־תקדמנו 1: 
 
 |כִּי־תְקַדְּמֶנּוּ 1|
 |-|
 |כִּי־תְקַדְמֶנוּ 1|
-|kEyE־EtEqEdEmEnEuE|
+|kiy־tsvqadsvmenu|
 
  * זעם 1: 
 
 |זֹעֵם 1|
 |-|
 |זֹעֵם 1|
-|zEɣEmE|
+|zoɣEm|
 
  * בציה 1: 
 
 |בַּצִּיָּה 1|
 |-|
 |בַּצִיָה 1|
-|bEcEyEhE|
+|baciyAh|
 
  * בלתי 1: 
 
 |בַּלֹּתִי 1|
 |-|
 |בַּלֹתִי 1|
-|bElEtEyE|
+|balotiy|
 
  * ברכנוכם 1: 
 
 |בֵּרַכְנוּכֶם 1|
 |-|
 |בֵּרַכְנוּכֶם 1|
-|bErExEnEuExEmE|
+|bEraxsvnuxem|
 
  * ומטיב 1: 
 
 |וּמֵטִיב 1|
 |-|
 |וּמֵטִיב 1|
-|uEmETEyEvE|
+|umETiyv|
 
  * וזרועך 1: 
 
 |וּזְרוֹעֲךָ 1|
 |-|
 |וּזְרוֹֹעֲךָ 1|
-|uEzErEwEɣExE|
+|uzsvrwoɣaxA|
 
  * הנתן 1: 
 
 |הַנֹּתֵן 1|
 |-|
 |הַנֹתֵן 1|
-|hEnEtEnE|
+|hanotEn|
 
  * בשיר 1: 
 
 |בְּשִׁיר 1|
 |-|
 |בְּשִׁיר 1|
-|bEšEyErE|
+|bsvšiyr|
 
  * צרותיו 1: 
 
 |צָרוֹתָיו 1|
 |-|
 |צָרוֹֹתָיו 1|
-|cErEwEtEyEwE|
+|cArwotAyw|
 
  * וקוה 1: 
 
 |וְקַוֵּה 1|
 |-|
 |וְקַוֵּה 1|
-|wEqEuEhE|
+|wsvqauEh|
 
  * בזקים 1: 
 
 |בְּזִקִּים 1|
 |-|
 |בְּזִקִים 1|
-|bEzEqEyEmE|
+|bsvziqiym|
 
  * שמוך 1: 
 
 |שָׂמוּךָ 1|
 |-|
 |שָׂמוּךָ 1|
-|SEmEuExE|
+|SAmuxA|
 
  * לא־הושיעה 1: 
 
 |לֹא־הוֹשִׁיעָה 1|
 |-|
 |לֹא־הוֹֹשִׁיעָה 1|
-|lE'E־EhEwEšEyEɣEhE|
+|lo'־hwošiyɣAh|
 
  * ישגבך 1: 
 
 |יְשַׂגֶּבְךָ 1|
 |-|
 |יְשַׂגֶבְךָ 1|
-|yESEgEvExE|
+|ysvSagevsvxA|
 
  * תכתב 1: 
 
 |תִּכָּתֶב 1|
 |-|
 |תִכָּתֶב 1|
-|tEkEtEvE|
+|tikAtev|
 
  * בכתם 1: 
 
 |בְּכֶתֶם 1|
 |-|
 |בְּכֶתֶם 1|
-|bExEtEmE|
+|bsvxetem|
 
  * מליהם 1: 
 
 |מִלֵּיהֶם 1|
 |-|
 |מִלֵיהֶם 1|
-|mElEyEhEmE|
+|milEyhem|
 
  * סורו־ממני 1: 
 
 |סוּרוּ־מִמֶּנִּי 1|
 |-|
 |סוּרוּ־מִמֶנִי 1|
-|sEuErEuE־EmEmEnEyE|
+|suru־mimeniy|
 
  * אשכילה 1: 
 
 |אַשְׂכִּילָה 1|
 |-|
 |אַשְׂכִּילָה 1|
-|'ESEkEyElEhE|
+|'aSsvkiylAh|
 
  * וחיי 1: 
 
 |וְחַיַּי 1|
 |-|
 |וְחַיַי 1|
-|wEHEyEyE|
+|wsvHayay|
 
  * צנוריך 1: 
 
 |צִנּוֹרֶיךָ 1|
 |-|
 |צִנוֹֹרֶיךָ 1|
-|cEnEwErEyExE|
+|cinworeyxA|
 
  * בחמה 1: 
 
 |בְחֵמָה 1|
 |-|
 |בְחֵמָה 1|
-|vEHEmEhE|
+|vsvHEmAh|
 
  * לכל־אשר־לו 1: 
 
 |לְכָל־אֲשֶׁר־לוֹ 1|
 |-|
 |לְכָל־אֲשֶׁר־לוֹֹ 1|
-|lExElE־E'EšErE־ElEwE|
+|lsvxAl־'ašer־lwo|
 
  * פן־תגף 1: 
 
 |פֶּן־תִּגֹּף 1|
 |-|
 |פֶּן־תִגֹף 1|
-|pEnE־EtEgEfE|
+|pen־tigof|
 
  * ואענה 1: 
 
 |וְאֶעֱנֶה 1|
 |-|
 |וְאֶעֱנֶה 1|
-|wE'EɣEnEhE|
+|wsv'eɣeneh|
 
  * ועוד 1: 
 
 |וְעוֹד 1|
 |-|
 |וְעוֹֹד 1|
-|wEɣEwEdE|
+|wsvɣwod|
 
  * טובתך 1: 
 
 |טוֹבָתֶךָ 1|
 |-|
 |טוֹֹבָתֶךָ 1|
-|TEwEvEtExE|
+|TwovAtexA|
 
  * יסרני 1: 
 
 |יִסְּרַנִּי 1|
 |-|
 |יִסְרַנִי 1|
-|yEsErEnEyE|
+|yissvraniy|
 
  * בל־ראה 1: 
 
 |בַּל־רָאָה 1|
 |-|
 |בַּל־רָאָה 1|
-|bElE־ErE'EhE|
+|bal־rA'Ah|
 
  * ועלי־נבל 1: 
 
 |וַעֲלֵי־נָבֶל 1|
 |-|
 |וַעֲלֵי־נָבֶל 1|
-|wEɣElEyE־EnEvElE|
+|waɣalEy־nAvel|
 
  * דרך־שקר 1: 
 
 |דֶּרֶךְ־שֶׁקֶר 1|
 |-|
 |דֶרֶךְ־שֶׁקֶר 1|
-|dErExE־EšEqErE|
+|derexsv־šeqer|
 
  * אדם־ובהמה 1: 
 
 |אָדָם־וּבְהֵמָה 1|
 |-|
 |אָדָם־וּבְהֵמָה 1|
-|'EdEmE־EuEvEhEmEhE|
+|'AdAm־uvsvhEmAh|
 
  * ממכון־שבתו 1: 
 
 |מִמְּכוֹן־שִׁבְתּוֹ 1|
 |-|
 |מִמְכוֹֹן־שִׁבְתוֹֹ 1|
-|mEmExEwEnE־EšEvEtEwE|
+|mimsvxwon־šivsvtwo|
 
  * לנשברי־לב 1: 
 
 |לְנִשְׁבְּרֵי־לֵב 1|
 |-|
 |לְנִשְׁבְּרֵי־לֵב 1|
-|lEnEšEbErEyE־ElEvE|
+|lsvnišsvbsvrEy־lEv|
 
  * ובזוי 1: 
 
 |וּבְזוּי 1|
 |-|
 |וּבְזוּי 1|
-|uEvEzEuEyE|
+|uvsvzuy|
 
  * כי־יפל 1: 
 
 |כִּי־יִפֹּל 1|
 |-|
 |כִּי־יִפֹּל 1|
-|kEyE־EyEpElE|
+|kiy־yipol|
 
  * כל־משכבו 1: 
 
 |כָּל־מִשְׁכָּבוֹ 1|
 |-|
 |כָּל־מִשְׁכָּבוֹֹ 1|
-|kElE־EmEšEkEvEwE|
+|kAl־mišsvkAvwo|
 
  * דשנים 1: 
 
 |דְּשֵׁנִים 1|
 |-|
 |דְשֵׁנִים 1|
-|dEšEnEyEmE|
+|dsvšEniym|
 
  * לעשות־רצונך 1: 
 
 |לַעֲשׂוֹת־רְצוֹנְךָ 1|
 |-|
 |לַעֲשׂוֹֹת־רְצוֹֹנְךָ 1|
-|lEɣESEwEtE־ErEcEwEnExE|
+|laɣaSwot־rsvcwonsvxA|
 
  * במחול 1: 
 
 |בְמָחוֹל 1|
 |-|
 |בְמָחוֹֹל 1|
-|vEmEHEwElE|
+|vsvmAHwol|
 
  * ישערנו 1: 
 
 |יִשְׂעָרֶנּוּ 1|
 |-|
 |יִשְׂעָרֶנוּ 1|
-|yESEɣErEnEuE|
+|yiSsvɣArenu|
 
  * ושפתי 1: 
 
 |וְשִׂפְתֵי 1|
 |-|
 |וְשִׂפְתֵי 1|
-|wESEfEtEyE|
+|wsvSifsvtEy|
 
  * היחברך 1: 
 
 |הַיְחָבְרְךָ 1|
 |-|
 |הַיְחָבְרְךָ 1|
-|hEyEHEvErExE|
+|haysvHAvsvrsvxA|
 
  * וירע 1: 
 
 |וַיֵּרַע 1|
 |-|
 |וַיֵרַע 1|
-|wEyErEɣE|
+|wayEraɣ|
 
  * ימר 1: 
 
 |יָמִר 1|
 |-|
 |יָמִר 1|
-|yEmErE|
+|yAmir|
 
  * ודכה 1: 
 
 |ודכה 1|
 |-|
 |ודכה 1|
-|wEdExEhE|
+|wdxh|
 
  * הוסרו 1: 
 
 |הִוָּסְרוּ 1|
 |-|
 |הִוָּסְרוּ 1|
-|hEuEsErEuE|
+|hiuAssvru|
 
  * הבכא 1: 
 
 |הַבָּכָא 1|
 |-|
 |הַבָּכָא 1|
-|hEbExE'E|
+|habAxA'|
 
  * בית־יהוה 1: 
 
 |בֵּית־יְהוָה 1|
 |-|
 |בֵּית־יְהוָה 1|
-|bEyEtE־EyEhEwEhE|
+|bEyt־ysvhwAh|
 
  * נדר 1: 
 
 |נָדַר 1|
 |-|
 |נָדַר 1|
-|nEdErE|
+|nAdar|
 
  * ויעזרם 1: 
 
 |וַיַּעְזְרֵם 1|
 |-|
 |וַיַעְזְרֵם 1|
-|wEyEɣEzErEmE|
+|wayaɣsvzsvrEm|
 
  * וברך 1: 
 
 |וּבָרֵךְ 1|
 |-|
 |וּבָרֵךְ 1|
-|uEvErExE|
+|uvArExsv|
 
  * אם־ישמרו 1: 
 
 |אִם־יִשְׁמְרוּ 1|
 |-|
 |אִם־יִשְׁמְרוּ 1|
-|'EmE־EyEšEmErEuE|
+|'im־yišsvmsvru|
 
  * כזית 1: 
 
 |כְּזַיִת 1|
 |-|
 |כְּזַיִת 1|
-|kEzEyEtE|
+|ksvzayit|
 
  * הללתיך 1: 
 
 |הִלַּלְתִּיךָ 1|
 |-|
 |הִלַלְתִיךָ 1|
-|hElElEtEyExE|
+|hilalsvtiyxA|
 
  * מלטה 1: 
 
 |מַלְּטָה 1|
 |-|
 |מַלְטָה 1|
-|mElETEhE|
+|malsvTAh|
 
  * לשמרך 1: 
 
 |לִשְׁמָרְךָ 1|
 |-|
 |לִשְׁמָרְךָ 1|
-|lEšEmErExE|
+|lišsvmArsvxA|
 
  * מלמד 1: 
 
 |מְלַמֵּד 1|
 |-|
 |מְלַמֵד 1|
-|mElEmEdE|
+|msvlamEd|
 
  * ואשחקם 1: 
 
 |וְאֶשְׁחָקֵם 1|
 |-|
 |וְאֶשְׁחָקֵם 1|
-|wE'EšEHEqEmE|
+|wsv'ešsvHAqEm|
 
  * ואבותינו 1: 
 
 |וַאֲבוֹתֵינוּ 1|
 |-|
 |וַאֲבוֹֹתֵינוּ 1|
-|wE'EvEwEtEyEnEuE|
+|wa'avwotEynu|
 
  * ורדפהו 1: 
 
 |וְרָדְפֵהוּ 1|
 |-|
 |וְרָדְפֵהוּ 1|
-|wErEdEfEhEuE|
+|wsvrAdsvfEhu|
 
  * שאגו 1: 
 
 |שָׁאֲגוּ 1|
 |-|
 |שָׁאֲגוּ 1|
-|šE'EgEuE|
+|šA'agu|
 
  * בנתיב 1: 
 
 |בִּנְתִיב 1|
 |-|
 |בִּנְתִיב 1|
-|bEnEtEyEvE|
+|binsvtiyv|
 
  * יסור 1: 
 
 |יָסוּר 1|
 |-|
 |יָסוּר 1|
-|yEsEuErE|
+|yAsur|
 
  * אל־בת־שבע 1: 
 
 |אֶל־בַּת־שָׁבַע 1|
 |-|
 |אֶל־בַּת־שָׁבַע 1|
-|'ElE־EbEtE־EšEvEɣE|
+|'el־bat־šAvaɣ|
 
  * תהמות 1: 
 
 |תְהֹמוֹת 1|
 |-|
 |תְהֹמוֹֹת 1|
-|tEhEmEwEtE|
+|tsvhomwot|
 
  * תמשילהו 1: 
 
 |תַּמְשִׁילֵהוּ 1|
 |-|
 |תַמְשִׁילֵהוּ 1|
-|tEmEšEyElEhEuE|
+|tamsvšiylEhu|
 
  * כל־איביו 1: 
 
 |כָּל־אֹיְבָיו 1|
 |-|
 |כָּל־אֹיְבָיו 1|
-|kElE־E'EyEvEyEwE|
+|kAl־'oysvvAyw|
 
  * יגרך 1: 
 
 |יְגֻרְךָ 1|
 |-|
 |יְגֻרְךָ 1|
-|yEgErExE|
+|ysvgursvxA|
 
  * ופשעים 1: 
 
 |וּפֹשְׁעִים 1|
 |-|
 |וּפֹשְׁעִים 1|
-|uEfEšEɣEyEmE|
+|ufošsvɣiym|
 
  * ומצור 1: 
 
 |וּמִצּוּר 1|
 |-|
 |וּמִצוּר 1|
-|uEmEcEuErE|
+|umicur|
 
  * הקיפו 1: 
 
 |הִקִּיפוּ 1|
 |-|
 |הִקִיפוּ 1|
-|hEqEyEfEuE|
+|hiqiyfu|
 
  * אהבה 1: 
 
 |אֲהֵבָהּ 1|
 |-|
 |אֲהֵבָה 1|
-|'EhEvEhE|
+|'ahEvAh|
 
  * עד־מהרה 1: 
 
 |עַד־מְהֵרָה 1|
 |-|
 |עַד־מְהֵרָה 1|
-|ɣEdE־EmEhErEhE|
+|ɣad־msvhErAh|
 
  * וקרוב 1: 
 
 |וְקָרוֹב 1|
 |-|
 |וְקָרוֹֹב 1|
-|wEqErEwEvE|
+|wsvqArwov|
 
  * יכרה 1: 
 
 |יִכָּרֶה 1|
 |-|
 |יִכָּרֶה 1|
-|yEkErEhE|
+|yikAreh|
 
  * באברתו 1: 
 
 |בְּאֶבְרָתוֹ 1|
 |-|
 |בְּאֶבְרָתוֹֹ 1|
-|bE'EvErEtEwE|
+|bsv'evsvrAtwo|
 
  * על־כל־תהלתך 1: 
 
 |עַל־כָּל־תְּהִלָּתֶךָ 1|
 |-|
 |עַל־כָּל־תְהִלָתֶךָ 1|
-|ɣElE־EkElE־EtEhElEtExE|
+|ɣal־kAl־tsvhilAtexA|
 
  * להבל 1: 
 
 |לַהֶבֶל 1|
 |-|
 |לַהֶבֶל 1|
-|lEhEvElE|
+|lahevel|
 
  * ואל־ישמחו־לי 1: 
 
 |וְאַל־יִשְׂמְחוּ־לִי 1|
 |-|
 |וְאַל־יִשְׂמְחוּ־לִי 1|
-|wE'ElE־EyESEmEHEuE־ElEyE|
+|wsv'al־yiSsvmsvHu־liy|
 
  * שעמדים 1: 
 
 |שֶׁעֹמְדִים 1|
 |-|
 |שֶׁעֹמְדִים 1|
-|šEɣEmEdEyEmE|
+|šeɣomsvdiym|
 
  * בחלותם 1: 
 
 |בַּחֲלוֹתָם 1|
 |-|
 |בַּחֲלוֹֹתָם 1|
-|bEHElEwEtEmE|
+|baHalwotAm|
 
  * והרג 1: 
 
 |וְהָרַג 1|
 |-|
 |וְהָרַג 1|
-|wEhErEgE|
+|wsvhArag|
 
  * למושב 1: 
 
 |לְמוֹשָׁב 1|
 |-|
 |לְמוֹֹשָׁב 1|
-|lEmEwEšEvE|
+|lsvmwošAv|
 
  * ימאסו 1: 
 
 |יִמָּאֲסוּ 1|
 |-|
 |יִמָאֲסוּ 1|
-|yEmE'EsEuE|
+|yimA'asu|
 
  * תסף 1: 
 
 |תֹּסֵף 1|
 |-|
 |תֹסֵף 1|
-|tEsEfE|
+|tosEf|
 
  * וברקים 1: 
 
 |וּבְרָקִים 1|
 |-|
 |וּבְרָקִים 1|
-|uEvErEqEyEmE|
+|uvsvrAqiym|
 
  * צהרים 1: 
 
 |צָהֳרָיִם 1|
 |-|
 |צָהֳרָיִם 1|
-|cEhErEyEmE|
+|cAhArAyim|
 
  * נוטה 1: 
 
 |נוֹטֶה 1|
 |-|
 |נוֹֹטֶה 1|
-|nEwETEhE|
+|nwoTeh|
 
  * אשכנה 1: 
 
 |אֶשְׁכְּנָה 1|
 |-|
 |אֶשְׁכְּנָה 1|
-|'EšEkEnEhE|
+|'ešsvksvnAh|
 
  * ויתום 1: 
 
 |וְיָתוֹם 1|
 |-|
 |וְיָתוֹֹם 1|
-|wEyEtEwEmE|
+|wsvyAtwom|
 
  * את־שבט 1: 
 
 |אֶת־שֵׁבֶט 1|
 |-|
 |אֶת־שֵׁבֶט 1|
-|'EtE־EšEvETE|
+|'et־šEveT|
 
  * ויאהב 1: 
 
 |וַיֶּאֱהַב 1|
 |-|
 |וַיֶאֱהַב 1|
-|wEyE'EhEvE|
+|waye'ehav|
 
  * יצוק 1: 
 
 |יָצוּק 1|
 |-|
 |יָצוּק 1|
-|yEcEuEqE|
+|yAcuq|
 
  * אף־חצציך 1: 
 
 |אַף־חֲצָצֶיךָ 1|
 |-|
 |אַף־חֲצָצֶיךָ 1|
-|'EfE־EHEcEcEyExE|
+|'af־HacAceyxA|
 
  * נושע 1: 
 
 |נוֹשָׁע 1|
 |-|
 |נוֹֹשָׁע 1|
-|nEwEšEɣE|
+|nwošAɣ|
 
  * תדינני 1: 
 
 |תְדִינֵנִי 1|
 |-|
 |תְדִינֵנִי 1|
-|tEdEyEnEnEyE|
+|tsvdiynEniy|
 
  * כצרף־כסף 1: 
 
 |כִּצְרָף־כָּסֶף 1|
 |-|
 |כִּצְרָף־כָּסֶף 1|
-|kEcErEfE־EkEsEfE|
+|kicsvrAf־kAsef|
 
  * ספרתה 1: 
 
 |סָפַרְתָּה 1|
 |-|
 |סָפַרְתָה 1|
-|sEfErEtEhE|
+|sAfarsvtAh|
 
  * השמר 1: 
 
 |הַשֹּׁמֵר 1|
 |-|
 |הַשֹׁמֵר 1|
-|hEšEmErE|
+|hašomEr|
 
  * זבלון 1: 
 
 |זְבֻלוּן 1|
 |-|
 |זְבֻלוּן 1|
-|zEvElEuEnE|
+|zsvvulun|
 
  * לנחמני 1: 
 
 |לְנַחֲמֵנִי 1|
 |-|
 |לְנַחֲמֵנִי 1|
-|lEnEHEmEnEyE|
+|lsvnaHamEniy|
 
  * מימיני 1: 
 
 |מִימִינִי 1|
 |-|
 |מִימִינִי 1|
-|mEyEmEyEnEyE|
+|miymiyniy|
 
  * ואל־תתנהו 1: 
 
 |וְאַל־תִּתְּנֵהוּ 1|
 |-|
 |וְאַל־תִתְנֵהוּ 1|
-|wE'ElE־EtEtEnEhEuE|
+|wsv'al־titsvnEhu|
 
  * עמדות 1: 
 
 |עֹמְדוֹת 1|
 |-|
 |עֹמְדוֹֹת 1|
-|ɣEmEdEwEtE|
+|ɣomsvdwot|
 
  * דרך־זו 1: 
 
 |דֶּרֶךְ־זוּ 1|
 |-|
 |דֶרֶךְ־זוּ 1|
-|dErExE־EzEuE|
+|derexsv־zu|
 
  * תשקם 1: 
 
 |תַשְׁקֵם 1|
 |-|
 |תַשְׁקֵם 1|
-|tEšEqEmE|
+|tašsvqEm|
 
  * קמינו 1: 
 
 |קָמֵינוּ 1|
 |-|
 |קָמֵינוּ 1|
-|qEmEyEnEuE|
+|qAmEynu|
 
  * ומשנאיך 1: 
 
 |וּמְשַׂנְאֶיךָ 1|
 |-|
 |וּמְשַׂנְאֶיךָ 1|
-|uEmESEnE'EyExE|
+|umsvSansv'eyxA|
 
  * שאו־ידכם 1: 
 
 |שְׂאוּ־יְדֵכֶם 1|
 |-|
 |שְׂאוּ־יְדֵכֶם 1|
-|SE'EuE־EyEdExEmE|
+|Ssv'u־ysvdExem|
 
  * נפלאים 1: 
 
 |נִפְלָאִים 1|
 |-|
 |נִפְלָאִים 1|
-|nEfElE'EyEmE|
+|nifsvlA'iym|
 
  * כסיסרא 1: 
 
 |כְּסִיסְרָא 1|
 |-|
 |כְּסִיסְרָא 1|
-|kEsEyEsErE'E|
+|ksvsiyssvrA'|
 
  * לידידו 1: 
 
 |לִידִידוֹ 1|
 |-|
 |לִידִידוֹֹ 1|
-|lEyEdEyEdEwE|
+|liydiydwo|
 
  * סחרחר 1: 
 
 |סְחַרְחַר 1|
 |-|
 |סְחַרְחַר 1|
-|sEHErEHErE|
+|ssvHarsvHar|
 
  * כי־תזכרנו 1: 
 
 |כִּי־תִזְכְּרֶנּוּ 1|
 |-|
 |כִּי־תִזְכְּרֶנוּ 1|
-|kEyE־EtEzEkErEnEuE|
+|kiy־tizsvksvrenu|
 
  * כי־יבער 1: 
 
 |כִּי־יִבְעַר 1|
 |-|
 |כִּי־יִבְעַר 1|
-|kEyE־EyEvEɣErE|
+|kiy־yivsvɣar|
 
  * מי־יתן־לי 1: 
 
 |מִי־יִתֶּן־לִּי 1|
 |-|
 |מִי־יִתֶן־לִי 1|
-|mEyE־EyEtEnE־ElEyE|
+|miy־yiten־liy|
 
  * לישעתה 1: 
 
 |לִישֻׁעָתָה 1|
 |-|
 |לִישֻׁעָתָה 1|
-|lEyEšEɣEtEhE|
+|liyšuɣAtAh|
 
  * שכח 1: 
 
 |שָׁכַח 1|
 |-|
 |שָׁכַח 1|
-|šExEHE|
+|šAxaH|
 
  * ננתקה 1: 
 
 |נְנַתְּקָה 1|
 |-|
 |נְנַתְקָה 1|
-|nEnEtEqEhE|
+|nsvnatsvqAh|
 
  * אקוט 1: 
 
 |אָקוּט 1|
 |-|
 |אָקוּט 1|
-|'EqEuETE|
+|'AquT|
 
  * וחסדו 1: 
 
 |וְחַסְדּוֹ 1|
 |-|
 |וְחַסְדוֹֹ 1|
-|wEHEsEdEwE|
+|wsvHassvdwo|
 
  * הושיעו 1: 
 
 |הוֹשִׁיעוֹ 1|
 |-|
 |הוֹֹשִׁיעוֹֹ 1|
-|hEwEšEyEɣEwE|
+|hwošiyɣwo|
 
  * כארץ 1: 
 
 |כְּאֶרֶץ 1|
 |-|
 |כְּאֶרֶץ 1|
-|kE'ErEcE|
+|ksv'erec|
 
  * אמיך 1: 
 
 |אֵמֶיךָ 1|
 |-|
 |אֵמֶיךָ 1|
-|'EmEyExE|
+|'EmeyxA|
 
  * בישועתי 1: 
 
 |בִּישׁוּעָתִי 1|
 |-|
 |בִּישׁוּעָתִי 1|
-|bEyEšEuEɣEtEyE|
+|biyšuɣAtiy|
 
  * וגבורתך 1: 
 
 |וּגְבוּרָתְךָ 1|
 |-|
 |וּגְבוּרָתְךָ 1|
-|uEgEvEuErEtExE|
+|ugsvvurAtsvxA|
 
  * תתברר 1: 
 
 |תִּתְבָּרָר 1|
 |-|
 |תִתְבָּרָר 1|
-|tEtEbErErE|
+|titsvbArAr|
 
  * לידעיך 1: 
 
 |לְיֹדְעֶיךָ 1|
 |-|
 |לְיֹדְעֶיךָ 1|
-|lEyEdEɣEyExE|
+|lsvyodsvɣeyxA|
 
  * למושעות 1: 
 
 |לְמוֹשָׁעוֹת 1|
 |-|
 |לְמוֹֹשָׁעוֹֹת 1|
-|lEmEwEšEɣEwEtE|
+|lsvmwošAɣwot|
 
  * וזרועם 1: 
 
 |וּזְרוֹעָם 1|
 |-|
 |וּזְרוֹֹעָם 1|
-|uEzErEwEɣEmE|
+|uzsvrwoɣAm|
 
  * נועדו 1: 
 
 |נוֹעֲדוּ 1|
 |-|
 |נוֹֹעֲדוּ 1|
-|nEwEɣEdEuE|
+|nwoɣadu|
 
  * אל־תשיתו 1: 
 
 |אַל־תָּשִׁיתוּ 1|
 |-|
 |אַל־תָשִׁיתוּ 1|
-|'ElE־EtEšEyEtEuE|
+|'al־tAšiytu|
 
  * שאגים 1: 
 
 |שֹׁאֲגִים 1|
 |-|
 |שֹׁאֲגִים 1|
-|šE'EgEyEmE|
+|šo'agiym|
 
  * אינם 1: 
 
 |אֵינָם 1|
 |-|
 |אֵינָם 1|
-|'EyEnEmE|
+|'EynAm|
 
  * כאיש 1: 
 
 |כְּאִישׁ 1|
 |-|
 |כְּאִישׁ 1|
-|kE'EyEšE|
+|ksv'iyš|
 
  * ויעבדו 1: 
 
 |וַיַּעַבְדוּ 1|
 |-|
 |וַיַעַבְדוּ 1|
-|wEyEɣEvEdEuE|
+|wayaɣavsvdu|
 
  * לימין 1: 
 
 |לִימִין 1|
 |-|
 |לִימִין 1|
-|lEyEmEyEnE|
+|liymiyn|
 
  * ימיני 1: 
 
 |יְמִינִי 1|
 |-|
 |יְמִינִי 1|
-|yEmEyEnEyE|
+|ysvmiyniy|
 
  * משליך 1: 
 
 |מַשְׁלִיךְ 1|
 |-|
 |מַשְׁלִיךְ 1|
-|mEšElEyExE|
+|mašsvliyxsv|
 
  * וקרב־לבו 1: 
 
 |וּקֲרָב־לִבּוֹ 1|
 |-|
 |וּקֲרָב־לִבּוֹֹ 1|
-|uEqErEvE־ElEbEwE|
+|uqarAv־libwo|
 
  * וברצנך 1: 
 
 |וּבִרְצֹנְךָ 1|
 |-|
 |וּבִרְצֹנְךָ 1|
-|uEvErEcEnExE|
+|uvirsvconsvxA|
 
  * גם־עבדך 1: 
 
 |גַּם־עַבְדְּךָ 1|
 |-|
 |גַם־עַבְדְךָ 1|
-|gEmE־EɣEvEdExE|
+|gam־ɣavsvdsvxA|
 
  * אל־יכתבו 1: 
 
 |אַל־יִכָּתֵבוּ 1|
 |-|
 |אַל־יִכָּתֵבוּ 1|
-|'ElE־EyEkEtEvEuE|
+|'al־yikAtEvu|
 
  * בחרבני 1: 
 
 |בְּחַרְבֹנֵי 1|
 |-|
 |בְּחַרְבֹנֵי 1|
-|bEHErEvEnEyE|
+|bsvHarsvvonEy|
 
  * בקשתי 1: 
 
 |בְקַשְׁתִּי 1|
 |-|
 |בְקַשְׁתִי 1|
-|vEqEšEtEyE|
+|vsvqašsvtiy|
 
  * מקרן 1: 
 
 |מַקְרִן 1|
 |-|
 |מַקְרִן 1|
-|mEqErEnE|
+|maqsvrin|
 
  * ותגל 1: 
 
 |וְתָגֵל 1|
 |-|
 |וְתָגֵל 1|
-|wEtEgElE|
+|wsvtAgEl|
 
  * תנחומיך 1: 
 
 |תַּנְחוּמֶיךָ 1|
 |-|
 |תַנְחוּמֶיךָ 1|
-|tEnEHEuEmEyExE|
+|tansvHumeyxA|
 
  * ויפתחהו 1: 
 
 |וַיְפַתְּחֵהוּ 1|
 |-|
 |וַיְפַתְחֵהוּ 1|
-|wEyEfEtEHEhEuE|
+|waysvfatsvHEhu|
 
  * ויתברכו 1: 
 
 |וְיִתְבָּרְכוּ 1|
 |-|
 |וְיִתְבָּרְכוּ 1|
-|wEyEtEbErExEuE|
+|wsvyitsvbArsvxu|
 
  * בסוד 1: 
 
 |בְּסוֹד 1|
 |-|
 |בְּסוֹֹד 1|
-|bEsEwEdE|
+|bsvswod|
 
  * ורעם 1: 
 
 |וּרְעֵם 1|
 |-|
 |וּרְעֵם 1|
-|uErEɣEmE|
+|ursvɣEm|
 
  * חרבם 1: 
 
 |חַרְבָּם 1|
 |-|
 |חַרְבָּם 1|
-|HErEbEmE|
+|HarsvbAm|
 
  * לא־יוטל 1: 
 
 |לֹא־יוּטָל 1|
 |-|
 |לֹא־יוּטָל 1|
-|lE'E־EyEuETElE|
+|lo'־yuTAl|
 
  * קרית 1: 
 
 |קִרְיַת 1|
 |-|
 |קִרְיַת 1|
-|qErEyEtE|
+|qirsvyat|
 
  * חנך 1: 
 
 |חֹנָךְ 1|
 |-|
 |חֹנָךְ 1|
-|HEnExE|
+|HonAxsv|
 
  * חמץ 1: 
 
 |חֹמֶץ 1|
 |-|
 |חֹמֶץ 1|
-|HEmEcE|
+|Homec|
 
  * בשבטיו 1: 
 
 |בִּשְׁבָטָיו 1|
 |-|
 |בִּשְׁבָטָיו 1|
-|bEšEvETEyEwE|
+|bišsvvATAyw|
 
  * ואתהלכה 1: 
 
 |וְאֶתְהַלְּכָה 1|
 |-|
 |וְאֶתְהַלְכָה 1|
-|wE'EtEhElExEhE|
+|wsv'etsvhalsvxAh|
 
  * כגפן 1: 
 
 |כְּגֶפֶן 1|
 |-|
 |כְּגֶפֶן 1|
-|kEgEfEnE|
+|ksvgefen|
 
  * תחיינו 1: 
 
 |תחיינו 1|
 |-|
 |תחיינו 1|
-|tEHEyEyEnEwE|
+|tHyynw|
 
  * וימלט 1: 
 
 |וִימַלֵּט 1|
 |-|
 |וִימַלֵט 1|
-|wEyEmElETE|
+|wiymalET|
 
  * וישמרו 1: 
 
 |וַיִּשְׁמְרוּ 1|
 |-|
 |וַיִשְׁמְרוּ 1|
-|wEyEšEmErEuE|
+|wayišsvmsvru|
 
  * ודך 1: 
 
 |וָדָךְ 1|
 |-|
 |וָדָךְ 1|
-|wEdExE|
+|wAdAxsv|
 
  * חרבך 1: 
 
 |חַרְבֶּךָ 1|
 |-|
 |חַרְבֶּךָ 1|
-|HErEbExE|
+|HarsvbexA|
 
  * ויביאם 1: 
 
 |וַיְבִיאֵם 1|
 |-|
 |וַיְבִיאֵם 1|
-|wEyEvEyE'EmE|
+|waysvviy'Em|
 
  * ולשכני 1: 
 
 |וְלִשֲׁכֵנַי 1|
 |-|
 |וְלִשֲׁכֵנַי 1|
-|wElEšExEnEyE|
+|wsvlišaxEnay|
 
  * ואשלמה 1: 
 
 |וַאֲשַׁלְּמָה 1|
 |-|
 |וַאֲשַׁלְמָה 1|
-|wE'EšElEmEhE|
+|wa'ašalsvmAh|
 
  * מעונך 1: 
 
 |מְעוֹנֶךָ 1|
 |-|
 |מְעוֹֹנֶךָ 1|
-|mEɣEwEnExE|
+|msvɣwonexA|
 
  * כציץ 1: 
 
 |כְּצִיץ 1|
 |-|
 |כְּצִיץ 1|
-|kEcEyEcE|
+|ksvciyc|
 
  * אותך 1: 
 
 |אוֹתְךָ 1|
 |-|
 |אוֹֹתְךָ 1|
-|'EwEtExE|
+|'wotsvxA|
 
  * סופר 1: 
 
 |סוֹפֵר 1|
 |-|
 |סוֹֹפֵר 1|
-|sEwEfErE|
+|swofEr|
 
  * לפנות 1: 
 
 |לִפְנוֹת 1|
 |-|
 |לִפְנוֹֹת 1|
-|lEfEnEwEtE|
+|lifsvnwot|
 
  * ותהמם 1: 
 
 |וּתְהֻמֵּם 1|
 |-|
 |וּתְהֻמֵם 1|
-|uEtEhEmEmE|
+|utsvhumEm|
 
  * ורחמיו 1: 
 
 |וְרַחֲמָיו 1|
 |-|
 |וְרַחֲמָיו 1|
-|wErEHEmEyEwE|
+|wsvraHamAyw|
 
  * שאין 1: 
 
 |שֶׁאֵין 1|
 |-|
 |שֶׁאֵין 1|
-|šE'EyEnE|
+|še'Eyn|
 
  * ויוליכם 1: 
 
 |וַיּוֹלִיכֵם 1|
 |-|
 |וַיוֹֹלִיכֵם 1|
-|wEyEwElEyExEmE|
+|waywoliyxEm|
 
  * עמו־אנכי 1: 
 
 |עִמּוֹ־אָנֹכִי 1|
 |-|
 |עִמוֹֹ־אָנֹכִי 1|
-|ɣEmEwE־E'EnExEyE|
+|ɣimwo־'Anoxiy|
 
  * כי־פשעי 1: 
 
 |כִּי־פְשָׁעַי 1|
 |-|
 |כִּי־פְשָׁעַי 1|
-|kEyE־EfEšEɣEyE|
+|kiy־fsvšAɣay|
 
  * פלט־למו 1: 
 
 |פַּלֶּט־לָמוֹ 1|
 |-|
 |פַּלֶט־לָמוֹֹ 1|
-|pElETE־ElEmEwE|
+|paleT־lAmwo|
 
  * בתקע 1: 
 
 |בְּתֵקַע 1|
 |-|
 |בְּתֵקַע 1|
-|bEtEqEɣE|
+|bsvtEqaɣ|
 
  * בבכי 1: 
 
 |בִּבְכִי 1|
 |-|
 |בִּבְכִי 1|
-|bEvExEyE|
+|bivsvxiy|
 
  * גבורתיו 1: 
 
 |גְּבוּרֹתָיו 1|
 |-|
 |גְבוּרֹתָיו 1|
-|gEvEuErEtEyEwE|
+|gsvvurotAyw|
 
  * שסו 1: 
 
 |שָׁסוּ 1|
 |-|
 |שָׁסוּ 1|
-|šEsEuE|
+|šAsu|
 
  * לא־כן 1: 
 
 |לֹא־כֵן 1|
 |-|
 |לֹא־כֵן 1|
-|lE'E־ExEnE|
+|lo'־xEn|
 
  * צלח 1: 
 
 |צְלַח 1|
 |-|
 |צְלַח 1|
-|cElEHE|
+|csvlaH|
 
  * יתן־אמר 1: 
 
 |יִתֶּן־אֹמֶר 1|
 |-|
 |יִתֶן־אֹמֶר 1|
-|yEtEnE־E'EmErE|
+|yiten־'omer|
 
  * תורך 1: 
 
 |תּוֹרֶךָ 1|
 |-|
 |תוֹֹרֶךָ 1|
-|tEwErExE|
+|tworexA|
 
  * ובפסיליהם 1: 
 
 |וּבִפְסִילֵיהֶם 1|
 |-|
 |וּבִפְסִילֵיהֶם 1|
-|uEvEfEsEyElEyEhEmE|
+|uvifsvsiylEyhem|
 
  * לשונו 1: 
 
 |לְשׁוֹנוֹ 1|
 |-|
 |לְשׁוֹֹנוֹֹ 1|
-|lEšEwEnEwE|
+|lsvšwonwo|
 
  * אל־מנוחתי 1: 
 
 |אֶל־מְנוּחָתִי 1|
 |-|
 |אֶל־מְנוּחָתִי 1|
-|'ElE־EmEnEuEHEtEyE|
+|'el־msvnuHAtiy|
 
  * שפרה 1: 
 
 |שָׁפְרָה 1|
 |-|
 |שָׁפְרָה 1|
-|šEfErEhE|
+|šAfsvrAh|
 
  * עז־למו 1: 
 
 |עֹז־לָמוֹ 1|
 |-|
 |עֹז־לָמוֹֹ 1|
-|ɣEzE־ElEmEwE|
+|ɣoz־lAmwo|
 
  * לא־יקמו 1: 
 
 |לֹא־יָקֻמוּ 1|
 |-|
 |לֹא־יָקֻמוּ 1|
-|lE'E־EyEqEmEuE|
+|lo'־yAqumu|
 
  * כצהרים 1: 
 
 |כַּצָּהֳרָיִם 1|
 |-|
 |כַּצָהֳרָיִם 1|
-|kEcEhErEyEmE|
+|kacAhArAyim|
 
  * כי־אלך 1: 
 
 |כִּי־אֵלֵךְ 1|
 |-|
 |כִּי־אֵלֵךְ 1|
-|kEyE־E'ElExE|
+|kiy־'ElExsv|
 
  * חזקי 1: 
 
 |חִזְקִי 1|
 |-|
 |חִזְקִי 1|
-|HEzEqEyE|
+|Hizsvqiy|
 
  * שפכו 1: 
 
 |שָׁפְכוּ 1|
 |-|
 |שָׁפְכוּ 1|
-|šEfExEuE|
+|šAfsvxu|
 
  * תשלג 1: 
 
 |תַּשְׁלֵג 1|
 |-|
 |תַשְׁלֵג 1|
-|tEšElEgE|
+|tašsvlEg|
 
  * אם־לדוד 1: 
 
 |אִם־לְדָוִד 1|
 |-|
 |אִם־לְדָוִד 1|
-|'EmE־ElEdEwEdE|
+|'im־lsvdAwid|
 
  * נגזרו 1: 
 
 |נִגְזָרוּ 1|
 |-|
 |נִגְזָרוּ 1|
-|nEgEzErEuE|
+|nigsvzAru|
 
  * מימינך 1: 
 
 |מִימִינֶךָ 1|
 |-|
 |מִימִינֶךָ 1|
-|mEyEmEyEnExE|
+|miymiynexA|
 
  * וימין 1: 
 
 |וְיָמִין 1|
 |-|
 |וְיָמִין 1|
-|wEyEmEyEnE|
+|wsvyAmiyn|
 
  * למעלה 1: 
 
 |לְמָעְלָה 1|
 |-|
 |לְמָעְלָה 1|
-|lEmEɣElEhE|
+|lsvmAɣsvlAh|
 
  * לא־אוכל 1: 
 
 |לֹא־אוּכַל 1|
 |-|
 |לֹא־אוּכַל 1|
-|lE'E־E'EuExElE|
+|lo'־'uxal|
 
  * משיבת 1: 
 
 |מְשִׁיבַת 1|
 |-|
 |מְשִׁיבַת 1|
-|mEšEyEvEtE|
+|msvšiyvat|
 
  * רגעי־ארץ 1: 
 
 |רִגְעֵי־אֶרֶץ 1|
 |-|
 |רִגְעֵי־אֶרֶץ 1|
-|rEgEɣEyE־E'ErEcE|
+|rigsvɣEy־'erec|
 
  * את־אונם 1: 
 
 |אֶת־אוֹנָם 1|
 |-|
 |אֶת־אוֹֹנָם 1|
-|'EtE־E'EwEnEmE|
+|'et־'wonAm|
 
  * בשדי־יער 1: 
 
 |בִּשְׂדֵי־יָעַר 1|
 |-|
 |בִּשְׂדֵי־יָעַר 1|
-|bESEdEyE־EyEɣErE|
+|biSsvdEy־yAɣar|
 
  * ברחוק 1: 
 
 |בְּרָחוֹק 1|
 |-|
 |בְּרָחוֹֹק 1|
-|bErEHEwEqE|
+|bsvrAHwoq|
 
  * אילות 1: 
 
 |אַיָּלוֹת 1|
 |-|
 |אַיָלוֹֹת 1|
-|'EyElEwEtE|
+|'ayAlwot|
 
  * סמר 1: 
 
 |סָמַר 1|
 |-|
 |סָמַר 1|
-|sEmErE|
+|sAmar|
 
  * כל־ענוי־ארץ 1: 
 
 |כָּל־עַנְוֵי־אֶרֶץ 1|
 |-|
 |כָּל־עַנְוֵי־אֶרֶץ 1|
-|kElE־EɣEnEwEyE־E'ErEcE|
+|kAl־ɣansvwEy־'erec|
 
  * יהיו־בניו 1: 
 
 |יִהְיוּ־בָנָיו 1|
 |-|
 |יִהְיוּ־בָנָיו 1|
-|yEhEyEuE־EvEnEyEwE|
+|yihsvyu־vAnAyw|
 
  * כסתני 1: 
 
 |כִּסָּתְנִי 1|
 |-|
 |כִּסָתְנִי 1|
-|kEsEtEnEyE|
+|kisAtsvniy|
 
  * ורגלי 1: 
 
 |וְרַגְלָי 1|
 |-|
 |וְרַגְלָי 1|
-|wErEgElEyE|
+|wsvragsvlAy|
 
  * ומתהמות 1: 
 
 |וּמִתְּהֹמוֹת 1|
 |-|
 |וּמִתְהֹמוֹֹת 1|
-|uEmEtEhEmEwEtE|
+|umitsvhomwot|
 
  * ינחמני 1: 
 
 |יְנַחֲמֻנִי 1|
 |-|
 |יְנַחֲמֻנִי 1|
-|yEnEHEmEnEyE|
+|ysvnaHamuniy|
 
  * משוע 1: 
 
 |מְשַׁוֵּעַ 1|
 |-|
 |מְשַׁוֵּעַ 1|
-|mEšEuEɣE|
+|msvšauEɣa|
 
  * נמו 1: 
 
 |נָמוּ 1|
 |-|
 |נָמוּ 1|
-|nEmEuE|
+|nAmu|
 
  * את־נחלתנו 1: 
 
 |אֶת־נַחֲלָתֵנוּ 1|
 |-|
 |אֶת־נַחֲלָתֵנוּ 1|
-|'EtE־EnEHElEtEnEuE|
+|'et־naHalAtEnu|
 
  * ויסע 1: 
 
 |וַיַּסַּע 1|
 |-|
 |וַיַסַע 1|
-|wEyEsEɣE|
+|wayasaɣ|
 
  * על־גאים 1: 
 
 |עַל־גֵּאִים 1|
 |-|
 |עַל־גֵאִים 1|
-|ɣElE־EgE'EyEmE|
+|ɣal־gE'iym|
 
  * בל־יקומו 1: 
 
 |בַּל־יָקוּמוּ 1|
 |-|
 |בַּל־יָקוּמוּ 1|
-|bElE־EyEqEuEmEuE|
+|bal־yAqumu|
 
  * בצלמון 1: 
 
 |בְּצַלְמוֹן 1|
 |-|
 |בְּצַלְמוֹֹן 1|
-|bEcElEmEwEnE|
+|bsvcalsvmwon|
 
  * פלאיה 1: 
 
 |פלאיה 1|
 |-|
 |פלאיה 1|
-|fElE'EyEhE|
+|fl'yh|
 
  * [ימוטו] 1: 
 
 |[יִמּוֹטוּ] 1|
 |-|
 |[יִמוֹֹטוּ] 1|
-|[EyEmEwETEuE]E|
+|[yimwoTu]|
 
  * לא־ישא 1: 
 
 |לֹא־יַשִּׁא 1|
 |-|
 |לֹא־יַשִׁא 1|
-|lE'E־EyEšE'E|
+|lo'־yaši'|
 
  * ילטוש 1: 
 
 |יִלְטוֹשׁ 1|
 |-|
 |יִלְטוֹֹשׁ 1|
-|yElETEwEšE|
+|yilsvTwoš|
 
  * עד־בית 1: 
 
 |עַד־בֵּית 1|
 |-|
 |עַד־בֵּית 1|
-|ɣEdE־EbEyEtE|
+|ɣad־bEyt|
 
  * צמתותני 1: 
 
 |צִמְּתוּתֻנִי 1|
 |-|
 |צִמְתוּתֻנִי 1|
-|cEmEtEuEtEnEyE|
+|cimsvtutuniy|
 
  * וצפינך 1: 
 
 |וצפינך 1|
 |-|
 |וצפינך 1|
-|wEcEfEyEnExE|
+|wcfynx|
 
  * פעמיך 1: 
 
 |פְעָמֶיךָ 1|
 |-|
 |פְעָמֶיךָ 1|
-|fEɣEmEyExE|
+|fsvɣAmeyxA|
 
  * כהר־ציון 1: 
 
 |כְּהַר־צִיּוֹן 1|
 |-|
 |כְּהַר־צִיוֹֹן 1|
-|kEhErE־EcEyEwEnE|
+|ksvhar־ciywon|
 
  * שמיך 1: 
 
 |שָׁמֶיךָ 1|
 |-|
 |שָׁמֶיךָ 1|
-|šEmEyExE|
+|šAmeyxA|
 
  * יצילנו 1: 
 
 |יַצִּילֶנּוּ 1|
 |-|
 |יַצִילֶנוּ 1|
-|yEcEyElEnEuE|
+|yaciylenu|
 
  * ולא־מרו 1: 
 
 |וְלֹא־מָרוּ 1|
 |-|
 |וְלֹא־מָרוּ 1|
-|wElE'E־EmErEuE|
+|wsvlo'־mAru|
 
  * התעברת 1: 
 
 |הִתְעַבַּרְתָּ 1|
 |-|
 |הִתְעַבַּרְתָ 1|
-|hEtEɣEbErEtE|
+|hitsvɣabarsvtA|
 
  * לא־נסוג 1: 
 
 |לֹא־נָסוֹג 1|
 |-|
 |לֹא־נָסוֹֹג 1|
-|lE'E־EnEsEwEgE|
+|lo'־nAswog|
 
  * עבדך־אני 1: 
 
 |עַבְדְּךָ־אָנִי 1|
 |-|
 |עַבְדְךָ־אָנִי 1|
-|ɣEvEdExE־E'EnEyE|
+|ɣavsvdsvxA־'Aniy|
 
  * אל־ישמחו־לי 1: 
 
 |אַל־יִשְׂמְחוּ־לִי 1|
 |-|
 |אַל־יִשְׂמְחוּ־לִי 1|
-|'ElE־EyESEmEHEuE־ElEyE|
+|'al־yiSsvmsvHu־liy|
 
  * זכור־יהוה 1: 
 
 |זְכוֹר־יְהוָה 1|
 |-|
 |זְכוֹֹר־יְהוָה 1|
-|zExEwErE־EyEhEwEhE|
+|zsvxwor־ysvhwAh|
 
  * על־עונם 1: 
 
 |עַל־עֲוֺנָם 1|
 |-|
 |עַל־עֲוֺנָם 1|
-|ɣElE־EɣEwEnEmE|
+|ɣal־ɣaw_o_nAm|
 
  * הכינו 1: 
 
 |הֵכִינוּ 1|
 |-|
 |הֵכִינוּ 1|
-|hExEyEnEuE|
+|hExiynu|
 
  * ופקדתי 1: 
 
 |וּפָקַדְתִּי 1|
 |-|
 |וּפָקַדְתִי 1|
-|uEfEqEdEtEyE|
+|ufAqadsvtiy|
 
  * [וצפונך] 1: 
 
 |[וּצְפוּנְךָ] 1|
 |-|
 |[וּצְפוּנְךָ] 1|
-|[EuEcEfEuEnExE]E|
+|[ucsvfunsvxA]|
 
  * יהרסם 1: 
 
 |יֶהֶרְסֵם 1|
 |-|
 |יֶהֶרְסֵם 1|
-|yEhErEsEmE|
+|yehersvsEm|
 
  * על־עלמות 1: 
 
 |עַל־עֲלָמוֹת 1|
 |-|
 |עַל־עֲלָמוֹֹת 1|
-|ɣElE־EɣElEmEwEtE|
+|ɣal־ɣalAmwot|
 
  * לא־יהיה 1: 
 
 |לֹא־יִהְיֶה 1|
 |-|
 |לֹא־יִהְיֶה 1|
-|lE'E־EyEhEyEhE|
+|lo'־yihsvyeh|
 
  * מחטבות 1: 
 
 |מְחֻטָּבוֹת 1|
 |-|
 |מְחֻטָבוֹֹת 1|
-|mEHETEvEwEtE|
+|msvHuTAvwot|
 
  * פרק 1: 
 
 |פֹּרֵק 1|
 |-|
 |פֹּרֵק 1|
-|pErEqE|
+|porEq|
 
  * ירוצון 1: 
 
 |יְרוּצוּן 1|
 |-|
 |יְרוּצוּן 1|
-|yErEuEcEuEnE|
+|ysvrucun|
 
  * ישמיע 1: 
 
 |יַשְׁמִיעַ 1|
 |-|
 |יַשְׁמִיעַ 1|
-|yEšEmEyEɣE|
+|yašsvmiyɣa|
 
  * כעונתינו 1: 
 
 |כַעֲוֺנֹתֵינוּ 1|
 |-|
 |כַעֲוֺנֹתֵינוּ 1|
-|xEɣEwEnEtEyEnEuE|
+|xaɣaw_o_notEynu|
 
  * מאנקת 1: 
 
 |מֵאַנְקַת 1|
 |-|
 |מֵאַנְקַת 1|
-|mE'EnEqEtE|
+|mE'ansvqat|
 
  * גמולם 1: 
 
 |גְּמוּלָם 1|
 |-|
 |גְמוּלָם 1|
-|gEmEuElEmE|
+|gsvmulAm|
 
  * למצותיך 1: 
 
 |לְמִצְוֺתֶיךָ 1|
 |-|
 |לְמִצְוֺתֶיךָ 1|
-|lEmEcEwEtEyExE|
+|lsvmicsvw_o_teyxA|
 
  * קמו־בי 1: 
 
 |קָמוּ־בִי 1|
 |-|
 |קָמוּ־בִי 1|
-|qEmEuE־EvEyE|
+|qAmu־viy|
 
  * משד 1: 
 
 |מִשֹּׁד 1|
 |-|
 |מִשֹׁד 1|
-|mEšEdE|
+|mišod|
 
  * והגיון 1: 
 
 |וְהֶגְיוֹן 1|
 |-|
 |וְהֶגְיוֹֹן 1|
-|wEhEgEyEwEnE|
+|wsvhegsvywon|
 
  * מושל 1: 
 
 |מוֹשֵׁל 1|
 |-|
 |מוֹֹשֵׁל 1|
-|mEwEšElE|
+|mwošEl|
 
  * אהודנו 1: 
 
 |אֲהוֹדֶנּוּ 1|
 |-|
 |אֲהוֹֹדֶנוּ 1|
-|'EhEwEdEnEuE|
+|'ahwodenu|
 
  * ויד־רשעים 1: 
 
 |וְיַד־רְשָׁעִים 1|
 |-|
 |וְיַד־רְשָׁעִים 1|
-|wEyEdE־ErEšEɣEyEmE|
+|wsvyad־rsvšAɣiym|
 
  * יחלקו 1: 
 
 |יְחַלְּקוּ 1|
 |-|
 |יְחַלְקוּ 1|
-|yEHElEqEuE|
+|ysvHalsvqu|
 
  * יקניאוהו 1: 
 
 |יַקְנִיאוּהוּ 1|
 |-|
 |יַקְנִיאוּהוּ 1|
-|yEqEnEyE'EuEhEuE|
+|yaqsvniy'uhu|
 
  * שכחתני 1: 
 
 |שְׁכַחְתָּנִי 1|
 |-|
 |שְׁכַחְתָנִי 1|
-|šExEHEtEnEyE|
+|šsvxaHsvtAniy|
 
  * תובל 1: 
 
 |תּוּבַל 1|
 |-|
 |תוּבַל 1|
-|tEuEvElE|
+|tuval|
 
  * ]הללוהו 1: 
 
 |]הַלְלוּהוּ 1|
 |-|
 |]הַלְלוּהוּ 1|
-|]EhElElEuEhEuE|
+|]halsvluhu|
 
  * באור־פניך 1: 
 
 |בְּאוֹר־פָּנֶיךָ 1|
 |-|
 |בְּאוֹֹר־פָּנֶיךָ 1|
-|bE'EwErE־EpEnEyExE|
+|bsv'wor־pAneyxA|
 
  * לפנים 1: 
 
 |לְפָנִים 1|
 |-|
 |לְפָנִים 1|
-|lEfEnEyEmE|
+|lsvfAniym|
 
  * שחותי 1: 
 
 |שַׁחוֹתִי 1|
 |-|
 |שַׁחוֹֹתִי 1|
-|šEHEwEtEyE|
+|šaHwotiy|
 
  * עד־בלי 1: 
 
 |עַד־בְּלִי 1|
 |-|
 |עַד־בְּלִי 1|
-|ɣEdE־EbElEyE|
+|ɣad־bsvliy|
 
  * שובו 1: 
 
 |שׁוּבוּ 1|
 |-|
 |שׁוּבוּ 1|
-|šEuEvEuE|
+|šuvu|
 
  * וצירם 1: 
 
 |וצירם 1|
 |-|
 |וצירם 1|
-|wEcEyErEmE|
+|wcyrm|
 
  * המגפה 1: 
 
 |הַמַּגֵּפָה 1|
 |-|
 |הַמַגֵפָה 1|
-|hEmEgEfEhE|
+|hamagEfAh|
 
  * רשתם 1: 
 
 |רִשְׁתָּם 1|
 |-|
 |רִשְׁתָם 1|
-|rEšEtEmE|
+|rišsvtAm|
 
  * שברה 1: 
 
 |שָׁבְרָה 1|
 |-|
 |שָׁבְרָה 1|
-|šEvErEhE|
+|šAvsvrAh|
 
  * כי־נפלאות 1: 
 
 |כִּי־נִפְלָאוֹת 1|
 |-|
 |כִּי־נִפְלָאוֹֹת 1|
-|kEyE־EnEfElE'EwEtE|
+|kiy־nifsvlA'wot|
 
  * יגועון 1: 
 
 |יִגְוָעוּן 1|
 |-|
 |יִגְוָעוּן 1|
-|yEgEwEɣEuEnE|
+|yigsvwAɣun|
 
  * ליראתך 1: 
 
 |לְיִרְאָתֶךָ 1|
 |-|
 |לְיִרְאָתֶךָ 1|
-|lEyErE'EtExE|
+|lsvyirsv'AtexA|
 
  * לממשלת 1: 
 
 |לְמֶמְשֶׁלֶת 1|
 |-|
 |לְמֶמְשֶׁלֶת 1|
-|lEmEmEšElEtE|
+|lsvmemsvšelet|
 
  * אל־תירא 1: 
 
 |אַל־תִּירָא 1|
 |-|
 |אַל־תִירָא 1|
-|'ElE־EtEyErE'E|
+|'al־tiyrA'|
 
  * בירכתי 1: 
 
 |בְּיַרְכְּתֵי 1|
 |-|
 |בְּיַרְכְּתֵי 1|
-|bEyErEkEtEyE|
+|bsvyarsvksvtEy|
 
  * לפתח 1: 
 
 |לְפַתֵּחַ 1|
 |-|
 |לְפַתֵחַ 1|
-|lEfEtEHE|
+|lsvfatEHa|
 
  * ופדנו 1: 
 
 |וּפְדֵנוּ 1|
 |-|
 |וּפְדֵנוּ 1|
-|uEfEdEnEuE|
+|ufsvdEnu|
 
  * ממכלאת 1: 
 
 |מִמִּכְלְאֹת 1|
 |-|
 |מִמִכְלְאֹת 1|
-|mEmExElE'EtE|
+|mimixsvlsv'ot|
 
  * [אזכור] 1: 
 
 |[אֶזְכּוֹר] 1|
 |-|
 |[אֶזְכּוֹֹר] 1|
-|[E'EzEkEwErE]E|
+|['ezsvkwor]|
 
  * זרועות 1: 
 
 |זְרוֹעוֹת 1|
 |-|
 |זְרוֹֹעוֹֹת 1|
-|zErEwEɣEwEtE|
+|zsvrwoɣwot|
 
  * אם־תקטל 1: 
 
 |אִם־תִּקְטֹל 1|
 |-|
 |אִם־תִקְטֹל 1|
-|'EmE־EtEqETElE|
+|'im־tiqsvTol|
 
  * תקעו־כף 1: 
 
 |תִּקְעוּ־כָף 1|
 |-|
 |תִקְעוּ־כָף 1|
-|tEqEɣEuE־ExEfE|
+|tiqsvɣu־xAf|
 
  * לב־נשבר 1: 
 
 |לֵב־נִשְׁבָּר 1|
 |-|
 |לֵב־נִשְׁבָּר 1|
-|lEvE־EnEšEbErE|
+|lEv־nišsvbAr|
 
  * במעגלי־צדק 1: 
 
 |בְמַעְגְּלֵי־צֶדֶק 1|
 |-|
 |בְמַעְגְלֵי־צֶדֶק 1|
-|vEmEɣEgElEyE־EcEdEqE|
+|vsvmaɣsvgsvlEy־cedeq|
 
  * דעה 1: 
 
 |דֵּעָה 1|
 |-|
 |דֵעָה 1|
-|dEɣEhE|
+|dEɣAh|
 
  * בשלם 1: 
 
 |בְשָׁלֵם 1|
 |-|
 |בְשָׁלֵם 1|
-|vEšElEmE|
+|vsvšAlEm|
 
  * ונלאה 1: 
 
 |וְנִלְאָה 1|
 |-|
 |וְנִלְאָה 1|
-|wEnElE'EhE|
+|wsvnilsv'Ah|
 
  * ומלואה 1: 
 
 |וּמְלוֹאָהּ 1|
 |-|
 |וּמְלוֹֹאָה 1|
-|uEmElEwE'EhE|
+|umsvlwo'Ah|
 
  * אל־נקמות 1: 
 
 |אֵל־נְקָמוֹת 1|
 |-|
 |אֵל־נְקָמוֹֹת 1|
-|'ElE־EnEqEmEwEtE|
+|'El־nsvqAmwot|
 
  * גשם 1: 
 
 |גֶּשֶׁם 1|
 |-|
 |גֶשֶׁם 1|
-|gEšEmE|
+|gešem|
 
  * מעשיהם 1: 
 
 |מַעֲשֵׂיהֶם 1|
 |-|
 |מַעֲשֵׂיהֶם 1|
-|mEɣESEyEhEmE|
+|maɣaSEyhem|
 
  * גאון 1: 
 
 |גְּאוֹן 1|
 |-|
 |גְאוֹֹן 1|
-|gE'EwEnE|
+|gsv'won|
 
  * תחת־רגליו 1: 
 
 |תַחַת־רַגְלָיו 1|
 |-|
 |תַחַת־רַגְלָיו 1|
-|tEHEtE־ErEgElEyEwE|
+|taHat־ragsvlAyw|
 
  * ישועתנו 1: 
 
 |יְשׁוּעָתֵנוּ 1|
 |-|
 |יְשׁוּעָתֵנוּ 1|
-|yEšEuEɣEtEnEuE|
+|ysvšuɣAtEnu|
 
  * בעצת 1: 
 
 |בַּעֲצַת 1|
 |-|
 |בַּעֲצַת 1|
-|bEɣEcEtE|
+|baɣacat|
 
  * שרשיה 1: 
 
 |שָׁרָשֶׁיהָ 1|
 |-|
 |שָׁרָשֶׁיהָ 1|
-|šErEšEyEhE|
+|šArAšeyhA|
 
  * תמימה 1: 
 
 |תְּמִימָה 1|
 |-|
 |תְמִימָה 1|
-|tEmEyEmEhE|
+|tsvmiymAh|
 
  * וגבור 1: 
 
 |וְגִבּוֹר 1|
 |-|
 |וְגִבּוֹֹר 1|
-|wEgEbEwErE|
+|wsvgibwor|
 
  * חלקך 1: 
 
 |חֶלְקֶךָ 1|
 |-|
 |חֶלְקֶךָ 1|
-|HElEqExE|
+|HelsvqexA|
 
  * הקשיב 1: 
 
 |הִקְשִׁיב 1|
 |-|
 |הִקְשִׁיב 1|
-|hEqEšEyEvE|
+|hiqsvšiyv|
 
  * וירשוה 1: 
 
 |וִירֵשׁוּהָ 1|
 |-|
 |וִירֵשׁוּהָ 1|
-|wEyErEšEuEhE|
+|wiyrEšuhA|
 
  * ינהלני 1: 
 
 |יְנַהֲלֵנִי 1|
 |-|
 |יְנַהֲלֵנִי 1|
-|yEnEhElEnEyE|
+|ysvnahalEniy|
 
  * עד־אשית 1: 
 
 |עַד־אָשִׁית 1|
 |-|
 |עַד־אָשִׁית 1|
-|ɣEdE־E'EšEyEtE|
+|ɣad־'Ašiyt|
 
  * חליתי 1: 
 
 |חִלִּיתִי 1|
 |-|
 |חִלִיתִי 1|
-|HElEyEtEyE|
+|Hiliytiy|
 
  * וימעטו 1: 
 
 |וַיִּמְעֲטוּ 1|
 |-|
 |וַיִמְעֲטוּ 1|
-|wEyEmEɣETEuE|
+|wayimsvɣaTu|
 
  * יבלעם 1: 
 
 |יְבַלְּעֵם 1|
 |-|
 |יְבַלְעֵם 1|
-|yEvElEɣEmE|
+|ysvvalsvɣEm|
 
  * ועמון 1: 
 
 |וְעַמּוֹן 1|
 |-|
 |וְעַמוֹֹן 1|
-|wEɣEmEwEnE|
+|wsvɣamwon|
 
  * ואל־תצל 1: 
 
 |וְאַל־תַּצֵּל 1|
 |-|
 |וְאַל־תַצֵל 1|
-|wE'ElE־EtEcElE|
+|wsv'al־tacEl|
 
  * מרוחך 1: 
 
 |מֵרוּחֶךָ 1|
 |-|
 |מֵרוּחֶךָ 1|
-|mErEuEHExE|
+|mEruHexA|
 
  * וכתותי 1: 
 
 |וְכַתּוֹתִי 1|
 |-|
 |וְכַתוֹֹתִי 1|
-|wExEtEwEtEyE|
+|wsvxatwotiy|
 
  * כמו־נחש 1: 
 
 |כְּמוֹ־נָחָשׁ 1|
 |-|
 |כְּמוֹֹ־נָחָשׁ 1|
-|kEmEwE־EnEHEšE|
+|ksvmwo־nAHAš|
 
  * בנהר 1: 
 
 |בַּנָּהָר 1|
 |-|
 |בַּנָהָר 1|
-|bEnEhErE|
+|banAhAr|
 
  * כמופת 1: 
 
 |כְּמוֹפֵת 1|
 |-|
 |כְּמוֹֹפֵת 1|
-|kEmEwEfEtE|
+|ksvmwofEt|
 
  * לאגם־מים 1: 
 
 |לַאֲגַם־מַיִם 1|
 |-|
 |לַאֲגַם־מַיִם 1|
-|lE'EgEmE־EmEyEmE|
+|la'agam־mayim|
 
  * לפעמי 1: 
 
 |לִפְעָמַי 1|
 |-|
 |לִפְעָמַי 1|
-|lEfEɣEmEyE|
+|lifsvɣAmay|
 
  * ויבנה 1: 
 
 |וְיִבְנֶה 1|
 |-|
 |וְיִבְנֶה 1|
-|wEyEvEnEhE|
+|wsvyivsvneh|
 
  * ומכחש 1: 
 
 |וּמִכַּחַשׁ 1|
 |-|
 |וּמִכַּחַשׁ 1|
-|uEmEkEHEšE|
+|umikaHaš|
 
  * במגורם 1: 
 
 |בִּמְגוּרָם 1|
 |-|
 |בִּמְגוּרָם 1|
-|bEmEgEuErEmE|
+|bimsvgurAm|
 
  * וישעי 1: 
 
 |וְיִשְׁעִי 1|
 |-|
 |וְיִשְׁעִי 1|
-|wEyEšEɣEyE|
+|wsvyišsvɣiy|
 
  * בוטח 1: 
 
 |בוֹטֵחַ 1|
 |-|
 |בוֹֹטֵחַ 1|
-|vEwETEHE|
+|vwoTEHa|
 
  * חליפות 1: 
 
 |חֲלִיפוֹת 1|
 |-|
 |חֲלִיפוֹֹת 1|
-|HElEyEfEwEtE|
+|Haliyfwot|
 
  * חמת־למו 1: 
 
 |חֲמַת־לָמוֹ 1|
 |-|
 |חֲמַת־לָמוֹֹ 1|
-|HEmEtE־ElEmEwE|
+|Hamat־lAmwo|
 
  * על־הזקן 1: 
 
 |עַל־הַזָּקָן 1|
 |-|
 |עַל־הַזָקָן 1|
-|ɣElE־EhEzEqEnE|
+|ɣal־hazAqAn|
 
  * ועל־ספרך 1: 
 
 |וְעַל־סִפְרְךָ 1|
 |-|
 |וְעַל־סִפְרְךָ 1|
-|wEɣElE־EsEfErExE|
+|wsvɣal־sifsvrsvxA|
 
  * חרוץ 1: 
 
 |חָרוּץ 1|
 |-|
 |חָרוּץ 1|
-|HErEuEcE|
+|HAruc|
 
  * אל־תהבלו 1: 
 
 |אַל־תֶּהְבָּלוּ 1|
 |-|
 |אַל־תֶהְבָּלוּ 1|
-|'ElE־EtEhEbElEuE|
+|'al־tehsvbAlu|
 
  * וחסדיך 1: 
 
 |וַחֲסָדֶיךָ 1|
 |-|
 |וַחֲסָדֶיךָ 1|
-|wEHEsEdEyExE|
+|waHasAdeyxA|
 
  * יורדי 1: 
 
 |יוֹרְדֵי 1|
 |-|
 |יוֹֹרְדֵי 1|
-|yEwErEdEyE|
+|yworsvdEy|
 
  * תמך 1: 
 
 |תָּמֹךְ 1|
 |-|
 |תָמֹךְ 1|
-|tEmExE|
+|tAmoxsv|
 
  * כי־רב 1: 
 
 |כִּי־רַב 1|
 |-|
 |כִּי־רַב 1|
-|kEyE־ErEvE|
+|kiy־rav|
 
  * קדמה 1: 
 
 |קַדְּמָה 1|
 |-|
 |קַדְמָה 1|
-|qEdEmEhE|
+|qadsvmAh|
 
  * לפני־שמש 1: 
 
 |לִפְנֵי־שֶׁמֶשׁ 1|
 |-|
 |לִפְנֵי־שֶׁמֶשׁ 1|
-|lEfEnEyE־EšEmEšE|
+|lifsvnEy־šemeš|
 
  * ביד־גבור 1: 
 
 |בְּיַד־גִּבּוֹר 1|
 |-|
 |בְּיַד־גִבּוֹֹר 1|
-|bEyEdE־EgEbEwErE|
+|bsvyad־gibwor|
 
  * ההפכי 1: 
 
 |הַהֹפְכִי 1|
 |-|
 |הַהֹפְכִי 1|
-|hEhEfExEyE|
+|hahofsvxiy|
 
  * בנחלים 1: 
 
 |בַּנְּחָלִים 1|
 |-|
 |בַּנְחָלִים 1|
-|bEnEHElEyEmE|
+|bansvHAliym|
 
  * כרמים 1: 
 
 |כְרָמִים 1|
 |-|
 |כְרָמִים 1|
-|xErEmEyEmE|
+|xsvrAmiym|
 
  * כירח 1: 
 
 |כְּיָרֵחַ 1|
 |-|
 |כְּיָרֵחַ 1|
-|kEyErEHE|
+|ksvyArEHa|
 
  * ברעותיהם 1: 
 
 |בְּרָעוֹתֵיהֶם 1|
 |-|
 |בְּרָעוֹֹתֵיהֶם 1|
-|bErEɣEwEtEyEhEmE|
+|bsvrAɣwotEyhem|
 
  * כגבר 1: 
 
 |כְּגֶבֶר 1|
 |-|
 |כְּגֶבֶר 1|
-|kEgEvErE|
+|ksvgever|
 
  * עברי 1: 
 
 |עֹבְרֵי 1|
 |-|
 |עֹבְרֵי 1|
-|ɣEvErEyE|
+|ɣovsvrEy|
 
  * וילך 1: 
 
 |וַיֵּלַךְ 1|
 |-|
 |וַיֵלַךְ 1|
-|wEyElExE|
+|wayElaxsv|
 
  * ושלמו 1: 
 
 |וְשַׁלְּמוּ 1|
 |-|
 |וְשַׁלְמוּ 1|
-|wEšElEmEuE|
+|wsvšalsvmu|
 
  * ואל־אלהי 1: 
 
 |וְאֶל־אֱלֹהַי 1|
 |-|
 |וְאֶל־אֱלֹהַי 1|
-|wE'ElE־E'ElEhEyE|
+|wsv'el־'elohay|
 
  * יחיה 1: 
 
 |יִחְיֶה 1|
 |-|
 |יִחְיֶה 1|
-|yEHEyEhE|
+|yiHsvyeh|
 
  * בך־יהוה 1: 
 
 |בְּךָ־יְהוָה 1|
 |-|
 |בְּךָ־יְהוָה 1|
-|bExE־EyEhEwEhE|
+|bsvxA־ysvhwAh|
 
  * ורעבו 1: 
 
 |וְרָעֵבוּ 1|
 |-|
 |וְרָעֵבוּ 1|
-|wErEɣEvEuE|
+|wsvrAɣEvu|
 
  * בהקבץ 1: 
 
 |בְּהִקָּבֵץ 1|
 |-|
 |בְּהִקָבֵץ 1|
-|bEhEqEvEcE|
+|bsvhiqAvEc|
 
  * יתלונן 1: 
 
 |יִתְלוֹנָן 1|
 |-|
 |יִתְלוֹֹנָן 1|
-|yEtElEwEnEnE|
+|yitsvlwonAn|
 
  * רדה 1: 
 
 |רְדֵה 1|
 |-|
 |רְדֵה 1|
-|rEdEhE|
+|rsvdEh|
 
  * אך־להרע 1: 
 
 |אַךְ־לְהָרֵעַ 1|
 |-|
 |אַךְ־לְהָרֵעַ 1|
-|'ExE־ElEhErEɣE|
+|'axsv־lsvhArEɣa|
 
  * [ינון] 1: 
 
 |[יִנּוֹן] 1|
 |-|
 |[יִנוֹֹן] 1|
-|[EyEnEwEnE]E|
+|[yinwon]|
 
  * ואהימה 1: 
 
 |וְאָהִימָה 1|
 |-|
 |וְאָהִימָה 1|
-|wE'EhEyEmEhE|
+|wsv'AhiymAh|
 
  * ורש 1: 
 
 |וָרָשׁ 1|
 |-|
 |וָרָשׁ 1|
-|wErEšE|
+|wArAš|
 
  * ילעג־למו 1: 
 
 |יִלְעַג־לָמוֹ 1|
 |-|
 |יִלְעַג־לָמוֹֹ 1|
-|yElEɣEgE־ElEmEwE|
+|yilsvɣag־lAmwo|
 
  * הרנינו 1: 
 
 |הַרְנִינוּ 1|
 |-|
 |הַרְנִינוּ 1|
-|hErEnEyEnEuE|
+|harsvniynu|
 
  * רצית 1: 
 
 |רָצִיתָ 1|
 |-|
 |רָצִיתָ 1|
-|rEcEyEtE|
+|rAciytA|
 
  * משכנתם 1: 
 
 |מִשְׁכְּנֹתָם 1|
 |-|
 |מִשְׁכְּנֹתָם 1|
-|mEšEkEnEtEmE|
+|mišsvksvnotAm|
 
  * גם־בני 1: 
 
 |גַּם־בְּנֵי 1|
 |-|
 |גַם־בְּנֵי 1|
-|gEmE־EbEnEyE|
+|gam־bsvnEy|
 
  * ומרדפי 1: 
 
 |וּמֵרֹדְפָי 1|
 |-|
 |וּמֵרֹדְפָי 1|
-|uEmErEdEfEyE|
+|umErodsvfAy|
 
  * בנפלאותיו 1: 
 
 |בְּנִפְלְאוֹתָיו 1|
 |-|
 |בְּנִפְלְאוֹֹתָיו 1|
-|bEnEfElE'EwEtEyEwE|
+|bsvnifsvlsv'wotAyw|
 
  * זכר־דבר 1: 
 
 |זְכֹר־דָּבָר 1|
 |-|
 |זְכֹר־דָבָר 1|
-|zExErE־EdEvErE|
+|zsvxor־dAvAr|
 
  * תוציא 1: 
 
 |תוֹצִיא 1|
 |-|
 |תוֹֹצִיא 1|
-|tEwEcEyE'E|
+|twociy'|
 
  * נפל 1: 
 
 |נֵפֶל 1|
 |-|
 |נֵפֶל 1|
-|nEfElE|
+|nEfel|
 
  * במתנינו 1: 
 
 |בְמָתְנֵינוּ 1|
 |-|
 |בְמָתְנֵינוּ 1|
-|vEmEtEnEyEnEuE|
+|vsvmAtsvnEynu|
 
  * לכל־עשוקים 1: 
 
 |לְכָל־עֲשׁוּקִים 1|
 |-|
 |לְכָל־עֲשׁוּקִים 1|
-|lExElE־EɣEšEuEqEyEmE|
+|lsvxAl־ɣašuqiym|
 
  * ברוח 1: 
 
 |בְּרוּחַ 1|
 |-|
 |בְּרוּחַ 1|
-|bErEuEHE|
+|bsvruHa|
 
  * בסוסים 1: 
 
 |בַסּוּסִים 1|
 |-|
 |בַסוּסִים 1|
-|vEsEuEsEyEmE|
+|vasusiym|
 
  * וירכב 1: 
 
 |וַיִּרְכַּב 1|
 |-|
 |וַיִרְכַּב 1|
-|wEyErEkEvE|
+|wayirsvkav|
 
  * בחיריך 1: 
 
 |בְּחִירֶיךָ 1|
 |-|
 |בְּחִירֶיךָ 1|
-|bEHEyErEyExE|
+|bsvHiyreyxA|
 
  * ותרחק 1: 
 
 |וַתִּרְחַק 1|
 |-|
 |וַתִרְחַק 1|
-|wEtErEHEqE|
+|watirsvHaq|
 
  * שלח־אורך 1: 
 
 |שְׁלַח־אוֹרְךָ 1|
 |-|
 |שְׁלַח־אוֹֹרְךָ 1|
-|šElEHE־E'EwErExE|
+|šsvlaH־'worsvxA|
 
  * אשפך 1: 
 
 |אֶשְׁפֹּךְ 1|
 |-|
 |אֶשְׁפֹּךְ 1|
-|'EšEpExE|
+|'ešsvpoxsv|
 
  * מחית 1: 
 
 |מָחִיתָ 1|
 |-|
 |מָחִיתָ 1|
-|mEHEyEtE|
+|mAHiytA|
 
  * כי־חסיד 1: 
 
 |כִּי־חָסִיד 1|
 |-|
 |כִּי־חָסִיד 1|
-|kEyE־EHEsEyEdE|
+|kiy־HAsiyd|
 
  * תדרך 1: 
 
 |תִּדְרֹךְ 1|
 |-|
 |תִדְרֹךְ 1|
-|tEdErExE|
+|tidsvroxsv|
 
  * אשר־נטעה 1: 
 
 |אֲשֶׁר־נָטְעָה 1|
 |-|
 |אֲשֶׁר־נָטְעָה 1|
-|'EšErE־EnETEɣEhE|
+|'ašer־nATsvɣAh|
 
  * מעלליהם 1: 
 
 |מַעַלְלֵיהֶם 1|
 |-|
 |מַעַלְלֵיהֶם 1|
-|mEɣElElEyEhEmE|
+|maɣalsvlEyhem|
 
  * ושלמת 1: 
 
 |וְשִׁלֻּמַת 1|
 |-|
 |וְשִׁלֻמַת 1|
-|wEšElEmEtE|
+|wsvšilumat|
 
  * כל־מחשבתם 1: 
 
 |כָּל־מַחְשְׁבֹתָם 1|
 |-|
 |כָּל־מַחְשְׁבֹתָם 1|
-|kElE־EmEHEšEvEtEmE|
+|kAl־maHsvšsvvotAm|
 
  * כי־נשגב 1: 
 
 |כִּי־נִשְׂגָּב 1|
 |-|
 |כִּי־נִשְׂגָב 1|
-|kEyE־EnESEgEvE|
+|kiy־niSsvgAv|
 
  * עלי־פלשת 1: 
 
 |עֲלֵי־פְלֶשֶׁת 1|
 |-|
 |עֲלֵי־פְלֶשֶׁת 1|
-|ɣElEyE־EfElEšEtE|
+|ɣalEy־fsvlešet|
 
  * לטובים 1: 
 
 |לַטּוֹבִים 1|
 |-|
 |לַטוֹֹבִים 1|
-|lETEwEvEyEmE|
+|laTwoviym|
 
  * [צרפה] 1: 
 
 |[צָרְפָה] 1|
 |-|
 |[צָרְפָה] 1|
-|[EcErEfEhE]E|
+|[cArsvfAh]|
 
  * אבימלך 1: 
 
 |אֲבִימֶלֶךְ 1|
 |-|
 |אֲבִימֶלֶךְ 1|
-|'EvEyEmElExE|
+|'aviymelexsv|
 
  * לא־אבוש 1: 
 
 |לֹא־אֵבוֹשׁ 1|
 |-|
 |לֹא־אֵבוֹֹשׁ 1|
-|lE'E־E'EvEwEšE|
+|lo'־'Evwoš|
 
  * יעזרני 1: 
 
 |יַעֲזְרֻנִי 1|
 |-|
 |יַעֲזְרֻנִי 1|
-|yEɣEzErEnEyE|
+|yaɣazsvruniy|
 
  * כי־בחר 1: 
 
 |כִּי־בָחַר 1|
 |-|
 |כִּי־בָחַר 1|
-|kEyE־EvEHErE|
+|kiy־vAHar|
 
  * אמתו 1: 
 
 |אֲמִתּוֹ 1|
 |-|
 |אֲמִתוֹֹ 1|
-|'EmEtEwE|
+|'amitwo|
 
  * ברצונו 1: 
 
 |בִּרְצוֹנוֹ 1|
 |-|
 |בִּרְצוֹֹנוֹֹ 1|
-|bErEcEwEnEwE|
+|birsvcwonwo|
 
  * על־גוים 1: 
 
 |עַל־גּוֹיִם 1|
 |-|
 |עַל־גוֹֹיִם 1|
-|ɣElE־EgEwEyEmE|
+|ɣal־gwoyim|
 
  * וחדל 1: 
 
 |וְחָדַל 1|
 |-|
 |וְחָדַל 1|
-|wEHEdElE|
+|wsvHAdal|
 
  * לכל־גוים 1: 
 
 |לְכָל־גּוֹיִם 1|
 |-|
 |לְכָל־גוֹֹיִם 1|
-|lExElE־EgEwEyEmE|
+|lsvxAl־gwoyim|
 
  * והבט 1: 
 
 |וְהַבֵּט 1|
 |-|
 |וְהַבֵּט 1|
-|wEhEbETE|
+|wsvhabET|
 
  * מיום־ליום 1: 
 
 |מִיּוֹם־לְיוֹם 1|
 |-|
 |מִיוֹֹם־לְיוֹֹם 1|
-|mEyEwEmE־ElEyEwEmE|
+|miywom־lsvywom|
 
  * גחלי 1: 
 
 |גַּחֲלֵי 1|
 |-|
 |גַחֲלֵי 1|
-|gEHElEyE|
+|gaHalEy|
 
  * תרצדון 1: 
 
 |תְּרַצְּדוּן 1|
 |-|
 |תְרַצְדוּן 1|
-|tErEcEdEuEnE|
+|tsvracsvdun|
 
  * בנדבה 1: 
 
 |בִּנְדָבָה 1|
 |-|
 |בִּנְדָבָה 1|
-|bEnEdEvEhE|
+|binsvdAvAh|
 
  * עם־הגדלים 1: 
 
 |עִם־הַגְּדֹלִים 1|
 |-|
 |עִם־הַגְדֹלִים 1|
-|ɣEmE־EhEgEdElEyEmE|
+|ɣim־hagsvdoliym|
 
  * איחל 1: 
 
 |אֲיַחֵל 1|
 |-|
 |אֲיַחֵל 1|
-|'EyEHElE|
+|'ayaHEl|
 
  * ויזנו 1: 
 
 |וַיִּזְנוּ 1|
 |-|
 |וַיִזְנוּ 1|
-|wEyEzEnEuE|
+|wayizsvnu|
 
  * לא־תחפץ 1: 
 
 |לֹא־תַחְפֹּץ 1|
 |-|
 |לֹא־תַחְפֹּץ 1|
-|lE'E־EtEHEpEcE|
+|lo'־taHsvpoc|
 
  * צאן 1: 
 
 |צֹאן 1|
 |-|
 |צֹאן 1|
-|cE'EnE|
+|co'n|
 
  * ישמו 1: 
 
 |יָשֹׁמּוּ 1|
 |-|
 |יָשֹׁמוּ 1|
-|yEšEmEuE|
+|yAšomu|
 
  * מבואו 1: 
 
 |מְבוֹאוֹ 1|
 |-|
 |מְבוֹֹאוֹֹ 1|
-|mEvEwE'EwE|
+|msvvwo'wo|
 
  * שדות 1: 
 
 |שָׂדוֹת 1|
 |-|
 |שָׂדוֹֹת 1|
-|SEdEwEtE|
+|SAdwot|
 
  * זעקתי 1: 
 
 |זָעַקְתִּי 1|
 |-|
 |זָעַקְתִי 1|
-|zEɣEqEtEyE|
+|zAɣaqsvtiy|
 
  * מישועתי 1: 
 
 |מִישׁוּעָתִי 1|
 |-|
 |מִישׁוּעָתִי 1|
-|mEyEšEuEɣEtEyE|
+|miyšuɣAtiy|
 
  * ובקרבם 1: 
 
 |וּבְקִרְבָּם 1|
 |-|
 |וּבְקִרְבָּם 1|
-|uEvEqErEbEmE|
+|uvsvqirsvbAm|
 
  * אל־ימשלו־בי 1: 
 
 |אַל־יִמְשְׁלוּ־בִי 1|
 |-|
 |אַל־יִמְשְׁלוּ־בִי 1|
-|'ElE־EyEmEšElEuE־EvEyE|
+|'al־yimsvšsvlu־viy|
 
  * רחם 1: 
 
 |רִחַם 1|
 |-|
 |רִחַם 1|
-|rEHEmE|
+|riHam|
 
  * וקרב 1: 
 
 |וְקֶרֶב 1|
 |-|
 |וְקֶרֶב 1|
-|wEqErEvE|
+|wsvqerev|
 
  * וממשלתך 1: 
 
 |וּמֶמְשֶׁלְתְּךָ 1|
 |-|
 |וּמֶמְשֶׁלְתְךָ 1|
-|uEmEmEšElEtExE|
+|umemsvšelsvtsvxA|
 
  * ודרשוהו 1: 
 
 |וּדְרָשׁוּהוּ 1|
 |-|
 |וּדְרָשׁוּהוּ 1|
-|uEdErEšEuEhEuE|
+|udsvrAšuhu|
 
  * כי־ברבים 1: 
 
 |כִּי־בְרַבִּים 1|
 |-|
 |כִּי־בְרַבִּים 1|
-|kEyE־EvErEbEyEmE|
+|kiy־vsvrabiym|
 
  * מאלפי 1: 
 
 |מֵאַלְפֵי 1|
 |-|
 |מֵאַלְפֵי 1|
-|mE'ElEfEyE|
+|mE'alsvfEy|
 
  * אשר־נשבעתי 1: 
 
 |אֲשֶׁר־נִשְׁבַּעְתִּי 1|
 |-|
 |אֲשֶׁר־נִשְׁבַּעְתִי 1|
-|'EšErE־EnEšEbEɣEtEyE|
+|'ašer־nišsvbaɣsvtiy|
 
  * ולצמאי 1: 
 
 |וְלִצְמָאִי 1|
 |-|
 |וְלִצְמָאִי 1|
-|wElEcEmE'EyE|
+|wsvlicsvmA'iy|
 
  * פינו 1: 
 
 |פִּינוּ 1|
 |-|
 |פִּינוּ 1|
-|pEyEnEuE|
+|piynu|
 
  * להתנוסס 1: 
 
 |לְהִתְנוֹסֵס 1|
 |-|
 |לְהִתְנוֹֹסֵס 1|
-|lEhEtEnEwEsEsE|
+|lsvhitsvnwosEs|
 
  * לעז 1: 
 
 |לֹעֵז 1|
 |-|
 |לֹעֵז 1|
-|lEɣEzE|
+|loɣEz|
 
  * אעשה 1: 
 
 |אֶעֱשֶׂה 1|
 |-|
 |אֶעֱשֶׂה 1|
-|'EɣESEhE|
+|'eɣeSeh|
 
  * כל־צבאיו 1: 
 
 |כָּל־צְבָאָיו 1|
 |-|
 |כָּל־צְבָאָיו 1|
-|kElE־EcEvE'EyEwE|
+|kAl־csvvA'Ayw|
 
  * ואשמחה 1: 
 
 |וְאֶשְׂמְחָה 1|
 |-|
 |וְאֶשְׂמְחָה 1|
-|wE'ESEmEHEhE|
+|wsv'eSsvmsvHAh|
 
  * צמתתני 1: 
 
 |צִמְּתַתְנִי 1|
 |-|
 |צִמְתַתְנִי 1|
-|cEmEtEtEnEyE|
+|cimsvtatsvniy|
 
  * ענם 1: 
 
 |עָנָם 1|
 |-|
 |עָנָם 1|
-|ɣEnEmE|
+|ɣAnAm|
 
  * באזניו 1: 
 
 |בְאָזְנָיו 1|
 |-|
 |בְאָזְנָיו 1|
-|vE'EzEnEyEwE|
+|vsv'AzsvnAyw|
 
  * באדני 1: 
 
 |בַּאדֹנָי 1|
 |-|
 |בַּאדֹנָי 1|
-|bE'EdEnEyE|
+|ba'donAy|
 
  * לחסידיך 1: 
 
 |לַחֲסִידֶיךָ 1|
 |-|
 |לַחֲסִידֶיךָ 1|
-|lEHEsEyEdEyExE|
+|laHasiydeyxA|
 
  * פנית 1: 
 
 |פִּנִּיתָ 1|
 |-|
 |פִּנִיתָ 1|
-|pEnEyEtE|
+|piniytA|
 
  * שמחים 1: 
 
 |שְׂמֵחִים 1|
 |-|
 |שְׂמֵחִים 1|
-|SEmEHEyEmE|
+|SsvmEHiym|
 
  * ולכה 1: 
 
 |וּלְכָה 1|
 |-|
 |וּלְכָה 1|
-|uElExEhE|
+|ulsvxAh|
 
  * הלבנון 1: 
 
 |הַלְּבָנוֹן 1|
 |-|
 |הַלְבָנוֹֹן 1|
-|hElEvEnEwEnE|
+|halsvvAnwon|
 
  * תרצחו 1: 
 
 |תְּרָצְּחוּ 1|
 |-|
 |תְרָצְחוּ 1|
-|tErEcEHEuE|
+|tsvrAcsvHu|
 
  * משאיהם 1: 
 
 |מִשֹּׁאֵיהֶם 1|
 |-|
 |מִשֹׁאֵיהֶם 1|
-|mEšE'EyEhEmE|
+|mišo'Eyhem|
 
  * אף־בלב 1: 
 
 |אַף־בְּלֵב 1|
 |-|
 |אַף־בְּלֵב 1|
-|'EfE־EbElEvE|
+|'af־bsvlEv|
 
  * עם־מרעים 1: 
 
 |עִם־מְרֵעִים 1|
 |-|
 |עִם־מְרֵעִים 1|
-|ɣEmE־EmErEɣEyEmE|
+|ɣim־msvrEɣiym|
 
  * משערי 1: 
 
 |מִשַּׁעֲרֵי 1|
 |-|
 |מִשַׁעֲרֵי 1|
-|mEšEɣErEyE|
+|mišaɣarEy|
 
  * עינמו 1: 
 
 |עֵינֵמוֹ 1|
 |-|
 |עֵינֵמוֹֹ 1|
-|ɣEyEnEmEwE|
+|ɣEynEmwo|
 
  * אחישה 1: 
 
 |אָחִישָׁה 1|
 |-|
 |אָחִישָׁה 1|
-|'EHEyEšEhE|
+|'AHiyšAh|
 
  * ואנושה 1: 
 
 |וָאָנוּשָׁה 1|
 |-|
 |וָאָנוּשָׁה 1|
-|wE'EnEuEšEhE|
+|wA'AnušAh|
 
  * משך־הזרע 1: 
 
 |מֶשֶׁךְ־הַזָּרַע 1|
 |-|
 |מֶשֶׁךְ־הַזָרַע 1|
-|mEšExE־EhEzErEɣE|
+|mešexsv־hazAraɣ|
 
  * על־זבחיך 1: 
 
 |עַל־זְבָחֶיךָ 1|
 |-|
 |עַל־זְבָחֶיךָ 1|
-|ɣElE־EzEvEHEyExE|
+|ɣal־zsvvAHeyxA|
 
  * אולתי 1: 
 
 |אִוַּלְתִּי 1|
 |-|
 |אִוַּלְתִי 1|
-|'EuElEtEyE|
+|'iualsvtiy|
 
  * ושקטה 1: 
 
 |וְשָׁקָטָה 1|
 |-|
 |וְשָׁקָטָה 1|
-|wEšEqETEhE|
+|wsvšAqATAh|
 
  * תרמס 1: 
 
 |תִּרְמֹס 1|
 |-|
 |תִרְמֹס 1|
-|tErEmEsE|
+|tirsvmos|
 
  * מסך 1: 
 
 |מֶסֶךְ 1|
 |-|
 |מֶסֶךְ 1|
-|mEsExE|
+|mesexsv|
 
  * ישיש 1: 
 
 |יָשִׂישׂ 1|
 |-|
 |יָשִׂישׂ 1|
-|yESEyESE|
+|yASiyS|
 
  * בנחלתך 1: 
 
 |בְּנַחֲלָתֶךָ 1|
 |-|
 |בְּנַחֲלָתֶךָ 1|
-|bEnEHElEtExE|
+|bsvnaHalAtexA|
 
  * וארצנו 1: 
 
 |וְאַרְצֵנוּ 1|
 |-|
 |וְאַרְצֵנוּ 1|
-|wE'ErEcEnEuE|
+|wsv'arsvcEnu|
 
  * רני 1: 
 
 |רָנֵּי 1|
 |-|
 |רָנֵי 1|
-|rEnEyE|
+|rAnEy|
 
  * למה־פניך 1: 
 
 |לָמָּה־פָנֶיךָ 1|
 |-|
 |לָמָה־פָנֶיךָ 1|
-|lEmEhE־EfEnEyExE|
+|lAmAh־fAneyxA|
 
  * חצרתיו 1: 
 
 |חֲצֵרֹתָיו 1|
 |-|
 |חֲצֵרֹתָיו 1|
-|HEcErEtEyEwE|
+|HacErotAyw|
 
  * לא־יוסיף 1: 
 
 |לֹא־יוֹסִיף 1|
 |-|
 |לֹא־יוֹֹסִיף 1|
-|lE'E־EyEwEsEyEfE|
+|lo'־ywosiyf|
 
  * ויפר 1: 
 
 |וַיֶּפֶר 1|
 |-|
 |וַיֶפֶר 1|
-|wEyEfErE|
+|wayefer|
 
  * טמאו 1: 
 
 |טִמְּאוּ 1|
 |-|
 |טִמְאוּ 1|
-|TEmE'EuE|
+|Timsv'u|
 
  * בשמו 1: 
 
 |בִּשְׁמוֹ 1|
 |-|
 |בִּשְׁמוֹֹ 1|
-|bEšEmEwE|
+|bišsvmwo|
 
  * יורה 1: 
 
 |יוֹרֶה 1|
 |-|
 |יוֹֹרֶה 1|
-|yEwErEhE|
+|yworeh|
 
  * שקדמת 1: 
 
 |שֶׁקַּדְמַת 1|
 |-|
 |שֶׁקַדְמַת 1|
-|šEqEdEmEtE|
+|šeqadsvmat|
 
  * ימאס 1: 
 
 |יִמְאָס 1|
 |-|
 |יִמְאָס 1|
-|yEmE'EsE|
+|yimsv'As|
 
  * אחזתם 1: 
 
 |אֲחָזָתַם 1|
 |-|
 |אֲחָזָתַם 1|
-|'EHEzEtEmE|
+|'aHAzAtam|
 
  * משמרים 1: 
 
 |מִשֹּׁמְרִים 1|
 |-|
 |מִשֹׁמְרִים 1|
-|mEšEmErEyEmE|
+|mišomsvriym|
 
  * וכלמתי 1: 
 
 |וּכְלִמָּתִי 1|
 |-|
 |וּכְלִמָתִי 1|
-|uExElEmEtEyE|
+|uxsvlimAtiy|
 
  * ישטמוני 1: 
 
 |יִשְׂטְמוּנִי 1|
 |-|
 |יִשְׂטְמוּנִי 1|
-|yESETEmEuEnEyE|
+|yiSsvTsvmuniy|
 
  * האדנים 1: 
 
 |הָאֲדֹנִים 1|
 |-|
 |הָאֲדֹנִים 1|
-|hE'EdEnEyEmE|
+|hA'adoniym|
 
  * תנחל 1: 
 
 |תִנְחַל 1|
 |-|
 |תִנְחַל 1|
-|tEnEHElE|
+|tinsvHal|
 
  * ועשב 1: 
 
 |וְעֵשֶׂב 1|
 |-|
 |וְעֵשֶׂב 1|
-|wEɣESEvE|
+|wsvɣESev|
 
  * אצבעתיך 1: 
 
 |אֶצְבְּעֹתֶיךָ 1|
 |-|
 |אֶצְבְּעֹתֶיךָ 1|
-|'EcEbEɣEtEyExE|
+|'ecsvbsvɣoteyxA|
 
  * כל־דברי־בלע 1: 
 
 |כָל־דִּבְרֵי־בָלַע 1|
 |-|
 |כָל־דִבְרֵי־בָלַע 1|
-|xElE־EdEvErEyE־EvElEɣE|
+|xAl־divsvrEy־vAlaɣ|
 
  * כל־חי 1: 
 
 |כָל־חָי 1|
 |-|
 |כָל־חָי 1|
-|xElE־EHEyE|
+|xAl־HAy|
 
  * הנחמדים 1: 
 
 |הַנֶּחֱמָדִים 1|
 |-|
 |הַנֶחֱמָדִים 1|
-|hEnEHEmEdEyEmE|
+|haneHemAdiym|
 
  * תשפטו 1: 
 
 |תִּשְׁפְּטוּ 1|
 |-|
 |תִשְׁפְּטוּ 1|
-|tEšEpETEuE|
+|tišsvpsvTu|
 
  * ולא־ידע 1: 
 
 |וְלֹא־יֵדַע 1|
 |-|
 |וְלֹא־יֵדַע 1|
-|wElE'E־EyEdEɣE|
+|wsvlo'־yEdaɣ|
 
  * ואיביו 1: 
 
 |וְאֹיְבָיו 1|
 |-|
 |וְאֹיְבָיו 1|
-|wE'EyEvEyEwE|
+|wsv'oysvvAyw|
 
  * שניהם 1: 
 
 |שִׁנֵּיהֶם 1|
 |-|
 |שִׁנֵיהֶם 1|
-|šEnEyEhEmE|
+|šinEyhem|
 
  * מתרפס 1: 
 
 |מִתְרַפֵּס 1|
 |-|
 |מִתְרַפֵּס 1|
-|mEtErEpEsE|
+|mitsvrapEs|
 
  * בהקיץ 1: 
 
 |בְהָקִיץ 1|
 |-|
 |בְהָקִיץ 1|
-|vEhEqEyEcE|
+|vsvhAqiyc|
 
  * יקראו 1: 
 
 |יִקְרָאוּ 1|
 |-|
 |יִקְרָאוּ 1|
-|yEqErE'EuE|
+|yiqsvrA'u|
 
  * ואנשי 1: 
 
 |וְאַנְשֵׁי 1|
 |-|
 |וְאַנְשֵׁי 1|
-|wE'EnEšEyE|
+|wsv'ansvšEy|
 
  * ]ימיטו 1: 
 
 |]ימיטו 1|
 |-|
 |]ימיטו 1|
-|]EyEmEyETEwE|
+|]ymyTw|
 
  * את־הבית 1: 
 
 |אֶת־הַבַּיִת 1|
 |-|
 |אֶת־הַבַּיִת 1|
-|'EtE־EhEbEyEtE|
+|'et־habayit|
 
  * אל־היכל 1: 
 
 |אֶל־הֵיכַל 1|
 |-|
 |אֶל־הֵיכַל 1|
-|'ElE־EhEyExElE|
+|'el־hEyxal|
 
  * אל־מקום 1: 
 
 |אֶל־מְקוֹם 1|
 |-|
 |אֶל־מְקוֹֹם 1|
-|'ElE־EmEqEwEmE|
+|'el־msvqwom|
 
  * ואני־בער 1: 
 
 |וַאֲנִי־בַעַר 1|
 |-|
 |וַאֲנִי־בַעַר 1|
-|wE'EnEyE־EvEɣErE|
+|wa'aniy־vaɣar|
 
  * יתהלל 1: 
 
 |יִתְהַלֵּל 1|
 |-|
 |יִתְהַלֵל 1|
-|yEtEhElElE|
+|yitsvhalEl|
 
  * ידע־אל 1: 
 
 |יָדַע־אֵל 1|
 |-|
 |יָדַע־אֵל 1|
-|yEdEɣE־E'ElE|
+|yAdaɣ־'El|
 
  * להשתבח 1: 
 
 |לְהִשְׁתַּבֵּחַ 1|
 |-|
 |לְהִשְׁתַבֵּחַ 1|
-|lEhEšEtEbEHE|
+|lsvhišsvtabEHa|
 
  * זעקו 1: 
 
 |זָעֲקוּ 1|
 |-|
 |זָעֲקוּ 1|
-|zEɣEqEuE|
+|zAɣaqu|
 
  * תתן־לנו 1: 
 
 |תִּתֶּן־לָנוּ 1|
 |-|
 |תִתֶן־לָנוּ 1|
-|tEtEnE־ElEnEuE|
+|titen־lAnu|
 
  * ואחר 1: 
 
 |וְאַחַר 1|
 |-|
 |וְאַחַר 1|
-|wE'EHErE|
+|wsv'aHar|
 
  * מתים 1: 
 
 |מֵתִים 1|
 |-|
 |מֵתִים 1|
-|mEtEyEmE|
+|mEtiym|
 
  * חק־נתן 1: 
 
 |חָק־נָתַן 1|
 |-|
 |חָק־נָתַן 1|
-|HEqE־EnEtEnE|
+|HAq־nAtan|
 
  * הפוצה 1: 
 
 |הַפּוֹצֶה 1|
 |-|
 |הַפּוֹֹצֶה 1|
-|hEpEwEcEhE|
+|hapwoceh|
 
  * ומחשבתיך 1: 
 
 |וּמַחְשְׁבֹתֶיךָ 1|
 |-|
 |וּמַחְשְׁבֹתֶיךָ 1|
-|uEmEHEšEvEtEyExE|
+|umaHsvšsvvoteyxA|
 
  * שנינו 1: 
 
 |שָׁנֵינוּ 1|
 |-|
 |שָׁנֵינוּ 1|
-|šEnEyEnEuE|
+|šAnEynu|
 
  * ולא־חפץ 1: 
 
 |וְלֹא־חָפֵץ 1|
 |-|
 |וְלֹא־חָפֵץ 1|
-|wElE'E־EHEfEcE|
+|wsvlo'־HAfEc|
 
  * בפקודיך 1: 
 
 |בְּפִקּוּדֶיךָ 1|
 |-|
 |בְּפִקוּדֶיךָ 1|
-|bEfEqEuEdEyExE|
+|bsvfiqudeyxA|
 
  * ונהרו 1: 
 
 |וְנָהָרוּ 1|
 |-|
 |וְנָהָרוּ 1|
-|wEnEhErEuE|
+|wsvnAhAru|
 
  * כל־ראי 1: 
 
 |כָּל־רֹאַי 1|
 |-|
 |כָּל־רֹאַי 1|
-|kElE־ErE'EyE|
+|kAl־ro'ay|
 
  * משמי 1: 
 
 |מִשְּׁמֵי 1|
 |-|
 |מִשְׁמֵי 1|
-|mEšEmEyE|
+|mišsvmEy|
 
  * ואל־עפרם 1: 
 
 |וְאֶל־עֲפָרָם 1|
 |-|
 |וְאֶל־עֲפָרָם 1|
-|wE'ElE־EɣEfErEmE|
+|wsv'el־ɣafArAm|
 
  * מפלטי 1: 
 
 |מְפַלְּטִי 1|
 |-|
 |מְפַלְטִי 1|
-|mEfElETEyE|
+|msvfalsvTiy|
 
  * תנומה 1: 
 
 |תְּנוּמָה 1|
 |-|
 |תְנוּמָה 1|
-|tEnEuEmEhE|
+|tsvnumAh|
 
  * אעבר 1: 
 
 |אֶעֱבֹר 1|
 |-|
 |אֶעֱבֹר 1|
-|'EɣEvErE|
+|'eɣevor|
 
  * על־הראש 1: 
 
 |עַל־הָרֹאשׁ 1|
 |-|
 |עַל־הָרֹאשׁ 1|
-|ɣElE־EhErE'EšE|
+|ɣal־hAro'š|
 
  * לערץ 1: 
 
 |לַעֲרֹץ 1|
 |-|
 |לַעֲרֹץ 1|
-|lEɣErEcE|
+|laɣaroc|
 
  * תבכינה 1: 
 
 |תִבְכֶּינָה 1|
 |-|
 |תִבְכֶּינָה 1|
-|tEvEkEyEnEhE|
+|tivsvkeynAh|
 
  * לא־ידע 1: 
 
 |לֹא־יֵדָע 1|
 |-|
 |לֹא־יֵדָע 1|
-|lE'E־EyEdEɣE|
+|lo'־yEdAɣ|
 
  * בל־ישובון 1: 
 
 |בַּל־יְשׁוּבוּן 1|
 |-|
 |בַּל־יְשׁוּבוּן 1|
-|bElE־EyEšEuEvEuEnE|
+|bal־ysvšuvun|
 
  * באפרתה 1: 
 
 |בְאֶפְרָתָה 1|
 |-|
 |בְאֶפְרָתָה 1|
-|vE'EfErEtEhE|
+|vsv'efsvrAtAh|
 
  * יפיך 1: 
 
 |יָפְיֵךְ 1|
 |-|
 |יָפְיֵךְ 1|
-|yEfEyExE|
+|yAfsvyExsv|
 
  * גחי 1: 
 
 |גֹחִי 1|
 |-|
 |גֹחִי 1|
-|gEHEyE|
+|goHiy|
 
  * למורא 1: 
 
 |לַמּוֹרָא 1|
 |-|
 |לַמוֹֹרָא 1|
-|lEmEwErE'E|
+|lamworA'|
 
  * וגבורתיך 1: 
 
 |וּגְבוּרֹתֶיךָ 1|
 |-|
 |וּגְבוּרֹתֶיךָ 1|
-|uEgEvEuErEtEyExE|
+|ugsvvuroteyxA|
 
  * תבאינה 1: 
 
 |תְּבֹאֶינָה 1|
 |-|
 |תְבֹאֶינָה 1|
-|tEvE'EyEnEhE|
+|tsvvo'eynAh|
 
  * אם־יעזבו 1: 
 
 |אִם־יַעַזְבוּ 1|
 |-|
 |אִם־יַעַזְבוּ 1|
-|'EmE־EyEɣEzEvEuE|
+|'im־yaɣazsvvu|
 
  * בחצצרות 1: 
 
 |בַּחֲצֹצְרוֹת 1|
 |-|
 |בַּחֲצֹצְרוֹֹת 1|
-|bEHEcEcErEwEtE|
+|baHacocsvrwot|
 
  * וחטאה 1: 
 
 |וַחֲטָאָה 1|
 |-|
 |וַחֲטָאָה 1|
-|wEHETE'EhE|
+|waHaTA'Ah|
 
  * השם־גבולך 1: 
 
 |הַשָּׂם־גְּבוּלֵךְ 1|
 |-|
 |הַשָׂם־גְבוּלֵךְ 1|
-|hESEmE־EgEvEuElExE|
+|haSAm־gsvvulExsv|
 
  * מצפון 1: 
 
 |מִצָּפוֹן 1|
 |-|
 |מִצָפוֹֹן 1|
-|mEcEfEwEnE|
+|micAfwon|
 
  * מלאכי 1: 
 
 |מַלְאֲכֵי 1|
 |-|
 |מַלְאֲכֵי 1|
-|mElE'ExEyE|
+|malsv'axEy|
 
  * וענוה־צדק 1: 
 
 |וְעַנְוָה־צֶדֶק 1|
 |-|
 |וְעַנְוָה־צֶדֶק 1|
-|wEɣEnEwEhE־EcEdEqE|
+|wsvɣansvwAh־cedeq|
 
  * צפנתי 1: 
 
 |צָפַנְתִּי 1|
 |-|
 |צָפַנְתִי 1|
-|cEfEnEtEyE|
+|cAfansvtiy|
 
  * מעינים 1: 
 
 |מַעְיָנִים 1|
 |-|
 |מַעְיָנִים 1|
-|mEɣEyEnEyEmE|
+|maɣsvyAniym|
 
  * הבנויה 1: 
 
 |הַבְּנוּיָה 1|
 |-|
 |הַבְּנוּיָה 1|
-|hEbEnEuEyEhE|
+|habsvnuyAh|
 
  * ומדת 1: 
 
 |וּמִדַּת 1|
 |-|
 |וּמִדַת 1|
-|uEmEdEtE|
+|umidat|
 
  * ואחזתך 1: 
 
 |וַאֲחֻזָּתְךָ 1|
 |-|
 |וַאֲחֻזָתְךָ 1|
-|wE'EHEzEtExE|
+|wa'aHuzAtsvxA|
 
  * להט 1: 
 
 |לֹהֵט 1|
 |-|
 |לֹהֵט 1|
-|lEhETE|
+|lohET|
 
  * רצונו 1: 
 
 |רְצוֹנוֹ 1|
 |-|
 |רְצוֹֹנוֹֹ 1|
-|rEcEwEnEwE|
+|rsvcwonwo|
 
  * מני־קדם 1: 
 
 |מִנִּי־קֶדֶם 1|
 |-|
 |מִנִי־קֶדֶם 1|
-|mEnEyE־EqEdEmE|
+|miniy־qedem|
 
  * בא־יבוא 1: 
 
 |בֹּא־יָבוֹא 1|
 |-|
 |בֹּא־יָבוֹֹא 1|
-|bE'E־EyEvEwE'E|
+|bo'־yAvwo'|
 
  * הפיר 1: 
 
 |הֵפִיר 1|
 |-|
 |הֵפִיר 1|
-|hEfEyErE|
+|hEfiyr|
 
  * כי־ירבה 1: 
 
 |כִּי־יִרְבֶּה 1|
 |-|
 |כִּי־יִרְבֶּה 1|
-|kEyE־EyErEbEhE|
+|kiy־yirsvbeh|
 
  * תמונתך 1: 
 
 |תְּמוּנָתֶךָ 1|
 |-|
 |תְמוּנָתֶךָ 1|
-|tEmEuEnEtExE|
+|tsvmunAtexA|
 
  * לכו־חזו 1: 
 
 |לְכוּ־חֲזוּ 1|
 |-|
 |לְכוּ־חֲזוּ 1|
-|lExEuE־EHEzEuE|
+|lsvxu־Hazu|
 
  * את־מוסרותימו 1: 
 
 |אֶת־מוֹסְרוֹתֵימוֹ 1|
 |-|
 |אֶת־מוֹֹסְרוֹֹתֵימוֹֹ 1|
-|'EtE־EmEwEsErEwEtEyEmEwE|
+|'et־mwossvrwotEymwo|
 
  * נפלאת 1: 
 
 |נִפְלָאת 1|
 |-|
 |נִפְלָאת 1|
-|nEfElE'EtE|
+|nifsvlA't|
 
  * כצדקך 1: 
 
 |כְצִדְקְךָ 1|
 |-|
 |כְצִדְקְךָ 1|
-|xEcEdEqExE|
+|xsvcidsvqsvxA|
 
  * ישועה 1: 
 
 |יְשׁוּעָה 1|
 |-|
 |יְשׁוּעָה 1|
-|yEšEuEɣEhE|
+|ysvšuɣAh|
 
  * שפתיך 1: 
 
 |שְׂפָתֶיךָ 1|
 |-|
 |שְׂפָתֶיךָ 1|
-|SEfEtEyExE|
+|SsvfAteyxA|
 
  * עם־נדיבים 1: 
 
 |עִם־נְדִיבִים 1|
 |-|
 |עִם־נְדִיבִים 1|
-|ɣEmE־EnEdEyEvEyEmE|
+|ɣim־nsvdiyviym|
 
  * באנו־באש 1: 
 
 |בָּאנוּ־בָאֵשׁ 1|
 |-|
 |בָּאנוּ־בָאֵשׁ 1|
-|bE'EnEuE־EvE'EšE|
+|bA'nu־vA'Eš|
 
  * ישתה 1: 
 
 |יִשְׁתֶּה 1|
 |-|
 |יִשְׁתֶה 1|
-|yEšEtEhE|
+|yišsvteh|
 
  * אחרית 1: 
 
 |אַחֲרִית 1|
 |-|
 |אַחֲרִית 1|
-|'EHErEyEtE|
+|'aHariyt|
 
  * אל־תרעו 1: 
 
 |אַל־תָּרֵעוּ 1|
 |-|
 |אַל־תָרֵעוּ 1|
-|'ElE־EtErEɣEuE|
+|'al־tArEɣu|
 
  * לקדשו 1: 
 
 |לְקָדְשׁוֹ 1|
 |-|
 |לְקָדְשׁוֹֹ 1|
-|lEqEdEšEwE|
+|lsvqAdsvšwo|
 
  * פעור 1: 
 
 |פְּעוֹר 1|
 |-|
 |פְּעוֹֹר 1|
-|pEɣEwErE|
+|psvɣwor|
 
  * בעדני 1: 
 
 |בַּעֲדֵנִי 1|
 |-|
 |בַּעֲדֵנִי 1|
-|bEɣEdEnEyE|
+|baɣadEniy|
 
  * כל־יראי 1: 
 
 |כָּל־יִרְאֵי 1|
 |-|
 |כָּל־יִרְאֵי 1|
-|kElE־EyErE'EyE|
+|kAl־yirsv'Ey|
 
  * בעשק 1: 
 
 |בְעֹשֶׁק 1|
 |-|
 |בְעֹשֶׁק 1|
-|vEɣEšEqE|
+|vsvɣošeq|
 
  * כי־ששון 1: 
 
 |כִּי־שְׂשׂוֹן 1|
 |-|
 |כִּי־שְׂשׂוֹֹן 1|
-|kEyE־ESESEwEnE|
+|kiy־SsvSwon|
 
  * לגאיונים 1: 
 
 |לִגְאֵיוֹנִים 1|
 |-|
 |לִגְאֵיוֹֹנִים 1|
-|lEgE'EyEwEnEyEmE|
+|ligsv'Eywoniym|
 
  * ארחותיך 1: 
 
 |אֹרְחוֹתֶיךָ 1|
 |-|
 |אֹרְחוֹֹתֶיךָ 1|
-|'ErEHEwEtEyExE|
+|'orsvHwoteyxA|
 
  * כי־תענני 1: 
 
 |כִי־תַעֲנֵנִי 1|
 |-|
 |כִי־תַעֲנֵנִי 1|
-|xEyE־EtEɣEnEnEyE|
+|xiy־taɣanEniy|
 
  * בנימן 1: 
 
 |בִּנְיָמִן 1|
 |-|
 |בִּנְיָמִן 1|
-|bEnEyEmEnE|
+|binsvyAmin|
 
  * יצוה־לך 1: 
 
 |יְצַוֶּה־לָּךְ 1|
 |-|
 |יְצַוֶּה־לָךְ 1|
-|yEcEuEhE־ElExE|
+|ysvcaueh־lAxsv|
 
  * יראוך 1: 
 
 |יְרֵאוּךָ 1|
 |-|
 |יְרֵאוּךָ 1|
-|yErE'EuExE|
+|ysvrE'uxA|
 
  * תתבלע 1: 
 
 |תִּתְבַּלָּע 1|
 |-|
 |תִתְבַּלָע 1|
-|tEtEbElEɣE|
+|titsvbalAɣ|
 
  * על־ימינך 1: 
 
 |עַל־יְמִינְךָ 1|
 |-|
 |עַל־יְמִינְךָ 1|
-|ɣElE־EyEmEyEnExE|
+|ɣal־ysvmiynsvxA|
 
  * איים 1: 
 
 |אִיִּים 1|
 |-|
 |אִיִים 1|
-|'EyEyEmE|
+|'iyiym|
 
  * בטחות 1: 
 
 |בַטֻּחוֹת 1|
 |-|
 |בַטֻחוֹֹת 1|
-|vETEHEwEtE|
+|vaTuHwot|
 
  * בלעונו 1: 
 
 |בְּלָעוּנוּ 1|
 |-|
 |בְּלָעוּנוּ 1|
-|bElEɣEuEnEuE|
+|bsvlAɣunu|
 
  * יחליקון 1: 
 
 |יַחֲלִיקוּן 1|
 |-|
 |יַחֲלִיקוּן 1|
-|yEHElEyEqEuEnE|
+|yaHaliyqun|
 
  * לצים 1: 
 
 |לֵצִים 1|
 |-|
 |לֵצִים 1|
-|lEcEyEmE|
+|lEciym|
 
  * ימותו 1: 
 
 |יָמוּתוּ 1|
 |-|
 |יָמוּתוּ 1|
-|yEmEuEtEuE|
+|yAmutu|
 
  * חמודו 1: 
 
 |חֲמוּדוֹ 1|
 |-|
 |חֲמוּדוֹֹ 1|
-|HEmEuEdEwE|
+|Hamudwo|
 
  * תעלים 1: 
 
 |תַּעְלִים 1|
 |-|
 |תַעְלִים 1|
-|tEɣElEyEmE|
+|taɣsvliym|
 
  * עבי 1: 
 
 |עָבֵי 1|
 |-|
 |עָבֵי 1|
-|ɣEvEyE|
+|ɣAvEy|
 
  * ואענהו 1: 
 
 |וְאֶעֱנֵהוּ 1|
 |-|
 |וְאֶעֱנֵהוּ 1|
-|wE'EɣEnEhEuE|
+|wsv'eɣenEhu|
 
  * בלו 1: 
 
 |בָּלוּ 1|
 |-|
 |בָּלוּ 1|
-|bElEuE|
+|bAlu|
 
  * כל־גמוליו 1: 
 
 |כָּל־גְּמוּלָיו 1|
 |-|
 |כָּל־גְמוּלָיו 1|
-|kElE־EgEmEuElEyEwE|
+|kAl־gsvmulAyw|
 
  * רגלם 1: 
 
 |רַגְלָם 1|
 |-|
 |רַגְלָם 1|
-|rEgElEmE|
+|ragsvlAm|
 
  * אל־אבוש 1: 
 
 |אַל־אֵבוֹשׁ 1|
 |-|
 |אַל־אֵבוֹֹשׁ 1|
-|'ElE־E'EvEwEšE|
+|'al־'Evwoš|
 
  * כחו 1: 
 
 |כחו 1|
 |-|
 |כחו 1|
-|xEHEwE|
+|xHw|
 
  * כפיך 1: 
 
 |כַּפֶּיךָ 1|
 |-|
 |כַּפֶּיךָ 1|
-|kEpEyExE|
+|kapeyxA|
 
  * קרבת 1: 
 
 |קִרֲבַת 1|
 |-|
 |קִרֲבַת 1|
-|qErEvEtE|
+|qiravat|
 
  * מכל־ארח 1: 
 
 |מִכָּל־אֹרַח 1|
 |-|
 |מִכָּל־אֹרַח 1|
-|mEkElE־E'ErEHE|
+|mikAl־'oraH|
 
  * בהר 1: 
 
 |בְּהַר 1|
 |-|
 |בְּהַר 1|
-|bEhErE|
+|bsvhar|
 
  * אצמיתם 1: 
 
 |אַצְמִיתֵם 1|
 |-|
 |אַצְמִיתֵם 1|
-|'EcEmEyEtEmE|
+|'acsvmiytEm|
 
  * קצי 1: 
 
 |קִצִּי 1|
 |-|
 |קִצִי 1|
-|qEcEyE|
+|qiciy|
 
  * תוחלתי 1: 
 
 |תּוֹחַלְתִּי 1|
 |-|
 |תוֹֹחַלְתִי 1|
-|tEwEHElEtEyE|
+|twoHalsvtiy|
 
  * לכלמה 1: 
 
 |לִכְלִמָּה 1|
 |-|
 |לִכְלִמָה 1|
-|lExElEmEhE|
+|lixsvlimAh|
 
  * כי־יחיד 1: 
 
 |כִּי־יָחִיד 1|
 |-|
 |כִּי־יָחִיד 1|
-|kEyE־EyEHEyEdE|
+|kiy־yAHiyd|
 
  * ולהפיל 1: 
 
 |וּלְהַפִּיל 1|
 |-|
 |וּלְהַפִּיל 1|
-|uElEhEpEyElE|
+|ulsvhapiyl|
 
  * תמותון 1: 
 
 |תְּמוּתוּן 1|
 |-|
 |תְמוּתוּן 1|
-|tEmEuEtEuEnE|
+|tsvmutun|
 
  * ביקרותיך 1: 
 
 |בְּיִקְּרוֹתֶיךָ 1|
 |-|
 |בְּיִקְרוֹֹתֶיךָ 1|
-|bEyEqErEwEtEyExE|
+|bsvyiqsvrwoteyxA|
 
  * קשתם 1: 
 
 |קַשְׁתָּם 1|
 |-|
 |קַשְׁתָם 1|
-|qEšEtEmE|
+|qašsvtAm|
 
  * ורב 1: 
 
 |וְרֹב 1|
 |-|
 |וְרֹב 1|
-|wErEvE|
+|wsvrov|
 
  * דכים 1: 
 
 |דָּכְיָם 1|
 |-|
 |דָכְיָם 1|
-|dExEyEmE|
+|dAxsvyAm|
 
  * חרפתך 1: 
 
 |חֶרְפָּתְךָ 1|
 |-|
 |חֶרְפָּתְךָ 1|
-|HErEpEtExE|
+|HersvpAtsvxA|
 
  * במתים 1: 
 
 |בַּמֵּתִים 1|
 |-|
 |בַּמֵתִים 1|
-|bEmEtEyEmE|
+|bamEtiym|
 
  * לכל־חפציהם 1: 
 
 |לְכָל־חֶפְצֵיהֶם 1|
 |-|
 |לְכָל־חֶפְצֵיהֶם 1|
-|lExElE־EHEfEcEyEhEmE|
+|lsvxAl־HefsvcEyhem|
 
  * ויגד 1: 
 
 |וַיַּגֵּד 1|
 |-|
 |וַיַגֵד 1|
-|wEyEgEdE|
+|wayagEd|
 
  * יניעו 1: 
 
 |יָנִיעוּ 1|
 |-|
 |יָנִיעוּ 1|
-|yEnEyEɣEuE|
+|yAniyɣu|
 
  * כגלגל 1: 
 
 |כַגַּלְגַּל 1|
 |-|
 |כַגַלְגַל 1|
-|xEgElEgElE|
+|xagalsvgal|
 
  * אל־דביר 1: 
 
 |אֶל־דְּבִיר 1|
 |-|
 |אֶל־דְבִיר 1|
-|'ElE־EdEvEyErE|
+|'el־dsvviyr|
 
  * משפת־שקר 1: 
 
 |מִשְּׂפַת־שֶׁקֶר 1|
 |-|
 |מִשְׂפַת־שֶׁקֶר 1|
-|mESEfEtE־EšEqErE|
+|miSsvfat־šeqer|
 
  * פעלו 1: 
 
 |פָּעֳלוֹ 1|
 |-|
 |פָּעֳלוֹֹ 1|
-|pEɣElEwE|
+|pAɣAlwo|
 
  * כי־אנכי 1: 
 
 |כִּי־אָנֹכִי 1|
 |-|
 |כִּי־אָנֹכִי 1|
-|kEyE־E'EnExEyE|
+|kiy־'Anoxiy|
 
  * ואחלצה 1: 
 
 |וָאֲחַלְּצָה 1|
 |-|
 |וָאֲחַלְצָה 1|
-|wE'EHElEcEhE|
+|wA'aHalsvcAh|
 
  * כל־טוב 1: 
 
 |כָל־טוֹב 1|
 |-|
 |כָל־טוֹֹב 1|
-|xElE־ETEwEvE|
+|xAl־Twov|
 
  * עושק 1: 
 
 |עוֹשֵׁק 1|
 |-|
 |עוֹֹשֵׁק 1|
-|ɣEwEšEqE|
+|ɣwošEq|
 
  * [כאים 1: 
 
 |[כָּאִים 1|
 |-|
 |[כָּאִים 1|
-|[EkE'EyEmE|
+|[kA'iym|
 
  * תשכחני 1: 
 
 |תִּשְׁכָּחֵנִי 1|
 |-|
 |תִשְׁכָּחֵנִי 1|
-|tEšEkEHEnEyE|
+|tišsvkAHEniy|
 
  * ומה־יסיף 1: 
 
 |וּמַה־יֹּסִיף 1|
 |-|
 |וּמַה־יֹסִיף 1|
-|uEmEhE־EyEsEyEfE|
+|umah־yosiyf|
 
  * והתענגו 1: 
 
 |וְהִתְעַנְּגוּ 1|
 |-|
 |וְהִתְעַנְגוּ 1|
-|wEhEtEɣEnEgEuE|
+|wsvhitsvɣansvgu|
 
  * מושיבי 1: 
 
 |מוֹשִׁיבִי 1|
 |-|
 |מוֹֹשִׁיבִי 1|
-|mEwEšEyEvEyE|
+|mwošiyviy|
 
  * במזמות 1: 
 
 |בִּמְזִמּוֹת 1|
 |-|
 |בִּמְזִמוֹֹת 1|
-|bEmEzEmEwEtE|
+|bimsvzimwot|
 
  * וערים 1: 
 
 |וְעָרִים 1|
 |-|
 |וְעָרִים 1|
-|wEɣErEyEmE|
+|wsvɣAriym|
 
  * כתנור 1: 
 
 |כְּתַנּוּר 1|
 |-|
 |כְּתַנוּר 1|
-|kEtEnEuErE|
+|ksvtanur|
 
  * יראו־בי 1: 
 
 |יִרְאוּ־בִי 1|
 |-|
 |יִרְאוּ־בִי 1|
-|yErE'EuE־EvEyE|
+|yirsv'u־viy|
 
  * תמימם 1: 
 
 |תְמִימִם 1|
 |-|
 |תְמִימִם 1|
-|tEmEyEmEmE|
+|tsvmiymim|
 
  * קנתה 1: 
 
 |קָנְתָה 1|
 |-|
 |קָנְתָה 1|
-|qEnEtEhE|
+|qAnsvtAh|
 
  * גלמי 1: 
 
 |גָּלְמִי 1|
 |-|
 |גָלְמִי 1|
-|gElEmEyE|
+|gAlsvmiy|
 
  * מאלף 1: 
 
 |מֵאָלֶף 1|
 |-|
 |מֵאָלֶף 1|
-|mE'ElEfE|
+|mE'Alef|
 
  * לכל־גוי 1: 
 
 |לְכָל־גּוֹי 1|
 |-|
 |לְכָל־גוֹֹי 1|
-|lExElE־EgEwEyE|
+|lsvxAl־gwoy|
 
  * מאור 1: 
 
 |מָאוֹר 1|
 |-|
 |מָאוֹֹר 1|
-|mE'EwErE|
+|mA'wor|
 
  * הלוי 1: 
 
 |הַלֵּוִי 1|
 |-|
 |הַלֵוִי 1|
-|hElEwEyE|
+|halEwiy|
 
  * כל־אלהי 1: 
 
 |כָּל־אֱלֹהֵי 1|
 |-|
 |כָּל־אֱלֹהֵי 1|
-|kElE־E'ElEhEyE|
+|kAl־'elohEy|
 
  * אדברה־נא 1: 
 
 |אֲדַבְּרָה־נָּא 1|
 |-|
 |אֲדַבְּרָה־נָא 1|
-|'EdEbErEhE־EnE'E|
+|'adabsvrAh־nA'|
 
  * בכחו 1: 
 
 |בְּכֹחוֹ 1|
 |-|
 |בְּכֹחוֹֹ 1|
-|bExEHEwE|
+|bsvxoHwo|
 
  * ויחרגו 1: 
 
 |וְיַחְרְגוּ 1|
 |-|
 |וְיַחְרְגוּ 1|
-|wEyEHErEgEuE|
+|wsvyaHsvrsvgu|
 
  * את־בשרי 1: 
 
 |אֶת־בְּשָׂרִי 1|
 |-|
 |אֶת־בְּשָׂרִי 1|
-|'EtE־EbESErEyE|
+|'et־bsvSAriy|
 
  * ואל־תסתר 1: 
 
 |וְאַל־תַּסְתֵּר 1|
 |-|
 |וְאַל־תַסְתֵר 1|
-|wE'ElE־EtEsEtErE|
+|wsv'al־tassvtEr|
 
  * יראיו 1: 
 
 |יְרֵאָיו 1|
 |-|
 |יְרֵאָיו 1|
-|yErE'EyEwE|
+|ysvrE'Ayw|
 
  * קשבות 1: 
 
 |קַשֻּׁבוֹת 1|
 |-|
 |קַשֻׁבוֹֹת 1|
-|qEšEvEwEtE|
+|qašuvwot|
 
  * תחלק 1: 
 
 |תְּחַלֵּק 1|
 |-|
 |תְחַלֵק 1|
-|tEHElEqE|
+|tsvHalEq|
 
  * ויודו 1: 
 
 |וְיוֹדוּ 1|
 |-|
 |וְיוֹֹדוּ 1|
-|wEyEwEdEuE|
+|wsvywodu|
 
  * הסכנתה 1: 
 
 |הִסְכַּנְתָּה 1|
 |-|
 |הִסְכַּנְתָה 1|
-|hEsEkEnEtEhE|
+|hissvkansvtAh|
 
  * כל־מלאכיו 1: 
 
 |כָל־מַלְאָכָיו 1|
 |-|
 |כָל־מַלְאָכָיו 1|
-|xElE־EmElE'ExEyEwE|
+|xAl־malsv'AxAyw|
 
  * בנשאי 1: 
 
 |בְּנָשְׂאִי 1|
 |-|
 |בְּנָשְׂאִי 1|
-|bEnESE'EyE|
+|bsvnASsv'iy|
 
  * נתיבתי 1: 
 
 |נְתִיבָתִי 1|
 |-|
 |נְתִיבָתִי 1|
-|nEtEyEvEtEyE|
+|nsvtiyvAtiy|
 
  * וכשמן 1: 
 
 |וְכַשֶּׁמֶן 1|
 |-|
 |וְכַשֶׁמֶן 1|
-|wExEšEmEnE|
+|wsvxašemen|
 
  * הבא 1: 
 
 |הַבָּא 1|
 |-|
 |הַבָּא 1|
-|hEbE'E|
+|habA'|
 
  * במשכו 1: 
 
 |בְּמָשְׁכוֹ 1|
 |-|
 |בְּמָשְׁכוֹֹ 1|
-|bEmEšExEwE|
+|bsvmAšsvxwo|
 
  * כעץ 1: 
 
 |כְּעֵץ 1|
 |-|
 |כְּעֵץ 1|
-|kEɣEcE|
+|ksvɣEc|
 
  * ורעות 1: 
 
 |וְרָעוֹת 1|
 |-|
 |וְרָעוֹֹת 1|
-|wErEɣEwEtE|
+|wsvrAɣwot|
 
  * חילך 1: 
 
 |חֵילֶךָ 1|
 |-|
 |חֵילֶךָ 1|
-|HEyElExE|
+|HEylexA|
 
  * לכו־בנים 1: 
 
 |לְכוּ־בָנִים 1|
 |-|
 |לְכוּ־בָנִים 1|
-|lExEuE־EvEnEyEmE|
+|lsvxu־vAniym|
 
  * קרח 1: 
 
 |קֹרַח 1|
 |-|
 |קֹרַח 1|
-|qErEHE|
+|qoraH|
 
  * החזק 1: 
 
 |הַחֲזֵק 1|
 |-|
 |הַחֲזֵק 1|
-|hEHEzEqE|
+|haHazEq|
 
  * ומצותי 1: 
 
 |וּמִצְוֺתַי 1|
 |-|
 |וּמִצְוֺתַי 1|
-|uEmEcEwEtEyE|
+|umicsvw_o_tay|
 
  * הבוטח 1: 
 
 |הַבּוֹטֵחַ 1|
 |-|
 |הַבּוֹֹטֵחַ 1|
-|hEbEwETEHE|
+|habwoTEHa|
 
  * בכל־דרכיו 1: 
 
 |בְּכָל־דְּרָכָיו 1|
 |-|
 |בְּכָל־דְרָכָיו 1|
-|bExElE־EdErExEyEwE|
+|bsvxAl־dsvrAxAyw|
 
  * מחיל 1: 
 
 |מֵחַיִל 1|
 |-|
 |מֵחַיִל 1|
-|mEHEyElE|
+|mEHayil|
 
  * יענך 1: 
 
 |יַעַנְךָ 1|
 |-|
 |יַעַנְךָ 1|
-|yEɣEnExE|
+|yaɣansvxA|
 
  * תחטאני 1: 
 
 |תְּחַטְּאֵנִי 1|
 |-|
 |תְחַטְאֵנִי 1|
-|tEHETE'EnEyE|
+|tsvHaTsv'Eniy|
 
  * דבת 1: 
 
 |דִּבַּת 1|
 |-|
 |דִבַּת 1|
-|dEbEtE|
+|dibat|
 
  * למשאות 1: 
 
 |לְמַשֻּׁאוֹת 1|
 |-|
 |לְמַשֻׁאוֹֹת 1|
-|lEmEšE'EwEtE|
+|lsvmašu'wot|
 
  * כהמס 1: 
 
 |כְּהִמֵּס 1|
 |-|
 |כְּהִמֵס 1|
-|kEhEmEsE|
+|ksvhimEs|
 
  * לא־יככה 1: 
 
 |לֹא־יַכֶּכָּה 1|
 |-|
 |לֹא־יַכֶּכָּה 1|
-|lE'E־EyEkEkEhE|
+|lo'־yakekAh|
 
  * צררי 1: 
 
 |צֹרְרָי 1|
 |-|
 |צֹרְרָי 1|
-|cErErEyE|
+|corsvrAy|
 
  * חשבי 1: 
 
 |חֹשְׁבֵי 1|
 |-|
 |חֹשְׁבֵי 1|
-|HEšEvEyE|
+|HošsvvEy|
 
  * אל־עם 1: 
 
 |אֶל־עַם 1|
 |-|
 |אֶל־עַם 1|
-|'ElE־EɣEmE|
+|'el־ɣam|
 
  * מעדותיך 1: 
 
 |מֵעֵדְוֺתֶיךָ 1|
 |-|
 |מֵעֵדְוֺתֶיךָ 1|
-|mEɣEdEwEtEyExE|
+|mEɣEdsvw_o_teyxA|
 
  * בכה 1: 
 
 |בְּכָה 1|
 |-|
 |בְּכָה 1|
-|bExEhE|
+|bsvxAh|
 
  * ואחלצך 1: 
 
 |וָאֲחַלְּצֶךָּ 1|
 |-|
 |וָאֲחַלְצֶךָּ 1|
-|wE'EHElEcEkE|
+|wA'aHalsvcekA|
 
  * לחסידיו 1: 
 
 |לַחֲסִידָיו 1|
 |-|
 |לַחֲסִידָיו 1|
-|lEHEsEyEdEyEwE|
+|laHasiydAyw|
 
  * איש־דמים 1: 
 
 |אִישׁ־דָּמִים 1|
 |-|
 |אִישׁ־דָמִים 1|
-|'EyEšE־EdEmEyEmE|
+|'iyš־dAmiym|
 
  * בל־תניחני 1: 
 
 |בַּל־תַּנִּיחֵנִי 1|
 |-|
 |בַּל־תַנִיחֵנִי 1|
-|bElE־EtEnEyEHEnEyE|
+|bal־taniyHEniy|
 
  * דם 1: 
 
 |דָם 1|
 |-|
 |דָם 1|
-|dEmE|
+|dAm|
 
  * יתיצבו 1: 
 
 |יִתְיַצְּבוּ 1|
 |-|
 |יִתְיַצְבוּ 1|
-|yEtEyEcEvEuE|
+|yitsvyacsvvu|
 
  * ועמקים 1: 
 
 |וַעֲמָקִים 1|
 |-|
 |וַעֲמָקִים 1|
-|wEɣEmEqEyEmE|
+|waɣamAqiym|
 
  * ומשפטי־פיו 1: 
 
 |וּמִשְׁפְּטֵי־פִיו 1|
 |-|
 |וּמִשְׁפְּטֵי־פִיו 1|
-|uEmEšEpETEyE־EfEyEwE|
+|umišsvpsvTEy־fiyw|
 
  * שתו־לי 1: 
 
 |שָׁתוּ־לִי 1|
 |-|
 |שָׁתוּ־לִי 1|
-|šEtEuE־ElEyE|
+|šAtu־liy|
 
  * מי־יקום 1: 
 
 |מִי־יָקוּם 1|
 |-|
 |מִי־יָקוּם 1|
-|mEyE־EyEqEuEmE|
+|miy־yAqum|
 
  * מבקש־לחם 1: 
 
 |מְבַקֶּשׁ־לָחֶם 1|
 |-|
 |מְבַקֶשׁ־לָחֶם 1|
-|mEvEqEšE־ElEHEmE|
+|msvvaqeš־lAHem|
 
  * ברב־חיל 1: 
 
 |בְּרָב־חָיִל 1|
 |-|
 |בְּרָב־חָיִל 1|
-|bErEvE־EHEyElE|
+|bsvrAv־HAyil|
 
  * אמונתו 1: 
 
 |אֱמוּנָתוֹ 1|
 |-|
 |אֱמוּנָתוֹֹ 1|
-|'EmEuEnEtEwE|
+|'emunAtwo|
 
  * עונם 1: 
 
 |עֲוֺנָם 1|
 |-|
 |עֲוֺנָם 1|
-|ɣEwEnEmE|
+|ɣaw_o_nAm|
 
  * כרע־כאח 1: 
 
 |כְּרֵעַ־כְּאָח 1|
 |-|
 |כְּרֵעַ־כְּאָח 1|
-|kErEɣE־EkE'EHE|
+|ksvrEɣa־ksv'AH|
 
  * מפניהם 1: 
 
 |מִפְּנֵיהֶם 1|
 |-|
 |מִפְּנֵיהֶם 1|
-|mEpEnEyEhEmE|
+|mipsvnEyhem|
 
  * ההוא 1: 
 
 |הַהוּא 1|
 |-|
 |הַהוּא 1|
-|hEhEuE'E|
+|hahu'|
 
  * לבבו 1: 
 
 |לְבָבוֹ 1|
 |-|
 |לְבָבוֹֹ 1|
-|lEvEvEwE|
+|lsvvAvwo|
 
  * הללויה 1: 
 
 |הַלְלוּיָהּ 1|
 |-|
 |הַלְלוּיָה 1|
-|hElElEuEyEhE|
+|halsvluyAh|
 
  * ארזים 1: 
 
 |אֲרָזִים 1|
 |-|
 |אֲרָזִים 1|
-|'ErEzEyEmE|
+|'arAziym|
 
  * תעטרהו 1: 
 
 |תְּעַטְּרֵהוּ 1|
 |-|
 |תְעַטְרֵהוּ 1|
-|tEɣETErEhEuE|
+|tsvɣaTsvrEhu|
 
  * על־רב 1: 
 
 |עַל־רֹב 1|
 |-|
 |עַל־רֹב 1|
-|ɣElE־ErEvE|
+|ɣal־rov|
 
  * תחתיך 1: 
 
 |תַּחְתֶּיךָ 1|
 |-|
 |תַחְתֶיךָ 1|
-|tEHEtEyExE|
+|taHsvteyxA|
 
  * מדמים 1: 
 
 |מִדָּמִים 1|
 |-|
 |מִדָמִים 1|
-|mEdEmEyEmE|
+|midAmiym|
 
  * כנטעים 1: 
 
 |כִּנְטִעִים 1|
 |-|
 |כִּנְטִעִים 1|
-|kEnETEɣEyEmE|
+|kinsvTiɣiym|
 
  * את־יראיו 1: 
 
 |אֶת־יְרֵאָיו 1|
 |-|
 |אֶת־יְרֵאָיו 1|
-|'EtE־EyErE'EyEwE|
+|'et־ysvrE'Ayw|
 
  * לרויה 1: 
 
 |לָרְוָיָה 1|
 |-|
 |לָרְוָיָה 1|
-|lErEwEyEhE|
+|lArsvwAyAh|
 
  * אדמתם 1: 
 
 |אַדְמָתָם 1|
 |-|
 |אַדְמָתָם 1|
-|'EdEmEtEmE|
+|'adsvmAtAm|
 
  * כל־אכל 1: 
 
 |כָּל־אֹכֶל 1|
 |-|
 |כָּל־אֹכֶל 1|
-|kElE־E'ExElE|
+|kAl־'oxel|
 
  * ובגבורתך 1: 
 
 |וּבִגְבוּרָתְךָ 1|
 |-|
 |וּבִגְבוּרָתְךָ 1|
-|uEvEgEvEuErEtExE|
+|uvigsvvurAtsvxA|
 
  * תמכה 1: 
 
 |תָּמְכָה 1|
 |-|
 |תָמְכָה 1|
-|tEmExEhE|
+|tAmsvxAh|
 
  * עכשוב 1: 
 
 |עַכְשׁוּב 1|
 |-|
 |עַכְשׁוּב 1|
-|ɣExEšEuEvE|
+|ɣaxsvšuv|
 
  * כל־חמתו 1: 
 
 |כָּל־חֲמָתוֹ 1|
 |-|
 |כָּל־חֲמָתוֹֹ 1|
-|kElE־EHEmEtEwE|
+|kAl־HamAtwo|
 
  * והם 1: 
 
 |וְהֵם 1|
 |-|
 |וְהֵם 1|
-|wEhEmE|
+|wsvhEm|
 
  * ימחו 1: 
 
 |יִמָּחוּ 1|
 |-|
 |יִמָחוּ 1|
-|yEmEHEuE|
+|yimAHu|
 
  * אל־הר־קדשך 1: 
 
 |אֶל־הַר־קָדְשְׁךָ 1|
 |-|
 |אֶל־הַר־קָדְשְׁךָ 1|
-|'ElE־EhErE־EqEdEšExE|
+|'el־har־qAdsvšsvxA|
 
  * יהגו 1: 
 
 |יֶהְגּוּ 1|
 |-|
 |יֶהְגוּ 1|
-|yEhEgEuE|
+|yehsvgu|
 
  * לרעות 1: 
 
 |לִרְעוֹת 1|
 |-|
 |לִרְעוֹֹת 1|
-|lErEɣEwEtE|
+|lirsvɣwot|
 
  * נקם 1: 
 
 |נָקָם 1|
 |-|
 |נָקָם 1|
-|nEqEmE|
+|nAqAm|
 
  * לחמים 1: 
 
 |לֹחֲמִים 1|
 |-|
 |לֹחֲמִים 1|
-|lEHEmEyEmE|
+|loHamiym|
 
  * עשיר 1: 
 
 |עָשִׁיר 1|
 |-|
 |עָשִׁיר 1|
-|ɣEšEyErE|
+|ɣAšiyr|
 
  * מדון 1: 
 
 |מָדוֹן 1|
 |-|
 |מָדוֹֹן 1|
-|mEdEwEnE|
+|mAdwon|
 
  * וענותך 1: 
 
 |וְעַנְוַתְךָ 1|
 |-|
 |וְעַנְוַתְךָ 1|
-|wEɣEnEwEtExE|
+|wsvɣansvwatsvxA|
 
  * נסוני 1: 
 
 |נִסּוּנִי 1|
 |-|
 |נִסוּנִי 1|
-|nEsEuEnEyE|
+|nisuniy|
 
  * מבניהם 1: 
 
 |מִבְּנֵיהֶם 1|
 |-|
 |מִבְּנֵיהֶם 1|
-|mEbEnEyEhEmE|
+|mibsvnEyhem|
 
  * נחפה 1: 
 
 |נֶחְפָּה 1|
 |-|
 |נֶחְפָּה 1|
-|nEHEpEhE|
+|neHsvpAh|
 
  * כאפר 1: 
 
 |כָּאֵפֶר 1|
 |-|
 |כָּאֵפֶר 1|
-|kE'EfErE|
+|kA'Efer|
 
  * על־גבי 1: 
 
 |עַל־גַּבִּי 1|
 |-|
 |עַל־גַבִּי 1|
-|ɣElE־EgEbEyE|
+|ɣal־gabiy|
 
  * ובגוים 1: 
 
 |וּבַגּוֹיִם 1|
 |-|
 |וּבַגוֹֹיִם 1|
-|uEvEgEwEyEmE|
+|uvagwoyim|
 
  * מחיים 1: 
 
 |מֵחַיִּים 1|
 |-|
 |מֵחַיִים 1|
-|mEHEyEyEmE|
+|mEHayiym|
 
  * מושיעם 1: 
 
 |מוֹשִׁיעָם 1|
 |-|
 |מוֹֹשִׁיעָם 1|
-|mEwEšEyEɣEmE|
+|mwošiyɣAm|
 
  * [וגדולתך] 1: 
 
 |[וּגְדוּלָּתְךָ] 1|
 |-|
 |[וּגְדוּלָתְךָ] 1|
-|[EuEgEdEuElEtExE]E|
+|[ugsvdulAtsvxA]|
 
  * השכח 1: 
 
 |הֲשָׁכַח 1|
 |-|
 |הֲשָׁכַח 1|
-|hEšExEHE|
+|hašAxaH|
 
  * משלה 1: 
 
 |מָשָׁלָה 1|
 |-|
 |מָשָׁלָה 1|
-|mEšElEhE|
+|mAšAlAh|
 
  * ינועו 1: 
 
 |יָנוּעוּ 1|
 |-|
 |יָנוּעוּ 1|
-|yEnEuEɣEuE|
+|yAnuɣu|
 
  * נמגים 1: 
 
 |נְמֹגִים 1|
 |-|
 |נְמֹגִים 1|
-|nEmEgEyEmE|
+|nsvmogiym|
 
  * אל־גבול 1: 
 
 |אֶל־גְּבוּל 1|
 |-|
 |אֶל־גְבוּל 1|
-|'ElE־EgEvEuElE|
+|'el־gsvvul|
 
  * אל־יכלמו 1: 
 
 |אַל־יִכָּלְמוּ 1|
 |-|
 |אַל־יִכָּלְמוּ 1|
-|'ElE־EyEkElEmEuE|
+|'al־yikAlsvmu|
 
  * ינחלוה 1: 
 
 |יִנְחָלוּהָ 1|
 |-|
 |יִנְחָלוּהָ 1|
-|yEnEHElEuEhE|
+|yinsvHAluhA|
 
  * כי־כלו 1: 
 
 |כִּי־כָלוּ 1|
 |-|
 |כִּי־כָלוּ 1|
-|kEyE־ExElEuE|
+|kiy־xAlu|
 
  * חבלים 1: 
 
 |חֲבָלִים 1|
 |-|
 |חֲבָלִים 1|
-|HEvElEyEmE|
+|HavAliym|
 
  * דברתי 1: 
 
 |דִּבַּרְתִּי 1|
 |-|
 |דִבַּרְתִי 1|
-|dEbErEtEyE|
+|dibarsvtiy|
 
  * ואם־בא 1: 
 
 |וְאִם־בָּא 1|
 |-|
 |וְאִם־בָּא 1|
-|wE'EmE־EbE'E|
+|wsv'im־bA'|
 
  * ישביעם 1: 
 
 |יַשְׂבִּיעֵם 1|
 |-|
 |יַשְׂבִּיעֵם 1|
-|yESEbEyEɣEmE|
+|yaSsvbiyɣEm|
 
  * פינחס 1: 
 
 |פִּינְחָס 1|
 |-|
 |פִּינְחָס 1|
-|pEyEnEHEsE|
+|piynsvHAs|
 
  * מן־השמים 1: 
 
 |מִן־הַשָּׁמַיִם 1|
 |-|
 |מִן־הַשָׁמַיִם 1|
-|mEnE־EhEšEmEyEmE|
+|min־hašAmayim|
 
  * ויוציאני 1: 
 
 |וַיּוֹצִיאֵנִי 1|
 |-|
 |וַיוֹֹצִיאֵנִי 1|
-|wEyEwEcEyE'EnEyE|
+|waywociy'Eniy|
 
  * תאמרנה 1: 
 
 |תֹּאמַרְנָה 1|
 |-|
 |תֹאמַרְנָה 1|
-|tE'EmErEnEhE|
+|to'marsvnAh|
 
  * יכרתון 1: 
 
 |יִכָּרֵתוּן 1|
 |-|
 |יִכָּרֵתוּן 1|
-|yEkErEtEuEnE|
+|yikArEtun|
 
  * תסב 1: 
 
 |תִּסֹּב 1|
 |-|
 |תִסֹב 1|
-|tEsEvE|
+|tisov|
 
  * ותכלימנו 1: 
 
 |וַתַּכְלִימֵנוּ 1|
 |-|
 |וַתַכְלִימֵנוּ 1|
-|wEtExElEyEmEnEuE|
+|wataxsvliymEnu|
 
  * להשמדם 1: 
 
 |לְהִשָּׁמְדָם 1|
 |-|
 |לְהִשָׁמְדָם 1|
-|lEhEšEmEdEmE|
+|lsvhišAmsvdAm|
 
  * כעש 1: 
 
 |כָּעָשׁ 1|
 |-|
 |כָּעָשׁ 1|
-|kEɣEšE|
+|kAɣAš|
 
  * בארמנותיה 1: 
 
 |בְּאַרְמְנוֹתֶיהָ 1|
 |-|
 |בְּאַרְמְנוֹֹתֶיהָ 1|
-|bE'ErEmEnEwEtEyEhE|
+|bsv'arsvmsvnwoteyhA|
 
  * בל־יכון 1: 
 
 |בַּל־יִכּוֹן 1|
 |-|
 |בַּל־יִכּוֹֹן 1|
-|bElE־EyEkEwEnE|
+|bal־yikwon|
 
  * אל־תער 1: 
 
 |אַל־תְּעַר 1|
 |-|
 |אַל־תְעַר 1|
-|'ElE־EtEɣErE|
+|'al־tsvɣar|
 
  * לכסא 1: 
 
 |לְכִסֵּא 1|
 |-|
 |לְכִסֵא 1|
-|lExEsE'E|
+|lsvxisE'|
 
  * לבלום 1: 
 
 |לִבְלוֹם 1|
 |-|
 |לִבְלוֹֹם 1|
-|lEvElEwEmE|
+|livsvlwom|
 
  * לימינך 1: 
 
 |לִימִינְךָ 1|
 |-|
 |לִימִינְךָ 1|
-|lEyEmEyEnExE|
+|liymiynsvxA|
 
  * לשאולה 1: 
 
 |לִשְׁאוֹלָה 1|
 |-|
 |לִשְׁאוֹֹלָה 1|
-|lEšE'EwElEhE|
+|lišsv'wolAh|
 
  * לרשפים 1: 
 
 |לָרְשָׁפִים 1|
 |-|
 |לָרְשָׁפִים 1|
-|lErEšEfEyEmE|
+|lArsvšAfiym|
 
  * ובואך 1: 
 
 |וּבוֹאֶךָ 1|
 |-|
 |וּבוֹֹאֶךָ 1|
-|uEvEwE'ExE|
+|uvwo'exA|
 
  * עם־קרבו 1: 
 
 |עַם־קְרֹבוֹ 1|
 |-|
 |עַם־קְרֹבוֹֹ 1|
-|ɣEmE־EqErEvEwE|
+|ɣam־qsvrovwo|
 
  * והצלת 1: 
 
 |וְהִצַּלְתָּ 1|
 |-|
 |וְהִצַלְתָ 1|
-|wEhEcElEtE|
+|wsvhicalsvtA|
 
  * חטאות 1: 
 
 |חַטֹּאות 1|
 |-|
 |חַטֹאות 1|
-|HETE'EwEtE|
+|HaTo'wt|
 
  * אשר־עשיתי 1: 
 
 |אֲשֶׁר־עֻשֵּׂיתִי 1|
 |-|
 |אֲשֶׁר־עֻשֵׂיתִי 1|
-|'EšErE־EɣESEyEtEyE|
+|'ašer־ɣuSEytiy|
 
  * אני־עבדך 1: 
 
 |אֲ‍נִי־עַבְדְּךָ 1|
 |-|
 |אֲנִי־עַבְדְךָ 1|
-|'EnEyE־EɣEvEdExE|
+|'aniy־ɣavsvdsvxA|
 
  * דמיה 1: 
 
 |דֻמִיָּה 1|
 |-|
 |דֻמִיָה 1|
-|dEmEyEhE|
+|dumiyAh|
 
  * יעזרה 1: 
 
 |יַעְזְרֶהָ 1|
 |-|
 |יַעְזְרֶהָ 1|
-|yEɣEzErEhE|
+|yaɣsvzsvrehA|
 
  * בעד 1: 
 
 |בְּעֹד 1|
 |-|
 |בְּעֹד 1|
-|bEɣEdE|
+|bsvɣod|
 
  * חרפתם 1: 
 
 |חֶרְפָּתָם 1|
 |-|
 |חֶרְפָּתָם 1|
-|HErEpEtEmE|
+|HersvpAtAm|
 
  * יומו 1: 
 
 |יוֹמוֹ 1|
 |-|
 |יוֹֹמוֹֹ 1|
-|yEwEmEwE|
+|ywomwo|
 
  * ימיקו 1: 
 
 |יָמִיקוּ 1|
 |-|
 |יָמִיקוּ 1|
-|yEmEyEqEuE|
+|yAmiyqu|
 
  * אהביך 1: 
 
 |אֹהֲבָיִךְ 1|
 |-|
 |אֹהֲבָיִךְ 1|
-|'EhEvEyExE|
+|'ohavAyixsv|
 
  * כמו־מים 1: 
 
 |כְמוֹ־מַיִם 1|
 |-|
 |כְמוֹֹ־מַיִם 1|
-|xEmEwE־EmEyEmE|
+|xsvmwo־mayim|
 
  * רצצת 1: 
 
 |רִצַּצְתָּ 1|
 |-|
 |רִצַצְתָ 1|
-|rEcEcEtE|
+|ricacsvtA|
 
  * כל־מעיני 1: 
 
 |כָּל־מַעְיָנַי 1|
 |-|
 |כָּל־מַעְיָנַי 1|
-|kElE־EmEɣEyEnEyE|
+|kAl־maɣsvyAnay|
 
  * הרחיבו 1: 
 
 |הִרְחִיבוּ 1|
 |-|
 |הִרְחִיבוּ 1|
-|hErEHEyEvEuE|
+|hirsvHiyvu|
 
  * דך 1: 
 
 |דַּךְ 1|
 |-|
 |דַךְ 1|
-|dExE|
+|daxsv|
 
  * כמתי 1: 
 
 |כְּמֵתֵי 1|
 |-|
 |כְּמֵתֵי 1|
-|kEmEtEyE|
+|ksvmEtEy|
 
  * על־ימים 1: 
 
 |עַל־יַמִּים 1|
 |-|
 |עַל־יַמִים 1|
-|ɣElE־EyEmEyEmE|
+|ɣal־yamiym|
 
  * שובינו 1: 
 
 |שׁוֹבֵינוּ 1|
 |-|
 |שׁוֹֹבֵינוּ 1|
-|šEwEvEyEnEuE|
+|šwovEynu|
 
  * לכסות 1: 
 
 |לְכַסּוֹת 1|
 |-|
 |לְכַסוֹֹת 1|
-|lExEsEwEtE|
+|lsvxaswot|
 
  * בשורי 1: 
 
 |בְּשׁוּרָי 1|
 |-|
 |בְּשׁוּרָי 1|
-|bEšEuErEyE|
+|bsvšurAy|
 
  * פלטה 1: 
 
 |פַּלְּטָה 1|
 |-|
 |פַּלְטָה 1|
-|pElETEhE|
+|palsvTAh|
 
  * הושיע 1: 
 
 |הוֹשִׁיעַ 1|
 |-|
 |הוֹֹשִׁיעַ 1|
-|hEwEšEyEɣE|
+|hwošiyɣa|
 
  * רוחות 1: 
 
 |רוּחוֹת 1|
 |-|
 |רוּחוֹֹת 1|
-|rEuEHEwEtE|
+|ruHwot|
 
  * הזאת 1: 
 
 |הַזֹּאת 1|
 |-|
 |הַזֹאת 1|
-|hEzE'EtE|
+|hazo't|
 
  * ועלזו 1: 
 
 |וְעִלְזוּ 1|
 |-|
 |וְעִלְזוּ 1|
-|wEɣElEzEuE|
+|wsvɣilsvzu|
 
  * ולשונך 1: 
 
 |וּלְשׁוֹנְךָ 1|
 |-|
 |וּלְשׁוֹֹנְךָ 1|
-|uElEšEwEnExE|
+|ulsvšwonsvxA|
 
  * פז 1: 
 
 |פָּז 1|
 |-|
 |פָּז 1|
-|pEzE|
+|pAz|
 
  * נגן 1: 
 
 |נַגֵּן 1|
 |-|
 |נַגֵן 1|
-|nEgEnE|
+|nagEn|
 
  * ובהיכלו 1: 
 
 |וּבְהֵיכָלוֹ 1|
 |-|
 |וּבְהֵיכָלוֹֹ 1|
-|uEvEhEyExElEwE|
+|uvsvhEyxAlwo|
 
  * נצרי 1: 
 
 |נֹצְרֵי 1|
 |-|
 |נֹצְרֵי 1|
-|nEcErEyE|
+|nocsvrEy|
 
  * ומיד 1: 
 
 |וּמִיַּד 1|
 |-|
 |וּמִיַד 1|
-|uEmEyEdE|
+|umiyad|
 
  * בשפתיו 1: 
 
 |בִּשְׂפָתָיו 1|
 |-|
 |בִּשְׂפָתָיו 1|
-|bESEfEtEyEwE|
+|biSsvfAtAyw|
 
  * שגל 1: 
 
 |שֵׁגַל 1|
 |-|
 |שֵׁגַל 1|
-|šEgElE|
+|šEgal|
 
  * ולא־נסוג 1: 
 
 |וְלֹא־נָסוֹג 1|
 |-|
 |וְלֹא־נָסוֹֹג 1|
-|wElE'E־EnEsEwEgE|
+|wsvlo'־nAswog|
 
  * אדונינו 1: 
 
 |אֲדוֹנֵינוּ 1|
 |-|
 |אֲדוֹֹנֵינוּ 1|
-|'EdEwEnEyEnEuE|
+|'adwonEynu|
 
  * זכר־לי־אתה 1: 
 
 |זְכָר־לִי־אַתָּה 1|
 |-|
 |זְכָר־לִי־אַתָה 1|
-|zExErE־ElEyE־E'EtEhE|
+|zsvxAr־liy־'atAh|
 
  * בהיכלו 1: 
 
 |בְּהֵיכָלוֹ 1|
 |-|
 |בְּהֵיכָלוֹֹ 1|
-|bEhEyExElEwE|
+|bsvhEyxAlwo|
 
  * תשיבנו 1: 
 
 |תְּשִׁיבֵנוּ 1|
 |-|
 |תְשִׁיבֵנוּ 1|
-|tEšEyEvEnEuE|
+|tsvšiyvEnu|
 
  * כחלב 1: 
 
 |כַּחֵלֶב 1|
 |-|
 |כַּחֵלֶב 1|
-|kEHElEvE|
+|kaHElev|
 
  * למוליך 1: 
 
 |לְמוֹלִיךְ 1|
 |-|
 |לְמוֹֹלִיךְ 1|
-|lEmEwElEyExE|
+|lsvmwoliyxsv|
 
  * מובאות 1: 
 
 |מוּבָאוֹת 1|
 |-|
 |מוּבָאוֹֹת 1|
-|mEuEvE'EwEtE|
+|muvA'wot|
 
  * אתנהו 1: 
 
 |אֶתְּנֵהוּ 1|
 |-|
 |אֶתְנֵהוּ 1|
-|'EtEnEhEuE|
+|'etsvnEhu|
 
  * עיני־כל 1: 
 
 |עֵינֵי־כֹל 1|
 |-|
 |עֵינֵי־כֹל 1|
-|ɣEyEnEyE־ExElE|
+|ɣEynEy־xol|
 
  * באהלו 1: 
 
 |בְאָהֳלוֹ 1|
 |-|
 |בְאָהֳלוֹֹ 1|
-|vE'EhElEwE|
+|vsv'AhAlwo|
 
  * אבן 1: 
 
 |אֶבֶן 1|
 |-|
 |אֶבֶן 1|
-|'EvEnE|
+|'even|
 
  * תבישו 1: 
 
 |תָבִישׁוּ 1|
 |-|
 |תָבִישׁוּ 1|
-|tEvEyEšEuE|
+|tAviyšu|
 
  * בבור 1: 
 
 |בְּבוֹר 1|
 |-|
 |בְּבוֹֹר 1|
-|bEvEwErE|
+|bsvvwor|
 
  * תעשה־פלא 1: 
 
 |תַּעֲשֶׂה־פֶּלֶא 1|
 |-|
 |תַעֲשֶׂה־פֶּלֶא 1|
-|tEɣESEhE־EpElE'E|
+|taɣaSeh־pele'|
 
  * וחסה 1: 
 
 |וְחָסָה 1|
 |-|
 |וְחָסָה 1|
-|wEHEsEhE|
+|wsvHAsAh|
 
  * ותפארתו 1: 
 
 |וְתִפְאַרְתּוֹ 1|
 |-|
 |וְתִפְאַרְתוֹֹ 1|
-|wEtEfE'ErEtEwE|
+|wsvtifsv'arsvtwo|
 
  * ואזניו 1: 
 
 |וְאָזְנָיו 1|
 |-|
 |וְאָזְנָיו 1|
-|wE'EzEnEyEwE|
+|wsv'AzsvnAyw|
 
  * בתבונה 1: 
 
 |בִּתְבוּנָה 1|
 |-|
 |בִּתְבוּנָה 1|
-|bEtEvEuEnEhE|
+|bitsvvunAh|
 
  * בקדשי 1: 
 
 |בְקָדְשִׁי 1|
 |-|
 |בְקָדְשִׁי 1|
-|vEqEdEšEyE|
+|vsvqAdsvšiy|
 
  * בשאגתי 1: 
 
 |בְּשַׁאֲגָתִי 1|
 |-|
 |בְּשַׁאֲגָתִי 1|
-|bEšE'EgEtEyE|
+|bsvša'agAtiy|
 
  * נפתלי 1: 
 
 |נַפְתָּלִי 1|
 |-|
 |נַפְתָלִי 1|
-|nEfEtElEyE|
+|nafsvtAliy|
 
  * שנאיך 1: 
 
 |שֹׂנְאֶיךָ 1|
 |-|
 |שֹׂנְאֶיךָ 1|
-|SEnE'EyExE|
+|Sonsv'eyxA|
 
  * ושמואל 1: 
 
 |וּשְׁמוּאֵל 1|
 |-|
 |וּשְׁמוּאֵל 1|
-|uEšEmEuE'ElE|
+|ušsvmu'El|
 
  * ילחצני 1: 
 
 |יִלְחָצֵנִי 1|
 |-|
 |יִלְחָצֵנִי 1|
-|yElEHEcEnEyE|
+|yilsvHAcEniy|
 
  * מצריו 1: 
 
 |מִצָּרָיו 1|
 |-|
 |מִצָרָיו 1|
-|mEcErEyEwE|
+|micArAyw|
 
  * בשלח 1: 
 
 |בִּשְׁלֹחַ 1|
 |-|
 |בִּשְׁלֹחַ 1|
-|bEšElEHE|
+|bišsvloHa|
 
  * למועדים 1: 
 
 |לְמוֹעֲדִים 1|
 |-|
 |לְמוֹֹעֲדִים 1|
-|lEmEwEɣEdEyEmE|
+|lsvmwoɣadiym|
 
  * וישכחו 1: 
 
 |וַיִּשְׁכְּחוּ 1|
 |-|
 |וַיִשְׁכְּחוּ 1|
-|wEyEšEkEHEuE|
+|wayišsvksvHu|
 
  * מעוג 1: 
 
 |מָעוֹג 1|
 |-|
 |מָעוֹֹג 1|
-|mEɣEwEgE|
+|mAɣwog|
 
  * תמגגנה 1: 
 
 |תְּמֹגְגֶנָּה 1|
 |-|
 |תְמֹגְגֶנָה 1|
-|tEmEgEgEnEhE|
+|tsvmogsvgenAh|
 
  * על־ירושלם 1: 
 
 |עַל־יְרוּשָׁלִָם 1|
 |-|
 |עַל־יְרוּשָׁלָם 1|
-|ɣElE־EyErEuEšElEmE|
+|ɣal־ysvrušAlAm|
 
  * כאיל 1: 
 
 |כְּאַיָּל 1|
 |-|
 |כְּאַיָל 1|
-|kE'EyElE|
+|ksv'ayAl|
 
  * בל־נמוטו 1: 
 
 |בַּל־נָמוֹטּוּ 1|
 |-|
 |בַּל־נָמוֹֹטוּ 1|
-|bElE־EnEmEwETEuE|
+|bal־nAmwoTu|
 
  * כנור 1: 
 
 |כִּנּוֹר 1|
 |-|
 |כִּנוֹֹר 1|
-|kEnEwErE|
+|kinwor|
 
  * יקוש 1: 
 
 |יָקוּשׁ 1|
 |-|
 |יָקוּשׁ 1|
-|yEqEuEšE|
+|yAquš|
 
  * וילחמוני 1: 
 
 |וַיִּלָּחֲמוּנִי 1|
 |-|
 |וַיִלָחֲמוּנִי 1|
-|wEyElEHEmEuEnEyE|
+|wayilAHamuniy|
 
  * ויעבירם 1: 
 
 |וַיַּעֲבִירֵם 1|
 |-|
 |וַיַעֲבִירֵם 1|
-|wEyEɣEvEyErEmE|
+|wayaɣaviyrEm|
 
  * ובנותיהם 1: 
 
 |וּבְנוֹתֵיהֶם 1|
 |-|
 |וּבְנוֹֹתֵיהֶם 1|
-|uEvEnEwEtEyEhEmE|
+|uvsvnwotEyhem|
 
  * אלין 1: 
 
 |אָלִין 1|
 |-|
 |אָלִין 1|
-|'ElEyEnE|
+|'Aliyn|
 
  * [בגוים] 1: 
 
 |[בַּגּוֹיִם] 1|
 |-|
 |[בַּגוֹֹיִם] 1|
-|[EbEgEwEyEmE]E|
+|[bagwoyim]|
 
  * את־הברכה 1: 
 
 |אֶת־הַבְּרָכָה 1|
 |-|
 |אֶת־הַבְּרָכָה 1|
-|'EtE־EhEbErExEhE|
+|'et־habsvrAxAh|
 
  * ואשר 1: 
 
 |וַאֲשֶׁר 1|
 |-|
 |וַאֲשֶׁר 1|
-|wE'EšErE|
+|wa'ašer|
 
  * במסתר 1: 
 
 |בַּמִּסְתָּר 1|
 |-|
 |בַּמִסְתָר 1|
-|bEmEsEtErE|
+|bamissvtAr|
 
  * אל־יהי 1: 
 
 |אַל־יְהִי 1|
 |-|
 |אַל־יְהִי 1|
-|'ElE־EyEhEyE|
+|'al־ysvhiy|
 
  * בתוכו 1: 
 
 |בְּתוֹכוֹ 1|
 |-|
 |בְּתוֹֹכוֹֹ 1|
-|bEtEwExEwE|
+|bsvtwoxwo|
 
  * גם־בני־איש 1: 
 
 |גַּם־בְּנֵי־אִישׁ 1|
 |-|
 |גַם־בְּנֵי־אִישׁ 1|
-|gEmE־EbEnEyE־E'EyEšE|
+|gam־bsvnEy־'iyš|
 
  * בפימו 1: 
 
 |בְּפִימוֹ 1|
 |-|
 |בְּפִימוֹֹ 1|
-|bEfEyEmEwE|
+|bsvfiymwo|
 
  * עמקו 1: 
 
 |עָמְקוּ 1|
 |-|
 |עָמְקוּ 1|
-|ɣEmEqEuE|
+|ɣAmsvqu|
 
  * אבינים 1: 
 
 |אֶבְיֹנִים 1|
 |-|
 |אֶבְיֹנִים 1|
-|'EvEyEnEyEmE|
+|'evsvyoniym|
 
  * לא־ינום 1: 
 
 |לֹא־יָנוּם 1|
 |-|
 |לֹא־יָנוּם 1|
-|lE'E־EyEnEuEmE|
+|lo'־yAnum|
 
  * בעולות 1: 
 
 |בְעוֹלוֹת 1|
 |-|
 |בְעוֹֹלוֹֹת 1|
-|vEɣEwElEwEtE|
+|vsvɣwolwot|
 
  * בכל־זאת 1: 
 
 |בְּכָל־זֹאת 1|
 |-|
 |בְּכָל־זֹאת 1|
-|bExElE־EzE'EtE|
+|bsvxAl־zo't|
 
  * ארחך 1: 
 
 |אָרְחֶךָ 1|
 |-|
 |אָרְחֶךָ 1|
-|'ErEHExE|
+|'ArsvHexA|
 
  * אחריה 1: 
 
 |אַחֲרֶיהָ 1|
 |-|
 |אַחֲרֶיהָ 1|
-|'EHErEyEhE|
+|'aHareyhA|
 
  * תוכחת 1: 
 
 |תּוֹכֵחֹת 1|
 |-|
 |תוֹֹכֵחֹת 1|
-|tEwExEHEtE|
+|twoxEHot|
 
  * רשו 1: 
 
 |רָשׁוּ 1|
 |-|
 |רָשׁוּ 1|
-|rEšEuE|
+|rAšu|
 
  * לשמו 1: 
 
 |לִשְׁמוֹ 1|
 |-|
 |לִשְׁמוֹֹ 1|
-|lEšEmEwE|
+|lišsvmwo|
 
  * אם־תחנה 1: 
 
 |אִם־תַּחֲנֶה 1|
 |-|
 |אִם־תַחֲנֶה 1|
-|'EmE־EtEHEnEhE|
+|'im־taHaneh|
 
  * יקללו־המה 1: 
 
 |יְקַלְלוּ־הֵמָּה 1|
 |-|
 |יְקַלְלוּ־הֵמָה 1|
-|yEqElElEuE־EhEmEhE|
+|ysvqalsvlu־hEmAh|
 
  * ועזוזו 1: 
 
 |וֶעֱזוּזוֹ 1|
 |-|
 |וֶעֱזוּזוֹֹ 1|
-|wEɣEzEuEzEwE|
+|weɣezuzwo|
 
  * לא־סרתי 1: 
 
 |לֹא־סָרְתִּי 1|
 |-|
 |לֹא־סָרְתִי 1|
-|lE'E־EsErEtEyE|
+|lo'־sArsvtiy|
 
  * ועיף 1: 
 
 |וְעָיֵף 1|
 |-|
 |וְעָיֵף 1|
-|wEɣEyEfE|
+|wsvɣAyEf|
 
  * יעות 1: 
 
 |יְעַוֵּת 1|
 |-|
 |יְעַוֵּת 1|
-|yEɣEuEtE|
+|ysvɣauEt|
 
  * את־רגלי 1: 
 
 |אֶת־רַגְלִי 1|
 |-|
 |אֶת־רַגְלִי 1|
-|'EtE־ErEgElEyE|
+|'et־ragsvliy|
 
  * כחש 1: 
 
 |כָּחַשׁ 1|
 |-|
 |כָּחַשׁ 1|
-|kEHEšE|
+|kAHaš|
 
  * ים־סוף 1: 
 
 |יַם־סוּף 1|
 |-|
 |יַם־סוּף 1|
-|yEmE־EsEuEfE|
+|yam־suf|
 
  * נברך 1: 
 
 |נְבָרֵךְ 1|
 |-|
 |נְבָרֵךְ 1|
-|nEvErExE|
+|nsvvArExsv|
 
  * והוציא 1: 
 
 |וְהוֹצִיא 1|
 |-|
 |וְהוֹֹצִיא 1|
-|wEhEwEcEyE'E|
+|wsvhwociy'|
 
  * וישראל 1: 
 
 |וְיִשְׂרָאֵל 1|
 |-|
 |וְיִשְׂרָאֵל 1|
-|wEyESErE'ElE|
+|wsvyiSsvrA'El|
 
  * נראה 1: 
 
 |נִרְאָה 1|
 |-|
 |נִרְאָה 1|
-|nErE'EhE|
+|nirsv'Ah|
 
  * השם 1: 
 
 |הַשָּׂם 1|
 |-|
 |הַשָׂם 1|
-|hESEmE|
+|haSAm|
 
  * בשם־יהוה 1: 
 
 |בְּשֵׁם־יְהוָה 1|
 |-|
 |בְּשֵׁם־יְהוָה 1|
-|bEšEmE־EyEhEwEhE|
+|bsvšEm־ysvhwAh|
 
  * פשעיהם 1: 
 
 |פִּשְׁעֵיהֶם 1|
 |-|
 |פִּשְׁעֵיהֶם 1|
-|pEšEɣEyEhEmE|
+|pišsvɣEyhem|
 
  * כי־תשיתהו 1: 
 
 |כִּי־תְשִׁיתֵהוּ 1|
 |-|
 |כִּי־תְשִׁיתֵהוּ 1|
-|kEyE־EtEšEyEtEhEuE|
+|kiy־tsvšiytEhu|
 
  * יעצני 1: 
 
 |יְעָצָנִי 1|
 |-|
 |יְעָצָנִי 1|
-|yEɣEcEnEyE|
+|ysvɣAcAniy|
 
  * הנביא 1: 
 
 |הַנָּבִיא 1|
 |-|
 |הַנָבִיא 1|
-|hEnEvEyE'E|
+|hanAviy'|
 
  * שמעי־בת 1: 
 
 |שִׁמְעִי־בַת 1|
 |-|
 |שִׁמְעִי־בַת 1|
-|šEmEɣEyE־EvEtE|
+|šimsvɣiy־vat|
 
  * מלקוחי 1: 
 
 |מַלְקוֹחָי 1|
 |-|
 |מַלְקוֹֹחָי 1|
-|mElEqEwEHEyE|
+|malsvqwoHAy|
 
  * אהלי 1: 
 
 |אָהֳלֵי 1|
 |-|
 |אָהֳלֵי 1|
-|'EhElEyE|
+|'AhAlEy|
 
  * רדופי־[רדפי־] 1: 
 
 |רדופי־[רָדְפִי־] 1|
 |-|
 |רדופי־[רָדְפִי־] 1|
-|rEdEwEfEyE־E[ErEdEfEyE־E]E|
+|rdwfy־[rAdsvfiy־]|
 
  * קדשים 1: 
 
 |קְדֹשִׁים 1|
 |-|
 |קְדֹשִׁים 1|
-|qEdEšEyEmE|
+|qsvdošiym|
 
  * להשקיט 1: 
 
 |לְהַשְׁקִיט 1|
 |-|
 |לְהַשְׁקִיט 1|
-|lEhEšEqEyETE|
+|lsvhašsvqiyT|
 
  * על־שושנים 1: 
 
 |עַל־שׁוֹשַׁנִּים 1|
 |-|
 |עַל־שׁוֹֹשַׁנִים 1|
-|ɣElE־EšEwEšEnEyEmE|
+|ɣal־šwošaniym|
 
  * במיתריך 1: 
 
 |בְּמֵיתָרֶיךָ 1|
 |-|
 |בְּמֵיתָרֶיךָ 1|
-|bEmEyEtErEyExE|
+|bsvmEytAreyxA|
 
  * ושבתי 1: 
 
 |וְשַׁבְתִּי 1|
 |-|
 |וְשַׁבְתִי 1|
-|wEšEvEtEyE|
+|wsvšavsvtiy|
 
  * תוציאני 1: 
 
 |תּוֹצִיאֵנִי 1|
 |-|
 |תוֹֹצִיאֵנִי 1|
-|tEwEcEyE'EnEyE|
+|twociy'Eniy|
 
  * תרוממני 1: 
 
 |תְּרוֹמְמֵנִי 1|
 |-|
 |תְרוֹֹמְמֵנִי 1|
-|tErEwEmEmEnEyE|
+|tsvrwomsvmEniy|
 
  * מזבל 1: 
 
 |מִזְּבֻל 1|
 |-|
 |מִזְבֻל 1|
-|mEzEvElE|
+|mizsvvul|
 
  * תריץ 1: 
 
 |תָּרִיץ 1|
 |-|
 |תָרִיץ 1|
-|tErEyEcE|
+|tAriyc|
 
  * כתער 1: 
 
 |כְּתַעַר 1|
 |-|
 |כְּתַעַר 1|
-|kEtEɣErE|
+|ksvtaɣar|
 
  * יכנס 1: 
 
 |יְכַנֵּס 1|
 |-|
 |יְכַנֵס 1|
-|yExEnEsE|
+|ysvxanEs|
 
  * עם־מתי־שוא 1: 
 
 |עִם־מְתֵי־שָׁוְא 1|
 |-|
 |עִם־מְתֵי־שָׁוְא 1|
-|ɣEmE־EmEtEyE־EšEwE'E|
+|ɣim־msvtEy־šAwsv'|
 
  * אל־תטשני 1: 
 
 |אַל־תִּטְּשֵׁנִי 1|
 |-|
 |אַל־תִטְשֵׁנִי 1|
-|'ElE־EtETEšEnEyE|
+|'al־tiTsvšEniy|
 
  * כסו 1: 
 
 |כָּסּוּ 1|
 |-|
 |כָּסוּ 1|
-|kEsEuE|
+|kAsu|
 
  * עשות 1: 
 
 |עֲשׂוֹת 1|
 |-|
 |עֲשׂוֹֹת 1|
-|ɣESEwEtE|
+|ɣaSwot|
 
  * אף־ישירו 1: 
 
 |אַף־יָשִׁירוּ 1|
 |-|
 |אַף־יָשִׁירוּ 1|
-|'EfE־EyEšEyErEuE|
+|'af־yAšiyru|
 
  * ושאג 1: 
 
 |וְשֹׁאֵג 1|
 |-|
 |וְשֹׁאֵג 1|
-|wEšE'EgE|
+|wsvšo'Eg|
 
  * כסתה 1: 
 
 |כִּסְּתָה 1|
 |-|
 |כִּסְתָה 1|
-|kEsEtEhE|
+|kissvtAh|
 
  * אדמת 1: 
 
 |אַדְמַת 1|
 |-|
 |אַדְמַת 1|
-|'EdEmEtE|
+|'adsvmat|
 
  * [פליאה] 1: 
 
 |[פְּלִיאָה] 1|
 |-|
 |[פְּלִיאָה] 1|
-|[EpElEyE'EhE]E|
+|[psvliy'Ah]|
 
  * ובנימן 1: 
 
 |וּבִנְיָמִן 1|
 |-|
 |וּבִנְיָמִן 1|
-|uEvEnEyEmEnE|
+|uvinsvyAmin|
 
  * תחגרנה 1: 
 
 |תַּחְגֹּרְנָה 1|
 |-|
 |תַחְגֹרְנָה 1|
-|tEHEgErEnEhE|
+|taHsvgorsvnAh|
 
  * ומצותיו 1: 
 
 |וּמִצְוֺתָיו 1|
 |-|
 |וּמִצְוֺתָיו 1|
-|uEmEcEwEtEyEwE|
+|umicsvw_o_tAyw|
 
  * נכים 1: 
 
 |נֵכִים 1|
 |-|
 |נֵכִים 1|
-|nExEyEmE|
+|nExiym|
 
  * תלעג 1: 
 
 |תִּלְעַג 1|
 |-|
 |תִלְעַג 1|
-|tElEɣEgE|
+|tilsvɣag|
 
  * מזה 1: 
 
 |מִזֶּה 1|
 |-|
 |מִזֶה 1|
-|mEzEhE|
+|mizeh|
 
  * ליתומיו 1: 
 
 |לִיתוֹמָיו 1|
 |-|
 |לִיתוֹֹמָיו 1|
-|lEyEtEwEmEyEwE|
+|liytwomAyw|
 
  * בזכרנו 1: 
 
 |בְּזָכְרֵנוּ 1|
 |-|
 |בְּזָכְרֵנוּ 1|
-|bEzExErEnEuE|
+|bsvzAxsvrEnu|
 
  * אל־ישב 1: 
 
 |אַל־יָשֹׁב 1|
 |-|
 |אַל־יָשֹׁב 1|
-|'ElE־EyEšEvE|
+|'al־yAšov|
 
  * ושבלת 1: 
 
 |וְשִׁבֹּלֶת 1|
 |-|
 |וְשִׁבֹּלֶת 1|
-|wEšEbElEtE|
+|wsvšibolet|
 
  * מנוס 1: 
 
 |מָנוֹס 1|
 |-|
 |מָנוֹֹס 1|
-|mEnEwEsE|
+|mAnwos|
 
  * בפרח 1: 
 
 |בִּפְרֹחַ 1|
 |-|
 |בִּפְרֹחַ 1|
-|bEfErEHE|
+|bifsvroHa|
 
  * מקרב 1: 
 
 |מִקֶּרֶב 1|
 |-|
 |מִקֶרֶב 1|
-|mEqErEvE|
+|miqerev|
 
  * שם־אלהים 1: 
 
 |שֵׁם־אֱלֹהִים 1|
 |-|
 |שֵׁם־אֱלֹהִים 1|
-|šEmE־E'ElEhEyEmE|
+|šEm־'elohiym|
 
  * השמיעני 1: 
 
 |הַשְׁמִיעֵנִי 1|
 |-|
 |הַשְׁמִיעֵנִי 1|
-|hEšEmEyEɣEnEyE|
+|hašsvmiyɣEniy|
 
  * השקיתנו 1: 
 
 |הִשְׁקִיתָנוּ 1|
 |-|
 |הִשְׁקִיתָנוּ 1|
-|hEšEqEyEtEnEuE|
+|hišsvqiytAnu|
 
  * אף־זנחת 1: 
 
 |אַף־זָנַחְתָּ 1|
 |-|
 |אַף־זָנַחְתָ 1|
-|'EfE־EzEnEHEtE|
+|'af־zAnaHsvtA|
 
  * עותוני 1: 
 
 |עִוְּתוּנִי 1|
 |-|
 |עִוְּתוּנִי 1|
-|ɣEuEtEuEnEyE|
+|ɣiusvtuniy|
 
  * יוצאת 1: 
 
 |יוֹצֵאת 1|
 |-|
 |יוֹֹצֵאת 1|
-|yEwEcE'EtE|
+|ywocE't|
 
  * חטאת־פימו 1: 
 
 |חַטַּאת־פִּימוֹ 1|
 |-|
 |חַטַאת־פִּימוֹֹ 1|
-|HETE'EtE־EpEyEmEwE|
+|HaTa't־piymwo|
 
  * אל־תנדני 1: 
 
 |אַל־תְּנִדֵנִי 1|
 |-|
 |אַל־תְנִדֵנִי 1|
-|'ElE־EtEnEdEnEyE|
+|'al־tsvnidEniy|
 
  * קבר 1: 
 
 |קֶבֶר 1|
 |-|
 |קֶבֶר 1|
-|qEvErE|
+|qever|
 
  * לחק 1: 
 
 |לְחֹק 1|
 |-|
 |לְחֹק 1|
-|lEHEqE|
+|lsvHoq|
 
  * את־רנתם 1: 
 
 |אֶת־רִנָּתָם 1|
 |-|
 |אֶת־רִנָתָם 1|
-|'EtE־ErEnEtEmE|
+|'et־rinAtAm|
 
  * פלאות 1: 
 
 |פְּלָאוֹת 1|
 |-|
 |פְּלָאוֹֹת 1|
-|pElE'EwEtE|
+|psvlA'wot|
 
  * את־גרים 1: 
 
 |אֶת־גֵּרִים 1|
 |-|
 |אֶת־גֵרִים 1|
-|'EtE־EgErEyEmE|
+|'et־gEriym|
 
  * כי־חקיך 1: 
 
 |כִּי־חֻקֶּיךָ 1|
 |-|
 |כִּי־חֻקֶיךָ 1|
-|kEyE־EHEqEyExE|
+|kiy־HuqeyxA|
 
  * וכלם 1: 
 
 |וְכֻלָּם 1|
 |-|
 |וְכֻלָם 1|
-|wExElEmE|
+|wsvxulAm|
 
  * באה 1: 
 
 |בָּאָה 1|
 |-|
 |בָּאָה 1|
-|bE'EhE|
+|bA'Ah|
 
  * פן־אטרף 1: 
 
 |פֶּן־אֶטְרֹף 1|
 |-|
 |פֶּן־אֶטְרֹף 1|
-|pEnE־E'ETErEfE|
+|pen־'eTsvrof|
 
  * בעליון 1: 
 
 |בְעֶלְיוֹן 1|
 |-|
 |בְעֶלְיוֹֹן 1|
-|vEɣElEyEwEnE|
+|vsvɣelsvywon|
 
  * אל־תזנח 1: 
 
 |אַל־תִּזְנַח 1|
 |-|
 |אַל־תִזְנַח 1|
-|'ElE־EtEzEnEHE|
+|'al־tizsvnaH|
 
  * [הוא] 1: 
 
 |[הוּא] 1|
 |-|
 |[הוּא] 1|
-|[EhEuE'E]E|
+|[hu']|
 
  * תתהלל 1: 
 
 |תִּתְהַלֵּל 1|
 |-|
 |תִתְהַלֵל 1|
-|tEtEhElElE|
+|titsvhalEl|
 
  * כל־ארחות 1: 
 
 |כָּל־אָרְחוֹת 1|
 |-|
 |כָּל־אָרְחוֹֹת 1|
-|kElE־E'ErEHEwEtE|
+|kAl־'ArsvHwot|
 
  * וכזאב 1: 
 
 |וְכִזְאֵב 1|
 |-|
 |וְכִזְאֵב 1|
-|wExEzE'EvE|
+|wsvxizsv'Ev|
 
  * אל־רחום 1: 
 
 |אֵל־רַחוּם 1|
 |-|
 |אֵל־רַחוּם 1|
-|'ElE־ErEHEuEmE|
+|'El־raHum|
 
  * עלי־חק 1: 
 
 |עֲלֵי־חֹק 1|
 |-|
 |עֲלֵי־חֹק 1|
-|ɣElEyE־EHEqE|
+|ɣalEy־Hoq|
 
  * בעצתם 1: 
 
 |בַעֲצָתָם 1|
 |-|
 |בַעֲצָתָם 1|
-|vEɣEcEtEmE|
+|vaɣacAtAm|
 
  * לא־נירא 1: 
 
 |לֹא־נִירָא 1|
 |-|
 |לֹא־נִירָא 1|
-|lE'E־EnEyErE'E|
+|lo'־niyrA'|
 
  * ולא־נתן 1: 
 
 |וְלֹא־נָתַן 1|
 |-|
 |וְלֹא־נָתַן 1|
-|wElE'E־EnEtEnE|
+|wsvlo'־nAtan|
 
  * ירעשו־הרים 1: 
 
 |יִרְעֲשׁוּ־הָרִים 1|
 |-|
 |יִרְעֲשׁוּ־הָרִים 1|
-|yErEɣEšEuE־EhErEyEmE|
+|yirsvɣašu־hAriym|
 
  * אטה 1: 
 
 |אַטֶּה 1|
 |-|
 |אַטֶה 1|
-|'ETEhE|
+|'aTeh|
 
  * הקם 1: 
 
 |הָקֵם 1|
 |-|
 |הָקֵם 1|
-|hEqEmE|
+|hAqEm|
 
  * נדגל 1: 
 
 |נִדְגֹּל 1|
 |-|
 |נִדְגֹל 1|
-|nEdEgElE|
+|nidsvgol|
 
  * וענייך 1: 
 
 |וַעֲנִיֶּיךָ 1|
 |-|
 |וַעֲנִיֶיךָ 1|
-|wEɣEnEyEyExE|
+|waɣaniyeyxA|
 
  * חשכי 1: 
 
 |חָשְׁכִּי 1|
 |-|
 |חָשְׁכִּי 1|
-|HEšEkEyE|
+|HAšsvkiy|
 
  * ובכה 1: 
 
 |וּבָכֹה 1|
 |-|
 |וּבָכֹה 1|
-|uEvExEhE|
+|uvAxoh|
 
  * תקרב 1: 
 
 |תִּקְרַב 1|
 |-|
 |תִקְרַב 1|
-|tEqErEvE|
+|tiqsvrav|
 
  * גבה־עינים 1: 
 
 |גְּבַהּ־עֵינַיִם 1|
 |-|
 |גְבַה־עֵינַיִם 1|
-|gEvEhE־EɣEyEnEyEmE|
+|gsvvah־ɣEynayim|
 
  * בא־דברו 1: 
 
 |בֹּא־דְבָרוֹ 1|
 |-|
 |בֹּא־דְבָרוֹֹ 1|
-|bE'E־EdEvErEwE|
+|bo'־dsvvArwo|
 
  * על־שושן 1: 
 
 |עַל־שׁוּשַׁן 1|
 |-|
 |עַל־שׁוּשַׁן 1|
-|ɣElE־EšEuEšEnE|
+|ɣal־šušan|
 
  * קבצם 1: 
 
 |קִבְּצָם 1|
 |-|
 |קִבְּצָם 1|
-|qEbEcEmE|
+|qibsvcAm|
 
  * לכל־קראיך 1: 
 
 |לְכָל־קֹרְאֶיךָ 1|
 |-|
 |לְכָל־קֹרְאֶיךָ 1|
-|lExElE־EqErE'EyExE|
+|lsvxAl־qorsv'eyxA|
 
  * חכמות 1: 
 
 |חָכְמוֹת 1|
 |-|
 |חָכְמוֹֹת 1|
-|HExEmEwEtE|
+|HAxsvmwot|
 
  * אל־תזכר 1: 
 
 |אַל־תִּזְכֹּר 1|
 |-|
 |אַל־תִזְכֹּר 1|
-|'ElE־EtEzEkErE|
+|'al־tizsvkor|
 
  * עוף־השמים 1: 
 
 |עוֹף־הַשָּׁמַיִם 1|
 |-|
 |עוֹֹף־הַשָׁמַיִם 1|
-|ɣEwEfE־EhEšEmEyEmE|
+|ɣwof־hašAmayim|
 
  * תמכת 1: 
 
 |תָּמַכְתָּ 1|
 |-|
 |תָמַכְתָ 1|
-|tEmExEtE|
+|tAmaxsvtA|
 
  * ינאץ 1: 
 
 |יְנָאֵץ 1|
 |-|
 |יְנָאֵץ 1|
-|yEnE'EcE|
+|ysvnA'Ec|
 
  * תקשיב 1: 
 
 |תַּקְשִׁיב 1|
 |-|
 |תַקְשִׁיב 1|
-|tEqEšEyEvE|
+|taqsvšiyv|
 
  * מנהמת 1: 
 
 |מִנַּהֲמַת 1|
 |-|
 |מִנַהֲמַת 1|
-|mEnEhEmEtE|
+|minahamat|
 
  * נלכדה 1: 
 
 |נִלְכְּדָה 1|
 |-|
 |נִלְכְּדָה 1|
-|nElEkEdEhE|
+|nilsvksvdAh|
 
  * לצדקה 1: 
 
 |לִצְדָקָה 1|
 |-|
 |לִצְדָקָה 1|
-|lEcEdEqEhE|
+|licsvdAqAh|
 
  * ולזרותם 1: 
 
 |וּלְזָרוֹתָם 1|
 |-|
 |וּלְזָרוֹֹתָם 1|
-|uElEzErEwEtEmE|
+|ulsvzArwotAm|
 
  * מכל־רדפי 1: 
 
 |מִכָּל־רֹדְפַי 1|
 |-|
 |מִכָּל־רֹדְפַי 1|
-|mEkElE־ErEdEfEyE|
+|mikAl־rodsvfay|
 
  * ובישועתך 1: 
 
 |וּבִישׁוּעָתְךָ 1|
 |-|
 |וּבִישׁוּעָתְךָ 1|
-|uEvEyEšEuEɣEtExE|
+|uviyšuɣAtsvxA|
 
  * מלאים 1: 
 
 |מְלֵאִים 1|
 |-|
 |מְלֵאִים 1|
-|mElE'EyEmE|
+|msvlE'iym|
 
  * אזכירה 1: 
 
 |אַזְכִּירָה 1|
 |-|
 |אַזְכִּירָה 1|
-|'EzEkEyErEhE|
+|'azsvkiyrAh|
 
  * על־ידותון 1: 
 
 |עַל־יְדוּתוּן 1|
 |-|
 |עַל־יְדוּתוּן 1|
-|ɣElE־EyEdEuEtEuEnE|
+|ɣal־ysvdutun|
 
  * מה־יתן 1: 
 
 |מַה־יִּתֵּן 1|
 |-|
 |מַה־יִתֵן 1|
-|mEhE־EyEtEnE|
+|mah־yitEn|
 
  * ועם־פעלי 1: 
 
 |וְעִם־פֹּעֲלֵי 1|
 |-|
 |וְעִם־פֹּעֲלֵי 1|
-|wEɣEmE־EpEɣElEyE|
+|wsvɣim־poɣalEy|
 
  * ברקיו 1: 
 
 |בְרָקָיו 1|
 |-|
 |בְרָקָיו 1|
-|vErEqEyEwE|
+|vsvrAqAyw|
 
  * הודיעו 1: 
 
 |הוֹדִיעוּ 1|
 |-|
 |הוֹֹדִיעוּ 1|
-|hEwEdEyEɣEuE|
+|hwodiyɣu|
 
  * ויך־צריו 1: 
 
 |וַיַּךְ־צָרָיו 1|
 |-|
 |וַיַךְ־צָרָיו 1|
-|wEyExE־EcErEyEwE|
+|wayaxsv־cArAyw|
 
  * בסוד־קדשים 1: 
 
 |בְּסוֹד־קְדֹשִׁים 1|
 |-|
 |בְּסוֹֹד־קְדֹשִׁים 1|
-|bEsEwEdE־EqEdEšEyEmE|
+|bsvswod־qsvdošiym|
 
  * ועל־עבדיו 1: 
 
 |וְעַל־עֲבָדָיו 1|
 |-|
 |וְעַל־עֲבָדָיו 1|
-|wEɣElE־EɣEvEdEyEwE|
+|wsvɣal־ɣavAdAyw|
 
  * ולעולם 1: 
 
 |וּלְעוֹלָם 1|
 |-|
 |וּלְעוֹֹלָם 1|
-|uElEɣEwElEmE|
+|ulsvɣwolAm|
 
  * ויתהללו 1: 
 
 |וְיִתְהַלְלוּ 1|
 |-|
 |וְיִתְהַלְלוּ 1|
-|wEyEtEhElElEuE|
+|wsvyitsvhalsvlu|
 
  * הרימה 1: 
 
 |הָרִימָה 1|
 |-|
 |הָרִימָה 1|
-|hErEyEmEhE|
+|hAriymAh|
 
  * השדודה 1: 
 
 |הַשְּׁדוּדָה 1|
 |-|
 |הַשְׁדוּדָה 1|
-|hEšEdEuEdEhE|
+|hašsvdudAh|
 
  * להשבית 1: 
 
 |לְהַשְׁבִּית 1|
 |-|
 |לְהַשְׁבִּית 1|
-|lEhEšEbEyEtE|
+|lsvhašsvbiyt|
 
  * בערבות 1: 
 
 |בָּעֲרָבוֹת 1|
 |-|
 |בָּעֲרָבוֹֹת 1|
-|bEɣErEvEwEtE|
+|bAɣarAvwot|
 
  * ועודי 1: 
 
 |וְעוֹדִי 1|
 |-|
 |וְעוֹֹדִי 1|
-|wEɣEwEdEyE|
+|wsvɣwodiy|
 
  * ירוץ 1: 
 
 |יָרוּץ 1|
 |-|
 |יָרוּץ 1|
-|yErEuEcE|
+|yAruc|
 
  * ואעלצה 1: 
 
 |וְאֶעֶלְצָה 1|
 |-|
 |וְאֶעֶלְצָה 1|
-|wE'EɣElEcEhE|
+|wsv'eɣelsvcAh|
 
  * דרכיו 1: 
 
 |דְּרָכָיו 1|
 |-|
 |דְרָכָיו 1|
-|dErExEyEwE|
+|dsvrAxAyw|
 
  * חומות 1: 
 
 |חוֹמוֹת 1|
 |-|
 |חוֹֹמוֹֹת 1|
-|HEwEmEwEtE|
+|Hwomwot|
 
  * מרעת 1: 
 
 |מֵרָעַת 1|
 |-|
 |מֵרָעַת 1|
-|mErEɣEtE|
+|mErAɣat|
 
  * באורך 1: 
 
 |בְּאוֹרְךָ 1|
 |-|
 |בְּאוֹֹרְךָ 1|
-|bE'EwErExE|
+|bsv'worsvxA|
 
  * אשנא 1: 
 
 |אֶשְׂנָא 1|
 |-|
 |אֶשְׂנָא 1|
-|'ESEnE'E|
+|'eSsvnA'|
 
  * ותגלנה 1: 
 
 |וַתָּגֵלְנָה 1|
 |-|
 |וַתָגֵלְנָה 1|
-|wEtEgElEnEhE|
+|watAgElsvnAh|
 
  * מלושני 1: 
 
 |מלושני 1|
 |-|
 |מלושני 1|
-|mElEwEשEnEyE|
+|mlwשny|
 
  * וכל־תהומות 1: 
 
 |וְכָל־תְּהוֹמוֹת 1|
 |-|
 |וְכָל־תְהוֹֹמוֹֹת 1|
-|wExElE־EtEhEwEmEwEtE|
+|wsvxAl־tsvhwomwot|
 
  * ויענם 1: 
 
 |וְיַעֲנֵם 1|
 |-|
 |וְיַעֲנֵם 1|
-|wEyEɣEnEmE|
+|wsvyaɣanEm|
 
  * וכל־עולה 1: 
 
 |וְכָל־עַוְלָה 1|
 |-|
 |וְכָל־עַוְלָה 1|
-|wExElE־EɣEwElEhE|
+|wsvxAl־ɣawsvlAh|
 
  * טהורה 1: 
 
 |טְהוֹרָה 1|
 |-|
 |טְהוֹֹרָה 1|
-|TEhEwErEhE|
+|TsvhworAh|
 
  * יכפר 1: 
 
 |יְכַפֵּר 1|
 |-|
 |יְכַפֵּר 1|
-|yExEpErE|
+|ysvxapEr|
 
  * במרומים 1: 
 
 |בַּמְּרוֹמִים 1|
 |-|
 |בַּמְרוֹֹמִים 1|
-|bEmErEwEmEyEmE|
+|bamsvrwomiym|
 
  * כי־מרעים 1: 
 
 |כִּי־מְרֵעִים 1|
 |-|
 |כִּי־מְרֵעִים 1|
-|kEyE־EmErEɣEyEmE|
+|kiy־msvrEɣiym|
 
  * כל־עברתך 1: 
 
 |כָל־עֶבְרָתֶךָ 1|
 |-|
 |כָל־עֶבְרָתֶךָ 1|
-|xElE־EɣEvErEtExE|
+|xAl־ɣevsvrAtexA|
 
  * כקשת 1: 
 
 |כְּקֶשֶׁת 1|
 |-|
 |כְּקֶשֶׁת 1|
-|kEqEšEtE|
+|ksvqešet|
 
  * התעבר 1: 
 
 |הִתְעַבָּר 1|
 |-|
 |הִתְעַבָּר 1|
-|hEtEɣEbErE|
+|hitsvɣabAr|
 
  * פלשתים 1: 
 
 |פְלִשְׁתִּים 1|
 |-|
 |פְלִשְׁתִים 1|
-|fElEšEtEyEmE|
+|fsvlišsvtiym|
 
  * כל־מזמותיו 1: 
 
 |כָּל־מְזִמּוֹתָיו 1|
 |-|
 |כָּל־מְזִמוֹֹתָיו 1|
-|kElE־EmEzEmEwEtEyEwE|
+|kAl־msvzimwotAyw|
 
  * דוברי־שקר 1: 
 
 |דוֹבְרֵי־שָׁקֶר 1|
 |-|
 |דוֹֹבְרֵי־שָׁקֶר 1|
-|dEwEvErEyE־EšEqErE|
+|dwovsvrEy־šAqer|
 
  * ויזמרו־לך 1: 
 
 |וִיזַמְּרוּ־לָךְ 1|
 |-|
 |וִיזַמְרוּ־לָךְ 1|
-|wEyEzEmErEuE־ElExE|
+|wiyzamsvru־lAxsv|
 
  * ארחץ 1: 
 
 |אֶרְחַץ 1|
 |-|
 |אֶרְחַץ 1|
-|'ErEHEcE|
+|'ersvHac|
 
  * וצדיקים 1: 
 
 |וְצַדִּיקִים 1|
 |-|
 |וְצַדִיקִים 1|
-|wEcEdEyEqEyEmE|
+|wsvcadiyqiym|
 
  * בחצריך 1: 
 
 |בַּחֲצֵרֶיךָ 1|
 |-|
 |בַּחֲצֵרֶיךָ 1|
-|bEHEcErEyExE|
+|baHacEreyxA|
 
  * ממשלותיו 1: 
 
 |מַמְשְׁלוֹתָיו 1|
 |-|
 |מַמְשְׁלוֹֹתָיו 1|
-|mEmEšElEwEtEyEwE|
+|mamsvšsvlwotAyw|
 
  * בכל־צוררי 1: 
 
 |בְּכָל־צוֹרְרָי 1|
 |-|
 |בְּכָל־צוֹֹרְרָי 1|
-|bExElE־EcEwErErEyE|
+|bsvxAl־cworsvrAy|
 
  * ראית 1: 
 
 |רָאִיתָ 1|
 |-|
 |רָאִיתָ 1|
-|rE'EyEtE|
+|rA'iytA|
 
  * יונקותיה 1: 
 
 |יוֹנְקוֹתֶיהָ 1|
 |-|
 |יוֹֹנְקוֹֹתֶיהָ 1|
-|yEwEnEqEwEtEyEhE|
+|ywonsvqwoteyhA|
 
  * תפלו 1: 
 
 |תִּפֹּלוּ 1|
 |-|
 |תִפֹּלוּ 1|
-|tEpElEuE|
+|tipolu|
 
  * אין־פרץ 1: 
 
 |אֵין־פֶּרֶץ 1|
 |-|
 |אֵין־פֶּרֶץ 1|
-|'EyEnE־EpErEcE|
+|'Eyn־perec|
 
  * ואברותיה 1: 
 
 |וְאֶבְרוֹתֶיהָ 1|
 |-|
 |וְאֶבְרוֹֹתֶיהָ 1|
-|wE'EvErEwEtEyEhE|
+|wsv'evsvrwoteyhA|
 
  * חטה 1: 
 
 |חִטָּה 1|
 |-|
 |חִטָה 1|
-|HETEhE|
+|HiTAh|
 
  * תצפנם 1: 
 
 |תִּצְפְּנֵם 1|
 |-|
 |תִצְפְּנֵם 1|
-|tEcEpEnEmE|
+|ticsvpsvnEm|
 
  * ונדעם 1: 
 
 |וַנֵּדָעֵם 1|
 |-|
 |וַנֵדָעֵם 1|
-|wEnEdEɣEmE|
+|wanEdAɣEm|
 
  * עמם 1: 
 
 |עִמָּם 1|
 |-|
 |עִמָם 1|
-|ɣEmEmE|
+|ɣimAm|
 
  * יחשבון 1: 
 
 |יַחֲשֹׁבוּן 1|
 |-|
 |יַחֲשֹׁבוּן 1|
-|yEHEšEvEuEnE|
+|yaHašovun|
 
  * תשמיעני 1: 
 
 |תַּשְׁמִיעֵנִי 1|
 |-|
 |תַשְׁמִיעֵנִי 1|
-|tEšEmEyEɣEnEyE|
+|tašsvmiyɣEniy|
 
  * ישיתו 1: 
 
 |יָשִׁיתוּ 1|
 |-|
 |יָשִׁיתוּ 1|
-|yEšEyEtEuE|
+|yAšiytu|
 
  * [עולתה] 1: 
 
 |[עַוְלָתָה] 1|
 |-|
 |[עַוְלָתָה] 1|
-|[EɣEwElEtEhE]E|
+|[ɣawsvlAtAh]|
 
  * מצמיח 1: 
 
 |מַצְמִיחַ 1|
 |-|
 |מַצְמִיחַ 1|
-|mEcEmEyEHE|
+|macsvmiyHa|
 
  * לדר־ודר 1: 
 
 |לְדֹר־וָדֹר 1|
 |-|
 |לְדֹר־וָדֹר 1|
-|lEdErE־EwEdErE|
+|lsvdor־wAdor|
 
  * בתהלתך 1: 
 
 |בִּתְהִלָּתֶךָ 1|
 |-|
 |בִּתְהִלָתֶךָ 1|
-|bEtEhElEtExE|
+|bitsvhilAtexA|
 
  * תכלית 1: 
 
 |תַּכְלִית 1|
 |-|
 |תַכְלִית 1|
-|tExElEyEtE|
+|taxsvliyt|
 
  * פימו 1: 
 
 |פִּימוֹ 1|
 |-|
 |פִּימוֹֹ 1|
-|pEyEmEwE|
+|piymwo|
 
  * ביד־ימיני 1: 
 
 |בְּיַד־יְמִינִי 1|
 |-|
 |בְּיַד־יְמִינִי 1|
-|bEyEdE־EyEmEyEnEyE|
+|bsvyad־ysvmiyniy|
 
  * עניי־עם 1: 
 
 |עֲ‍נִיֵּי־עָם 1|
 |-|
 |עֲנִיֵי־עָם 1|
-|ɣEnEyEyE־EɣEmE|
+|ɣaniyEy־ɣAm|
 
  * בצאן 1: 
 
 |בְּצֹאן 1|
 |-|
 |בְּצֹאן 1|
-|bEcE'EnE|
+|bsvco'n|
 
  * רגשו 1: 
 
 |רָגְשׁוּ 1|
 |-|
 |רָגְשׁוּ 1|
-|rEgEšEuE|
+|rAgsvšu|
 
  * בבריתך 1: 
 
 |בִּבְרִיתֶךָ 1|
 |-|
 |בִּבְרִיתֶךָ 1|
-|bEvErEyEtExE|
+|bivsvriytexA|
 
  * ומתערה 1: 
 
 |וּמִתְעָרֶה 1|
 |-|
 |וּמִתְעָרֶה 1|
-|uEmEtEɣErEhE|
+|umitsvɣAreh|
 
  * נפשות 1: 
 
 |נַפְשׁוֹת 1|
 |-|
 |נַפְשׁוֹֹת 1|
-|nEfEšEwEtE|
+|nafsvšwot|
 
  * ברעדה 1: 
 
 |בִּרְעָדָה 1|
 |-|
 |בִּרְעָדָה 1|
-|bErEɣEdEhE|
+|birsvɣAdAh|
 
  * ונוע 1: 
 
 |וְנוֹעַ 1|
 |-|
 |וְנוֹֹעַ 1|
-|wEnEwEɣE|
+|wsvnwoɣa|
 
  * [לידותון] 1: 
 
 |[לִידוּתוּן] 1|
 |-|
 |[לִידוּתוּן] 1|
-|[ElEyEdEuEtEuEnE]E|
+|[liydutun]|
 
  * שתול 1: 
 
 |שָׁתוּל 1|
 |-|
 |שָׁתוּל 1|
-|šEtEuElE|
+|šAtul|
 
  * חצי 1: 
 
 |חִצֵּי 1|
 |-|
 |חִצֵי 1|
-|HEcEyE|
+|HicEy|
 
  * רציתם 1: 
 
 |רְצִיתָם 1|
 |-|
 |רְצִיתָם 1|
-|rEcEyEtEmE|
+|rsvciytAm|
 
  * בל־יוכלו 1: 
 
 |בַּל־יוּכָלוּ 1|
 |-|
 |בַּל־יוּכָלוּ 1|
-|bElE־EyEuExElEuE|
+|bal־yuxAlu|
 
  * הכינות 1: 
 
 |הֲכִינוֹתָ 1|
 |-|
 |הֲכִינוֹֹתָ 1|
-|hExEyEnEwEtE|
+|haxiynwotA|
 
  * אבדת 1: 
 
 |אִבַּדְתָּ 1|
 |-|
 |אִבַּדְתָ 1|
-|'EbEdEtE|
+|'ibadsvtA|
 
  * קרא 1: 
 
 |קָרָא 1|
 |-|
 |קָרָא 1|
-|qErE'E|
+|qArA'|
 
  * וגדולתיך 1: 
 
 |וגדולתיך 1|
 |-|
 |וגדולתיך 1|
-|wEgEdEwElEtEyExE|
+|wgdwltyx|
 
  * ימי־עבדך 1: 
 
 |יְמֵי־עַבְדֶּךָ 1|
 |-|
 |יְמֵי־עַבְדֶךָ 1|
-|yEmEyE־EɣEvEdExE|
+|ysvmEy־ɣavsvdexA|
 
  * צעדי 1: 
 
 |צַעֲדִי 1|
 |-|
 |צַעֲדִי 1|
-|cEɣEdEyE|
+|caɣadiy|
 
  * שחתי 1: 
 
 |שַׁחֹתִי 1|
 |-|
 |שַׁחֹתִי 1|
-|šEHEtEyE|
+|šaHotiy|
 
  * מאת־יהוה 1: 
 
 |מֵאֵת־יְהוָה 1|
 |-|
 |מֵאֵת־יְהוָה 1|
-|mE'EtE־EyEhEwEhE|
+|mE'Et־ysvhwAh|
 
  * ופעל 1: 
 
 |וּפֹעֵל 1|
 |-|
 |וּפֹעֵל 1|
-|uEfEɣElE|
+|ufoɣEl|
 
  * מנהו 1: 
 
 |מִנֵּהוּ 1|
 |-|
 |מִנֵהוּ 1|
-|mEnEhEuE|
+|minEhu|
 
  * אף־נחלת 1: 
 
 |אַף־נַחֲלָת 1|
 |-|
 |אַף־נַחֲלָת 1|
-|'EfE־EnEHElEtE|
+|'af־naHalAt|
 
  * בעצתך 1: 
 
 |בַּעֲצָתְךָ 1|
 |-|
 |בַּעֲצָתְךָ 1|
-|bEɣEcEtExE|
+|baɣacAtsvxA|
 
  * כשלמה 1: 
 
 |כַּשַּׂלְמָה 1|
 |-|
 |כַּשַׂלְמָה 1|
-|kESElEmEhE|
+|kaSalsvmAh|
 
  * ולא־ראיתי 1: 
 
 |וְלֹא־רָאִיתִי 1|
 |-|
 |וְלֹא־רָאִיתִי 1|
-|wElE'E־ErE'EyEtEyE|
+|wsvlo'־rA'iytiy|
 
  * וכפר 1: 
 
 |וְכַפֵּר 1|
 |-|
 |וְכַפֵּר 1|
-|wExEpErE|
+|wsvxapEr|
 
  * לא־בשוקי 1: 
 
 |לֹא־בְשׁוֹקֵי 1|
 |-|
 |לֹא־בְשׁוֹֹקֵי 1|
-|lE'E־EvEšEwEqEyE|
+|lo'־vsvšwoqEy|
 
  * ותאנתם 1: 
 
 |וּתְאֵנָתָם 1|
 |-|
 |וּתְאֵנָתָם 1|
-|uEtE'EnEtEmE|
+|utsv'EnAtAm|
 
  * ישיתוהו 1: 
 
 |יְשִׁיתוּהוּ 1|
 |-|
 |יְשִׁיתוּהוּ 1|
-|yEšEyEtEuEhEuE|
+|ysvšiytuhu|
 
  * עם־עני 1: 
 
 |עַם־עָנִי 1|
 |-|
 |עַם־עָנִי 1|
-|ɣEmE־EɣEnEyE|
+|ɣam־ɣAniy|
 
  * לא־עשה 1: 
 
 |לֹא־עָשָׂה 1|
 |-|
 |לֹא־עָשָׂה 1|
-|lE'E־EɣESEhE|
+|lo'־ɣASAh|
 
  * טבחה 1: 
 
 |טִבְחָה 1|
 |-|
 |טִבְחָה 1|
-|TEvEHEhE|
+|TivsvHAh|
 
  * לא־אשית 1: 
 
 |לֹא־אָשִׁית 1|
 |-|
 |לֹא־אָשִׁית 1|
-|lE'E־E'EšEyEtE|
+|lo'־'Ašiyt|
 
  * ואל־אדני 1: 
 
 |וְאֶל־אֲדֹנָי 1|
 |-|
 |וְאֶל־אֲדֹנָי 1|
-|wE'ElE־E'EdEnEyE|
+|wsv'el־'adonAy|
 
  * הסתיר 1: 
 
 |הִסְתִּיר 1|
 |-|
 |הִסְתִיר 1|
-|hEsEtEyErE|
+|hissvtiyr|
 
  * ואש־מפיו 1: 
 
 |וְאֵשׁ־מִפִּיו 1|
 |-|
 |וְאֵשׁ־מִפִּיו 1|
-|wE'EšE־EmEpEyEwE|
+|wsv'Eš־mipiyw|
 
  * ויאכילהו 1: 
 
 |וַיַּאֲכִילֵהוּ 1|
 |-|
 |וַיַאֲכִילֵהוּ 1|
-|wEyE'ExEyElEhEuE|
+|waya'axiylEhu|
 
  * להוללים 1: 
 
 |לַהוֹלְלִים 1|
 |-|
 |לַהוֹֹלְלִים 1|
-|lEhEwElElEyEmE|
+|lahwolsvliym|
 
  * העמדתה 1: 
 
 |הֶעֱמַדְתָּה 1|
 |-|
 |הֶעֱמַדְתָה 1|
-|hEɣEmEdEtEhE|
+|heɣemadsvtAh|
 
  * חמד 1: 
 
 |חָמַד 1|
 |-|
 |חָמַד 1|
-|HEmEdE|
+|HAmad|
 
  * דברי־פיו 1: 
 
 |דִּבְרֵי־פִיו 1|
 |-|
 |דִבְרֵי־פִיו 1|
-|dEvErEyE־EfEyEwE|
+|divsvrEy־fiyw|
 
  * והתעיבו 1: 
 
 |וְהִתְעִיבוּ 1|
 |-|
 |וְהִתְעִיבוּ 1|
-|wEhEtEɣEyEvEuE|
+|wsvhitsvɣiyvu|
 
  * כל־חטאתם 1: 
 
 |כָל־חַטָּאתָם 1|
 |-|
 |כָל־חַטָאתָם 1|
-|xElE־EHETE'EtEmE|
+|xAl־HaTA'tAm|
 
  * ועם־אדם 1: 
 
 |וְעִם־אָדָם 1|
 |-|
 |וְעִם־אָדָם 1|
-|wEɣEmE־E'EdEmE|
+|wsvɣim־'AdAm|
 
  * מהמון 1: 
 
 |מֵהֲמוֹן 1|
 |-|
 |מֵהֲמוֹֹן 1|
-|mEhEmEwEnE|
+|mEhamwon|
 
  * יעלז 1: 
 
 |יַעֲלֹז 1|
 |-|
 |יַעֲלֹז 1|
-|yEɣElEzE|
+|yaɣaloz|
 
  * ונקם 1: 
 
 |וְנֹקֵם 1|
 |-|
 |וְנֹקֵם 1|
-|wEnEqEmE|
+|wsvnoqEm|
 
  * צוחה 1: 
 
 |צְוָחָה 1|
 |-|
 |צְוָחָה 1|
-|cEwEHEhE|
+|csvwAHAh|
 
  * יסמכני 1: 
 
 |יִסְמְכֵנִי 1|
 |-|
 |יִסְמְכֵנִי 1|
-|yEsEmExEnEyE|
+|yissvmsvxEniy|
 
  * בחדש 1: 
 
 |בַחֹדֶשׁ 1|
 |-|
 |בַחֹדֶשׁ 1|
-|vEHEdEšE|
+|vaHodeš|
 
  * וחקיך 1: 
 
 |וְחֻקֶּיךָ 1|
 |-|
 |וְחֻקֶיךָ 1|
-|wEHEqEyExE|
+|wsvHuqeyxA|
 
  * על־אילת 1: 
 
 |עַל־אַיֶּלֶת 1|
 |-|
 |עַל־אַיֶלֶת 1|
-|ɣElE־E'EyElEtE|
+|ɣal־'ayelet|
 
  * הפכו 1: 
 
 |הָפְכוּ 1|
 |-|
 |הָפְכוּ 1|
-|hEfExEuE|
+|hAfsvxu|
 
  * לא־אמר 1: 
 
 |לֹא־אֹמַר 1|
 |-|
 |לֹא־אֹמַר 1|
-|lE'E־E'EmErE|
+|lo'־'omar|
 
  * השמרים 1: 
 
 |הַשֹּׁמְרִים 1|
 |-|
 |הַשֹׁמְרִים 1|
-|hEšEmErEyEmE|
+|hašomsvriym|
 
  * כי־לך 1: 
 
 |כִּי־לְךָ 1|
 |-|
 |כִּי־לְךָ 1|
-|kEyE־ElExE|
+|kiy־lsvxA|
 
  * ויבגדו 1: 
 
 |וַיִּבְגְּדוּ 1|
 |-|
 |וַיִבְגְדוּ 1|
-|wEyEvEgEdEuE|
+|wayivsvgsvdu|
 
  * אהללנו 1: 
 
 |אֲהַלְלֶנּוּ 1|
 |-|
 |אֲהַלְלֶנוּ 1|
-|'EhElElEnEuE|
+|'ahalsvlenu|
 
  * ברוכים 1: 
 
 |בְּרוּכִים 1|
 |-|
 |בְּרוּכִים 1|
-|bErEuExEyEmE|
+|bsvruxiym|
 
  * בידי־סלע 1: 
 
 |בִידֵי־סֶלַע 1|
 |-|
 |בִידֵי־סֶלַע 1|
-|vEyEdEyE־EsElEɣE|
+|viydEy־selaɣ|
 
  * תאנף־בנו 1: 
 
 |תֶּאֱנַף־בָּנוּ 1|
 |-|
 |תֶאֱנַף־בָּנוּ 1|
-|tE'EnEfE־EbEnEuE|
+|te'enaf־bAnu|
 
  * שגיון 1: 
 
 |שִׁגָּיוֹן 1|
 |-|
 |שִׁגָיוֹֹן 1|
-|šEgEyEwEnE|
+|šigAywon|
 
  * ולמנחמים 1: 
 
 |וְלַמְנַחֲמִים 1|
 |-|
 |וְלַמְנַחֲמִים 1|
-|wElEmEnEHEmEyEmE|
+|wsvlamsvnaHamiym|
 
  * מעלה 1: 
 
 |מַעֲלֶה 1|
 |-|
 |מַעֲלֶה 1|
-|mEɣElEhE|
+|maɣaleh|
 
  * שמר־תם 1: 
 
 |שְׁמָר־תָּם 1|
 |-|
 |שְׁמָר־תָם 1|
-|šEmErE־EtEmE|
+|šsvmAr־tAm|
 
  * אדניך 1: 
 
 |אֲדֹנַיִךְ 1|
 |-|
 |אֲדֹנַיִךְ 1|
-|'EdEnEyExE|
+|'adonayixsv|
 
  * מעיר 1: 
 
 |מֵעִיר 1|
 |-|
 |מֵעִיר 1|
-|mEɣEyErE|
+|mEɣiyr|
 
  * וישמעאלים 1: 
 
 |וְיִשְׁמְעֵאלִים 1|
 |-|
 |וְיִשְׁמְעֵאלִים 1|
-|wEyEšEmEɣE'ElEyEmE|
+|wsvyišsvmsvɣE'liym|
 
  * רכובו 1: 
 
 |רְכוּבוֹ 1|
 |-|
 |רְכוּבוֹֹ 1|
-|rExEuEvEwE|
+|rsvxuvwo|
 
  * כל־צררי 1: 
 
 |כָּל־צֹרֲרֵי 1|
 |-|
 |כָּל־צֹרֲרֵי 1|
-|kElE־EcErErEyE|
+|kAl־corarEy|
 
  * ואל־יהי 1: 
 
 |וְאַל־יְהִי 1|
 |-|
 |וְאַל־יְהִי 1|
-|wE'ElE־EyEhEyE|
+|wsv'al־ysvhiy|
 
  * ]יהוה 1: 
 
 |]יְהוָה 1|
 |-|
 |]יְהוָה 1|
-|]EyEhEwEhE|
+|]ysvhwAh|
 
  * את־נפשך 1: 
 
 |אֶת־נַפְשֶׁךָ 1|
 |-|
 |אֶת־נַפְשֶׁךָ 1|
-|'EtE־EnEfEšExE|
+|'et־nafsvšexA|
 
  * מרמות 1: 
 
 |מִרְמוֹת 1|
 |-|
 |מִרְמוֹֹת 1|
-|mErEmEwEtE|
+|mirsvmwot|
 
  * ואל־חסידיו 1: 
 
 |וְאֶל־חֲסִידָיו 1|
 |-|
 |וְאֶל־חֲסִידָיו 1|
-|wE'ElE־EHEsEyEdEyEwE|
+|wsv'el־HasiydAyw|
 
  * את־עבדך 1: 
 
 |אֶת־עַבְדֶּךָ 1|
 |-|
 |אֶת־עַבְדֶךָ 1|
-|'EtE־EɣEvEdExE|
+|'et־ɣavsvdexA|
 
  * ביד־משה 1: 
 
 |בְּיַד־מֹשֶׁה 1|
 |-|
 |בְּיַד־מֹשֶׁה 1|
-|bEyEdE־EmEšEhE|
+|bsvyad־mošeh|
 
  * כל־עשב 1: 
 
 |כָּל־עֵשֶׂב 1|
 |-|
 |כָּל־עֵשֶׂב 1|
-|kElE־EɣESEvE|
+|kAl־ɣESev|
 
  * כל־משפטיו 1: 
 
 |כָל־מִשְׁפָּטָיו 1|
 |-|
 |כָל־מִשְׁפָּטָיו 1|
-|xElE־EmEšEpETEyEwE|
+|xAl־mišsvpATAyw|
 
  * ומרה 1: 
 
 |וּמֹרֶה 1|
 |-|
 |וּמֹרֶה 1|
-|uEmErEhE|
+|umoreh|
 
  * יכזבו־לו 1: 
 
 |יְכַזְּבוּ־לוֹ 1|
 |-|
 |יְכַזְבוּ־לוֹֹ 1|
-|yExEzEvEuE־ElEwE|
+|ysvxazsvvu־lwo|
 
  * נשקף 1: 
 
 |נִשְׁקָף 1|
 |-|
 |נִשְׁקָף 1|
-|nEšEqEfE|
+|nišsvqAf|
 
  * לא־תאנה 1: 
 
 |לֹא־תְאֻנֶּה 1|
 |-|
 |לֹא־תְאֻנֶה 1|
-|lE'E־EtE'EnEhE|
+|lo'־tsv'uneh|
 
  * יתחמץ 1: 
 
 |יִתְחַמֵּץ 1|
 |-|
 |יִתְחַמֵץ 1|
-|yEtEHEmEcE|
+|yitsvHamEc|
 
  * למסכה 1: 
 
 |לְמַסֵּכָה 1|
 |-|
 |לְמַסֵכָה 1|
-|lEmEsExEhE|
+|lsvmasExAh|
 
  * ונמס 1: 
 
 |וְנָמָס 1|
 |-|
 |וְנָמָס 1|
-|wEnEmEsE|
+|wsvnAmAs|
 
  * היודך 1: 
 
 |הֲיוֹדְךָ 1|
 |-|
 |הֲיוֹֹדְךָ 1|
-|hEyEwEdExE|
+|haywodsvxA|
 
  * יעמס־לנו 1: 
 
 |יַעֲמָס־לָנוּ 1|
 |-|
 |יַעֲמָס־לָנוּ 1|
-|yEɣEmEsE־ElEnEuE|
+|yaɣamAs־lAnu|
 
  * לבני־אדם 1: 
 
 |לִבְנֵי־אָדָם 1|
 |-|
 |לִבְנֵי־אָדָם 1|
-|lEvEnEyE־E'EdEmE|
+|livsvnEy־'AdAm|
 
  * וכל־מצותיך 1: 
 
 |וְכָל־מִצְוֺתֶיךָ 1|
 |-|
 |וְכָל־מִצְוֺתֶיךָ 1|
-|wExElE־EmEcEwEtEyExE|
+|wsvxAl־micsvw_o_teyxA|
 
  * מנוד־ראש 1: 
 
 |מְנוֹד־רֹאשׁ 1|
 |-|
 |מְנוֹֹד־רֹאשׁ 1|
-|mEnEwEdE־ErE'EšE|
+|msvnwod־ro'š|
 
  * שולמי 1: 
 
 |שׁוֹלְמִי 1|
 |-|
 |שׁוֹֹלְמִי 1|
-|šEwElEmEyE|
+|šwolsvmiy|
 
  * לא־חשך 1: 
 
 |לֹא־חָשַׂךְ 1|
 |-|
 |לֹא־חָשַׂךְ 1|
-|lE'E־EHESExE|
+|lo'־HASaxsv|
 
  * [הישר] 1: 
 
 |[הַיְשַׁר] 1|
 |-|
 |[הַיְשַׁר] 1|
-|[EhEyEšErE]E|
+|[haysvšar]|
 
  * צאוננו 1: 
 
 |צֹאונֵנוּ 1|
 |-|
 |צֹאונֵנוּ 1|
-|cE'EwEnEnEuE|
+|co'wnEnu|
 
  * ותכסני 1: 
 
 |וַתְּכַסֵּנִי 1|
 |-|
 |וַתְכַסֵנִי 1|
-|wEtExEsEnEyE|
+|watsvxasEniy|
 
  * כי־צר־לי 1: 
 
 |כִּי־צַר־לִי 1|
 |-|
 |כִּי־צַר־לִי 1|
-|kEyE־EcErE־ElEyE|
+|kiy־car־liy|
 
  * ותלהט 1: 
 
 |וּתְלַהֵט 1|
 |-|
 |וּתְלַהֵט 1|
-|uEtElEhETE|
+|utsvlahET|
 
  * נעמות 1: 
 
 |נְעִמוֹת 1|
 |-|
 |נְעִמוֹֹת 1|
-|nEɣEmEwEtE|
+|nsvɣimwot|
 
  * בפקדיך 1: 
 
 |בְּפִקֻּדֶיךָ 1|
 |-|
 |בְּפִקֻדֶיךָ 1|
-|bEfEqEdEyExE|
+|bsvfiqudeyxA|
 
  * ארזי־אל 1: 
 
 |אַרְזֵי־אֵל 1|
 |-|
 |אַרְזֵי־אֵל 1|
-|'ErEzEyE־E'ElE|
+|'arsvzEy־'El|
 
  * צרפתני 1: 
 
 |צְרַפְתַּנִי 1|
 |-|
 |צְרַפְתַנִי 1|
-|cErEfEtEnEyE|
+|csvrafsvtaniy|
 
  * עשתנתיו 1: 
 
 |עֶשְׁתֹּנֹתָיו 1|
 |-|
 |עֶשְׁתֹנֹתָיו 1|
-|ɣEšEtEnEtEyEwE|
+|ɣešsvtonotAyw|
 
  * נפעמתי 1: 
 
 |נִפְעַמְתִּי 1|
 |-|
 |נִפְעַמְתִי 1|
-|nEfEɣEmEtEyE|
+|nifsvɣamsvtiy|
 
  * מוקשים 1: 
 
 |מוֹקְשִׁים 1|
 |-|
 |מוֹֹקְשִׁים 1|
-|mEwEqEšEyEmE|
+|mwoqsvšiym|
 
  * ואחריו 1: 
 
 |וְאַחֲרָיו 1|
 |-|
 |וְאַחֲרָיו 1|
-|wE'EHErEyEwE|
+|wsv'aHarAyw|
 
  * הבאתנו 1: 
 
 |הֲבֵאתָנוּ 1|
 |-|
 |הֲבֵאתָנוּ 1|
-|hEvE'EtEnEuE|
+|havE'tAnu|
 
  * לא־האמינו 1: 
 
 |לֹא־הֶאֱמִינוּ 1|
 |-|
 |לֹא־הֶאֱמִינוּ 1|
-|lE'E־EhE'EmEyEnEuE|
+|lo'־he'emiynu|
 
  * משברי־ים 1: 
 
 |מִשְׁבְּרֵי־יָם 1|
 |-|
 |מִשְׁבְּרֵי־יָם 1|
-|mEšEbErEyE־EyEmE|
+|mišsvbsvrEy־yAm|
 
  * מה־יקרו 1: 
 
 |מַה־יָּקְרוּ 1|
 |-|
 |מַה־יָקְרוּ 1|
-|mEhE־EyEqErEuE|
+|mah־yAqsvru|
 
  * אל־גוי 1: 
 
 |אֶל־גּוֹי 1|
 |-|
 |אֶל־גוֹֹי 1|
-|'ElE־EgEwEyE|
+|'el־gwoy|
 
  * ועוגב 1: 
 
 |וְעוּגָב 1|
 |-|
 |וְעוּגָב 1|
-|wEɣEuEgEvE|
+|wsvɣugAv|
 
  * תכבסני 1: 
 
 |תְּכַבְּסֵנִי 1|
 |-|
 |תְכַבְּסֵנִי 1|
-|tExEbEsEnEyE|
+|tsvxabsvsEniy|
 
  * גורלי 1: 
 
 |גּוֹרָלִי 1|
 |-|
 |גוֹֹרָלִי 1|
-|gEwErElEyE|
+|gworAliy|
 
  * מרשע 1: 
 
 |מֵרָשָׁע 1|
 |-|
 |מֵרָשָׁע 1|
-|mErEšEɣE|
+|mErAšAɣ|
 
  * ואדעה 1: 
 
 |וְאֵדְעָה 1|
 |-|
 |וְאֵדְעָה 1|
-|wE'EdEɣEhE|
+|wsv'EdsvɣAh|
 
  * בעיר־יהוה 1: 
 
 |בְּעִיר־יְהוָה 1|
 |-|
 |בְּעִיר־יְהוָה 1|
-|bEɣEyErE־EyEhEwEhE|
+|bsvɣiyr־ysvhwAh|
 
  * ועריצים 1: 
 
 |וְעָרִיצִים 1|
 |-|
 |וְעָרִיצִים 1|
-|wEɣErEyEcEyEmE|
+|wsvɣAriyciym|
 
  * וינהג 1: 
 
 |וַיְנַהֵג 1|
 |-|
 |וַיְנַהֵג 1|
-|wEyEnEhEgE|
+|waysvnahEg|
 
  * אם־ארעב 1: 
 
 |אִם־אֶרְעַב 1|
 |-|
 |אִם־אֶרְעַב 1|
-|'EmE־E'ErEɣEvE|
+|'im־'ersvɣav|
 
  * קשה 1: 
 
 |קָשָׁה 1|
 |-|
 |קָשָׁה 1|
-|qEšEhE|
+|qAšAh|
 
  * נתת 1: 
 
 |נָתַתָּ 1|
 |-|
 |נָתַתָ 1|
-|nEtEtE|
+|nAtatA|
 
  * וידכא 1: 
 
 |וִידַכֵּא 1|
 |-|
 |וִידַכֵּא 1|
-|wEyEdEkE'E|
+|wiydakE'|
 
  * לעיים 1: 
 
 |לְעִיִּים 1|
 |-|
 |לְעִיִים 1|
-|lEɣEyEyEmE|
+|lsvɣiyiym|
 
  * הגואל 1: 
 
 |הַגּוֹאֵל 1|
 |-|
 |הַגוֹֹאֵל 1|
-|hEgEwE'ElE|
+|hagwo'El|
 
  * באנחה 1: 
 
 |בַּאֲנָחָה 1|
 |-|
 |בַּאֲנָחָה 1|
-|bE'EnEHEhE|
+|ba'anAHAh|
 
  * ויקנאו 1: 
 
 |וַיְקַנְאוּ 1|
 |-|
 |וַיְקַנְאוּ 1|
-|wEyEqEnE'EuE|
+|waysvqansv'u|
 
  * בשער 1: 
 
 |בַּשָּׁעַר 1|
 |-|
 |בַּשָׁעַר 1|
-|bEšEɣErE|
+|bašAɣar|
 
  * יצילהו 1: 
 
 |יַצִּילֵהוּ 1|
 |-|
 |יַצִילֵהוּ 1|
-|yEcEyElEhEuE|
+|yaciylEhu|
 
  * אמרי־אל 1: 
 
 |אִמְרֵי־אֵל 1|
 |-|
 |אִמְרֵי־אֵל 1|
-|'EmErEyE־E'ElE|
+|'imsvrEy־'El|
 
  * על־מכוניה 1: 
 
 |עַל־מְכוֹנֶיהָ 1|
 |-|
 |עַל־מְכוֹֹנֶיהָ 1|
-|ɣElE־EmExEwEnEyEhE|
+|ɣal־msvxwoneyhA|
 
  * קויך 1: 
 
 |קֹוֶיךָ 1|
 |-|
 |קֹוֶיךָ 1|
-|qEwEyExE|
+|qoweyxA|
 
  * ויהי־יהוה 1: 
 
 |וַיְהִי־יְהוָה 1|
 |-|
 |וַיְהִי־יְהוָה 1|
-|wEyEhEyE־EyEhEwEhE|
+|waysvhiy־ysvhwAh|
 
  * אילים 1: 
 
 |אֵילִים 1|
 |-|
 |אֵילִים 1|
-|'EyElEyEmE|
+|'Eyliym|
 
  * [דברו 1: 
 
 |[דְּבָרוֹ 1|
 |-|
 |[דְבָרוֹֹ 1|
-|[EdEvErEwE|
+|[dsvvArwo|
 
  * לבדד 1: 
 
 |לְבָדָד 1|
 |-|
 |לְבָדָד 1|
-|lEvEdEdE|
+|lsvvAdAd|
 
  * גאלה 1: 
 
 |גְאָלָהּ 1|
 |-|
 |גְאָלָה 1|
-|gE'ElEhE|
+|gsv'AlAh|
 
  * יצועי 1: 
 
 |יְצוּעָי 1|
 |-|
 |יְצוּעָי 1|
-|yEcEuEɣEyE|
+|ysvcuɣAy|
 
  * ואשיגם 1: 
 
 |וְאַשִּׂיגֵם 1|
 |-|
 |וְאַשִׂיגֵם 1|
-|wE'ESEyEgEmE|
+|wsv'aSiygEm|
 
  * ילכון 1: 
 
 |יֵלֵכוּן 1|
 |-|
 |יֵלֵכוּן 1|
-|yElExEuEnE|
+|yElExun|
 
  * למאור 1: 
 
 |לִמְאוֹר 1|
 |-|
 |לִמְאוֹֹר 1|
-|lEmE'EwErE|
+|limsv'wor|
 
  * ויתנם 1: 
 
 |וַיִּתְּנֵם 1|
 |-|
 |וַיִתְנֵם 1|
-|wEyEtEnEmE|
+|wayitsvnEm|
 
  * נותן 1: 
 
 |נוֹתֵן 1|
 |-|
 |נוֹֹתֵן 1|
-|nEwEtEnE|
+|nwotEn|
 
  * בגדלות 1: 
 
 |בִּגְדֹלוֹת 1|
 |-|
 |בִּגְדֹלוֹֹת 1|
-|bEgEdElEwEtE|
+|bigsvdolwot|
 
  * נשקה 1: 
 
 |נִשְּׂקָה 1|
 |-|
 |נִשְׂקָה 1|
-|nESEqEhE|
+|niSsvqAh|
 
  * ימרוהו 1: 
 
 |יַמְרוּהוּ 1|
 |-|
 |יַמְרוּהוּ 1|
-|yEmErEuEhEuE|
+|yamsvruhu|
 
  * מגזלו 1: 
 
 |מִגֹּזְלוֹ 1|
 |-|
 |מִגֹזְלוֹֹ 1|
-|mEgEzElEwE|
+|migozsvlwo|
 
  * יסר 1: 
 
 |יַסֹּר 1|
 |-|
 |יַסֹר 1|
-|yEsErE|
+|yasor|
 
  * והשב 1: 
 
 |וְהָשֵׁב 1|
 |-|
 |וְהָשֵׁב 1|
-|wEhEšEvE|
+|wsvhAšEv|
 
  * תחי־נפשי 1: 
 
 |תְּחִי־נַפְשִׁי 1|
 |-|
 |תְחִי־נַפְשִׁי 1|
-|tEHEyE־EnEfEšEyE|
+|tsvHiy־nafsvšiy|
 
  * בחנוני 1: 
 
 |בְּחָנוּנִי 1|
 |-|
 |בְּחָנוּנִי 1|
-|bEHEnEuEnEyE|
+|bsvHAnuniy|
 
  * יבעתוני 1: 
 
 |יְבַעֲתוּנִי 1|
 |-|
 |יְבַעֲתוּנִי 1|
-|yEvEɣEtEuEnEyE|
+|ysvvaɣatuniy|
 
  * לאולתי 1: 
 
 |לְאִוַּלְתִּי 1|
 |-|
 |לְאִוַּלְתִי 1|
-|lE'EuElEtEyE|
+|lsv'iualsvtiy|
 
  * הרשענו 1: 
 
 |הִרְשָׁעְנוּ 1|
 |-|
 |הִרְשָׁעְנוּ 1|
-|hErEšEɣEnEuE|
+|hirsvšAɣsvnu|
 
  * משוש 1: 
 
 |מְשׂוֹשׂ 1|
 |-|
 |מְשׂוֹֹשׂ 1|
-|mESEwESE|
+|msvSwoS|
 
  * את־שיבת 1: 
 
 |אֶת־שִׁיבַת 1|
 |-|
 |אֶת־שִׁיבַת 1|
-|'EtE־EšEyEvEtE|
+|'et־šiyvat|
 
  * ואציעה 1: 
 
 |וְאַצִּיעָה 1|
 |-|
 |וְאַצִיעָה 1|
-|wE'EcEyEɣEhE|
+|wsv'aciyɣAh|
 
  * וגדל־חסד 1: 
 
 |וּגְדָל־חָסֶד 1|
 |-|
 |וּגְדָל־חָסֶד 1|
-|uEgEdElE־EHEsEdE|
+|ugsvdAl־HAsed|
 
  * ואל־הארץ 1: 
 
 |וְאֶל־הָאָרֶץ 1|
 |-|
 |וְאֶל־הָאָרֶץ 1|
-|wE'ElE־EhE'ErEcE|
+|wsv'el־hA'Arec|
 
  * מחסה־לנו 1: 
 
 |מַחֲסֶה־לָּנוּ 1|
 |-|
 |מַחֲסֶה־לָנוּ 1|
-|mEHEsEhE־ElEnEuE|
+|maHaseh־lAnu|
 
  * ותחל 1: 
 
 |וַתָּחֵל 1|
 |-|
 |וַתָחֵל 1|
-|wEtEHElE|
+|watAHEl|
 
  * טוב־איש 1: 
 
 |טוֹב־אִישׁ 1|
 |-|
 |טוֹֹב־אִישׁ 1|
-|TEwEvE־E'EyEšE|
+|Twov־'iyš|
 
  * יכלו 1: 
 
 |יִכְלוּ 1|
 |-|
 |יִכְלוּ 1|
-|yExElEuE|
+|yixsvlu|
 
  * מי־האיש 1: 
 
 |מִי־הָאִישׁ 1|
 |-|
 |מִי־הָאִישׁ 1|
-|mEyE־EhE'EyEšE|
+|miy־hA'iyš|
 
  * למותם 1: 
 
 |לְמוֹתָם 1|
 |-|
 |לְמוֹֹתָם 1|
-|lEmEwEtEmE|
+|lsvmwotAm|
 
  * בביתו 1: 
 
 |בְּבֵיתוֹ 1|
 |-|
 |בְּבֵיתוֹֹ 1|
-|bEvEyEtEwE|
+|bsvvEytwo|
 
  * ועם־רשעים 1: 
 
 |וְעִם־רְשָׁעִים 1|
 |-|
 |וְעִם־רְשָׁעִים 1|
-|wEɣEmE־ErEšEɣEyEmE|
+|wsvɣim־rsvšAɣiym|
 
  * נעלית 1: 
 
 |נַעֲלֵיתָ 1|
 |-|
 |נַעֲלֵיתָ 1|
-|nEɣElEyEtE|
+|naɣalEytA|
 
  * ולך 1: 
 
 |וּלְךָ 1|
 |-|
 |וּלְךָ 1|
-|uElExE|
+|ulsvxA|
 
  * לא־ידעוך 1: 
 
 |לֹא־יְדָעוּךָ 1|
 |-|
 |לֹא־יְדָעוּךָ 1|
-|lE'E־EyEdEɣEuExE|
+|lo'־ysvdAɣuxA|
 
  * כל־דשני־ארץ 1: 
 
 |כָּל־דִּשְׁנֵי־אֶרֶץ 1|
 |-|
 |כָּל־דִשְׁנֵי־אֶרֶץ 1|
-|kElE־EdEšEnEyE־E'ErEcE|
+|kAl־dišsvnEy־'erec|
 
  * ואור־עיני 1: 
 
 |וְאוֹר־עֵינַי 1|
 |-|
 |וְאוֹֹר־עֵינַי 1|
-|wE'EwErE־EɣEyEnEyE|
+|wsv'wor־ɣEynay|
 
  * ובנפלאות 1: 
 
 |וּבְנִפְלָאוֹת 1|
 |-|
 |וּבְנִפְלָאוֹֹת 1|
-|uEvEnEfElE'EwEtE|
+|uvsvnifsvlA'wot|
 
  * מסוד 1: 
 
 |מִסּוֹד 1|
 |-|
 |מִסוֹֹד 1|
-|mEsEwEdE|
+|miswod|
 
  * עזוז 1: 
 
 |עִזּוּז 1|
 |-|
 |עִזוּז 1|
-|ɣEzEuEzE|
+|ɣizuz|
 
  * כל־הנשבע 1: 
 
 |כָּל־הַנִּשְׁבָּע 1|
 |-|
 |כָּל־הַנִשְׁבָּע 1|
-|kElE־EhEnEšEbEɣE|
+|kAl־hanišsvbAɣ|
 
  * שפטי 1: 
 
 |שֹׁפְטֵי 1|
 |-|
 |שֹׁפְטֵי 1|
-|šEfETEyE|
+|šofsvTEy|
 
  * יורנו 1: 
 
 |יוֹרֶנּוּ 1|
 |-|
 |יוֹֹרֶנוּ 1|
-|yEwErEnEuE|
+|yworenu|
 
  * אברח 1: 
 
 |אֶבְרָח 1|
 |-|
 |אֶבְרָח 1|
-|'EvErEHE|
+|'evsvrAH|
 
  * מגדליה 1: 
 
 |מִגְדָּלֶיהָ 1|
 |-|
 |מִגְדָלֶיהָ 1|
-|mEgEdElEyEhE|
+|migsvdAleyhA|
 
  * ותסב 1: 
 
 |וְתִסֹּב 1|
 |-|
 |וְתִסֹב 1|
-|wEtEsEvE|
+|wsvtisov|
 
  * שנותיו 1: 
 
 |שְׁנוֹתָיו 1|
 |-|
 |שְׁנוֹֹתָיו 1|
-|šEnEwEtEyEwE|
+|šsvnwotAyw|
 
  * כי־תשפט 1: 
 
 |כִּי־תִשְׁפֹּט 1|
 |-|
 |כִּי־תִשְׁפֹּט 1|
-|kEyE־EtEšEpETE|
+|kiy־tišsvpoT|
 
  * והושיעני 1: 
 
 |וְהוֹשִׁיעֵנִי 1|
 |-|
 |וְהוֹֹשִׁיעֵנִי 1|
-|wEhEwEšEyEɣEnEyE|
+|wsvhwošiyɣEniy|
 
  * וכל־שפטי 1: 
 
 |וְכָל־שֹׁפְטֵי 1|
 |-|
 |וְכָל־שֹׁפְטֵי 1|
-|wExElE־EšEfETEyE|
+|wsvxAl־šofsvTEy|
 
  * [סבבונו] 1: 
 
 |[סְבָבוּנוּ] 1|
 |-|
 |[סְבָבוּנוּ] 1|
-|[EsEvEvEuEnEuE]E|
+|[ssvvAvunu]|
 
  * חמתו 1: 
 
 |חֲמָתוֹ 1|
 |-|
 |חֲמָתוֹֹ 1|
-|HEmEtEwE|
+|HamAtwo|
 
  * קלון 1: 
 
 |קָלוֹן 1|
 |-|
 |קָלוֹֹן 1|
-|qElEwEnE|
+|qAlwon|
 
  * ועדתיו 1: 
 
 |וְעֵדֹתָיו 1|
 |-|
 |וְעֵדֹתָיו 1|
-|wEɣEdEtEyEwE|
+|wsvɣEdotAyw|
 
  * אשביעהו 1: 
 
 |אַשְׂבִּיעֵהוּ 1|
 |-|
 |אַשְׂבִּיעֵהוּ 1|
-|'ESEbEyEɣEhEuE|
+|'aSsvbiyɣEhu|
 
  * ותהי־לי 1: 
 
 |וַתְּהִי־לִי 1|
 |-|
 |וַתְהִי־לִי 1|
-|wEtEhEyE־ElEyE|
+|watsvhiy־liy|
 
  * וכל־קרני 1: 
 
 |וְכָל־קַרְנֵי 1|
 |-|
 |וְכָל־קַרְנֵי 1|
-|wExElE־EqErEnEyE|
+|wsvxAl־qarsvnEy|
 
  * רעי 1: 
 
 |רֹעִי 1|
 |-|
 |רֹעִי 1|
-|rEɣEyE|
+|roɣiy|
 
  * תבענה 1: 
 
 |תַּבַּעְנָה 1|
 |-|
 |תַבַּעְנָה 1|
-|tEbEɣEnEhE|
+|tabaɣsvnAh|
 
  * מחנהו 1: 
 
 |מַחֲנֵהוּ 1|
 |-|
 |מַחֲנֵהוּ 1|
-|mEHEnEhEuE|
+|maHanEhu|
 
  * תתמם 1: 
 
 |תִּתַּמָּם 1|
 |-|
 |תִתַמָם 1|
-|tEtEmEmE|
+|titamAm|
 
  * עד־דור 1: 
 
 |עַד־דּוֹר 1|
 |-|
 |עַד־דוֹֹר 1|
-|ɣEdE־EdEwErE|
+|ɣad־dwor|
 
  * טהור 1: 
 
 |טָהוֹר 1|
 |-|
 |טָהוֹֹר 1|
-|TEhEwErE|
+|TAhwor|
 
  * צלמות 1: 
 
 |צַלְמָוֶת 1|
 |-|
 |צַלְמָוֶת 1|
-|cElEmEwEtE|
+|calsvmAwet|
 
  * בשררי 1: 
 
 |בְשֹׁרְרָי 1|
 |-|
 |בְשֹׁרְרָי 1|
-|vEšErErEyE|
+|vsvšorsvrAy|
 
  * כסלם 1: 
 
 |כִּסְלָם 1|
 |-|
 |כִּסְלָם 1|
-|kEsElEmE|
+|kissvlAm|
 
  * בעירם 1: 
 
 |בְּעִירָם 1|
 |-|
 |בְּעִירָם 1|
-|bEɣEyErEmE|
+|bsvɣiyrAm|
 
  * כאילות 1: 
 
 |כָּאַיָּלוֹת 1|
 |-|
 |כָּאַיָלוֹֹת 1|
-|kE'EyElEwEtE|
+|kA'ayAlwot|
 
  * ותשנא 1: 
 
 |וַתִּשְׂנָא 1|
 |-|
 |וַתִשְׂנָא 1|
-|wEtESEnE'E|
+|watiSsvnA'|
 
  * ואערכה 1: 
 
 |וְאֶעֶרְכָה 1|
 |-|
 |וְאֶעֶרְכָה 1|
-|wE'EɣErExEhE|
+|wsv'eɣersvxAh|
 
  * ההר 1: 
 
 |הָהָר 1|
 |-|
 |הָהָר 1|
-|hEhErE|
+|hAhAr|
 
  * וגם־אף 1: 
 
 |וְגַם־אַף 1|
 |-|
 |וְגַם־אַף 1|
-|wEgEmE־E'EfE|
+|wsvgam־'af|
 
  * מחשבתיך 1: 
 
 |מַחְשְׁבֹתֶיךָ 1|
 |-|
 |מַחְשְׁבֹתֶיךָ 1|
-|mEHEšEvEtEyExE|
+|maHsvšsvvoteyxA|
 
  * מצאנוה 1: 
 
 |מְצָאנוּהָ 1|
 |-|
 |מְצָאנוּהָ 1|
-|mEcE'EnEuEhE|
+|msvcA'nuhA|
 
  * ראה־אויבי 1: 
 
 |רְאֵה־אוֹיְבַי 1|
 |-|
 |רְאֵה־אוֹֹיְבַי 1|
-|rE'EhE־E'EwEyEvEyE|
+|rsv'Eh־'woysvvay|
 
  * ותשת 1: 
 
 |וַתָּשֶׁת 1|
 |-|
 |וַתָשֶׁת 1|
-|wEtEšEtE|
+|watAšet|
 
  * קרננו 1: 
 
 |קַרְנֵנוּ 1|
 |-|
 |קַרְנֵנוּ 1|
-|qErEnEnEuE|
+|qarsvnEnu|
 
  * יטור 1: 
 
 |יִטּוֹר 1|
 |-|
 |יִטוֹֹר 1|
-|yETEwErE|
+|yiTwor|
 
  * תתמוגג 1: 
 
 |תִתְמוֹגָג 1|
 |-|
 |תִתְמוֹֹגָג 1|
-|tEtEmEwEgEgE|
+|titsvmwogAg|
 
  * יהיו־ימיו 1: 
 
 |יִהְיוּ־יָמָיו 1|
 |-|
 |יִהְיוּ־יָמָיו 1|
-|yEhEyEuE־EyEmEyEwE|
+|yihsvyu־yAmAyw|
 
  * היו־לי 1: 
 
 |הָיוּ־לִי 1|
 |-|
 |הָיוּ־לִי 1|
-|hEyEuE־ElEyE|
+|hAyu־liy|
 
  * ובשם־יהוה 1: 
 
 |וּבְשֵׁם־יְהוָה 1|
 |-|
 |וּבְשֵׁם־יְהוָה 1|
-|uEvEšEmE־EyEhEwEhE|
+|uvsvšEm־ysvhwAh|
 
  * שיתו 1: 
 
 |שִׁיתוּ 1|
 |-|
 |שִׁיתוּ 1|
-|šEyEtEuE|
+|šiytu|
 
  * אין־פחד 1: 
 
 |אֵין־פַּחַד 1|
 |-|
 |אֵין־פַּחַד 1|
-|'EyEnE־EpEHEdE|
+|'Eyn־paHad|
 
  * שדה־צען 1: 
 
 |שְׂדֵה־צֹעַן 1|
 |-|
 |שְׂדֵה־צֹעַן 1|
-|SEdEhE־EcEɣEnE|
+|SsvdEh־coɣan|
 
  * בכשיל 1: 
 
 |בְּכַשִּׁיל 1|
 |-|
 |בְּכַשִׁיל 1|
-|bExEšEyElE|
+|bsvxašiyl|
 
  * שתולים 1: 
 
 |שְׁתוּלִים 1|
 |-|
 |שְׁתוּלִים 1|
-|šEtEuElEyEmE|
+|šsvtuliym|
 
  * עקרת 1: 
 
 |עֲקֶרֶת 1|
 |-|
 |עֲקֶרֶת 1|
-|ɣEqErEtE|
+|ɣaqeret|
 
  * שאו־זמרה 1: 
 
 |שְׂאוּ־זִמְרָה 1|
 |-|
 |שְׂאוּ־זִמְרָה 1|
-|SE'EuE־EzEmErEhE|
+|Ssv'u־zimsvrAh|
 
  * על־כל־העמים 1: 
 
 |עַל־כָּל־הָעַמִּים 1|
 |-|
 |עַל־כָּל־הָעַמִים 1|
-|ɣElE־EkElE־EhEɣEmEyEmE|
+|ɣal־kAl־hAɣamiym|
 
  * לכל־יבוא 1: 
 
 |לְכָל־יָבוֹא 1|
 |-|
 |לְכָל־יָבוֹֹא 1|
-|lExElE־EyEvEwE'E|
+|lsvxAl־yAvwo'|
 
  * לקדושים 1: 
 
 |לִקְדוֹשִׁים 1|
 |-|
 |לִקְדוֹֹשִׁים 1|
-|lEqEdEwEšEyEmE|
+|liqsvdwošiym|
 
  * לדבריך 1: 
 
 |לדבריך 1|
 |-|
 |לדבריך 1|
-|lEdEvErEyExE|
+|ldvryx|
 
  * וברכו 1: 
 
 |וּבָרֲכוּ 1|
 |-|
 |וּבָרֲכוּ 1|
-|uEvErExEuE|
+|uvAraxu|
 
  * תקום 1: 
 
 |תָקוּם 1|
 |-|
 |תָקוּם 1|
-|tEqEuEmE|
+|tAqum|
 
  * פלח 1: 
 
 |פֹלֵחַ 1|
 |-|
 |פֹלֵחַ 1|
-|fElEHE|
+|folEHa|
 
  * טרם 1: 
 
 |טֶרֶם 1|
 |-|
 |טֶרֶם 1|
-|TErEmE|
+|Terem|
 
  * ערף 1: 
 
 |עֹרֶף 1|
 |-|
 |עֹרֶף 1|
-|ɣErEfE|
+|ɣoref|
 
  * יגאל 1: 
 
 |יִגְאַל 1|
 |-|
 |יִגְאַל 1|
-|yEgE'ElE|
+|yigsv'al|
 
  * בעין־דאר 1: 
 
 |בְעֵין־דֹּאר 1|
 |-|
 |בְעֵין־דֹאר 1|
-|vEɣEyEnE־EdE'ErE|
+|vsvɣEyn־do'r|
 
  * יחלף 1: 
 
 |יַחֲלֹף 1|
 |-|
 |יַחֲלֹף 1|
-|yEHElEfE|
+|yaHalof|
 
  * אמלל 1: 
 
 |אֻמְלַל 1|
 |-|
 |אֻמְלַל 1|
-|'EmElElE|
+|'umsvlal|
 
  * והתהלכתי 1: 
 
 |וְהִתְהַלַּכְתִּי 1|
 |-|
 |וְהִתְהַלַכְתִי 1|
-|wEhEtEhElExEtEyE|
+|wsvhitsvhalaxsvtiy|
 
  * אח 1: 
 
 |אָח 1|
 |-|
 |אָח 1|
-|'EHE|
+|'AH|
 
  * לבעל 1: 
 
 |לְבַעַל 1|
 |-|
 |לְבַעַל 1|
-|lEvEɣElE|
+|lsvvaɣal|
 
  * כל־מעשיך 1: 
 
 |כָּל־מַעֲשֶׂיךָ 1|
 |-|
 |כָּל־מַעֲשֶׂיךָ 1|
-|kElE־EmEɣESEyExE|
+|kAl־maɣaSeyxA|
 
  * ותאחזני 1: 
 
 |וְתֹאחֲזֵנִי 1|
 |-|
 |וְתֹאחֲזֵנִי 1|
-|wEtE'EHEzEnEyE|
+|wsvto'HazEniy|
 
  * זכר־זאת 1: 
 
 |זְכָר־זֹאת 1|
 |-|
 |זְכָר־זֹאת 1|
-|zExErE־EzE'EtE|
+|zsvxAr־zo't|
 
  * משאלת 1: 
 
 |מִשְׁאֲלֹת 1|
 |-|
 |מִשְׁאֲלֹת 1|
-|mEšE'ElEtE|
+|mišsv'alot|
 
  * בנתה 1: 
 
 |בַּנְתָּה 1|
 |-|
 |בַּנְתָה 1|
-|bEnEtEhE|
+|bansvtAh|
 
  * אל־רנתי 1: 
 
 |אֶל־רִנָּתִי 1|
 |-|
 |אֶל־רִנָתִי 1|
-|'ElE־ErEnEtEyE|
+|'el־rinAtiy|
 
  * נעניתי 1: 
 
 |נַעֲנֵיתִי 1|
 |-|
 |נַעֲנֵיתִי 1|
-|nEɣEnEyEtEyE|
+|naɣanEytiy|
 
  * מעודד 1: 
 
 |מְעוֹדֵד 1|
 |-|
 |מְעוֹֹדֵד 1|
-|mEɣEwEdEdE|
+|msvɣwodEd|
 
  * השע 1: 
 
 |הָשַׁע 1|
 |-|
 |הָשַׁע 1|
-|hEšEɣE|
+|hAšaɣ|
 
  * גם־צפור 1: 
 
 |גַּם־צִפּוֹר 1|
 |-|
 |גַם־צִפּוֹֹר 1|
-|gEmE־EcEpEwErE|
+|gam־cipwor|
 
  * מתוגה 1: 
 
 |מִתּוּגָה 1|
 |-|
 |מִתוּגָה 1|
-|mEtEuEgEhE|
+|mitugAh|
 
  * וכהניה 1: 
 
 |וְכֹהֲנֶיהָ 1|
 |-|
 |וְכֹהֲנֶיהָ 1|
-|wExEhEnEyEhE|
+|wsvxohaneyhA|
 
  * מקשים 1: 
 
 |מֹקְשִׁים 1|
 |-|
 |מֹקְשִׁים 1|
-|mEqEšEyEmE|
+|moqsvšiym|
 
  * בן־ישי 1: 
 
 |בֶּן־יִשָׁי 1|
 |-|
 |בֶּן־יִשָׁי 1|
-|bEnE־EyEšEyE|
+|ben־yišAy|
 
  * עד־כלותם 1: 
 
 |עַד־כַּלּוֹתָם 1|
 |-|
 |עַד־כַּלוֹֹתָם 1|
-|ɣEdE־EkElEwEtEmE|
+|ɣad־kalwotAm|
 
  * ונסני 1: 
 
 |וְנַסֵּנִי 1|
 |-|
 |וְנַסֵנִי 1|
-|wEnEsEnEyE|
+|wsvnasEniy|
 
  * יהי־חסדך 1: 
 
 |יְהִי־חַסְדְּךָ 1|
 |-|
 |יְהִי־חַסְדְךָ 1|
-|yEhEyE־EHEsEdExE|
+|ysvhiy־HassvdsvxA|
 
  * ברחבה 1: 
 
 |בָרְחָבָה 1|
 |-|
 |בָרְחָבָה 1|
-|vErEHEvEhE|
+|vArsvHAvAh|
 
  * בבוא־אליו 1: 
 
 |בְּבוֹא־אֵלָיו 1|
 |-|
 |בְּבוֹֹא־אֵלָיו 1|
-|bEvEwE'E־E'ElEyEwE|
+|bsvvwo'־'ElAyw|
 
  * שובנו 1: 
 
 |שׁוּבֵנוּ 1|
 |-|
 |שׁוּבֵנוּ 1|
-|šEuEvEnEuE|
+|šuvEnu|
 
  * וחסידיה 1: 
 
 |וַחֲסִידֶיהָ 1|
 |-|
 |וַחֲסִידֶיהָ 1|
-|wEHEsEyEdEyEhE|
+|waHasiydeyhA|
 
  * עד־דכא 1: 
 
 |עַד־דַּכָּא 1|
 |-|
 |עַד־דַכָּא 1|
-|ɣEdE־EdEkE'E|
+|ɣad־dakA'|
 
  * תפארתך 1: 
 
 |תִּפְאַרְתֶּךָ 1|
 |-|
 |תִפְאַרְתֶךָ 1|
-|tEfE'ErEtExE|
+|tifsv'arsvtexA|
 
  * אבחנך 1: 
 
 |אֶבְחָנְךָ 1|
 |-|
 |אֶבְחָנְךָ 1|
-|'EvEHEnExE|
+|'evsvHAnsvxA|
 
  * קטנות 1: 
 
 |קְטַנּוֹת 1|
 |-|
 |קְטַנוֹֹת 1|
-|qETEnEwEtE|
+|qsvTanwot|
 
  * על־נפשי 1: 
 
 |עַל־נַפְשִׁי 1|
 |-|
 |עַל־נַפְשִׁי 1|
-|ɣElE־EnEfEšEyE|
+|ɣal־nafsvšiy|
 
  * שמע־אלהים 1: 
 
 |שְׁמַע־אֱלֹהִים 1|
 |-|
 |שְׁמַע־אֱלֹהִים 1|
-|šEmEɣE־E'ElEhEyEmE|
+|šsvmaɣ־'elohiym|
 
  * כל־תאותי 1: 
 
 |כָל־תַּאֲוָתִי 1|
 |-|
 |כָל־תַאֲוָתִי 1|
-|xElE־EtE'EwEtEyE|
+|xAl־ta'awAtiy|
 
  * תבואהו 1: 
 
 |תְּבוֹאֵהוּ 1|
 |-|
 |תְבוֹֹאֵהוּ 1|
-|tEvEwE'EhEuE|
+|tsvvwo'Ehu|
 
  * נר 1: 
 
 |נֵר 1|
 |-|
 |נֵר 1|
-|nErE|
+|nEr|
 
  * יעבור 1: 
 
 |יַעֲבוֹר 1|
 |-|
 |יַעֲבוֹֹר 1|
-|yEɣEvEwErE|
+|yaɣavwor|
 
  * שנא 1: 
 
 |שֵׁנָא 1|
 |-|
 |שֵׁנָא 1|
-|šEnE'E|
+|šEnA'|
 
  * לחצרותיו 1: 
 
 |לְחַצְרוֹתָיו 1|
 |-|
 |לְחַצְרוֹֹתָיו 1|
-|lEHEcErEwEtEyEwE|
+|lsvHacsvrwotAyw|
 
  * בל־אסיך 1: 
 
 |בַּל־אַסִּיךְ 1|
 |-|
 |בַּל־אַסִיךְ 1|
-|bElE־E'EsEyExE|
+|bal־'asiyxsv|
 
  * האזינו 1: 
 
 |הַאֲזִינוּ 1|
 |-|
 |הַאֲזִינוּ 1|
-|hE'EzEyEnEuE|
+|ha'aziynu|
 
  * בת־מלך 1: 
 
 |בַת־מֶלֶךְ 1|
 |-|
 |בַת־מֶלֶךְ 1|
-|vEtE־EmElExE|
+|vat־melexsv|
 
  * ויכנעו 1: 
 
 |וַיִּכָּנְעוּ 1|
 |-|
 |וַיִכָּנְעוּ 1|
-|wEyEkEnEɣEuE|
+|wayikAnsvɣu|
 
  * וחק 1: 
 
 |וְחֹק 1|
 |-|
 |וְחֹק 1|
-|wEHEqE|
+|wsvHoq|
 
  * דרשתיך 1: 
 
 |דְרַשְׁתִּיךָ 1|
 |-|
 |דְרַשְׁתִיךָ 1|
-|dErEšEtEyExE|
+|dsvrašsvtiyxA|
 
  * עשק 1: 
 
 |עֹשֶׁק 1|
 |-|
 |עֹשֶׁק 1|
-|ɣEšEqE|
+|ɣošeq|
 
  * לבן־מלך 1: 
 
 |לְבֶן־מֶלֶךְ 1|
 |-|
 |לְבֶן־מֶלֶךְ 1|
-|lEvEnE־EmElExE|
+|lsvven־melexsv|
 
  * מה־טוב 1: 
 
 |מַה־טּוֹב 1|
 |-|
 |מַה־טוֹֹב 1|
-|mEhE־ETEwEvE|
+|mah־Twov|
 
  * אחסה־בו 1: 
 
 |אֶחֱסֶה־בּוֹ 1|
 |-|
 |אֶחֱסֶה־בּוֹֹ 1|
-|'EHEsEhE־EbEwE|
+|'eHeseh־bwo|
 
  * המשפילי 1: 
 
 |הַמַּשְׁפִּילִי 1|
 |-|
 |הַמַשְׁפִּילִי 1|
-|hEmEšEpEyElEyE|
+|hamašsvpiyliy|
 
  * ופחד 1: 
 
 |וּפַחַד 1|
 |-|
 |וּפַחַד 1|
-|uEfEHEdE|
+|ufaHad|
 
  * דומי 1: 
 
 |דּוֹמִּי 1|
 |-|
 |דוֹֹמִי 1|
-|dEwEmEyE|
+|dwomiy|
 
  * כל־שוגים 1: 
 
 |כָּל־שׁוֹגִים 1|
 |-|
 |כָּל־שׁוֹֹגִים 1|
-|kElE־EšEwEgEyEmE|
+|kAl־šwogiym|
 
  * ותשקמו 1: 
 
 |וַתַּשְׁקֵמוֹ 1|
 |-|
 |וַתַשְׁקֵמוֹֹ 1|
-|wEtEšEqEmEwE|
+|watašsvqEmwo|
 
  * אברכה 1: 
 
 |אֲבָרֲכָה 1|
 |-|
 |אֲבָרֲכָה 1|
-|'EvErExEhE|
+|'avAraxAh|
 
  * מחטאי 1: 
 
 |מֵחֲטָאָי 1|
 |-|
 |מֵחֲטָאָי 1|
-|mEHETE'EyE|
+|mEHaTA'Ay|
 
  * ואבקשהו 1: 
 
 |וָאֲבַקְשֵׁהוּ 1|
 |-|
 |וָאֲבַקְשֵׁהוּ 1|
-|wE'EvEqEšEhEuE|
+|wA'avaqsvšEhu|
 
  * תתעטף 1: 
 
 |תִּתְעַטָּף 1|
 |-|
 |תִתְעַטָף 1|
-|tEtEɣETEfE|
+|titsvɣaTAf|
 
  * עשיתה 1: 
 
 |עֲשִׂיתָהּ 1|
 |-|
 |עֲשִׂיתָה 1|
-|ɣESEyEtEhE|
+|ɣaSiytAh|
 
  * ונזמרה 1: 
 
 |וּנְזַמְּרָה 1|
 |-|
 |וּנְזַמְרָה 1|
-|uEnEzEmErEhE|
+|unsvzamsvrAh|
 
  * ימעיט 1: 
 
 |יַמְעִיט 1|
 |-|
 |יַמְעִיט 1|
-|yEmEɣEyETE|
+|yamsvɣiyT|
 
  * ועורה 1: 
 
 |וְעוּרָה 1|
 |-|
 |וְעוּרָה 1|
-|wEɣEuErEhE|
+|wsvɣurAh|
 
  * דבש 1: 
 
 |דְּבַשׁ 1|
 |-|
 |דְבַשׁ 1|
-|dEvEšE|
+|dsvvaš|
 
  * לשמרי 1: 
 
 |לְשֹׁמְרֵי 1|
 |-|
 |לְשֹׁמְרֵי 1|
-|lEšEmErEyE|
+|lsvšomsvrEy|
 
  * תוכחות 1: 
 
 |תּוֹכָחוֹת 1|
 |-|
 |תוֹֹכָחוֹֹת 1|
-|tEwExEHEwEtE|
+|twoxAHwot|
 
  * יסעדני 1: 
 
 |יִסְעָדֵנִי 1|
 |-|
 |יִסְעָדֵנִי 1|
-|yEsEɣEdEnEyE|
+|yissvɣAdEniy|
 
  * קשתו 1: 
 
 |קַשְׁתּוֹ 1|
 |-|
 |קַשְׁתוֹֹ 1|
-|qEšEtEwE|
+|qašsvtwo|
 
  * אל־יני 1: 
 
 |אַל־יָנִי 1|
 |-|
 |אַל־יָנִי 1|
-|'ElE־EyEnEyE|
+|'al־yAniy|
 
  * יביאוני 1: 
 
 |יְבִיאוּנִי 1|
 |-|
 |יְבִיאוּנִי 1|
-|yEvEyE'EuEnEyE|
+|ysvviy'uniy|
 
  * שבחי 1: 
 
 |שַׁבְּחִי 1|
 |-|
 |שַׁבְּחִי 1|
-|šEbEHEyE|
+|šabsvHiy|
 
  * הסתר 1: 
 
 |הַסְתֵּר 1|
 |-|
 |הַסְתֵר 1|
-|hEsEtErE|
+|hassvtEr|
 
  * פשעים 1: 
 
 |פֹשְׁעִים 1|
 |-|
 |פֹשְׁעִים 1|
-|fEšEɣEyEmE|
+|fošsvɣiym|
 
  * עמדה 1: 
 
 |עָמְדָה 1|
 |-|
 |עָמְדָה 1|
-|ɣEmEdEhE|
+|ɣAmsvdAh|
 
  * עריצים 1: 
 
 |עָרִיצִים 1|
 |-|
 |עָרִיצִים 1|
-|ɣErEyEcEyEmE|
+|ɣAriyciym|
 
  * את־אישים 1: 
 
 |אֶת־אִישִׁים 1|
 |-|
 |אֶת־אִישִׁים 1|
-|'EtE־E'EyEšEyEmE|
+|'et־'iyšiym|
 
  * ישירו 1: 
 
 |יָשִׁירוּ 1|
 |-|
 |יָשִׁירוּ 1|
-|yEšEyErEuE|
+|yAšiyru|
 
  * נשערה 1: 
 
 |נִשְׂעֲרָה 1|
 |-|
 |נִשְׂעֲרָה 1|
-|nESEɣErEhE|
+|niSsvɣarAh|
 
  * ערכתי 1: 
 
 |עָרַכְתִּי 1|
 |-|
 |עָרַכְתִי 1|
-|ɣErExEtEyE|
+|ɣAraxsvtiy|
 
  * אפונה 1: 
 
 |אָפוּנָה 1|
 |-|
 |אָפוּנָה 1|
-|'EfEuEnEhE|
+|'AfunAh|
 
  * סמוך 1: 
 
 |סָמוּךְ 1|
 |-|
 |סָמוּךְ 1|
-|sEmEuExE|
+|sAmuxsv|
 
  * הט־אזנך 1: 
 
 |הַט־אָזְנְךָ 1|
 |-|
 |הַט־אָזְנְךָ 1|
-|hETE־E'EzEnExE|
+|haT־'AzsvnsvxA|
 
  * תהלת 1: 
 
 |תְּהִלַּת 1|
 |-|
 |תְהִלַת 1|
-|tEhElEtE|
+|tsvhilat|
 
  * חוסים 1: 
 
 |חוֹסִים 1|
 |-|
 |חוֹֹסִים 1|
-|HEwEsEyEmE|
+|Hwosiym|
 
  * כל־חיתו 1: 
 
 |כָּל־חַיְתוֹ 1|
 |-|
 |כָּל־חַיְתוֹֹ 1|
-|kElE־EHEyEtEwE|
+|kAl־Haysvtwo|
 
  * כי־בשו 1: 
 
 |כִּי־בֹשׁוּ 1|
 |-|
 |כִּי־בֹשׁוּ 1|
-|kEyE־EvEšEuE|
+|kiy־vošu|
 
  * ובמשפטי 1: 
 
 |וּבְמִשְׁפָּטַי 1|
 |-|
 |וּבְמִשְׁפָּטַי 1|
-|uEvEmEšEpETEyE|
+|uvsvmišsvpATay|
 
  * באבדון 1: 
 
 |בָּאֲבַדּוֹן 1|
 |-|
 |בָּאֲבַדוֹֹן 1|
-|bE'EvEdEwEnE|
+|bA'avadwon|
 
  * הקטנים 1: 
 
 |הַקְּטַנִּים 1|
 |-|
 |הַקְטַנִים 1|
-|hEqETEnEyEmE|
+|haqsvTaniym|
 
  * ומארצות 1: 
 
 |וּמֵאֲרָצוֹת 1|
 |-|
 |וּמֵאֲרָצוֹֹת 1|
-|uEmE'ErEcEwEtE|
+|umE'arAcwot|
 
  * יזמרך 1: 
 
 |יְזַמֶּרְךָ 1|
 |-|
 |יְזַמֶרְךָ 1|
-|yEzEmErExE|
+|ysvzamersvxA|
 
  * אל־ששנים 1: 
 
 |אֶל־שֹׁשַׁנִּים 1|
 |-|
 |אֶל־שֹׁשַׁנִים 1|
-|'ElE־EšEšEnEyEmE|
+|'el־šošaniym|
 
  * כל־בני־אדם 1: 
 
 |כָל־בְּנֵי־אָדָם 1|
 |-|
 |כָל־בְּנֵי־אָדָם 1|
-|xElE־EbEnEyE־E'EdEmE|
+|xAl־bsvnEy־'AdAm|
 
  * לגזרים 1: 
 
 |לִגְזָרִים 1|
 |-|
 |לִגְזָרִים 1|
-|lEgEzErEyEmE|
+|ligsvzAriym|
 
  * אשרי־האיש 1: 
 
 |אַשְׁרֵי־הָאִישׁ 1|
 |-|
 |אַשְׁרֵי־הָאִישׁ 1|
-|'EšErEyE־EhE'EyEšE|
+|'ašsvrEy־hA'iyš|
 
  * ובאיבי 1: 
 
 |וּבְאֹיְבַי 1|
 |-|
 |וּבְאֹיְבַי 1|
-|uEvE'EyEvEyE|
+|uvsv'oysvvay|
 
  * ירחץ 1: 
 
 |יִרְחַץ 1|
 |-|
 |יִרְחַץ 1|
-|yErEHEcE|
+|yirsvHac|
 
  * יבואו 1: 
 
 |יָבוֹאוּ 1|
 |-|
 |יָבוֹֹאוּ 1|
-|yEvEwE'EuE|
+|yAvwo'u|
 
  * [כחי] 1: 
 
 |[כֹּחִי] 1|
 |-|
 |[כֹּחִי] 1|
-|[EkEHEyE]E|
+|[koHiy]|
 
  * בלע 1: 
 
 |בַּלַּע 1|
 |-|
 |בַּלַע 1|
-|bElEɣE|
+|balaɣ|
 
  * משמועה 1: 
 
 |מִשְּׁמוּעָה 1|
 |-|
 |מִשְׁמוּעָה 1|
-|mEšEmEuEɣEhE|
+|mišsvmuɣAh|
 
  * חיה 1: 
 
 |חִיָּה 1|
 |-|
 |חִיָה 1|
-|HEyEhE|
+|HiyAh|
 
  * כרחם 1: 
 
 |כְּרַחֵם 1|
 |-|
 |כְּרַחֵם 1|
-|kErEHEmE|
+|ksvraHEm|
 
  * סביבותי 1: 
 
 |סְבִיבוֹתַי 1|
 |-|
 |סְבִיבוֹֹתַי 1|
-|sEvEyEvEwEtEyE|
+|ssvviyvwotay|
 
  * רעב 1: 
 
 |רָעָב 1|
 |-|
 |רָעָב 1|
-|rEɣEvE|
+|rAɣAv|
 
  * ויכסו־מים 1: 
 
 |וַיְכַסּוּ־מַיִם 1|
 |-|
 |וַיְכַסוּ־מַיִם 1|
-|wEyExEsEuE־EmEyEmE|
+|waysvxasu־mayim|
 
  * אשמור־[אשמר־] 1: 
 
 |אשמור־[אֶשְׁמָר־] 1|
 |-|
 |אשמור־[אֶשְׁמָר־] 1|
-|'EשEmEwErE־E[E'EšEmErE־E]E|
+|'שmwr־['ešsvmAr־]|
 
  * לא־ישוב 1: 
 
 |לֹא־יָשׁוּב 1|
 |-|
 |לֹא־יָשׁוּב 1|
-|lE'E־EyEšEuEvE|
+|lo'־yAšuv|
 
  * סלו 1: 
 
 |סֹלּוּ 1|
 |-|
 |סֹלוּ 1|
-|sElEuE|
+|solu|
 
  * איננו 1: 
 
 |אֵינֶנּוּ 1|
 |-|
 |אֵינֶנוּ 1|
-|'EyEnEnEuE|
+|'Eynenu|
 
  * יקומו 1: 
 
 |יָקוּמוּ 1|
 |-|
 |יָקוּמוּ 1|
-|yEqEuEmEuE|
+|yAqumu|
 
  * למסך 1: 
 
 |לְמָסָךְ 1|
 |-|
 |לְמָסָךְ 1|
-|lEmEsExE|
+|lsvmAsAxsv|
 
  * בינו־נא 1: 
 
 |בִּינוּ־נָא 1|
 |-|
 |בִּינוּ־נָא 1|
-|bEyEnEuE־EnE'E|
+|biynu־nA'|
 
  * תכינה 1: 
 
 |תְּכִינֶהָ 1|
 |-|
 |תְכִינֶהָ 1|
-|tExEyEnEhE|
+|tsvxiynehA|
 
  * פן־יאמר 1: 
 
 |פֶּן־יֹאמַר 1|
 |-|
 |פֶּן־יֹאמַר 1|
-|pEnE־EyE'EmErE|
+|pen־yo'mar|
 
  * עקלקלותם 1: 
 
 |עַקַלְקַלּוֹתָם 1|
 |-|
 |עַקַלְקַלוֹֹתָם 1|
-|ɣEqElEqElEwEtEmE|
+|ɣaqalsvqalwotAm|
 
  * להבה 1: 
 
 |לֶהָבָה 1|
 |-|
 |לֶהָבָה 1|
-|lEhEvEhE|
+|lehAvAh|
 
  * ואטהר 1: 
 
 |וְאֶטְהָר 1|
 |-|
 |וְאֶטְהָר 1|
-|wE'ETEhErE|
+|wsv'eTsvhAr|
 
  * כמטר 1: 
 
 |כְּמָטָר 1|
 |-|
 |כְּמָטָר 1|
-|kEmETErE|
+|ksvmATAr|
 
  * כחרב 1: 
 
 |כַחֶרֶב 1|
 |-|
 |כַחֶרֶב 1|
-|xEHErEvE|
+|xaHerev|
 
  * גאותו 1: 
 
 |גַּאֲוָתוֹ 1|
 |-|
 |גַאֲוָתוֹֹ 1|
-|gE'EwEtEwE|
+|ga'awAtwo|
 
  * אדלג־שור 1: 
 
 |אֲדַלֶּג־שׁוּר 1|
 |-|
 |אֲדַלֶג־שׁוּר 1|
-|'EdElEgE־EšEuErE|
+|'adaleg־šur|
 
  * קץ 1: 
 
 |קֵץ 1|
 |-|
 |קֵץ 1|
-|qEcE|
+|qEc|
 
  * ויכבדו 1: 
 
 |וִיכַבְּדוּ 1|
 |-|
 |וִיכַבְּדוּ 1|
-|wEyExEbEdEuE|
+|wiyxabsvdu|
 
  * ואל־מכאוב 1: 
 
 |וְאֶל־מַכְאוֹב 1|
 |-|
 |וְאֶל־מַכְאוֹֹב 1|
-|wE'ElE־EmExE'EwEvE|
+|wsv'el־maxsv'wov|
 
  * ולמות 1: 
 
 |וְלַמָּוֶת 1|
 |-|
 |וְלַמָוֶת 1|
-|wElEmEwEtE|
+|wsvlamAwet|
 
  * הרימות 1: 
 
 |הֲרִימוֹתָ 1|
 |-|
 |הֲרִימוֹֹתָ 1|
-|hErEyEmEwEtE|
+|hariymwotA|
 
  * וצהרים 1: 
 
 |וְצָהֳרַיִם 1|
 |-|
 |וְצָהֳרַיִם 1|
-|wEcEhErEyEmE|
+|wsvcAhArayim|
 
  * לאחרים 1: 
 
 |לַאֲחֵרִים 1|
 |-|
 |לַאֲחֵרִים 1|
-|lE'EHErEyEmE|
+|la'aHEriym|
 
  * עם־גבורה 1: 
 
 |עִם־גְּבוּרָה 1|
 |-|
 |עִם־גְבוּרָה 1|
-|ɣEmE־EgEvEuErEhE|
+|ɣim־gsvvurAh|
 
  * ובצדקתך 1: 
 
 |וּבְצִדְקָתְךָ 1|
 |-|
 |וּבְצִדְקָתְךָ 1|
-|uEvEcEdEqEtExE|
+|uvsvcidsvqAtsvxA|
 
  * בדמעה 1: 
 
 |בְּדִמְעָה 1|
 |-|
 |בְּדִמְעָה 1|
-|bEdEmEɣEhE|
+|bsvdimsvɣAh|
 
  * ישקוני 1: 
 
 |יַשְׁקוּנִי 1|
 |-|
 |יַשְׁקוּנִי 1|
-|yEšEqEuEnEyE|
+|yašsvquniy|
 
  * ברצון 1: 
 
 |בִּרְצוֹן 1|
 |-|
 |בִּרְצוֹֹן 1|
-|bErEcEwEnE|
+|birsvcwon|
 
  * וחומץ 1: 
 
 |וְחוֹמֵץ 1|
 |-|
 |וְחוֹֹמֵץ 1|
-|wEHEwEmEcE|
+|wsvHwomEc|
 
  * רצה 1: 
 
 |רְצֵה 1|
 |-|
 |רְצֵה 1|
-|rEcEhE|
+|rsvcEh|
 
  * עזים 1: 
 
 |עַזִים 1|
 |-|
 |עַזִים 1|
-|ɣEzEyEmE|
+|ɣaziym|
 
  * ולא־רמו 1: 
 
 |וְלֹא־רָמוּ 1|
 |-|
 |וְלֹא־רָמוּ 1|
-|wElE'E־ErEmEuE|
+|wsvlo'־rAmu|
 
  * והיה 1: 
 
 |וְהָיָה 1|
 |-|
 |וְהָיָה 1|
-|wEhEyEhE|
+|wsvhAyAh|
 
  * מכפירים 1: 
 
 |מִכְּפִירִים 1|
 |-|
 |מִכְּפִירִים 1|
-|mEkEfEyErEyEmE|
+|miksvfiyriym|
 
  * וצנה 1: 
 
 |וְצִנָּה 1|
 |-|
 |וְצִנָה 1|
-|wEcEnEhE|
+|wsvcinAh|
 
  * נשבעה 1: 
 
 |נִשְׂבְּעָה 1|
 |-|
 |נִשְׂבְּעָה 1|
-|nESEbEɣEhE|
+|niSsvbsvɣAh|
 
  * על־בני־אדם 1: 
 
 |עַל־בְּנֵי־אָדָם 1|
 |-|
 |עַל־בְּנֵי־אָדָם 1|
-|ɣElE־EbEnEyE־E'EdEmE|
+|ɣal־bsvnEy־'AdAm|
 
  * ויהפך 1: 
 
 |וַיַּהֲפֹךְ 1|
 |-|
 |וַיַהֲפֹךְ 1|
-|wEyEhEfExE|
+|wayahafoxsv|
 
  * ויושב 1: 
 
 |וַיּוֹשֶׁב 1|
 |-|
 |וַיוֹֹשֶׁב 1|
-|wEyEwEšEvE|
+|waywošev|
 
  * יודיע 1: 
 
 |יוֹדִיעַ 1|
 |-|
 |יוֹֹדִיעַ 1|
-|yEwEdEyEɣE|
+|ywodiyɣa|
 
  * יפזר 1: 
 
 |יְפַזֵּר 1|
 |-|
 |יְפַזֵר 1|
-|yEfEzErE|
+|ysvfazEr|
 
  * הצילם 1: 
 
 |הִצִּילָם 1|
 |-|
 |הִצִילָם 1|
-|hEcEyElEmE|
+|hiciylAm|
 
  * לשרים 1: 
 
 |לְשָׂרִים 1|
 |-|
 |לְשָׂרִים 1|
-|lESErEyEmE|
+|lsvSAriym|
 
  * פניהם 1: 
 
 |פְנֵיהֶם 1|
 |-|
 |פְנֵיהֶם 1|
-|fEnEyEhEmE|
+|fsvnEyhem|
 
  * אזעק 1: 
 
 |אֶזְעָק 1|
 |-|
 |אֶזְעָק 1|
-|'EzEɣEqE|
+|'ezsvɣAq|
 
  * [מגדיל] 1: 
 
 |[מַגְדִּיל] 1|
 |-|
 |[מַגְדִיל] 1|
-|[EmEgEdEyElE]E|
+|[magsvdiyl]|
 
  * עברה־בו 1: 
 
 |עָבְרָה־בּוֹ 1|
 |-|
 |עָבְרָה־בּוֹֹ 1|
-|ɣEvErEhE־EbEwE|
+|ɣAvsvrAh־bwo|
 
  * ונשאם 1: 
 
 |וְנַשְּׂאֵם 1|
 |-|
 |וְנַשְׂאֵם 1|
-|wEnESE'EmE|
+|wsvnaSsv'Em|
 
  * אכזב 1: 
 
 |אֲכַזֵּב 1|
 |-|
 |אֲכַזֵב 1|
-|'ExEzEvE|
+|'axazEv|
 
  * גברתה 1: 
 
 |גְּבִרְתָּהּ 1|
 |-|
 |גְבִרְתָה 1|
-|gEvErEtEhE|
+|gsvvirsvtAh|
 
  * המצמיח 1: 
 
 |הַמַּצְמִיחַ 1|
 |-|
 |הַמַצְמִיחַ 1|
-|hEmEcEmEyEHE|
+|hamacsvmiyHa|
 
  * קרדמות 1: 
 
 |קַרְדֻּמּוֹת 1|
 |-|
 |קַרְדֻמוֹֹת 1|
-|qErEdEmEwEtE|
+|qarsvdumwot|
 
  * חשק 1: 
 
 |חָשַׁק 1|
 |-|
 |חָשַׁק 1|
-|HEšEqE|
+|HAšaq|
 
  * ולרשע 1: 
 
 |וְלָרָשָׁע 1|
 |-|
 |וְלָרָשָׁע 1|
-|wElErEšEɣE|
+|wsvlArAšAɣ|
 
  * מה־ידבר 1: 
 
 |מַה־יְדַבֵּר 1|
 |-|
 |מַה־יְדַבֵּר 1|
-|mEhE־EyEdEbErE|
+|mah־ysvdabEr|
 
  * במעון 1: 
 
 |בִּמְעוֹן 1|
 |-|
 |בִּמְעוֹֹן 1|
-|bEmEɣEwEnE|
+|bimsvɣwon|
 
  * חישה 1: 
 
 |חישה 1|
 |-|
 |חישה 1|
-|HEyEשEhE|
+|Hyשh|
 
  * משפטך 1: 
 
 |מִשְׁפָּטֶךָ 1|
 |-|
 |מִשְׁפָּטֶךָ 1|
-|mEšEpETExE|
+|mišsvpATexA|
 
  * כיונה 1: 
 
 |כַּיּוֹנָה 1|
 |-|
 |כַּיוֹֹנָה 1|
-|kEyEwEnEhE|
+|kaywonAh|
 
  * יצר 1: 
 
 |יֹצֵר 1|
 |-|
 |יֹצֵר 1|
-|yEcErE|
+|yocEr|
 
  * בהררי־קדש 1: 
 
 |בְּהַרְרֵי־קֹדֶשׁ 1|
 |-|
 |בְּהַרְרֵי־קֹדֶשׁ 1|
-|bEhErErEyE־EqEdEšE|
+|bsvharsvrEy־qodeš|
 
  * לא־ישלחו 1: 
 
 |לֹא־יִשְׁלְחוּ 1|
 |-|
 |לֹא־יִשְׁלְחוּ 1|
-|lE'E־EyEšElEHEuE|
+|lo'־yišsvlsvHu|
 
  * התעיבו 1: 
 
 |הִתְעִיבוּ 1|
 |-|
 |הִתְעִיבוּ 1|
-|hEtEɣEyEvEuE|
+|hitsvɣiyvu|
 
  * כיהוה 1: 
 
 |כַּיהוָה 1|
 |-|
 |כַּיהוָה 1|
-|kEyEhEwEhE|
+|kayhwAh|
 
  * חסידי 1: 
 
 |חֲסִידָי 1|
 |-|
 |חֲסִידָי 1|
-|HEsEyEdEyE|
+|HasiydAy|
 
  * לכל־תחלאיכי 1: 
 
 |לְכָל־תַּחֲלֻאָיְכִי 1|
 |-|
 |לְכָל־תַחֲלֻאָיְכִי 1|
-|lExElE־EtEHElE'EyExEyE|
+|lsvxAl־taHalu'Aysvxiy|
 
  * לכוכבים 1: 
 
 |לַכּוֹכָבִים 1|
 |-|
 |לַכּוֹֹכָבִים 1|
-|lEkEwExEvEyEmE|
+|lakwoxAviym|
 
  * וארחץ 1: 
 
 |וָאֶרְחַץ 1|
 |-|
 |וָאֶרְחַץ 1|
-|wE'ErEHEcE|
+|wA'ersvHac|
 
  * כל־ירדי 1: 
 
 |כָּל־יֹרְדֵי 1|
 |-|
 |כָּל־יֹרְדֵי 1|
-|kElE־EyErEdEyE|
+|kAl־yorsvdEy|
 
  * ולחצנו 1: 
 
 |וְלַחֲצֵנוּ 1|
 |-|
 |וְלַחֲצֵנוּ 1|
-|wElEHEcEnEuE|
+|wsvlaHacEnu|
 
  * בקעת 1: 
 
 |בָקַעְתָּ 1|
 |-|
 |בָקַעְתָ 1|
-|vEqEɣEtE|
+|vAqaɣsvtA|
 
  * מעצר 1: 
 
 |מֵעֹצֶר 1|
 |-|
 |מֵעֹצֶר 1|
-|mEɣEcErE|
+|mEɣocer|
 
  * עבתימו 1: 
 
 |עֲבֹתֵימוֹ 1|
 |-|
 |עֲבֹתֵימוֹֹ 1|
-|ɣEvEtEyEmEwE|
+|ɣavotEymwo|
 
  * להימן 1: 
 
 |לְהֵימָן 1|
 |-|
 |לְהֵימָן 1|
-|lEhEyEmEnE|
+|lsvhEymAn|
 
  * השלח 1: 
 
 |הַשֹּׁלֵחַ 1|
 |-|
 |הַשֹׁלֵחַ 1|
-|hEšElEHE|
+|hašolEHa|
 
  * על־פניך 1: 
 
 |עַל־פָּנֶיךָ 1|
 |-|
 |עַל־פָּנֶיךָ 1|
-|ɣElE־EpEnEyExE|
+|ɣal־pAneyxA|
 
  * ונפש 1: 
 
 |וְנֶפֶשׁ 1|
 |-|
 |וְנֶפֶשׁ 1|
-|wEnEfEšE|
+|wsvnefeš|
 
  * בעבדיו 1: 
 
 |בַּעֲבָדָיו 1|
 |-|
 |בַּעֲבָדָיו 1|
-|bEɣEvEdEyEwE|
+|baɣavAdAyw|
 
  * במלחמה 1: 
 
 |בַּמִּלְחָמָה 1|
 |-|
 |בַּמִלְחָמָה 1|
-|bEmElEHEmEhE|
+|bamilsvHAmAh|
 
  * אל־כל־מצותיך 1: 
 
 |אֶל־כָּל־מִצְוֺתֶיךָ 1|
 |-|
 |אֶל־כָּל־מִצְוֺתֶיךָ 1|
-|'ElE־EkElE־EmEcEwEtEyExE|
+|'el־kAl־micsvw_o_teyxA|
 
  * זמם 1: 
 
 |זֹמֵם 1|
 |-|
 |זֹמֵם 1|
-|zEmEmE|
+|zomEm|
 
  * ההלכים 1: 
 
 |הַהֹלְכִים 1|
 |-|
 |הַהֹלְכִים 1|
-|hEhElExEyEmE|
+|haholsvxiym|
 
  * ויוכיחני 1: 
 
 |וְיוֹכִיחֵנִי 1|
 |-|
 |וְיוֹֹכִיחֵנִי 1|
-|wEyEwExEyEHEnEyE|
+|wsvywoxiyHEniy|
 
  * להתעולל 1: 
 
 |לְהִתְעוֹלֵל 1|
 |-|
 |לְהִתְעוֹֹלֵל 1|
-|lEhEtEɣEwElElE|
+|lsvhitsvɣwolEl|
 
  * במצולה 1: 
 
 |בִּמְצוּלָה 1|
 |-|
 |בִּמְצוּלָה 1|
-|bEmEcEuElEhE|
+|bimsvculAh|
 
  * אשר־אהב 1: 
 
 |אֲשֶׁר־אָהֵב 1|
 |-|
 |אֲשֶׁר־אָהֵב 1|
-|'EšErE־E'EhEvE|
+|'ašer־'AhEv|
 
  * נסכיהם 1: 
 
 |נִסְכֵּיהֶם 1|
 |-|
 |נִסְכֵּיהֶם 1|
-|nEsEkEyEhEmE|
+|nissvkEyhem|
 
  * מעטים 1: 
 
 |מְעַטִּים 1|
 |-|
 |מְעַטִים 1|
-|mEɣETEyEmE|
+|msvɣaTiym|
 
  * הצור 1: 
 
 |הַצּוּר 1|
 |-|
 |הַצוּר 1|
-|hEcEuErE|
+|hacur|
 
  * יחתך 1: 
 
 |יַחְתְּךָ 1|
 |-|
 |יַחְתְךָ 1|
-|yEHEtExE|
+|yaHsvtsvxA|
 
  * מזמה 1: 
 
 |מְזִמָּה 1|
 |-|
 |מְזִמָה 1|
-|mEzEmEhE|
+|msvzimAh|
 
  * ומשלמי 1: 
 
 |וּמְשַׁלְּמֵי 1|
 |-|
 |וּמְשַׁלְמֵי 1|
-|uEmEšElEmEyE|
+|umsvšalsvmEy|
 
  * המקרה 1: 
 
 |הַמְקָרֶה 1|
 |-|
 |הַמְקָרֶה 1|
-|hEmEqErEhE|
+|hamsvqAreh|
 
  * נעלה 1: 
 
 |נַעֲלָה 1|
 |-|
 |נַעֲלָה 1|
-|nEɣElEhE|
+|naɣalAh|
 
  * בצדקה 1: 
 
 |בִּצְדָקָה 1|
 |-|
 |בִּצְדָקָה 1|
-|bEcEdEqEhE|
+|bicsvdAqAh|
 
  * וזקניו 1: 
 
 |וּזְקֵנָיו 1|
 |-|
 |וּזְקֵנָיו 1|
-|uEzEqEnEyEwE|
+|uzsvqEnAyw|
 
  * אך־חשך 1: 
 
 |אַךְ־חֹשֶׁךְ 1|
 |-|
 |אַךְ־חֹשֶׁךְ 1|
-|'ExE־EHEšExE|
+|'axsv־Hošexsv|
 
  * למשכנתיו 1: 
 
 |לְמִשְׁכְּנֹתָיו 1|
 |-|
 |לְמִשְׁכְּנֹתָיו 1|
-|lEmEšEkEnEtEyEwE|
+|lsvmišsvksvnotAyw|
 
  * עונו 1: 
 
 |עֲוֺנוֹ 1|
 |-|
 |עֲוֺנוֹֹ 1|
-|ɣEwEnEwE|
+|ɣaw_o_nwo|
 
  * חברים 1: 
 
 |חֲבָרִים 1|
 |-|
 |חֲבָרִים 1|
-|HEvErEyEmE|
+|HavAriym|
 
  * פשעינו 1: 
 
 |פְּשָׁעֵינוּ 1|
 |-|
 |פְּשָׁעֵינוּ 1|
-|pEšEɣEyEnEuE|
+|psvšAɣEynu|
 
  * לא־נכון 1: 
 
 |לֹא־נָכוֹן 1|
 |-|
 |לֹא־נָכוֹֹן 1|
-|lE'E־EnExEwEnE|
+|lo'־nAxwon|
 
  * בכל־דרכיך 1: 
 
 |בְּכָל־דְּרָכֶיךָ 1|
 |-|
 |בְּכָל־דְרָכֶיךָ 1|
-|bExElE־EdErExEyExE|
+|bsvxAl־dsvrAxeyxA|
 
  * אל־ינום 1: 
 
 |אַל־יָנוּם 1|
 |-|
 |אַל־יָנוּם 1|
-|'ElE־EyEnEuEmE|
+|'al־yAnum|
 
  * עד־מבואו 1: 
 
 |עַד־מְבוֹאוֹ 1|
 |-|
 |עַד־מְבוֹֹאוֹֹ 1|
-|ɣEdE־EmEvEwE'EwE|
+|ɣad־msvvwo'wo|
 
  * מכיר 1: 
 
 |מַכִּיר 1|
 |-|
 |מַכִּיר 1|
-|mEkEyErE|
+|makiyr|
 
  * תרקדו 1: 
 
 |תִּרְקְדוּ 1|
 |-|
 |תִרְקְדוּ 1|
-|tErEqEdEuE|
+|tirsvqsvdu|
 
  * דליתני 1: 
 
 |דִלִּיתָנִי 1|
 |-|
 |דִלִיתָנִי 1|
-|dElEyEtEnEyE|
+|diliytAniy|
 
  * רם 1: 
 
 |רָם 1|
 |-|
 |רָם 1|
-|rEmE|
+|rAm|
 
  * תדברו 1: 
 
 |תְּדַבְּרוּ 1|
 |-|
 |תְדַבְּרוּ 1|
-|tEdEbErEuE|
+|tsvdabsvru|
 
  * ובצלעי 1: 
 
 |וּבְצַלְעִי 1|
 |-|
 |וּבְצַלְעִי 1|
-|uEvEcElEɣEyE|
+|uvsvcalsvɣiy|
 
  * והקיצה 1: 
 
 |וְהָקִיצָה 1|
 |-|
 |וְהָקִיצָה 1|
-|wEhEqEyEcEhE|
+|wsvhAqiycAh|
 
  * מקור 1: 
 
 |מְקוֹר 1|
 |-|
 |מְקוֹֹר 1|
-|mEqEwErE|
+|msvqwor|
 
  * תענני 1: 
 
 |תַעֲנֵנִי 1|
 |-|
 |תַעֲנֵנִי 1|
-|tEɣEnEnEyE|
+|taɣanEniy|
 
  * הפלה 1: 
 
 |הַפְלֵה 1|
 |-|
 |הַפְלֵה 1|
-|hEfElEhE|
+|hafsvlEh|
 
  * יהי־לבי 1: 
 
 |יְהִי־לִבִּי 1|
 |-|
 |יְהִי־לִבִּי 1|
-|yEhEyE־ElEbEyE|
+|ysvhiy־libiy|
 
  * שנאתים 1: 
 
 |שְׂנֵאתִים 1|
 |-|
 |שְׂנֵאתִים 1|
-|SEnE'EtEyEmE|
+|SsvnE'tiym|
 
  * לבאר 1: 
 
 |לִבְאֵר 1|
 |-|
 |לִבְאֵר 1|
-|lEvE'ErE|
+|livsv'Er|
 
  * ולשונו 1: 
 
 |וּלְשׁוֹנוֹ 1|
 |-|
 |וּלְשׁוֹֹנוֹֹ 1|
-|uElEšEwEnEwE|
+|ulsvšwonwo|
 
  * במועצותיהם 1: 
 
 |בְּמוֹעֲצוֹתֵיהֶם 1|
 |-|
 |בְּמוֹֹעֲצוֹֹתֵיהֶם 1|
-|bEmEwEɣEcEwEtEyEhEmE|
+|bsvmwoɣacwotEyhem|
 
  * מיחל 1: 
 
 |מְיַחֵל 1|
 |-|
 |מְיַחֵל 1|
-|mEyEHElE|
+|msvyaHEl|
 
  * נחת 1: 
 
 |נַחֵת 1|
 |-|
 |נַחֵת 1|
-|nEHEtE|
+|naHEt|
 
  * עניתם 1: 
 
 |עֲנִיתָם 1|
 |-|
 |עֲנִיתָם 1|
-|ɣEnEyEtEmE|
+|ɣaniytAm|
 
  * ככוס 1: 
 
 |כְּכוֹס 1|
 |-|
 |כְּכוֹֹס 1|
-|kExEwEsE|
+|ksvxwos|
 
  * וגאלני 1: 
 
 |וּגְאָלֵנִי 1|
 |-|
 |וּגְאָלֵנִי 1|
-|uEgE'ElEnEyE|
+|ugsv'AlEniy|
 
  * שגג 1: 
 
 |שֹׁגֵג 1|
 |-|
 |שֹׁגֵג 1|
-|šEgEgE|
+|šogEg|
 
  * אם־אסק 1: 
 
 |אִם־אֶסַּק 1|
 |-|
 |אִם־אֶסַק 1|
-|'EmE־E'EsEqE|
+|'im־'esaq|
 
  * הלמתים 1: 
 
 |הֲלַמֵּתִים 1|
 |-|
 |הֲלַמֵתִים 1|
-|hElEmEtEyEmE|
+|halamEtiym|
 
  * יעלצו 1: 
 
 |יַעַלְצוּ 1|
 |-|
 |יַעַלְצוּ 1|
-|yEɣElEcEuE|
+|yaɣalsvcu|
 
  * כרובים 1: 
 
 |כְּרוּבִים 1|
 |-|
 |כְּרוּבִים 1|
-|kErEuEvEyEmE|
+|ksvruviym|
 
  * פן־יאנף 1: 
 
 |פֶּן־יֶאֱנַף 1|
 |-|
 |פֶּן־יֶאֱנַף 1|
-|pEnE־EyE'EnEfE|
+|pen־ye'enaf|
 
  * ויעלז 1: 
 
 |וַיַּעֲלֹז 1|
 |-|
 |וַיַעֲלֹז 1|
-|wEyEɣElEzE|
+|wayaɣaloz|
 
  * ורשתו 1: 
 
 |וְרִשְׁתּוֹ 1|
 |-|
 |וְרִשְׁתוֹֹ 1|
-|wErEšEtEwE|
+|wsvrišsvtwo|
 
  * יקבץ־און 1: 
 
 |יִקְבָּץ־אָוֶן 1|
 |-|
 |יִקְבָּץ־אָוֶן 1|
-|yEqEbEcE־E'EwEnE|
+|yiqsvbAc־'Awen|
 
  * בעדותיך 1: 
 
 |בְעֵדְוֺתֶיךָ 1|
 |-|
 |בְעֵדְוֺתֶיךָ 1|
-|vEɣEdEwEtEyExE|
+|vsvɣEdsvw_o_teyxA|
 
  * ויצו 1: 
 
 |וַיְצַו 1|
 |-|
 |וַיְצַו 1|
-|wEyEcEwE|
+|waysvcaw|
 
  * שגמלת 1: 
 
 |שֶׁגָּמַלְתְּ 1|
 |-|
 |שֶׁגָמַלְתְ 1|
-|šEgEmElEtE|
+|šegAmalsvtsv|
 
  * ינתק 1: 
 
 |יְנַתֵּק 1|
 |-|
 |יְנַתֵק 1|
-|yEnEtEqE|
+|ysvnatEq|
 
  * בזה 1: 
 
 |בָזָה 1|
 |-|
 |בָזָה 1|
-|vEzEhE|
+|vAzAh|
 
  * בטננו 1: 
 
 |בִּטְנֵנוּ 1|
 |-|
 |בִּטְנֵנוּ 1|
-|bETEnEnEuE|
+|biTsvnEnu|
 
  * אל־כל־מעשיהם 1: 
 
 |אֶל־כָּל־מַעֲשֵׂיהֶם 1|
 |-|
 |אֶל־כָּל־מַעֲשֵׂיהֶם 1|
-|'ElE־EkElE־EmEɣESEyEhEmE|
+|'el־kAl־maɣaSEyhem|
 
  * ובקצה 1: 
 
 |וּבִקְצֵה 1|
 |-|
 |וּבִקְצֵה 1|
-|uEvEqEcEhE|
+|uviqsvcEh|
 
  * ותנחת 1: 
 
 |וַתִּנְחַת 1|
 |-|
 |וַתִנְחַת 1|
-|wEtEnEHEtE|
+|watinsvHat|
 
  * ובישראל 1: 
 
 |וּבְיִשְׂרָאֵל 1|
 |-|
 |וּבְיִשְׂרָאֵל 1|
-|uEvEyESErE'ElE|
+|uvsvyiSsvrA'El|
 
  * ומוסרותיהם 1: 
 
 |וּמוֹסְרוֹתֵיהֶם 1|
 |-|
 |וּמוֹֹסְרוֹֹתֵיהֶם 1|
-|uEmEwEsErEwEtEyEhEmE|
+|umwossvrwotEyhem|
 
  * דרך־אמונה 1: 
 
 |דֶּרֶךְ־אֱמוּנָה 1|
 |-|
 |דֶרֶךְ־אֱמוּנָה 1|
-|dErExE־E'EmEuEnEhE|
+|derexsv־'emunAh|
 
  * ונדכה 1: 
 
 |וְנִדְכֶּה 1|
 |-|
 |וְנִדְכֶּה 1|
-|wEnEdEkEhE|
+|wsvnidsvkeh|
 
  * מבלעדי 1: 
 
 |מִבַּלְעֲדֵי 1|
 |-|
 |מִבַּלְעֲדֵי 1|
-|mEbElEɣEdEyE|
+|mibalsvɣadEy|
 
  * ישיח 1: 
 
 |יָשִׂיחַ 1|
 |-|
 |יָשִׂיחַ 1|
-|yESEyEHE|
+|yASiyHa|
 
  * דכית 1: 
 
 |דִּכִּיתָ 1|
 |-|
 |דִכִּיתָ 1|
-|dEkEyEtE|
+|dikiytA|
 
  * השדה 1: 
 
 |הַשָּׂדֶה 1|
 |-|
 |הַשָׂדֶה 1|
-|hESEdEhE|
+|haSAdeh|
 
  * מטה־עזך 1: 
 
 |מַטֵּה־עֻזְּךָ 1|
 |-|
 |מַטֵה־עֻזְךָ 1|
-|mETEhE־EɣEzExE|
+|maTEh־ɣuzsvxA|
 
  * הבישות 1: 
 
 |הֱבִישׁוֹתָ 1|
 |-|
 |הֱבִישׁוֹֹתָ 1|
-|hEvEyEšEwEtE|
+|heviyšwotA|
 
  * יבאוני 1: 
 
 |יְבֹאוּנִי 1|
 |-|
 |יְבֹאוּנִי 1|
-|yEvE'EuEnEyE|
+|ysvvo'uniy|
 
  * צופים 1: 
 
 |צוּפִים 1|
 |-|
 |צוּפִים 1|
-|cEuEfEyEmE|
+|cufiym|
 
  * ואספר 1: 
 
 |וַאֲסַפֵּר 1|
 |-|
 |וַאֲסַפֵּר 1|
-|wE'EsEpErE|
+|wa'asapEr|
 
  * ותבלע 1: 
 
 |וַתִּבְלַע 1|
 |-|
 |וַתִבְלַע 1|
-|wEtEvElEɣE|
+|wativsvlaɣ|
 
  * תזכה 1: 
 
 |תִּזְכֶּה 1|
 |-|
 |תִזְכֶּה 1|
-|tEzEkEhE|
+|tizsvkeh|
 
  * עבדים 1: 
 
 |עֲבָדִים 1|
 |-|
 |עֲבָדִים 1|
-|ɣEvEdEyEmE|
+|ɣavAdiym|
 
  * תרננה 1: 
 
 |תְּרַנֵּנָּה 1|
 |-|
 |תְרַנֵנָה 1|
-|tErEnEnEhE|
+|tsvranEnAh|
 
  * תסיע 1: 
 
 |תַּסִּיעַ 1|
 |-|
 |תַסִיעַ 1|
-|tEsEyEɣE|
+|tasiyɣa|
 
  * על־ציון 1: 
 
 |עַל־צִיּוֹן 1|
 |-|
 |עַל־צִיוֹֹן 1|
-|ɣElE־EcEyEwEnE|
+|ɣal־ciywon|
 
  * שירה 1: 
 
 |שירה 1|
 |-|
 |שירה 1|
-|שEyErEhE|
+|שyrh|
 
  * ביד־אויב 1: 
 
 |בְּיַד־אוֹיֵב 1|
 |-|
 |בְּיַד־אוֹֹיֵב 1|
-|bEyEdE־E'EwEyEvE|
+|bsvyad־'woyEv|
 
  * על־כרוב 1: 
 
 |עַל־כְּרוּב 1|
 |-|
 |עַל־כְּרוּב 1|
-|ɣElE־EkErEuEvE|
+|ɣal־ksvruv|
 
  * מכותם 1: 
 
 |מַכּוֹתָם 1|
 |-|
 |מַכּוֹֹתָם 1|
-|mEkEwEtEmE|
+|makwotAm|
 
  * יבחר 1: 
 
 |יִבְחָר 1|
 |-|
 |יִבְחָר 1|
-|yEvEHErE|
+|yivsvHAr|
 
  * וירא 1: 
 
 |וַיַּרְא 1|
 |-|
 |וַיַרְא 1|
-|wEyErE'E|
+|wayarsv'|
 
  * נעשו 1: 
 
 |נַעֲשׂוּ 1|
 |-|
 |נַעֲשׂוּ 1|
-|nEɣESEuE|
+|naɣaSu|
 
  * לטובה 1: 
 
 |לְטוֹבָה 1|
 |-|
 |לְטוֹֹבָה 1|
-|lETEwEvEhE|
+|lsvTwovAh|
 
  * מקימי 1: 
 
 |מְקִימִי 1|
 |-|
 |מְקִימִי 1|
-|mEqEyEmEyE|
+|msvqiymiy|
 
  * התהללו 1: 
 
 |הִתְהַלְלוּ 1|
 |-|
 |הִתְהַלְלוּ 1|
-|hEtEhElElEuE|
+|hitsvhalsvlu|
 
  * על־ימינו 1: 
 
 |עַל־יְמִינוֹ 1|
 |-|
 |עַל־יְמִינוֹֹ 1|
-|ɣElE־EyEmEyEnEwE|
+|ɣal־ysvmiynwo|
 
  * ומאנשי 1: 
 
 |וּמֵאַנְשֵׁי 1|
 |-|
 |וּמֵאַנְשֵׁי 1|
-|uEmE'EnEšEyE|
+|umE'ansvšEy|
 
  * ועדותיו 1: 
 
 |וְעֵדוֹתָיו 1|
 |-|
 |וְעֵדוֹֹתָיו 1|
-|wEɣEdEwEtEyEwE|
+|wsvɣEdwotAyw|
 
  * למעלות 1: 
 
 |לַמַּעֲלוֹת 1|
 |-|
 |לַמַעֲלוֹֹת 1|
-|lEmEɣElEwEtE|
+|lamaɣalwot|
 
  * ]יבשו 1: 
 
 |]יֵבֹשׁוּ 1|
 |-|
 |]יֵבֹשׁוּ 1|
-|]EyEvEšEuE|
+|]yEvošu|
 
  * כל־בגדתיך 1: 
 
 |כָּל־בִּגְדֹתֶיךָ 1|
 |-|
 |כָּל־בִּגְדֹתֶיךָ 1|
-|kElE־EbEgEdEtEyExE|
+|kAl־bigsvdoteyxA|
 
  * עדניך 1: 
 
 |עֲדָנֶיךָ 1|
 |-|
 |עֲדָנֶיךָ 1|
-|ɣEdEnEyExE|
+|ɣadAneyxA|
 
  * וכי 1: 
 
 |וְכִי 1|
 |-|
 |וְכִי 1|
-|wExEyE|
+|wsvxiy|
 
  * לשבורי 1: 
 
 |לִשְׁבוּרֵי 1|
 |-|
 |לִשְׁבוּרֵי 1|
-|lEšEvEuErEyE|
+|lišsvvurEy|
 
  * בבריתו 1: 
 
 |בִּבְרִיתוֹ 1|
 |-|
 |בִּבְרִיתוֹֹ 1|
-|bEvErEyEtEwE|
+|bivsvriytwo|
 
  * סר 1: 
 
 |סָר 1|
 |-|
 |סָר 1|
-|sErE|
+|sAr|
 
  * דבר־יהוה 1: 
 
 |דְּבַר־יְהוָה 1|
 |-|
 |דְבַר־יְהוָה 1|
-|dEvErE־EyEhEwEhE|
+|dsvvar־ysvhwAh|
 
  * ונפל 1: 
 
 |וְנָפַל 1|
 |-|
 |וְנָפַל 1|
-|wEnEfElE|
+|wsvnAfal|
 
  * ויפילם 1: 
 
 |וַיַּפִּילֵם 1|
 |-|
 |וַיַפִּילֵם 1|
-|wEyEpEyElEmE|
+|wayapiylEm|
 
  * ויוציאם 1: 
 
 |וַיּוֹצִיאֵם 1|
 |-|
 |וַיוֹֹצִיאֵם 1|
-|wEyEwEcEyE'EmE|
+|waywociy'Em|
 
  * ונבזה 1: 
 
 |וְנִבְזֶה 1|
 |-|
 |וְנִבְזֶה 1|
-|wEnEvEzEhE|
+|wsvnivsvzeh|
 
  * עריך 1: 
 
 |עָרֶיךָ 1|
 |-|
 |עָרֶיךָ 1|
-|ɣErEyExE|
+|ɣAreyxA|
 
  * הללנו 1: 
 
 |הִלַּלְנוּ 1|
 |-|
 |הִלַלְנוּ 1|
-|hElElEnEuE|
+|hilalsvnu|
 
  * כי־יודע 1: 
 
 |כִּי־יוֹדֵעַ 1|
 |-|
 |כִּי־יוֹֹדֵעַ 1|
-|kEyE־EyEwEdEɣE|
+|kiy־ywodEɣa|
 
  * ונפשו 1: 
 
 |וְנַפְשׁוֹ 1|
 |-|
 |וְנַפְשׁוֹֹ 1|
-|wEnEfEšEwE|
+|wsvnafsvšwo|
 
  * בגבורה 1: 
 
 |בִּגְבוּרָה 1|
 |-|
 |בִּגְבוּרָה 1|
-|bEgEvEuErEhE|
+|bigsvvurAh|
 
  * שבי 1: 
 
 |שֶּׁבִי 1|
 |-|
 |שֶׁבִי 1|
-|šEvEyE|
+|ševiy|
 
  * נשפכתי 1: 
 
 |נִשְׁפַּכְתִּי 1|
 |-|
 |נִשְׁפַּכְתִי 1|
-|nEšEpExEtEyE|
+|nišsvpaxsvtiy|
 
  * יתענו 1: 
 
 |יִתְעַנּוּ 1|
 |-|
 |יִתְעַנוּ 1|
-|yEtEɣEnEuE|
+|yitsvɣanu|
 
  * אל־אל 1: 
 
 |אֶל־אֵל 1|
 |-|
 |אֶל־אֵל 1|
-|'ElE־E'ElE|
+|'el־'El|
 
  * שתים־זו 1: 
 
 |שְׁתַּיִם־זוּ 1|
 |-|
 |שְׁתַיִם־זוּ 1|
-|šEtEyEmE־EzEuE|
+|šsvtayim־zu|
 
  * רעם 1: 
 
 |רַעַם 1|
 |-|
 |רַעַם 1|
-|rEɣEmE|
+|raɣam|
 
  * בעבתים 1: 
 
 |בַּעֲבֹתִים 1|
 |-|
 |בַּעֲבֹתִים 1|
-|bEɣEvEtEyEmE|
+|baɣavotiym|
 
  * מכל־אלהים 1: 
 
 |מִכָּל־אֱלֹהִים 1|
 |-|
 |מִכָּל־אֱלֹהִים 1|
-|mEkElE־E'ElEhEyEmE|
+|mikAl־'elohiym|
 
  * על־און 1: 
 
 |עַל־אָוֶן 1|
 |-|
 |עַל־אָוֶן 1|
-|ɣElE־E'EwEnE|
+|ɣal־'Awen|
 
  * ישלמוני 1: 
 
 |יְשַׁלְּמוּנִי 1|
 |-|
 |יְשַׁלְמוּנִי 1|
-|yEšElEmEuEnEyE|
+|ysvšalsvmuniy|
 
  * זכר־אני 1: 
 
 |זְכָר־אֲנִי 1|
 |-|
 |זְכָר־אֲנִי 1|
-|zExErE־E'EnEyE|
+|zsvxAr־'aniy|
 
  * מן־קול 1: 
 
 |מִן־קוֹל 1|
 |-|
 |מִן־קוֹֹל 1|
-|mEnE־EqEwElE|
+|min־qwol|
 
  * להטים 1: 
 
 |לֹהֲטִים 1|
 |-|
 |לֹהֲטִים 1|
-|lEhETEyEmE|
+|lohaTiym|
 
  * ונפת 1: 
 
 |וְנֹפֶת 1|
 |-|
 |וְנֹפֶת 1|
-|wEnEfEtE|
+|wsvnofet|
 
  * תנו 1: 
 
 |תְּנוּ 1|
 |-|
 |תְנוּ 1|
-|tEnEuE|
+|tsvnu|
 
  * באהלי 1: 
 
 |בְּאָהֳלֵי 1|
 |-|
 |בְּאָהֳלֵי 1|
-|bE'EhElEyE|
+|bsv'AhAlEy|
 
  * היטיבו 1: 
 
 |הֵיטִיבוּ 1|
 |-|
 |הֵיטִיבוּ 1|
-|hEyETEyEvEuE|
+|hEyTiyvu|
 
  * עשנו 1: 
 
 |עֹשֵׂנוּ 1|
 |-|
 |עֹשֵׂנוּ 1|
-|ɣESEnEuE|
+|ɣoSEnu|
 
  * ונות 1: 
 
 |וּנְוַת 1|
 |-|
 |וּנְוַת 1|
-|uEnEwEtE|
+|unsvwat|
 
  * כי־חרה 1: 
 
 |כִּי־חָרָה 1|
 |-|
 |כִּי־חָרָה 1|
-|kEyE־EHErEhE|
+|kiy־HArAh|
 
  * יגמר־נא 1: 
 
 |יִגְמָר־נָא 1|
 |-|
 |יִגְמָר־נָא 1|
-|yEgEmErE־EnE'E|
+|yigsvmAr־nA'|
 
  * אחסר 1: 
 
 |אֶחְסָר 1|
 |-|
 |אֶחְסָר 1|
-|'EHEsErE|
+|'eHsvsAr|
 
  * את־עמך 1: 
 
 |אֶת־עַמֶּךָ 1|
 |-|
 |אֶת־עַמֶךָ 1|
-|'EtE־EɣEmExE|
+|'et־ɣamexA|
 
  * שבטך 1: 
 
 |שִׁבְטְךָ 1|
 |-|
 |שִׁבְטְךָ 1|
-|šEvETExE|
+|šivsvTsvxA|
 
  * ממרחק 1: 
 
 |מִמֶּרְחָק 1|
 |-|
 |מִמֶרְחָק 1|
-|mEmErEHEqE|
+|mimersvHAq|
 
  * נשגבה 1: 
 
 |נִשְׂגְּבָה 1|
 |-|
 |נִשְׂגְבָה 1|
-|nESEgEvEhE|
+|niSsvgsvvAh|
 
  * מרכסי 1: 
 
 |מֵרֻכְסֵי 1|
 |-|
 |מֵרֻכְסֵי 1|
-|mErExEsEyE|
+|mEruxsvsEy|
 
  * ועזב 1: 
 
 |וַעֲזֹב 1|
 |-|
 |וַעֲזֹב 1|
-|wEɣEzEvE|
+|waɣazov|
 
  * עקת 1: 
 
 |עָקַת 1|
 |-|
 |עָקַת 1|
-|ɣEqEtE|
+|ɣAqat|
 
  * חרוניך 1: 
 
 |חֲרוֹנֶיךָ 1|
 |-|
 |חֲרוֹֹנֶיךָ 1|
-|HErEwEnEyExE|
+|HarwoneyxA|
 
  * אכלתני 1: 
 
 |אֲכָלָתְנִי 1|
 |-|
 |אֲכָלָתְנִי 1|
-|'ExElEtEnEyE|
+|'axAlAtsvniy|
 
  * קמו־עלי 1: 
 
 |קָמוּ־עָלַי 1|
 |-|
 |קָמוּ־עָלַי 1|
-|qEmEuE־EɣElEyE|
+|qAmu־ɣAlay|
 
  * בכל־העמים 1: 
 
 |בְּכָל־הָעַמִּים 1|
 |-|
 |בְּכָל־הָעַמִים 1|
-|bExElE־EhEɣEmEyEmE|
+|bsvxAl־hAɣamiym|
 
  * ממצלות 1: 
 
 |מִמְּצֻלוֹת 1|
 |-|
 |מִמְצֻלוֹֹת 1|
-|mEmEcElEwEtE|
+|mimsvculwot|
 
  * כל־הגוים 1: 
 
 |כָּל־הַגּוֹיִם 1|
 |-|
 |כָּל־הַגוֹֹיִם 1|
-|kElE־EhEgEwEyEmE|
+|kAl־hagwoyim|
 
  * ברכך 1: 
 
 |בֵּרַכְךָ 1|
 |-|
 |בֵּרַכְךָ 1|
-|bErExExE|
+|bEraxsvxA|
 
  * עשירי 1: 
 
 |עֲשִׁירֵי 1|
 |-|
 |עֲשִׁירֵי 1|
-|ɣEšEyErEyE|
+|ɣašiyrEy|
 
  * קשת־נחושה 1: 
 
 |קֶשֶׁת־נְחוּשָׁה 1|
 |-|
 |קֶשֶׁת־נְחוּשָׁה 1|
-|qEšEtE־EnEHEuEšEhE|
+|qešet־nsvHušAh|
 
  * סעה 1: 
 
 |סֹעָה 1|
 |-|
 |סֹעָה 1|
-|sEɣEhE|
+|soɣAh|
 
  * שאלתי 1: 
 
 |שָׁאַלְתִּי 1|
 |-|
 |שָׁאַלְתִי 1|
-|šE'ElEtEyE|
+|šA'alsvtiy|
 
  * בתולות 1: 
 
 |בְּתוּלוֹת 1|
 |-|
 |בְּתוּלוֹֹת 1|
-|bEtEuElEwEtE|
+|bsvtulwot|
 
  * ורהבם 1: 
 
 |וְרָהְבָּם 1|
 |-|
 |וְרָהְבָּם 1|
-|wErEhEbEmE|
+|wsvrAhsvbAm|
 
  * ואבליגה 1: 
 
 |וְאַבְלִיגָה 1|
 |-|
 |וְאַבְלִיגָה 1|
-|wE'EvElEyEgEhE|
+|wsv'avsvliygAh|
 
  * אמות 1: 
 
 |אָמוּת 1|
 |-|
 |אָמוּת 1|
-|'EmEuEtE|
+|'Amut|
 
  * הרע 1: 
 
 |הָרַע 1|
 |-|
 |הָרַע 1|
-|hErEɣE|
+|hAraɣ|
 
  * וינס 1: 
 
 |וַיָּנֹס 1|
 |-|
 |וַיָנֹס 1|
-|wEyEnEsE|
+|wayAnos|
 
  * ועזבו 1: 
 
 |וְעָזְבוּ 1|
 |-|
 |וְעָזְבוּ 1|
-|wEɣEzEvEuE|
+|wsvɣAzsvvu|
 
  * וילבש 1: 
 
 |וַיִּלְבַּשׁ 1|
 |-|
 |וַיִלְבַּשׁ 1|
-|wEyElEbEšE|
+|wayilsvbaš|
 
  * ברב־כח 1: 
 
 |בְּרָב־כֹּחַ 1|
 |-|
 |בְּרָב־כֹּחַ 1|
-|bErEvE־EkEHE|
+|bsvrAv־koHa|
 
  * ומתורתך 1: 
 
 |וּמִתּוֹרָתְךָ 1|
 |-|
 |וּמִתוֹֹרָתְךָ 1|
-|uEmEtEwErEtExE|
+|umitworAtsvxA|
 
  * לרקע 1: 
 
 |לְרֹקַע 1|
 |-|
 |לְרֹקַע 1|
-|lErEqEɣE|
+|lsvroqaɣ|
 
  * ובשם־אלהינו 1: 
 
 |וּבְשֵׁם־אֱלֹהֵינוּ 1|
 |-|
 |וּבְשֵׁם־אֱלֹהֵינוּ 1|
-|uEvEšEmE־E'ElEhEyEnEuE|
+|uvsvšEm־'elohEynu|
 
  * ואחריהם 1: 
 
 |וְאַחֲרֵיהֶם 1|
 |-|
 |וְאַחֲרֵיהֶם 1|
-|wE'EHErEyEhEmE|
+|wsv'aHarEyhem|
 
  * אל־חיקם 1: 
 
 |אֶל־חֵיקָם 1|
 |-|
 |אֶל־חֵיקָם 1|
-|'ElE־EHEyEqEmE|
+|'el־HEyqAm|
 
  * על־פני־רוח 1: 
 
 |עַל־פְּנֵי־רוּחַ 1|
 |-|
 |עַל־פְּנֵי־רוּחַ 1|
-|ɣElE־EpEnEyE־ErEuEHE|
+|ɣal־psvnEy־ruHa|
 
  * כל־עצמותיו 1: 
 
 |כָּל־עַצְמוֹתָיו 1|
 |-|
 |כָּל־עַצְמוֹֹתָיו 1|
-|kElE־EɣEcEmEwEtEyEwE|
+|kAl־ɣacsvmwotAyw|
 
  * פודה 1: 
 
 |פּוֹדֶה 1|
 |-|
 |פּוֹֹדֶה 1|
-|pEwEdEhE|
+|pwodeh|
 
  * את־רעהו 1: 
 
 |אֶת־רֵעֵהוּ 1|
 |-|
 |אֶת־רֵעֵהוּ 1|
-|'EtE־ErEɣEhEuE|
+|'et־rEɣEhu|
 
  * אספרם 1: 
 
 |אֶסְפְּרֵם 1|
 |-|
 |אֶסְפְּרֵם 1|
-|'EsEpErEmE|
+|'essvpsvrEm|
 
  * ישתו 1: 
 
 |יִשְׁתּוּ 1|
 |-|
 |יִשְׁתוּ 1|
-|yEšEtEuE|
+|yišsvtu|
 
  * למוסרי 1: 
 
 |לְמוֹסֵרָי 1|
 |-|
 |לְמוֹֹסֵרָי 1|
-|lEmEwEsErEyE|
+|lsvmwosErAy|
 
  * אשתעשע 1: 
 
 |אֶשְׁתַּעֲשָׁע 1|
 |-|
 |אֶשְׁתַעֲשָׁע 1|
-|'EšEtEɣEšEɣE|
+|'ešsvtaɣašAɣ|
 
  * ישבת 1: 
 
 |יָשַׁבְתָּ 1|
 |-|
 |יָשַׁבְתָ 1|
-|yEšEvEtE|
+|yAšavsvtA|
 
  * כי־גרתי 1: 
 
 |כִּי־גַרְתִּי 1|
 |-|
 |כִּי־גַרְתִי 1|
-|kEyE־EgErEtEyE|
+|kiy־garsvtiy|
 
  * היספר 1: 
 
 |הַיְסֻפַּר 1|
 |-|
 |הַיְסֻפַּר 1|
-|hEyEsEpErE|
+|haysvsupar|
 
  * ינובון 1: 
 
 |יְנוּבוּן 1|
 |-|
 |יְנוּבוּן 1|
-|yEnEuEvEuEnE|
+|ysvnuvun|
 
  * שחה 1: 
 
 |שָׁחָה 1|
 |-|
 |שָׁחָה 1|
-|šEHEhE|
+|šAHAh|
 
  * את־נחלתו 1: 
 
 |אֶת־נַחֲלָתוֹ 1|
 |-|
 |אֶת־נַחֲלָתוֹֹ 1|
-|'EtE־EnEHElEtEwE|
+|'et־naHalAtwo|
 
  * בכל־ימינו 1: 
 
 |בְּכָל־יָמֵינוּ 1|
 |-|
 |בְּכָל־יָמֵינוּ 1|
-|bExElE־EyEmEyEnEuE|
+|bsvxAl־yAmEynu|
 
  * וחטאת 1: 
 
 |וְחַטַּאת 1|
 |-|
 |וְחַטַאת 1|
-|wEHETE'EtE|
+|wsvHaTa't|
 
  * אמצת 1: 
 
 |אִמַּצְתָּ 1|
 |-|
 |אִמַצְתָ 1|
-|'EmEcEtE|
+|'imacsvtA|
 
  * לא־יבין 1: 
 
 |לֹא־יָבִין 1|
 |-|
 |לֹא־יָבִין 1|
-|lE'E־EyEvEyEnE|
+|lo'־yAviyn|
 
  * עם־נערים 1: 
 
 |עִם־נְעָרִים 1|
 |-|
 |עִם־נְעָרִים 1|
-|ɣEmE־EnEɣErEyEmE|
+|ɣim־nsvɣAriym|
 
  * בשאול 1: 
 
 |בִּשְׁאוֹל 1|
 |-|
 |בִּשְׁאוֹֹל 1|
-|bEšE'EwElE|
+|bišsv'wol|
 
  * ימחץ 1: 
 
 |יִמְחַץ 1|
 |-|
 |יִמְחַץ 1|
-|yEmEHEcE|
+|yimsvHac|
 
  * חלליך 1: 
 
 |חֲלָלֶיךָ 1|
 |-|
 |חֲלָלֶיךָ 1|
-|HElElEyExE|
+|HalAleyxA|
 
  * שיחות 1: 
 
 |שִׁיחוֹת 1|
 |-|
 |שִׁיחוֹֹת 1|
-|šEyEHEwEtE|
+|šiyHwot|
 
  * חקרני 1: 
 
 |חָקְרֵנִי 1|
 |-|
 |חָקְרֵנִי 1|
-|HEqErEnEyE|
+|HAqsvrEniy|
 
  * ויודך 1: 
 
 |וְיוֹדֻךָ 1|
 |-|
 |וְיוֹֹדֻךָ 1|
-|wEyEwEdExE|
+|wsvywoduxA|
 
  * ישפיל 1: 
 
 |יַשְׁפִּיל 1|
 |-|
 |יַשְׁפִּיל 1|
-|yEšEpEyElE|
+|yašsvpiyl|
 
  * גם־יהוה 1: 
 
 |גַּם־יְהוָה 1|
 |-|
 |גַם־יְהוָה 1|
-|gEmE־EyEhEwEhE|
+|gam־ysvhwAh|
 
  * מסביב 1: 
 
 |מִסָּבִיב 1|
 |-|
 |מִסָבִיב 1|
-|mEsEvEyEvE|
+|misAviyv|
 
  * נלוה 1: 
 
 |נִלְוָה 1|
 |-|
 |נִלְוָה 1|
-|nElEwEhE|
+|nilsvwAh|
 
  * יתנדדו 1: 
 
 |יִתְנֹדֲדוּ 1|
 |-|
 |יִתְנֹדֲדוּ 1|
-|yEtEnEdEdEuE|
+|yitsvnodadu|
 
  * בכבל 1: 
 
 |בַכֶּבֶל 1|
 |-|
 |בַכֶּבֶל 1|
-|vEkEvElE|
+|vakevel|
 
  * יכחשו־לו 1: 
 
 |יְכַחֲשׁוּ־לוֹ 1|
 |-|
 |יְכַחֲשׁוּ־לוֹֹ 1|
-|yExEHEšEuE־ElEwE|
+|ysvxaHašu־lwo|
 
  * וכל־חכמתם 1: 
 
 |וְכָל־חָכְמָתָם 1|
 |-|
 |וְכָל־חָכְמָתָם 1|
-|wExElE־EHExEmEtEmE|
+|wsvxAl־HAxsvmAtAm|
 
  * מה־פעל 1: 
 
 |מַה־פָּעָל 1|
 |-|
 |מַה־פָּעָל 1|
-|mEhE־EpEɣElE|
+|mah־pAɣAl|
 
  * את־כל 1: 
 
 |אֶת־כֹּל 1|
 |-|
 |אֶת־כֹּל 1|
-|'EtE־EkElE|
+|'et־kol|
 
  * כאישון 1: 
 
 |כְּאִישׁוֹן 1|
 |-|
 |כְּאִישׁוֹֹן 1|
-|kE'EyEšEwEnE|
+|ksv'iyšwon|
 
  * עשרו 1: 
 
 |עָשְׁרוֹ 1|
 |-|
 |עָשְׁרוֹֹ 1|
-|ɣEšErEwE|
+|ɣAšsvrwo|
 
  * אין־איל 1: 
 
 |אֵין־אֱיָל 1|
 |-|
 |אֵין־אֱיָל 1|
-|'EyEnE־E'EyElE|
+|'Eyn־'eyAl|
 
  * יסובני 1: 
 
 |יְסוּבֵּנִי 1|
 |-|
 |יְסוּבֵּנִי 1|
-|yEsEuEbEnEyE|
+|ysvsubEniy|
 
  * פעלך 1: 
 
 |פָעֳלֶךָ 1|
 |-|
 |פָעֳלֶךָ 1|
-|fEɣElExE|
+|fAɣAlexA|
 
  * כי־שכחו 1: 
 
 |כִּי־שָׁכְחוּ 1|
 |-|
 |כִּי־שָׁכְחוּ 1|
-|kEyE־EšExEHEuE|
+|kiy־šAxsvHu|
 
  * העצבים 1: 
 
 |הָעֲצָבִים 1|
 |-|
 |הָעֲצָבִים 1|
-|hEɣEcEvEyEmE|
+|hAɣacAviym|
 
  * ואלה 1: 
 
 |וְאֵלֶּה 1|
 |-|
 |וְאֵלֶה 1|
-|wE'ElEhE|
+|wsv'Eleh|
 
  * ואכבדהו 1: 
 
 |וַאֲכַבְּדֵהוּ 1|
 |-|
 |וַאֲכַבְּדֵהוּ 1|
-|wE'ExEbEdEhEuE|
+|wa'axabsvdEhu|
 
  * וירגנו 1: 
 
 |וַיֵּרָגְנוּ 1|
 |-|
 |וַיֵרָגְנוּ 1|
-|wEyErEgEnEuE|
+|wayErAgsvnu|
 
  * ואל־תשלט־בי 1: 
 
 |וְאַל־תַּשְׁלֶט־בִּי 1|
 |-|
 |וְאַל־תַשְׁלֶט־בִּי 1|
-|wE'ElE־EtEšElETE־EbEyE|
+|wsv'al־tašsvleT־biy|
 
  * למנוחיכי 1: 
 
 |לִמְנוּחָיְכִי 1|
 |-|
 |לִמְנוּחָיְכִי 1|
-|lEmEnEuEHEyExEyE|
+|limsvnuHAysvxiy|
 
  * וממשפטיך 1: 
 
 |וּמִמִּשְׁפָּטֶיךָ 1|
 |-|
 |וּמִמִשְׁפָּטֶיךָ 1|
-|uEmEmEšEpETEyExE|
+|umimišsvpATeyxA|
 
  * ואהיה 1: 
 
 |וָאֶהְיֶה 1|
 |-|
 |וָאֶהְיֶה 1|
-|wE'EhEyEhE|
+|wA'ehsvyeh|
 
  * לכל־הנפלים 1: 
 
 |לְכָל־הַנֹּפְלִים 1|
 |-|
 |לְכָל־הַנֹפְלִים 1|
-|lExElE־EhEnEfElEyEmE|
+|lsvxAl־hanofsvliym|
 
  * רב־הוא 1: 
 
 |רַב־הוּא 1|
 |-|
 |רַב־הוּא 1|
-|rEvE־EhEuE'E|
+|rav־hu'|
 
  * ולא־אתנו 1: 
 
 |וְלֹא־אִתָּנוּ 1|
 |-|
 |וְלֹא־אִתָנוּ 1|
-|wElE'E־E'EtEnEuE|
+|wsvlo'־'itAnu|
 
  * בחצי 1: 
 
 |בַּחֲצִי 1|
 |-|
 |בַּחֲצִי 1|
-|bEHEcEyE|
+|baHaciy|
 
  * סתרי 1: 
 
 |סִתְרִי 1|
 |-|
 |סִתְרִי 1|
-|sEtErEyE|
+|sitsvriy|
 
  * הושר 1: 
 
 |הושר 1|
 |-|
 |הושר 1|
-|hEwEשErE|
+|hwשr|
 
  * תנים 1: 
 
 |תַּנִּים 1|
 |-|
 |תַנִים 1|
-|tEnEyEmE|
+|taniym|
 
  * באחז 1: 
 
 |בֶּאֱחֹז 1|
 |-|
 |בֶּאֱחֹז 1|
-|bE'EHEzE|
+|be'eHoz|
 
  * [לדברך] 1: 
 
 |[לִדְבָרְךָ] 1|
 |-|
 |[לִדְבָרְךָ] 1|
-|[ElEdEvErExE]E|
+|[lidsvvArsvxA]|
 
  * ינין 1: 
 
 |ינין 1|
 |-|
 |ינין 1|
-|yEnEyEnE|
+|ynyn|
 
  * ושמך 1: 
 
 |וְשִׁמְךָ 1|
 |-|
 |וְשִׁמְךָ 1|
-|wEšEmExE|
+|wsvšimsvxA|
 
  * רגזה 1: 
 
 |רָגְזָה 1|
 |-|
 |רָגְזָה 1|
-|rEgEzEhE|
+|rAgsvzAh|
 
  * בכיי 1: 
 
 |בִּכְיִי 1|
 |-|
 |בִּכְיִי 1|
-|bExEyEyE|
+|bixsvyiy|
 
  * לטרף 1: 
 
 |לַטָּרֶף 1|
 |-|
 |לַטָרֶף 1|
-|lETErEfE|
+|laTAref|
 
  * חלצת 1: 
 
 |חִלַּצְתָּ 1|
 |-|
 |חִלַצְתָ 1|
-|HElEcEtE|
+|HilacsvtA|
 
  * על־מים 1: 
 
 |עַל־מַיִם 1|
 |-|
 |עַל־מַיִם 1|
-|ɣElE־EmEyEmE|
+|ɣal־mayim|
 
  * ינגעו 1: 
 
 |יְנֻגָּעוּ 1|
 |-|
 |יְנֻגָעוּ 1|
-|yEnEgEɣEuE|
+|ysvnugAɣu|
 
  * צופה 1: 
 
 |צוֹפֶה 1|
 |-|
 |צוֹֹפֶה 1|
-|cEwEfEhE|
+|cwofeh|
 
  * דחה 1: 
 
 |דַּחֹה 1|
 |-|
 |דַחֹה 1|
-|dEHEhE|
+|daHoh|
 
  * רמים 1: 
 
 |רֵמִים 1|
 |-|
 |רֵמִים 1|
-|rEmEyEmE|
+|rEmiym|
 
  * ועם־אנשי 1: 
 
 |וְעִם־אַנְשֵׁי 1|
 |-|
 |וְעִם־אַנְשֵׁי 1|
-|wEɣEmE־E'EnEšEyE|
+|wsvɣim־'ansvšEy|
 
  * דום 1: 
 
 |דּוֹם 1|
 |-|
 |דוֹֹם 1|
-|dEwEmE|
+|dwom|
 
  * יצילך 1: 
 
 |יַצִּילְךָ 1|
 |-|
 |יַצִילְךָ 1|
-|yEcEyElExE|
+|yaciylsvxA|
 
  * בערב 1: 
 
 |בָּעֶרֶב 1|
 |-|
 |בָּעֶרֶב 1|
-|bEɣErEvE|
+|bAɣerev|
 
  * עזבוני 1: 
 
 |עֲזָבוּנִי 1|
 |-|
 |עֲזָבוּנִי 1|
-|ɣEzEvEuEnEyE|
+|ɣazAvuniy|
 
  * מדשן 1: 
 
 |מִדֶּשֶׁן 1|
 |-|
 |מִדֶשֶׁן 1|
-|mEdEšEnE|
+|midešen|
 
  * דרך־פקודיך 1: 
 
 |דֶּרֶךְ־פִּקּוּדֶיךָ 1|
 |-|
 |דֶרֶךְ־פִּקוּדֶיךָ 1|
-|dErExE־EpEqEuEdEyExE|
+|derexsv־piqudeyxA|
 
  * מה־יקר 1: 
 
 |מַה־יָּקָר 1|
 |-|
 |מַה־יָקָר 1|
-|mEhE־EyEqErE|
+|mah־yAqAr|
 
  * מהקיץ 1: 
 
 |מֵהָקִיץ 1|
 |-|
 |מֵהָקִיץ 1|
-|mEhEqEyEcE|
+|mEhAqiyc|
 
  * וגוע 1: 
 
 |וְגֹוֵעַ 1|
 |-|
 |וְגֹוֵעַ 1|
-|wEgEwEɣE|
+|wsvgowEɣa|
 
  * ממעצותיהם 1: 
 
 |מִמֹּעֲצוֹתֵיהֶם 1|
 |-|
 |מִמֹעֲצוֹֹתֵיהֶם 1|
-|mEmEɣEcEwEtEyEhEmE|
+|mimoɣacwotEyhem|
 
  * על־פניהם 1: 
 
 |עַל־פְּנֵיהֶם 1|
 |-|
 |עַל־פְּנֵיהֶם 1|
-|ɣElE־EpEnEyEhEmE|
+|ɣal־psvnEyhem|
 
  * מזן 1: 
 
 |מִזַּן 1|
 |-|
 |מִזַן 1|
-|mEzEnE|
+|mizan|
 
  * דם־בניהם 1: 
 
 |דַּם־בְּנֵיהֶם 1|
 |-|
 |דַם־בְּנֵיהֶם 1|
-|dEmE־EbEnEyEhEmE|
+|dam־bsvnEyhem|
 
  * בשפתי 1: 
 
 |בִּשְׂפָתַי 1|
 |-|
 |בִּשְׂפָתַי 1|
-|bESEfEtEyE|
+|biSsvfAtay|
 
  * ומגדף 1: 
 
 |וּמְגַדֵּף 1|
 |-|
 |וּמְגַדֵף 1|
-|uEmEgEdEfE|
+|umsvgadEf|
 
  * בל־מנעת 1: 
 
 |בַּל־מָנַעְתָּ 1|
 |-|
 |בַּל־מָנַעְתָ 1|
-|bElE־EmEnEɣEtE|
+|bal־mAnaɣsvtA|
 
  * בעברות 1: 
 
 |בְּעַבְרוֹת 1|
 |-|
 |בְּעַבְרוֹֹת 1|
-|bEɣEvErEwEtE|
+|bsvɣavsvrwot|
 
  * על־הרים 1: 
 
 |עַל־הָרִים 1|
 |-|
 |עַל־הָרִים 1|
-|ɣElE־EhErEyEmE|
+|ɣal־hAriym|
 
  * המגביהי 1: 
 
 |הַמַּגְבִּיהִי 1|
 |-|
 |הַמַגְבִּיהִי 1|
-|hEmEgEbEyEhEyE|
+|hamagsvbiyhiy|
 
  * ינקש 1: 
 
 |יְנַקֵּשׁ 1|
 |-|
 |יְנַקֵשׁ 1|
-|yEnEqEšE|
+|ysvnaqEš|
 
  * וענפיה 1: 
 
 |וַעֲנָפֶיהָ 1|
 |-|
 |וַעֲנָפֶיהָ 1|
-|wEɣEnEfEyEhE|
+|waɣanAfeyhA|
 
  * אודיעך 1: 
 
 |אוֹדִיעֲךָ 1|
 |-|
 |אוֹֹדִיעֲךָ 1|
-|'EwEdEyEɣExE|
+|'wodiyɣaxA|
 
  * אשב 1: 
 
 |אֵשֵׁב 1|
 |-|
 |אֵשֵׁב 1|
-|'EšEvE|
+|'EšEv|
 
  * מפעלי 1: 
 
 |מִפֹּעֲלֵי 1|
 |-|
 |מִפֹּעֲלֵי 1|
-|mEpEɣElEyE|
+|mipoɣalEy|
 
  * בהשמים 1: 
 
 |בְּהַשָּׁמַיִם 1|
 |-|
 |בְּהַשָׁמַיִם 1|
-|bEhEšEmEyEmE|
+|bsvhašAmayim|
 
  * החסים 1: 
 
 |הַחֹסִים 1|
 |-|
 |הַחֹסִים 1|
-|hEHEsEyEmE|
+|haHosiym|
 
  * ובגזל 1: 
 
 |וּבְגָזֵל 1|
 |-|
 |וּבְגָזֵל 1|
-|uEvEgEzElE|
+|uvsvgAzEl|
 
  * לרצות 1: 
 
 |לִרְצוֹת 1|
 |-|
 |לִרְצוֹֹת 1|
-|lErEcEwEtE|
+|lirsvcwot|
 
  * זכרני 1: 
 
 |זָכְרֵנִי 1|
 |-|
 |זָכְרֵנִי 1|
-|zExErEnEyE|
+|zAxsvrEniy|
 
  * כשל 1: 
 
 |כָּשַׁל 1|
 |-|
 |כָּשַׁל 1|
-|kEšElE|
+|kAšal|
 
  * פרעה 1: 
 
 |פַּרְעֹה 1|
 |-|
 |פַּרְעֹה 1|
-|pErEɣEhE|
+|parsvɣoh|
 
  * את־מזבחותיך 1: 
 
 |אֶת־מִזְבְּחוֹתֶיךָ 1|
 |-|
 |אֶת־מִזְבְּחוֹֹתֶיךָ 1|
-|'EtE־EmEzEbEHEwEtEyExE|
+|'et־mizsvbsvHwoteyxA|
 
  * כפרו 1: 
 
 |כָּפְרוֹ 1|
 |-|
 |כָּפְרוֹֹ 1|
-|kEfErEwE|
+|kAfsvrwo|
 
  * המשביע 1: 
 
 |הַמַּשְׂבִּיַע 1|
 |-|
 |הַמַשְׂבִּיַע 1|
-|hEmESEbEyEɣE|
+|hamaSsvbiyaɣ|
 
  * אף־לילות 1: 
 
 |אַף־לֵילוֹת 1|
 |-|
 |אַף־לֵילוֹֹת 1|
-|'EfE־ElEyElEwEtE|
+|'af־lEylwot|
 
  * שיהוה 1: 
 
 |שֶׁיֲהוָה 1|
 |-|
 |שֶׁיֲהוָה 1|
-|šEyEhEwEhE|
+|šeyahwAh|
 
  * הודע 1: 
 
 |הוֹדַע 1|
 |-|
 |הוֹֹדַע 1|
-|hEwEdEɣE|
+|hwodaɣ|
 
  * כי־רבו 1: 
 
 |כִּי־רָבּוּ 1|
 |-|
 |כִּי־רָבּוּ 1|
-|kEyE־ErEbEuE|
+|kiy־rAbu|
 
  * ונפשות 1: 
 
 |וְנַפְשׁוֹת 1|
 |-|
 |וְנַפְשׁוֹֹת 1|
-|wEnEfEšEwEtE|
+|wsvnafsvšwot|
 
  * יכבדו 1: 
 
 |יִכְבְּדוּ 1|
 |-|
 |יִכְבְּדוּ 1|
-|yExEbEdEuE|
+|yixsvbsvdu|
 
  * והגרים 1: 
 
 |וְהַגְרִים 1|
 |-|
 |וְהַגְרִים 1|
-|wEhEgErEyEmE|
+|wsvhagsvriym|
 
  * בטוב־יהוה 1: 
 
 |בְּטוּב־יְהוָה 1|
 |-|
 |בְּטוּב־יְהוָה 1|
-|bETEuEvE־EyEhEwEhE|
+|bsvTuv־ysvhwAh|
 
  * לך־אני 1: 
 
 |לְךָ־אֲנִי 1|
 |-|
 |לְךָ־אֲנִי 1|
-|lExE־E'EnEyE|
+|lsvxA־'aniy|
 
  * מצאה 1: 
 
 |מָצְאָה 1|
 |-|
 |מָצְאָה 1|
-|mEcE'EhE|
+|mAcsv'Ah|
 
  * יחגרה 1: 
 
 |יַחְגְּרֶהָ 1|
 |-|
 |יַחְגְרֶהָ 1|
-|yEHEgErEhE|
+|yaHsvgsvrehA|
 
  * הט־שמיך 1: 
 
 |הַט־שָׁמֶיךָ 1|
 |-|
 |הַט־שָׁמֶיךָ 1|
-|hETE־EšEmEyExE|
+|haT־šAmeyxA|
 
  * ושפל 1: 
 
 |וְשָׁפָל 1|
 |-|
 |וְשָׁפָל 1|
-|wEšEfElE|
+|wsvšAfAl|
 
  * ולזרעו 1: 
 
 |וּלְזַרְעוֹ 1|
 |-|
 |וּלְזַרְעוֹֹ 1|
-|uElEzErEɣEwE|
+|ulsvzarsvɣwo|
 
  * ועולתיך 1: 
 
 |וְעוֹלֹתֶיךָ 1|
 |-|
 |וְעוֹֹלֹתֶיךָ 1|
-|wEɣEwElEtEyExE|
+|wsvɣwoloteyxA|
 
  * ותהי 1: 
 
 |וַתְּהִי 1|
 |-|
 |וַתְהִי 1|
-|wEtEhEyE|
+|watsvhiy|
 
  * ועלהו 1: 
 
 |וְעָלֵהוּ 1|
 |-|
 |וְעָלֵהוּ 1|
-|wEɣElEhEuE|
+|wsvɣAlEhu|
 
  * ושחד 1: 
 
 |וְשֹׁחַד 1|
 |-|
 |וְשֹׁחַד 1|
-|wEšEHEdE|
+|wsvšoHad|
 
  * בצבאתינו 1: 
 
 |בְּצִבְאֹתֵינוּ 1|
 |-|
 |בְּצִבְאֹתֵינוּ 1|
-|bEcEvE'EtEyEnEuE|
+|bsvcivsv'otEynu|
 
  * אבינה 1: 
 
 |אָבִינָה 1|
 |-|
 |אָבִינָה 1|
-|'EvEyEnEhE|
+|'AviynAh|
 
  * ונחלתך 1: 
 
 |וְנַחֲלָתְךָ 1|
 |-|
 |וְנַחֲלָתְךָ 1|
-|wEnEHElEtExE|
+|wsvnaHalAtsvxA|
 
  * עד־שחקים 1: 
 
 |עַד־שְׁחָקִים 1|
 |-|
 |עַד־שְׁחָקִים 1|
-|ɣEdE־EšEHEqEyEmE|
+|ɣad־šsvHAqiym|
 
  * תחדהו 1: 
 
 |תְּחַדֵּהוּ 1|
 |-|
 |תְחַדֵהוּ 1|
-|tEHEdEhEuE|
+|tsvHadEhu|
 
  * יגידו 1: 
 
 |יַגִּידוּ 1|
 |-|
 |יַגִידוּ 1|
-|yEgEyEdEuE|
+|yagiydu|
 
  * לא־אבה 1: 
 
 |לֹא־אָבָה 1|
 |-|
 |לֹא־אָבָה 1|
-|lE'E־E'EvEhE|
+|lo'־'AvAh|
 
  * ולרשעים 1: 
 
 |וְלָרְשָׁעִים 1|
 |-|
 |וְלָרְשָׁעִים 1|
-|wElErEšEɣEyEmE|
+|wsvlArsvšAɣiym|
 
  * מהררי־טרף 1: 
 
 |מֵהַרְרֵי־טָרֶף 1|
 |-|
 |מֵהַרְרֵי־טָרֶף 1|
-|mEhErErEyE־ETErEfE|
+|mEharsvrEy־TAref|
 
  * עליה 1: 
 
 |עָלֶיהָ 1|
 |-|
 |עָלֶיהָ 1|
-|ɣElEyEhE|
+|ɣAleyhA|
 
  * הסליחה 1: 
 
 |הַסְּלִיחָה 1|
 |-|
 |הַסְלִיחָה 1|
-|hEsElEyEHEhE|
+|hassvliyHAh|
 
  * לעולליהם 1: 
 
 |לְעוֹלְלֵיהֶם 1|
 |-|
 |לְעוֹֹלְלֵיהֶם 1|
-|lEɣEwElElEyEhEmE|
+|lsvɣwolsvlEyhem|
 
  * יגיד 1: 
 
 |יַגִּיד 1|
 |-|
 |יַגִיד 1|
-|yEgEyEdE|
+|yagiyd|
 
  * יערימו 1: 
 
 |יַעֲרִימוּ 1|
 |-|
 |יַעֲרִימוּ 1|
-|yEɣErEyEmEuE|
+|yaɣariymu|
 
  * עצביהם 1: 
 
 |עֲ‍צַבֵּיהֶם 1|
 |-|
 |עֲצַבֵּיהֶם 1|
-|ɣEcEbEyEhEmE|
+|ɣacabEyhem|
 
  * לא־תתן 1: 
 
 |לֹא־תִתֵּן 1|
 |-|
 |לֹא־תִתֵן 1|
-|lE'E־EtEtEnE|
+|lo'־titEn|
 
  * אמסה 1: 
 
 |אַמְסֶה 1|
 |-|
 |אַמְסֶה 1|
-|'EmEsEhE|
+|'amsvseh|
 
  * חץ 1: 
 
 |חֵץ 1|
 |-|
 |חֵץ 1|
-|HEcE|
+|HEc|
 
  * ישובון 1: 
 
 |יְשׁוּבוּן 1|
 |-|
 |יְשׁוּבוּן 1|
-|yEšEuEvEuEnE|
+|ysvšuvun|
 
  * בעדת־אל 1: 
 
 |בַּעֲדַת־אֵל 1|
 |-|
 |בַּעֲדַת־אֵל 1|
-|bEɣEdEtE־E'ElE|
+|baɣadat־'El|
 
  * בשלוי 1: 
 
 |בְשַׁלְוִי 1|
 |-|
 |בְשַׁלְוִי 1|
-|vEšElEwEyE|
+|vsvšalsvwiy|
 
  * ומלך 1: 
 
 |וּמֶלֶךְ 1|
 |-|
 |וּמֶלֶךְ 1|
-|uEmElExE|
+|umelexsv|
 
  * אורי 1: 
 
 |אוֹרִי 1|
 |-|
 |אוֹֹרִי 1|
-|'EwErEyE|
+|'woriy|
 
  * פצמתה 1: 
 
 |פְּצַמְתָּהּ 1|
 |-|
 |פְּצַמְתָה 1|
-|pEcEmEtEhE|
+|psvcamsvtAh|
 
  * הכה־צור 1: 
 
 |הִכָּה־צוּר 1|
 |-|
 |הִכָּה־צוּר 1|
-|hEkEhE־EcEuErE|
+|hikAh־cur|
 
  * עניתנו 1: 
 
 |עִנִּיתָנוּ 1|
 |-|
 |עִנִיתָנוּ 1|
-|ɣEnEyEtEnEuE|
+|ɣiniytAnu|
 
  * אשמרות 1: 
 
 |אַשְׁמֻרוֹת 1|
 |-|
 |אַשְׁמֻרוֹֹת 1|
-|'EšEmErEwEtE|
+|'ašsvmurwot|
 
  * גם־בכינו 1: 
 
 |גַּם־בָּכִינוּ 1|
 |-|
 |גַם־בָּכִינוּ 1|
-|gEmE־EbExEyEnEuE|
+|gam־bAxiynu|
 
  * לשניהם 1: 
 
 |לְשִׁנֵּיהֶם 1|
 |-|
 |לְשִׁנֵיהֶם 1|
-|lEšEnEyEhEmE|
+|lsvšinEyhem|
 
  * ובמים 1: 
 
 |וּבַמַּיִם 1|
 |-|
 |וּבַמַיִם 1|
-|uEvEmEyEmE|
+|uvamayim|
 
  * ברצי־כסף 1: 
 
 |בְּרַצֵּי־כָסֶף 1|
 |-|
 |בְּרַצֵי־כָסֶף 1|
-|bErEcEyE־ExEsEfE|
+|bsvracEy־xAsef|
 
  * עם־אלה 1: 
 
 |עִם־אֵלֶּה 1|
 |-|
 |עִם־אֵלֶה 1|
-|ɣEmE־E'ElEhE|
+|ɣim־'Eleh|
 
  * ברשתו 1: 
 
 |בְרִשְׁתּוֹ 1|
 |-|
 |בְרִשְׁתוֹֹ 1|
-|vErEšEtEwE|
+|vsvrišsvtwo|
 
  * מחפתו 1: 
 
 |מֵחֻפָּתוֹ 1|
 |-|
 |מֵחֻפָּתוֹֹ 1|
-|mEHEpEtEwE|
+|mEHupAtwo|
 
  * יהי־דרכם 1: 
 
 |יְהִי־דַרְכָּם 1|
 |-|
 |יְהִי־דַרְכָּם 1|
-|yEhEyE־EdErEkEmE|
+|ysvhiy־darsvkAm|
 
  * וירדף 1: 
 
 |וַיִּרְדֹּף 1|
 |-|
 |וַיִרְדֹף 1|
-|wEyErEdEfE|
+|wayirsvdof|
 
  * נגעך 1: 
 
 |נִגְעֶךָ 1|
 |-|
 |נִגְעֶךָ 1|
-|nEgEɣExE|
+|nigsvɣexA|
 
  * ואת־אסיריו 1: 
 
 |וְאֶת־אֲסִירָיו 1|
 |-|
 |וְאֶת־אֲסִירָיו 1|
-|wE'EtE־E'EsEyErEyEwE|
+|wsv'et־'asiyrAyw|
 
  * משחר 1: 
 
 |מִשְׁחָר 1|
 |-|
 |מִשְׁחָר 1|
-|mEšEHErE|
+|mišsvHAr|
 
  * למשפטך 1: 
 
 |לְמִשְׁפָּטֶךָ 1|
 |-|
 |לְמִשְׁפָּטֶךָ 1|
-|lEmEšEpETExE|
+|lsvmišsvpATexA|
 
  * אם־שכחנו 1: 
 
 |אִם־שָׁכַחְנוּ 1|
 |-|
 |אִם־שָׁכַחְנוּ 1|
-|'EmE־EšExEHEnEuE|
+|'im־šAxaHsvnu|
 
  * וירום 1: 
 
 |וְיָרוּם 1|
 |-|
 |וְיָרוּם 1|
-|wEyErEuEmE|
+|wsvyArum|
 
  * כי־ראיתי 1: 
 
 |כִּי־רָאִיתִי 1|
 |-|
 |כִּי־רָאִיתִי 1|
-|kEyE־ErE'EyEtEyE|
+|kiy־rA'iytiy|
 
  * ונאספו 1: 
 
 |וְנֶאֱסָפוּ 1|
 |-|
 |וְנֶאֱסָפוּ 1|
-|wEnE'EsEfEuE|
+|wsvne'esAfu|
 
  * לא־גזלתי 1: 
 
 |לֹא־גָזַלְתִּי 1|
 |-|
 |לֹא־גָזַלְתִי 1|
-|lE'E־EgEzElEtEyE|
+|lo'־gAzalsvtiy|
 
  * ונכרי 1: 
 
 |וְנָכְרִי 1|
 |-|
 |וְנָכְרִי 1|
-|wEnExErEyE|
+|wsvnAxsvriy|
 
  * מפני־זעמך 1: 
 
 |מִפְּנֵי־זַעַמְךָ 1|
 |-|
 |מִפְּנֵי־זַעַמְךָ 1|
-|mEpEnEyE־EzEɣEmExE|
+|mipsvnEy־zaɣamsvxA|
 
  * פי־צדיק 1: 
 
 |פִּי־צַדִּיק 1|
 |-|
 |פִּי־צַדִיק 1|
-|pEyE־EcEdEyEqE|
+|piy־cadiyq|
 
  * כל־הרע 1: 
 
 |כָּל־הֵרַע 1|
 |-|
 |כָּל־הֵרַע 1|
-|kElE־EhErEɣE|
+|kAl־hEraɣ|
 
  * כל־מלכים 1: 
 
 |כָל־מְלָכִים 1|
 |-|
 |כָל־מְלָכִים 1|
-|xElE־EmElExEyEmE|
+|xAl־msvlAxiym|
 
  * נשבעת 1: 
 
 |נִשְׁבַּעְתָּ 1|
 |-|
 |נִשְׁבַּעְתָ 1|
-|nEšEbEɣEtE|
+|nišsvbaɣsvtA|
 
  * ולא־חטאתי 1: 
 
 |וְלֹא־חַטָּאתִי 1|
 |-|
 |וְלֹא־חַטָאתִי 1|
-|wElE'E־EHETE'EtEyE|
+|wsvlo'־HaTA'tiy|
 
  * כי־בשר 1: 
 
 |כִּי־בָשָׂר 1|
 |-|
 |כִּי־בָשָׂר 1|
-|kEyE־EvESErE|
+|kiy־vASAr|
 
  * מעמד 1: 
 
 |מָעֳמָד 1|
 |-|
 |מָעֳמָד 1|
-|mEɣEmEdE|
+|mAɣAmAd|
 
  * במרום 1: 
 
 |בַּמָּרוֹם 1|
 |-|
 |בַּמָרוֹֹם 1|
-|bEmErEwEmE|
+|bamArwom|
 
  * כי־ימיטו 1: 
 
 |כִּי־יָמִיטוּ 1|
 |-|
 |כִּי־יָמִיטוּ 1|
-|kEyE־EyEmEyETEuE|
+|kiy־yAmiyTu|
 
  * לא־פשעי 1: 
 
 |לֹא־פִשְׁעִי 1|
 |-|
 |לֹא־פִשְׁעִי 1|
-|lE'E־EfEšEɣEyE|
+|lo'־fišsvɣiy|
 
  * דמיתי 1: 
 
 |דָּמִיתִי 1|
 |-|
 |דָמִיתִי 1|
-|dEmEyEtEyE|
+|dAmiytiy|
 
  * הרחבת 1: 
 
 |הִרְחַבְתָּ 1|
 |-|
 |הִרְחַבְתָ 1|
-|hErEHEvEtE|
+|hirsvHavsvtA|
 
  * אל־דל 1: 
 
 |אֶל־דָּל 1|
 |-|
 |אֶל־דָל 1|
-|'ElE־EdElE|
+|'el־dAl|
 
  * לברד 1: 
 
 |לַבָּרָד 1|
 |-|
 |לַבָּרָד 1|
-|lEbErEdE|
+|labArAd|
 
  * בלמדי 1: 
 
 |בְּלָמְדִי 1|
 |-|
 |בְּלָמְדִי 1|
-|bElEmEdEyE|
+|bsvlAmsvdiy|
 
  * יצודנו 1: 
 
 |יְצוּדֶנּוּ 1|
 |-|
 |יְצוּדֶנוּ 1|
-|yEcEuEdEnEuE|
+|ysvcudenu|
 
  * אשר־פצו 1: 
 
 |אֲשֶׁר־פָּצוּ 1|
 |-|
 |אֲשֶׁר־פָּצוּ 1|
-|'EšErE־EpEcEuE|
+|'ašer־pAcu|
 
  * אחים 1: 
 
 |אַחִים 1|
 |-|
 |אַחִים 1|
-|'EHEyEmE|
+|'aHiym|
 
  * יוכל 1: 
 
 |יוּכַל 1|
 |-|
 |יוּכַל 1|
-|yEuExElE|
+|yuxal|
 
  * קישון 1: 
 
 |קִישׁוֹן 1|
 |-|
 |קִישׁוֹֹן 1|
-|qEyEšEwEnE|
+|qiyšwon|
 
  * יפטירו 1: 
 
 |יַפְטִירוּ 1|
 |-|
 |יַפְטִירוּ 1|
-|yEfETEyErEuE|
+|yafsvTiyru|
 
  * כדבורים 1: 
 
 |כִדְבוֹרִים 1|
 |-|
 |כִדְבוֹֹרִים 1|
-|xEdEvEwErEyEmE|
+|xidsvvworiym|
 
  * אל־תשב 1: 
 
 |אַל־תָּשֵׁב 1|
 |-|
 |אַל־תָשֵׁב 1|
-|'ElE־EtEšEvE|
+|'al־tAšEv|
 
  * הדם 1: 
 
 |הֲדֹם 1|
 |-|
 |הֲדֹם 1|
-|hEdEmE|
+|hadom|
 
  * על־משכבותם 1: 
 
 |עַל־מִשְׁכְּבוֹתָם 1|
 |-|
 |עַל־מִשְׁכְּבוֹֹתָם 1|
-|ɣElE־EmEšEkEvEwEtEmE|
+|ɣal־mišsvksvvwotAm|
 
  * המות 1: 
 
 |הַמָּוֶת 1|
 |-|
 |הַמָוֶת 1|
-|hEmEwEtE|
+|hamAwet|
 
  * בכבודו 1: 
 
 |בִּכְבוֹדוֹ 1|
 |-|
 |בִּכְבוֹֹדוֹֹ 1|
-|bExEvEwEdEwE|
+|bixsvvwodwo|
 
  * בזמרות 1: 
 
 |בִּזְמִרוֹת 1|
 |-|
 |בִּזְמִרוֹֹת 1|
-|bEzEmErEwEtE|
+|bizsvmirwot|
 
  * תכונן 1: 
 
 |תְּכוֹנֵן 1|
 |-|
 |תְכוֹֹנֵן 1|
-|tExEwEnEnE|
+|tsvxwonEn|
 
  * אפתח 1: 
 
 |אֶפְתַּח 1|
 |-|
 |אֶפְתַח 1|
-|'EfEtEHE|
+|'efsvtaH|
 
  * ואיש 1: 
 
 |וְאִישׁ 1|
 |-|
 |וְאִישׁ 1|
-|wE'EyEšE|
+|wsv'iyš|
 
  * הרקיע 1: 
 
 |הָרָקִיעַ 1|
 |-|
 |הָרָקִיעַ 1|
-|hErEqEyEɣE|
+|hArAqiyɣa|
 
  * הצמיתם 1: 
 
 |הַצְמִיתֵם 1|
 |-|
 |הַצְמִיתֵם 1|
-|hEcEmEyEtEmE|
+|hacsvmiytEm|
 
  * ומידעי 1: 
 
 |וּמְיֻדָּעִי 1|
 |-|
 |וּמְיֻדָעִי 1|
-|uEmEyEdEɣEyE|
+|umsvyudAɣiy|
 
  * שנאן 1: 
 
 |שִׁנְאָן 1|
 |-|
 |שִׁנְאָן 1|
-|šEnE'EnE|
+|šinsv'An|
 
  * ערי 1: 
 
 |עָרֵי 1|
 |-|
 |עָרֵי 1|
-|ɣErEyE|
+|ɣArEy|
 
  * ותחשבהו 1: 
 
 |וַתְּחַשְּׁבֵהוּ 1|
 |-|
 |וַתְחַשְׁבֵהוּ 1|
-|wEtEHEšEvEhEuE|
+|watsvHašsvvEhu|
 
  * חמת־נחש 1: 
 
 |חֲמַת־נָחָשׁ 1|
 |-|
 |חֲמַת־נָחָשׁ 1|
-|HEmEtE־EnEHEšE|
+|Hamat־nAHAš|
 
  * חבר 1: 
 
 |חָבֵר 1|
 |-|
 |חָבֵר 1|
-|HEvErE|
+|HAvEr|
 
  * ואכבדה 1: 
 
 |וַאֲכַבְּדָה 1|
 |-|
 |וַאֲכַבְּדָה 1|
-|wE'ExEbEdEhE|
+|wa'axabsvdAh|
 
  * לחטאה 1: 
 
 |לַחֲטָאָה 1|
 |-|
 |לַחֲטָאָה 1|
-|lEHETE'EhE|
+|laHaTA'Ah|
 
  * קציעות 1: 
 
 |קְצִיעוֹת 1|
 |-|
 |קְצִיעוֹֹת 1|
-|qEcEyEɣEwEtE|
+|qsvciyɣwot|
 
  * דחיתני 1: 
 
 |דְחִיתַנִי 1|
 |-|
 |דְחִיתַנִי 1|
-|dEHEyEtEnEyE|
+|dsvHiytaniy|
 
  * יקדמני 1: 
 
 |יְקַדְּמֵנִי 1|
 |-|
 |יְקַדְמֵנִי 1|
-|yEqEdEmEnEyE|
+|ysvqadsvmEniy|
 
  * שפתים 1: 
 
 |שְׁפַתָּיִם 1|
 |-|
 |שְׁפַתָיִם 1|
-|šEfEtEyEmE|
+|šsvfatAyim|
 
  * צרים 1: 
 
 |צֻרִים 1|
 |-|
 |צֻרִים 1|
-|cErEyEmE|
+|curiym|
 
  * השחת 1: 
 
 |הַשָּׁחַת 1|
 |-|
 |הַשָׁחַת 1|
-|hEšEHEtE|
+|hašAHat|
 
  * כי־החליק 1: 
 
 |כִּי־הֶחֱלִיק 1|
 |-|
 |כִּי־הֶחֱלִיק 1|
-|kEyE־EhEHElEyEqE|
+|kiy־heHeliyq|
 
  * ויפלטם 1: 
 
 |וַיְפַלְּטֵם 1|
 |-|
 |וַיְפַלְטֵם 1|
-|wEyEfElETEmE|
+|waysvfalsvTEm|
 
  * עד־אבוא 1: 
 
 |עַד־אָבוֹא 1|
 |-|
 |עַד־אָבוֹֹא 1|
-|ɣEdE־E'EvEwE'E|
+|ɣad־'Avwo'|
 
  * תשמענה 1: 
 
 |תִּשְׁמַעְנָה 1|
 |-|
 |תִשְׁמַעְנָה 1|
-|tEšEmEɣEnEhE|
+|tišsvmaɣsvnAh|
 
  * ויתערבו 1: 
 
 |וַיִּתְעָרְבוּ 1|
 |-|
 |וַיִתְעָרְבוּ 1|
-|wEyEtEɣErEvEuE|
+|wayitsvɣArsvvu|
 
  * נאמנה 1: 
 
 |נֶאֱמָנָה 1|
 |-|
 |נֶאֱמָנָה 1|
-|nE'EmEnEhE|
+|ne'emAnAh|
 
  * בגדתי 1: 
 
 |בָגָדְתִּי 1|
 |-|
 |בָגָדְתִי 1|
-|vEgEdEtEyE|
+|vAgAdsvtiy|
 
  * אל־תחנוני 1: 
 
 |אֶל־תַּחֲנוּנַי 1|
 |-|
 |אֶל־תַחֲנוּנַי 1|
-|'ElE־EtEHEnEuEnEyE|
+|'el־taHanunay|
 
  * חצות־לילה 1: 
 
 |חֲצוֹת־לַיְלָה 1|
 |-|
 |חֲצוֹֹת־לַיְלָה 1|
-|HEcEwEtE־ElEyElEhE|
+|Hacwot־laysvlAh|
 
  * כי־חמת 1: 
 
 |כִּי־חֲמַת 1|
 |-|
 |כִּי־חֲמַת 1|
-|kEyE־EHEmEtE|
+|kiy־Hamat|
 
  * נדד 1: 
 
 |נְדֹד 1|
 |-|
 |נְדֹד 1|
-|nEdEdE|
+|nsvdod|
 
  * תסתירם 1: 
 
 |תַּסְתִּירֵם 1|
 |-|
 |תַסְתִירֵם 1|
-|tEsEtEyErEmE|
+|tassvtiyrEm|
 
  * ולמזח 1: 
 
 |וּלְמֵזַח 1|
 |-|
 |וּלְמֵזַח 1|
-|uElEmEzEHE|
+|ulsvmEzaH|
 
  * אשכילך 1: 
 
 |אַשְׂכִּילְךָ 1|
 |-|
 |אַשְׂכִּילְךָ 1|
-|'ESEkEyElExE|
+|'aSsvkiylsvxA|
 
  * כחלמים 1: 
 
 |כְּחֹלְמִים 1|
 |-|
 |כְּחֹלְמִים 1|
-|kEHElEmEyEmE|
+|ksvHolsvmiym|
 
  * צבא 1: 
 
 |צָבָא 1|
 |-|
 |צָבָא 1|
-|cEvE'E|
+|cAvA'|
 
  * פתיים 1: 
 
 |פְּתָיִים 1|
 |-|
 |פְּתָיִים 1|
-|pEtEyEyEmE|
+|psvtAyiym|
 
  * נוקש 1: 
 
 |נוֹקֵשׁ 1|
 |-|
 |נוֹֹקֵשׁ 1|
-|nEwEqEšE|
+|nwoqEš|
 
  * אל־צדיקים 1: 
 
 |אֶל־צַדִּיקִים 1|
 |-|
 |אֶל־צַדִיקִים 1|
-|'ElE־EcEdEyEqEyEmE|
+|'el־cadiyqiym|
 
  * למנות 1: 
 
 |לִמְנוֹת 1|
 |-|
 |לִמְנוֹֹת 1|
-|lEmEnEwEtE|
+|limsvnwot|
 
  * ותעצר 1: 
 
 |וַתֵּעָצַר 1|
 |-|
 |וַתֵעָצַר 1|
-|wEtEɣEcErE|
+|watEɣAcar|
 
  * על־דברתי 1: 
 
 |עַל־דִּבְרָתִי 1|
 |-|
 |עַל־דִבְרָתִי 1|
-|ɣElE־EdEvErEtEyE|
+|ɣal־divsvrAtiy|
 
  * על־כל־סביביו 1: 
 
 |עַל־כָּל־סְבִיבָיו 1|
 |-|
 |עַל־כָּל־סְבִיבָיו 1|
-|ɣElE־EkElE־EsEvEyEvEyEwE|
+|ɣal־kAl־ssvviyvAyw|
 
  * קדמתי 1: 
 
 |קִדַּמְתִּי 1|
 |-|
 |קִדַמְתִי 1|
-|qEdEmEtEyE|
+|qidamsvtiy|
 
  * ושטי 1: 
 
 |וְשָׂטֵי 1|
 |-|
 |וְשָׂטֵי 1|
-|wESETEyE|
+|wsvSATEy|
 
  * כושל 1: 
 
 |כּוֹשֵׁל 1|
 |-|
 |כּוֹֹשֵׁל 1|
-|kEwEšElE|
+|kwošEl|
 
  * לחסיל 1: 
 
 |לֶחָסִיל 1|
 |-|
 |לֶחָסִיל 1|
-|lEHEsEyElE|
+|leHAsiyl|
 
  * ממסגר 1: 
 
 |מִמַּסְגֵּר 1|
 |-|
 |מִמַסְגֵר 1|
-|mEmEsEgErE|
+|mimassvgEr|
 
  * מתיר 1: 
 
 |מַתִּיר 1|
 |-|
 |מַתִיר 1|
-|mEtEyErE|
+|matiyr|
 
  * ותשקקה 1: 
 
 |וַתְּשֹׁקְקֶהָ 1|
 |-|
 |וַתְשֹׁקְקֶהָ 1|
-|wEtEšEqEqEhE|
+|watsvšoqsvqehA|
 
  * לשדי 1: 
 
 |לְשַׁדִּי 1|
 |-|
 |לְשַׁדִי 1|
-|lEšEdEyE|
+|lsvšadiy|
 
  * במעמקי־מים 1: 
 
 |בְמַעֲמַקֵּי־מַיִם 1|
 |-|
 |בְמַעֲמַקֵי־מַיִם 1|
-|vEmEɣEmEqEyE־EmEyEmE|
+|vsvmaɣamaqEy־mayim|
 
  * תגל 1: 
 
 |תָּגֵל 1|
 |-|
 |תָגֵל 1|
-|tEgElE|
+|tAgEl|
 
  * ודבר 1: 
 
 |וְדֹבֵר 1|
 |-|
 |וְדֹבֵר 1|
-|wEdEvErE|
+|wsvdovEr|
 
  * ולא־שקרנו 1: 
 
 |וְלֹא־שִׁקַּרְנוּ 1|
 |-|
 |וְלֹא־שִׁקַרְנוּ 1|
-|wElE'E־EšEqErEnEuE|
+|wsvlo'־šiqarsvnu|
 
  * נטע 1: 
 
 |נָטָע 1|
 |-|
 |נָטָע 1|
-|nETEɣE|
+|nATAɣ|
 
  * ויתהלכו 1: 
 
 |וַיִּתְהַלְּכוּ 1|
 |-|
 |וַיִתְהַלְכוּ 1|
-|wEyEtEhElExEuE|
+|wayitsvhalsvxu|
 
  * עצתי 1: 
 
 |עֲצָתִי 1|
 |-|
 |עֲצָתִי 1|
-|ɣEcEtEyE|
+|ɣacAtiy|
 
  * נחלתו 1: 
 
 |נַחֲלָתוֹ 1|
 |-|
 |נַחֲלָתוֹֹ 1|
-|nEHElEtEwE|
+|naHalAtwo|
 
  * וכל־גבעות 1: 
 
 |וְכָל־גְּבָעוֹת 1|
 |-|
 |וְכָל־גְבָעוֹֹת 1|
-|wExElE־EgEvEɣEwEtE|
+|wsvxAl־gsvvAɣwot|
 
  * תופפות 1: 
 
 |תּוֹפֵפוֹת 1|
 |-|
 |תוֹֹפֵפוֹֹת 1|
-|tEwEfEfEwEtE|
+|twofEfwot|
 
  * בהדרי־קדש 1: 
 
 |בְּהַדְרֵי־קֹדֶשׁ 1|
 |-|
 |בְּהַדְרֵי־קֹדֶשׁ 1|
-|bEhEdErEyE־EqEdEšE|
+|bsvhadsvrEy־qodeš|
 
  * מועדך 1: 
 
 |מוֹעֲדֶךָ 1|
 |-|
 |מוֹֹעֲדֶךָ 1|
-|mEwEɣEdExE|
+|mwoɣadexA|
 
  * גרונם 1: 
 
 |גְּרוֹנָם 1|
 |-|
 |גְרוֹֹנָם 1|
-|gErEwEnEmE|
+|gsvrwonAm|
 
  * בברכה 1: 
 
 |בִּבְרָכָה 1|
 |-|
 |בִּבְרָכָה 1|
-|bEvErExEhE|
+|bivsvrAxAh|
 
  * ולשוננו 1: 
 
 |וּלְשׁוֹנֵנוּ 1|
 |-|
 |וּלְשׁוֹֹנֵנוּ 1|
-|uElEšEwEnEnEuE|
+|ulsvšwonEnu|
 
  * והפר 1: 
 
 |וְהָפֵר 1|
 |-|
 |וְהָפֵר 1|
-|wEhEfErE|
+|wsvhAfEr|
 
  * שכמו 1: 
 
 |שִׁכְמוֹ 1|
 |-|
 |שִׁכְמוֹֹ 1|
-|šExEmEwE|
+|šixsvmwo|
 
  * עם־נבר 1: 
 
 |עִם־נָבָר 1|
 |-|
 |עִם־נָבָר 1|
-|ɣEmE־EnEvErE|
+|ɣim־nAvAr|
 
  * [חציו] 1: 
 
 |[חִצָּיו] 1|
 |-|
 |[חִצָיו] 1|
-|[EHEcEyEwE]E|
+|[HicAyw]|
 
  * אל־תחן 1: 
 
 |אַל־תָּחֹן 1|
 |-|
 |אַל־תָחֹן 1|
-|'ElE־EtEHEnE|
+|'al־tAHon|
 
  * כמדין 1: 
 
 |כְּמִדְיָן 1|
 |-|
 |כְּמִדְיָן 1|
-|kEmEdEyEnE|
+|ksvmidsvyAn|
 
  * ולבקש 1: 
 
 |וּלְבַקֵּשׁ 1|
 |-|
 |וּלְבַקֵשׁ 1|
-|uElEvEqEšE|
+|ulsvvaqEš|
 
  * התמהמהתי 1: 
 
 |הִתְמַהְמָהְתִּי 1|
 |-|
 |הִתְמַהְמָהְתִי 1|
-|hEtEmEhEmEhEtEyE|
+|hitsvmahsvmAhsvtiy|
 
  * ונפץ 1: 
 
 |וְנִפֵּץ 1|
 |-|
 |וְנִפֵּץ 1|
-|wEnEpEcE|
+|wsvnipEc|
 
  * הליכותיך 1: 
 
 |הֲלִיכוֹתֶיךָ 1|
 |-|
 |הֲלִיכוֹֹתֶיךָ 1|
-|hElEyExEwEtEyExE|
+|haliyxwoteyxA|
 
  * פנימו 1: 
 
 |פָנֵימוֹ 1|
 |-|
 |פָנֵימוֹֹ 1|
-|fEnEyEmEwE|
+|fAnEymwo|
 
  * הגם־לחם 1: 
 
 |הֲגַם־לֶחֶם 1|
 |-|
 |הֲגַם־לֶחֶם 1|
-|hEgEmE־ElEHEmE|
+|hagam־leHem|
 
  * לעבדת 1: 
 
 |לַעֲבֹדַת 1|
 |-|
 |לַעֲבֹדַת 1|
-|lEɣEvEdEtE|
+|laɣavodat|
 
  * ברק 1: 
 
 |בָּרָק 1|
 |-|
 |בָּרָק 1|
-|bErEqE|
+|bArAq|
 
  * כנהרות 1: 
 
 |כַּנְּהָרוֹת 1|
 |-|
 |כַּנְהָרוֹֹת 1|
-|kEnEhErEwEtE|
+|kansvhArwot|
 
  * ותכונן 1: 
 
 |וּתְכוֹנֵן 1|
 |-|
 |וּתְכוֹֹנֵן 1|
-|uEtExEwEnEnE|
+|utsvxwonEn|
 
  * גדוד 1: 
 
 |גְּדוּד 1|
 |-|
 |גְדוּד 1|
-|gEdEuEdE|
+|gsvdud|
 
  * ויוסיפו 1: 
 
 |וַיּוֹסִיפוּ 1|
 |-|
 |וַיוֹֹסִיפוּ 1|
-|wEyEwEsEyEfEuE|
+|waywosiyfu|
 
  * תכנתי 1: 
 
 |תִכַּנְתִּי 1|
 |-|
 |תִכַּנְתִי 1|
-|tEkEnEtEyE|
+|tikansvtiy|
 
  * בושה 1: 
 
 |בּוּשָׁה 1|
 |-|
 |בּוּשָׁה 1|
-|bEuEšEhE|
+|bušAh|
 
  * תמימי־דרך 1: 
 
 |תְמִימֵי־דָרֶךְ 1|
 |-|
 |תְמִימֵי־דָרֶךְ 1|
-|tEmEyEmEyE־EdErExE|
+|tsvmiymEy־dArexsv|
 
  * הצדיקו 1: 
 
 |הַצְדִּיקוּ 1|
 |-|
 |הַצְדִיקוּ 1|
-|hEcEdEyEqEuE|
+|hacsvdiyqu|
 
  * יאשר 1: 
 
 |יאשר 1|
 |-|
 |יאשר 1|
-|yE'EשErE|
+|y'שr|
 
  * בתימו 1: 
 
 |בָּתֵּימוֹ 1|
 |-|
 |בָּתֵימוֹֹ 1|
-|bEtEyEmEwE|
+|bAtEymwo|
 
  * אל־משפטיך 1: 
 
 |אֶל־מִשְׁפָּטֶיךָ 1|
 |-|
 |אֶל־מִשְׁפָּטֶיךָ 1|
-|'ElE־EmEšEpETEyExE|
+|'el־mišsvpATeyxA|
 
  * משכני 1: 
 
 |מִשְׁכְּנֵי 1|
 |-|
 |מִשְׁכְּנֵי 1|
-|mEšEkEnEyE|
+|mišsvksvnEy|
 
  * ומגננו 1: 
 
 |וּמָגִנֵּנוּ 1|
 |-|
 |וּמָגִנֵנוּ 1|
-|uEmEgEnEnEuE|
+|umAginEnu|
 
  * בל־יוסיף 1: 
 
 |בַּל־יוֹסִיף 1|
 |-|
 |בַּל־יוֹֹסִיף 1|
-|bElE־EyEwEsEyEfE|
+|bal־ywosiyf|
 
  * הישועה 1: 
 
 |הַיְשׁוּעָה 1|
 |-|
 |הַיְשׁוּעָה 1|
-|hEyEšEuEɣEhE|
+|haysvšuɣAh|
 
  * טוב־וישר 1: 
 
 |טוֹב־וְיָשָׁר 1|
 |-|
 |טוֹֹב־וְיָשָׁר 1|
-|TEwEvE־EwEyEšErE|
+|Twov־wsvyAšAr|
 
  * כי־תיטיב 1: 
 
 |כִּי־תֵיטִיב 1|
 |-|
 |כִּי־תֵיטִיב 1|
-|kEyE־EtEyETEyEvE|
+|kiy־tEyTiyv|
 
  * הוא־צוה 1: 
 
 |הוּא־צִוָּה 1|
 |-|
 |הוּא־צִוָּה 1|
-|hEuE'E־EcEuEhE|
+|hu'־ciuAh|
 
  * נדחי 1: 
 
 |נִדְחֵי 1|
 |-|
 |נִדְחֵי 1|
-|nEdEHEyE|
+|nidsvHEy|
 
  * לתבונתו 1: 
 
 |לִתְבוּנָתוֹ 1|
 |-|
 |לִתְבוּנָתוֹֹ 1|
-|lEtEvEuEnEtEwE|
+|litsvvunAtwo|
 
  * מועקה 1: 
 
 |מוּעָקָה 1|
 |-|
 |מוּעָקָה 1|
-|mEuEɣEqEhE|
+|muɣAqAh|
 
  * תמחץ 1: 
 
 |תִּמְחַץ 1|
 |-|
 |תִמְחַץ 1|
-|tEmEHEcE|
+|timsvHac|
 
  * חזקו 1: 
 
 |חִזְקוּ 1|
 |-|
 |חִזְקוּ 1|
-|HEzEqEuE|
+|Hizsvqu|
 
  * לא־שמרו 1: 
 
 |לֹא־שָׁמְרוּ 1|
 |-|
 |לֹא־שָׁמְרוּ 1|
-|lE'E־EšEmErEuE|
+|lo'־šAmsvru|
 
  * תאהבון 1: 
 
 |תֶּאֱהָבוּן 1|
 |-|
 |תֶאֱהָבוּן 1|
-|tE'EhEvEuEnE|
+|te'ehAvun|
 
  * בקיטור 1: 
 
 |בְּקִיטוֹר 1|
 |-|
 |בְּקִיטוֹֹר 1|
-|bEqEyETEwErE|
+|bsvqiyTwor|
 
  * העמים 1: 
 
 |הָעַמִּים 1|
 |-|
 |הָעַמִים 1|
-|hEɣEmEyEmE|
+|hAɣamiym|
 
  * מכלל־יפי 1: 
 
 |מִכְלַל־יֹפִי 1|
 |-|
 |מִכְלַל־יֹפִי 1|
-|mExElElE־EyEfEyE|
+|mixsvlal־yofiy|
 
  * למעינו־מים 1: 
 
 |לְמַעְיְנוֹ־מָיִם 1|
 |-|
 |לְמַעְיְנוֹֹ־מָיִם 1|
-|lEmEɣEyEnEwE־EmEyEmE|
+|lsvmaɣsvysvnwo־mAyim|
 
  * ויעבר 1: 
 
 |וַיַּעֲבֹר 1|
 |-|
 |וַיַעֲבֹר 1|
-|wEyEɣEvErE|
+|wayaɣavor|
 
  * כל־זאת 1: 
 
 |כָּל־זֹאת 1|
 |-|
 |כָּל־זֹאת 1|
-|kElE־EzE'EtE|
+|kAl־zo't|
 
  * שנתם 1: 
 
 |שְׁנָתָם 1|
 |-|
 |שְׁנָתָם 1|
-|šEnEtEmE|
+|šsvnAtAm|
 
  * לנגדך 1: 
 
 |לְנֶגְדֶּךָ 1|
 |-|
 |לְנֶגְדֶךָ 1|
-|lEnEgEdExE|
+|lsvnegsvdexA|
 
  * סורר 1: 
 
 |סוֹרֵר 1|
 |-|
 |סוֹֹרֵר 1|
-|sEwErErE|
+|sworEr|
 
  * בירושלם 1: 
 
 |בִּירוּשָׁלִָם 1|
 |-|
 |בִּירוּשָׁלָם 1|
-|bEyErEuEšElEmE|
+|biyrušAlAm|
 
  * כי־ידע 1: 
 
 |כִּי־יָדַע 1|
 |-|
 |כִּי־יָדַע 1|
-|kEyE־EyEdEɣE|
+|kiy־yAdaɣ|
 
  * ויהמם 1: 
 
 |וַיְהֻמֵּם 1|
 |-|
 |וַיְהֻמֵם 1|
-|wEyEhEmEmE|
+|waysvhumEm|
 
  * ודעת 1: 
 
 |וָדַעַת 1|
 |-|
 |וָדַעַת 1|
-|wEdEɣEtE|
+|wAdaɣat|
 
  * יזלו־מים 1: 
 
 |יִזְּלוּ־מָיִם 1|
 |-|
 |יִזְלוּ־מָיִם 1|
-|yEzElEuE־EmEyEmE|
+|yizsvlu־mAyim|
 
  * כי־שמרתי 1: 
 
 |כִּי־שָׁמַרְתִּי 1|
 |-|
 |כִּי־שָׁמַרְתִי 1|
-|kEyE־EšEmErEtEyE|
+|kiy־šAmarsvtiy|
 
  * מתגרת 1: 
 
 |מִתִּגְרַת 1|
 |-|
 |מִתִגְרַת 1|
-|mEtEgErEtE|
+|mitigsvrat|
 
  * נחלתכם 1: 
 
 |נַחֲלַתְכֶם 1|
 |-|
 |נַחֲלַתְכֶם 1|
-|nEHElEtExEmE|
+|naHalatsvxem|
 
  * אלהיכם 1: 
 
 |אֱ‍לֹהֵיכֶם 1|
 |-|
 |אֱלֹהֵיכֶם 1|
-|'ElEhEyExEmE|
+|'elohEyxem|
 
  * יתנו־קול 1: 
 
 |יִתְּנוּ־קוֹל 1|
 |-|
 |יִתְנוּ־קוֹֹל 1|
-|yEtEnEuE־EqEwElE|
+|yitsvnu־qwol|
 
  * מישר 1: 
 
 |מִישֹׁר 1|
 |-|
 |מִישֹׁר 1|
-|mEyEšErE|
+|miyšor|
 
  * אחימלך 1: 
 
 |אֲחִימֶלֶךְ 1|
 |-|
 |אֲחִימֶלֶךְ 1|
-|'EHEyEmElExE|
+|'aHiymelexsv|
 
  * ונרננה 1: 
 
 |וּנְרַנְּנָה 1|
 |-|
 |וּנְרַנְנָה 1|
-|uEnErEnEnEhE|
+|unsvransvnAh|
 
  * שן 1: 
 
 |שֵׁן 1|
 |-|
 |שֵׁן 1|
-|šEnE|
+|šEn|
 
  * ושפתיך 1: 
 
 |וּשְׂפָתֶיךָ 1|
 |-|
 |וּשְׂפָתֶיךָ 1|
-|uESEfEtEyExE|
+|uSsvfAteyxA|
 
  * כמעשיך 1: 
 
 |כְּמַעֲשֶׂיךָ 1|
 |-|
 |כְּמַעֲשֶׂיךָ 1|
-|kEmEɣESEyExE|
+|ksvmaɣaSeyxA|
 
  * וכל־לאמים 1: 
 
 |וְכָל־לְאֻמִּים 1|
 |-|
 |וְכָל־לְאֻמִים 1|
-|wExElE־ElE'EmEyEmE|
+|wsvxAl־lsv'umiym|
 
  * ותבט 1: 
 
 |וַתַּבֵּט 1|
 |-|
 |וַתַבֵּט 1|
-|wEtEbETE|
+|watabET|
 
  * מה־גדלו 1: 
 
 |מַה־גָּדְלוּ 1|
 |-|
 |מַה־גָדְלוּ 1|
-|mEhE־EgEdElEuE|
+|mah־gAdsvlu|
 
  * יכבדנני 1: 
 
 |יְכַבְּדָנְנִי 1|
 |-|
 |יְכַבְּדָנְנִי 1|
-|yExEbEdEnEnEyE|
+|ysvxabsvdAnsvniy|
 
  * שכול 1: 
 
 |שְׁכוֹל 1|
 |-|
 |שְׁכוֹֹל 1|
-|šExEwElE|
+|šsvxwol|
 
  * שבטים 1: 
 
 |שְׁבָטִים 1|
 |-|
 |שְׁבָטִים 1|
-|šEvETEyEmE|
+|šsvvATiym|
 
  * איה־נא 1: 
 
 |אַיֵּה־נָא 1|
 |-|
 |אַיֵה־נָא 1|
-|'EyEhE־EnE'E|
+|'ayEh־nA'|
 
  * ומים 1: 
 
 |וּמִיָּם 1|
 |-|
 |וּמִיָם 1|
-|uEmEyEmE|
+|umiyAm|
 
  * נטויה 1: 
 
 |נְטוּיָה 1|
 |-|
 |נְטוּיָה 1|
-|nETEuEyEhE|
+|nsvTuyAh|
 
  * בחנפי 1: 
 
 |בְּחַנְפֵי 1|
 |-|
 |בְּחַנְפֵי 1|
-|bEHEnEfEyE|
+|bsvHansvfEy|
 
  * גדר 1: 
 
 |גָּדֵר 1|
 |-|
 |גָדֵר 1|
-|gEdErE|
+|gAdEr|
 
  * ובת־צר 1: 
 
 |וּבַת־צֹר 1|
 |-|
 |וּבַת־צֹר 1|
-|uEvEtE־EcErE|
+|uvat־cor|
 
  * ארורים 1: 
 
 |אֲרוּרִים 1|
 |-|
 |אֲרוּרִים 1|
-|'ErEuErEyEmE|
+|'aruriym|
 
  * חלד 1: 
 
 |חָלֶד 1|
 |-|
 |חָלֶד 1|
-|HElEdE|
+|HAled|
 
  * לא־השכילו 1: 
 
 |לֹא־הִשְׂכִּילוּ 1|
 |-|
 |לֹא־הִשְׂכִּילוּ 1|
-|lE'E־EhESEkEyElEuE|
+|lo'־hiSsvkiylu|
 
  * לרעבים 1: 
 
 |לָרְעֵבִים 1|
 |-|
 |לָרְעֵבִים 1|
-|lErEɣEvEyEmE|
+|lArsvɣEviym|
 
  * פחדם 1: 
 
 |פַּחְדָּם 1|
 |-|
 |פַּחְדָם 1|
-|pEHEdEmE|
+|paHsvdAm|
 
  * מי־יתיצב 1: 
 
 |מִי־יִתְיַצֵּב 1|
 |-|
 |מִי־יִתְיַצֵב 1|
-|mEyE־EyEtEyEcEvE|
+|miy־yitsvyacEv|
 
  * חכמים 1: 
 
 |חֲכָמִים 1|
 |-|
 |חֲכָמִים 1|
-|HExEmEyEmE|
+|HaxAmiym|
 
  * הצמתה 1: 
 
 |הִצְמַתָּה 1|
 |-|
 |הִצְמַתָה 1|
-|hEcEmEtEhE|
+|hicsvmatAh|
 
  * יעמדו־מים 1: 
 
 |יַעַמְדוּ־מָיִם 1|
 |-|
 |יַעַמְדוּ־מָיִם 1|
-|yEɣEmEdEuE־EmEyEmE|
+|yaɣamsvdu־mAyim|
 
  * יעטף־שית 1: 
 
 |יַעֲטָף־שִׁית 1|
 |-|
 |יַעֲטָף־שִׁית 1|
-|yEɣETEfE־EšEyEtE|
+|yaɣaTAf־šiyt|
 
  * כלחם 1: 
 
 |כַּלֶּחֶם 1|
 |-|
 |כַּלֶחֶם 1|
-|kElEHEmE|
+|kaleHem|
 
  * בגבורתיו 1: 
 
 |בִגְבוּרֹתָיו 1|
 |-|
 |בִגְבוּרֹתָיו 1|
-|vEgEvEuErEtEyEwE|
+|vigsvvurotAyw|
 
  * אסורים 1: 
 
 |אֲסוּרִים 1|
 |-|
 |אֲסוּרִים 1|
-|'EsEuErEyEmE|
+|'asuriym|
 
  * פקח 1: 
 
 |פֹּקֵחַ 1|
 |-|
 |פֹּקֵחַ 1|
-|pEqEHE|
+|poqEHa|
 
  * כימי 1: 
 
 |כִּימֵי 1|
 |-|
 |כִּימֵי 1|
-|kEyEmEyE|
+|kiymEy|
 
  * יגש 1: 
 
 |יִגָּשׁ 1|
 |-|
 |יִגָשׁ 1|
-|yEgEšE|
+|yigAš|
 
  * מבצר 1: 
 
 |מִבְצָר 1|
 |-|
 |מִבְצָר 1|
-|mEvEcErE|
+|mivsvcAr|
 
  * ישת 1: 
 
 |יָשֶׁת 1|
 |-|
 |יָשֶׁת 1|
-|yEšEtE|
+|yAšet|
 
  * תשבר 1: 
 
 |תְּשַׁבֵּר 1|
 |-|
 |תְשַׁבֵּר 1|
-|tEšEbErE|
+|tsvšabEr|
 
  * וימת 1: 
 
 |וַיָּמֶת 1|
 |-|
 |וַיָמֶת 1|
-|wEyEmEtE|
+|wayAmet|
 
  * נגעי 1: 
 
 |נִגְעִי 1|
 |-|
 |נִגְעִי 1|
-|nEgEɣEyE|
+|nigsvɣiy|
 
  * העוינו 1: 
 
 |הֶעֱוִינוּ 1|
 |-|
 |הֶעֱוִינוּ 1|
-|hEɣEwEyEnEuE|
+|heɣewiynu|
 
  * בל־עליך 1: 
 
 |בַּל־עָלֶיךָ 1|
 |-|
 |בַּל־עָלֶיךָ 1|
-|bElE־EɣElEyExE|
+|bal־ɣAleyxA|
 
  * משפטיו 1: 
 
 |מִשְׁפָּטָיו 1|
 |-|
 |מִשְׁפָּטָיו 1|
-|mEšEpETEyEwE|
+|mišsvpATAyw|
 
  * למצא 1: 
 
 |לִמְצֹא 1|
 |-|
 |לִמְצֹא 1|
-|lEmEcE'E|
+|limsvco'|
 
  * בנעמים 1: 
 
 |בַּנְּעִמִים 1|
 |-|
 |בַּנְעִמִים 1|
-|bEnEɣEmEyEmE|
+|bansvɣimiym|
 
  * ויתעם 1: 
 
 |וַיַּתְעֵם 1|
 |-|
 |וַיַתְעֵם 1|
-|wEyEtEɣEmE|
+|wayatsvɣEm|
 
  * עד־אפסי־ארץ 1: 
 
 |עַד־אַפְסֵי־אָרֶץ 1|
 |-|
 |עַד־אַפְסֵי־אָרֶץ 1|
-|ɣEdE־E'EfEsEyE־E'ErEcE|
+|ɣad־'afsvsEy־'Arec|
 
  * ואל־תבוא 1: 
 
 |וְאַל־תָּבוֹא 1|
 |-|
 |וְאַל־תָבוֹֹא 1|
-|wE'ElE־EtEvEwE'E|
+|wsv'al־tAvwo'|
 
  * שואה 1: 
 
 |שׁוֹאָה 1|
 |-|
 |שׁוֹֹאָה 1|
-|šEwE'EhE|
+|šwo'Ah|
 
  * ומקניהם 1: 
 
 |וּמִקְנֵיהֶם 1|
 |-|
 |וּמִקְנֵיהֶם 1|
-|uEmEqEnEyEhEmE|
+|umiqsvnEyhem|
 
  * וחרף 1: 
 
 |וָחֹרֶף 1|
 |-|
 |וָחֹרֶף 1|
-|wEHErEfE|
+|wAHoref|
 
  * יחפזון 1: 
 
 |יֵחָפֵזוּן 1|
 |-|
 |יֵחָפֵזוּן 1|
-|yEHEfEzEuEnE|
+|yEHAfEzun|
 
  * ואתעבה 1: 
 
 |וַאֲתַעֵבָה 1|
 |-|
 |וַאֲתַעֵבָה 1|
-|wE'EtEɣEvEhE|
+|wa'ataɣEvAh|
 
  * [ואתה] 1: 
 
 |[וְאַתָּה] 1|
 |-|
 |[וְאַתָה] 1|
-|[EwE'EtEhE]E|
+|[wsv'atAh]|
 
  * וכצלמנע 1: 
 
 |וּכְצַלְמֻנָּע 1|
 |-|
 |וּכְצַלְמֻנָע 1|
-|uExEcElEmEnEɣE|
+|uxsvcalsvmunAɣ|
 
  * חצו 1: 
 
 |חצו 1|
 |-|
 |חצו 1|
-|HEcEwE|
+|Hcw|
 
  * דברי־שיר 1: 
 
 |דִּבְרֵי־שִׁיר 1|
 |-|
 |דִבְרֵי־שִׁיר 1|
-|dEvErEyE־EšEyErE|
+|divsvrEy־šiyr|
 
  * נפזרו 1: 
 
 |נִפְזְרוּ 1|
 |-|
 |נִפְזְרוּ 1|
-|nEfEzErEuE|
+|nifsvzsvru|
 
  * כל־הון 1: 
 
 |כָּל־הוֹן 1|
 |-|
 |כָּל־הוֹֹן 1|
-|kElE־EhEwEnE|
+|kAl־hwon|
 
  * ושרין 1: 
 
 |וְשִׂרְיֹן 1|
 |-|
 |וְשִׂרְיֹן 1|
-|wESErEyEnE|
+|wsvSirsvyon|
 
  * מאיש־מרמה 1: 
 
 |מֵאִישׁ־מִרְמָה 1|
 |-|
 |מֵאִישׁ־מִרְמָה 1|
-|mE'EyEšE־EmErEmEhE|
+|mE'iyš־mirsvmAh|
 
  * בעמוד 1: 
 
 |בְּעַמּוּד 1|
 |-|
 |בְּעַמוּד 1|
-|bEɣEmEuEdE|
+|bsvɣamud|
 
  * באפי 1: 
 
 |בְאַפִּי 1|
 |-|
 |בְאַפִּי 1|
-|vE'EpEyE|
+|vsv'apiy|
 
  * הוא־עשנו 1: 
 
 |הוּא־עָשָׂנוּ 1|
 |-|
 |הוּא־עָשָׂנוּ 1|
-|hEuE'E־EɣESEnEuE|
+|hu'־ɣASAnu|
 
  * ומקלליו 1: 
 
 |וּמְקֻלָּלָיו 1|
 |-|
 |וּמְקֻלָלָיו 1|
-|uEmEqElElEyEwE|
+|umsvqulAlAyw|
 
  * חרפוך 1: 
 
 |חֵרְפוּךָ 1|
 |-|
 |חֵרְפוּךָ 1|
-|HErEfEuExE|
+|HErsvfuxA|
 
  * את־רב 1: 
 
 |אֶת־רֹב 1|
 |-|
 |אֶת־רֹב 1|
-|'EtE־ErEvE|
+|'et־rov|
 
  * בתהמות 1: 
 
 |בַּתְּהֹמוֹת 1|
 |-|
 |בַּתְהֹמוֹֹת 1|
-|bEtEhEmEwEtE|
+|batsvhomwot|
 
  * מהשחית 1: 
 
 |מֵהַשְׁחִית 1|
 |-|
 |מֵהַשְׁחִית 1|
-|mEhEšEHEyEtE|
+|mEhašsvHiyt|
 
  * יען 1: 
 
 |יַעַן 1|
 |-|
 |יַעַן 1|
-|yEɣEnE|
+|yaɣan|
 
  * ואסבבה 1: 
 
 |וַאֲסֹבְבָה 1|
 |-|
 |וַאֲסֹבְבָה 1|
-|wE'EsEvEvEhE|
+|wa'asovsvvAh|
 
  * ולא־רבית 1: 
 
 |וְלֹא־רִבִּיתָ 1|
 |-|
 |וְלֹא־רִבִּיתָ 1|
-|wElE'E־ErEbEyEtE|
+|wsvlo'־ribiytA|
 
  * תסובבך 1: 
 
 |תְּסוֹבְבֶךָּ 1|
 |-|
 |תְסוֹֹבְבֶךָּ 1|
-|tEsEwEvEvEkE|
+|tsvswovsvvekA|
 
  * קרנכם 1: 
 
 |קַרְנְכֶם 1|
 |-|
 |קַרְנְכֶם 1|
-|qErEnExEmE|
+|qarsvnsvxem|
 
  * כי־חזק 1: 
 
 |כִּי־חִזַּק 1|
 |-|
 |כִּי־חִזַק 1|
-|kEyE־EHEzEqE|
+|kiy־Hizaq|
 
  * כארז 1: 
 
 |כְּאֶרֶז 1|
 |-|
 |כְּאֶרֶז 1|
-|kE'ErEzE|
+|ksv'erez|
 
  * מן־היכלי 1: 
 
 |מִן־הֵיכְלֵי 1|
 |-|
 |מִן־הֵיכְלֵי 1|
-|mEnE־EhEyExElEyE|
+|min־hEyxsvlEy|
 
  * וכיראתך 1: 
 
 |וּכְיִרְאָתְךָ 1|
 |-|
 |וּכְיִרְאָתְךָ 1|
-|uExEyErE'EtExE|
+|uxsvyirsv'AtsvxA|
 
  * לידעי 1: 
 
 |לְיֹדְעָי 1|
 |-|
 |לְיֹדְעָי 1|
-|lEyEdEɣEyE|
+|lsvyodsvɣAy|
 
  * סעפים 1: 
 
 |סֵעֲפִים 1|
 |-|
 |סֵעֲפִים 1|
-|sEɣEfEyEmE|
+|sEɣafiym|
 
  * בארץ־חם 1: 
 
 |בְּאֶרֶץ־חָם 1|
 |-|
 |בְּאֶרֶץ־חָם 1|
-|bE'ErEcE־EHEmE|
+|bsv'erec־HAm|
 
  * ואסתר 1: 
 
 |וְאֶסָּתֵר 1|
 |-|
 |וְאֶסָתֵר 1|
-|wE'EsEtErE|
+|wsv'esAtEr|
 
  * ועל־נהרות 1: 
 
 |וְעַל־נְהָרוֹת 1|
 |-|
 |וְעַל־נְהָרוֹֹת 1|
-|wEɣElE־EnEhErEwEtE|
+|wsvɣal־nsvhArwot|
 
  * ופני 1: 
 
 |וּפְנֵי 1|
 |-|
 |וּפְנֵי 1|
-|uEfEnEyE|
+|ufsvnEy|
 
  * מחלד 1: 
 
 |מֵחֶלֶד 1|
 |-|
 |מֵחֶלֶד 1|
-|mEHElEdE|
+|mEHeled|
 
  * ותורך 1: 
 
 |וְתוֹרְךָ 1|
 |-|
 |וְתוֹֹרְךָ 1|
-|wEtEwErExE|
+|wsvtworsvxA|
 
  * את־אשפתו 1: 
 
 |אֶת־אַשְׁפָּתוֹ 1|
 |-|
 |אֶת־אַשְׁפָּתוֹֹ 1|
-|'EtE־E'EšEpEtEwE|
+|'et־'ašsvpAtwo|
 
  * בקולי 1: 
 
 |בְקוֹלִי 1|
 |-|
 |בְקוֹֹלִי 1|
-|vEqEwElEyE|
+|vsvqwoliy|
 
  * כנרותינו 1: 
 
 |כִּנֹּרוֹתֵינוּ 1|
 |-|
 |כִּנֹרוֹֹתֵינוּ 1|
-|kEnErEwEtEyEnEuE|
+|kinorwotEynu|
 
  * יחקר־זאת 1: 
 
 |יַחֲקָר־זֹאת 1|
 |-|
 |יַחֲקָר־זֹאת 1|
-|yEHEqErE־EzE'EtE|
+|yaHaqAr־zo't|
 
  * הלוך 1: 
 
 |הָלוֹךְ 1|
 |-|
 |הָלוֹֹךְ 1|
-|hElEwExE|
+|hAlwoxsv|
 
  * ימוט 1: 
 
 |יִמּוֹט 1|
 |-|
 |יִמוֹֹט 1|
-|yEmEwETE|
+|yimwoT|
 
  * בטנם 1: 
 
 |בִטְנָם 1|
 |-|
 |בִטְנָם 1|
-|vETEnEmE|
+|viTsvnAm|
 
  * לא־אפיר 1: 
 
 |לֹא־אָפִיר 1|
 |-|
 |לֹא־אָפִיר 1|
-|lE'E־E'EfEyErE|
+|lo'־'Afiyr|
 
  * ותפרץ־בם 1: 
 
 |וַתִּפְרָץ־בָּם 1|
 |-|
 |וַתִפְרָץ־בָּם 1|
-|wEtEfErEcE־EbEmE|
+|watifsvrAc־bAm|
 
  * [ירומו] 1: 
 
 |[יָרוּמוּ] 1|
 |-|
 |[יָרוּמוּ] 1|
-|[EyErEuEmEuE]E|
+|[yArumu]|
 
  * כארי 1: 
 
 |כָּאֲרִי 1|
 |-|
 |כָּאֲרִי 1|
-|kE'ErEyE|
+|kA'ariy|
 
  * ויחשך 1: 
 
 |וַיַּחְשִׁךְ 1|
 |-|
 |וַיַחְשִׁךְ 1|
-|wEyEHEšExE|
+|wayaHsvšixsv|
 
  * ואישן 1: 
 
 |וְאִישָׁן 1|
 |-|
 |וְאִישָׁן 1|
-|wE'EyEšEnE|
+|wsv'iyšAn|
 
  * בחר־בו 1: 
 
 |בָּחַר־בּוֹ 1|
 |-|
 |בָּחַר־בּוֹֹ 1|
-|bEHErE־EbEwE|
+|bAHar־bwo|
 
  * ותגעש 1: 
 
 |וַתִּגְעַשׁ 1|
 |-|
 |וַתִגְעַשׁ 1|
-|wEtEgEɣEšE|
+|watigsvɣaš|
 
  * נשכחתי 1: 
 
 |נִשְׁכַּחְתִּי 1|
 |-|
 |נִשְׁכַּחְתִי 1|
-|nEšEkEHEtEyE|
+|nišsvkaHsvtiy|
 
  * יגודו 1: 
 
 |יָגוֹדּוּ 1|
 |-|
 |יָגוֹֹדוּ 1|
-|yEgEwEdEuE|
+|yAgwodu|
 
  * ואהבם 1: 
 
 |וָאֹהֲבֵם 1|
 |-|
 |וָאֹהֲבֵם 1|
-|wE'EhEvEmE|
+|wA'ohavEm|
 
  * שאפו 1: 
 
 |שָׁאֲפוּ 1|
 |-|
 |שָׁאֲפוּ 1|
-|šE'EfEuE|
+|šA'afu|
 
  * ועדתי 1: 
 
 |וְעֵדֹתִי 1|
 |-|
 |וְעֵדֹתִי 1|
-|wEɣEdEtEyE|
+|wsvɣEdotiy|
 
  * יצפנו 1: 
 
 |יִצְפֹּנוּ 1|
 |-|
 |יִצְפֹּנוּ 1|
-|yEcEpEnEuE|
+|yicsvponu|
 
  * ותפיצם 1: 
 
 |וּתְפִיצֵם 1|
 |-|
 |וּתְפִיצֵם 1|
-|uEtEfEyEcEmE|
+|utsvfiycEm|
 
  * ברגש 1: 
 
 |בְּרָגֶשׁ 1|
 |-|
 |בְּרָגֶשׁ 1|
-|bErEgEšE|
+|bsvrAgeš|
 
  * יערות 1: 
 
 |יְעָרוֹת 1|
 |-|
 |יְעָרוֹֹת 1|
-|yEɣErEwEtE|
+|ysvɣArwot|
 
  * ולא־יכירנו 1: 
 
 |וְלֹא־יַכִּירֶנּוּ 1|
 |-|
 |וְלֹא־יַכִּירֶנוּ 1|
-|wElE'E־EyEkEyErEnEuE|
+|wsvlo'־yakiyrenu|
 
  * האכלתם 1: 
 
 |הֶאֱכַלְתָּם 1|
 |-|
 |הֶאֱכַלְתָם 1|
-|hE'ExElEtEmE|
+|he'exalsvtAm|
 
  * עריץ 1: 
 
 |עָרִיץ 1|
 |-|
 |עָרִיץ 1|
-|ɣErEyEcE|
+|ɣAriyc|
 
  * משברי 1: 
 
 |מִשִּׂבְרִי 1|
 |-|
 |מִשִׂבְרִי 1|
-|mESEvErEyE|
+|miSivsvriy|
 
  * תבהלם 1: 
 
 |תְבַהֲלֵם 1|
 |-|
 |תְבַהֲלֵם 1|
-|tEvEhElEmE|
+|tsvvahalEm|
 
  * לאהרן 1: 
 
 |לְאַהֲרֹן 1|
 |-|
 |לְאַהֲרֹן 1|
-|lE'EhErEnE|
+|lsv'aharon|
 
  * הבטן 1: 
 
 |הַבָּטֶן 1|
 |-|
 |הַבָּטֶן 1|
-|hEbETEnE|
+|habATen|
 
  * יחולל 1: 
 
 |יְחוֹלֵל 1|
 |-|
 |יְחוֹֹלֵל 1|
-|yEHEwElElE|
+|ysvHwolEl|
 
  * מדוד 1: 
 
 |מִדּוּד 1|
 |-|
 |מִדוּד 1|
-|mEdEuEdE|
+|midud|
 
  * כצל־כנטותו 1: 
 
 |כְּצֵל־כִּנְטוֹתוֹ 1|
 |-|
 |כְּצֵל־כִּנְטוֹֹתוֹֹ 1|
-|kEcElE־EkEnETEwEtEwE|
+|ksvcEl־kinsvTwotwo|
 
  * פתי 1: 
 
 |פֶּתִי 1|
 |-|
 |פֶּתִי 1|
-|pEtEyE|
+|petiy|
 
  * בצור־ירום 1: 
 
 |בְּצוּר־יָרוּם 1|
 |-|
 |בְּצוּר־יָרוּם 1|
-|bEcEuErE־EyErEuEmE|
+|bsvcur־yArum|
 
  * ותמאס 1: 
 
 |וַתִּמְאָס 1|
 |-|
 |וַתִמְאָס 1|
-|wEtEmE'EsE|
+|watimsv'As|
 
  * ולא־דמו 1: 
 
 |וְלֹא־דָמּוּ 1|
 |-|
 |וְלֹא־דָמוּ 1|
-|wElE'E־EdEmEuE|
+|wsvlo'־dAmu|
 
  * והרנינו 1: 
 
 |וְהַרְנִינוּ 1|
 |-|
 |וְהַרְנִינוּ 1|
-|wEhErEnEyEnEuE|
+|wsvharsvniynu|
 
  * וזרוע 1: 
 
 |וּזְרוֹעַ 1|
 |-|
 |וּזְרוֹֹעַ 1|
-|uEzErEwEɣE|
+|uzsvrwoɣa|
 
  * חסידה 1: 
 
 |חֲסִידָה 1|
 |-|
 |חֲסִידָה 1|
-|HEsEyEdEhE|
+|HasiydAh|
 
  * מאירת 1: 
 
 |מְאִירַת 1|
 |-|
 |מְאִירַת 1|
-|mE'EyErEtE|
+|msv'iyrat|
 
  * כיקר 1: 
 
 |כִּיקַר 1|
 |-|
 |כִּיקַר 1|
-|kEyEqErE|
+|kiyqar|
 
  * במצליח 1: 
 
 |בְּמַצְלִיחַ 1|
 |-|
 |בְּמַצְלִיחַ 1|
-|bEmEcElEyEHE|
+|bsvmacsvliyHa|
 
  * לא־אסיר 1: 
 
 |לֹא־אָסִיר 1|
 |-|
 |לֹא־אָסִיר 1|
-|lE'E־E'EsEyErE|
+|lo'־'Asiyr|
 
  * ואל־תחטאו 1: 
 
 |וְאַל־תֶּחֱטָאוּ 1|
 |-|
 |וְאַל־תֶחֱטָאוּ 1|
-|wE'ElE־EtEHETE'EuE|
+|wsv'al־teHeTA'u|
 
  * עצת־גוים 1: 
 
 |עֲצַת־גּוֹיִם 1|
 |-|
 |עֲצַת־גוֹֹיִם 1|
-|ɣEcEtE־EgEwEyEmE|
+|ɣacat־gwoyim|
 
  * זריתנו 1: 
 
 |זֵרִיתָנוּ 1|
 |-|
 |זֵרִיתָנוּ 1|
-|zErEyEtEnEuE|
+|zEriytAnu|
 
  * מפחדך 1: 
 
 |מִפַּחְדְּךָ 1|
 |-|
 |מִפַּחְדְךָ 1|
-|mEpEHEdExE|
+|mipaHsvdsvxA|
 
  * כעדר 1: 
 
 |כַּעֵדֶר 1|
 |-|
 |כַּעֵדֶר 1|
-|kEɣEdErE|
+|kaɣEder|
 
  * למזמה 1: 
 
 |לִמְזִמָּה 1|
 |-|
 |לִמְזִמָה 1|
-|lEmEzEmEhE|
+|limsvzimAh|
 
  * אתקוטט 1: 
 
 |אֶתְקוֹטָט 1|
 |-|
 |אֶתְקוֹֹטָט 1|
-|'EtEqEwETETE|
+|'etsvqwoTAT|
 
  * על־עדת 1: 
 
 |עַל־עֲדַת 1|
 |-|
 |עַל־עֲדַת 1|
-|ɣElE־EɣEdEtE|
+|ɣal־ɣadat|
 
  * יראה־מות 1: 
 
 |יִרְאֶה־מָּוֶת 1|
 |-|
 |יִרְאֶה־מָוֶת 1|
-|yErE'EhE־EmEwEtE|
+|yirsv'eh־mAwet|
 
  * מי־כמוך 1: 
 
 |מִי־כָמוֹךָ 1|
 |-|
 |מִי־כָמוֹֹךָ 1|
-|mEyE־ExEmEwExE|
+|miy־xAmwoxA|
 
  * על־קצותם 1: 
 
 |עַל־קְצוֹתָם 1|
 |-|
 |עַל־קְצוֹֹתָם 1|
-|ɣElE־EqEcEwEtEmE|
+|ɣal־qsvcwotAm|
 
  * גם־יחד 1: 
 
 |גַּם־יָחַד 1|
 |-|
 |גַם־יָחַד 1|
-|gEmE־EyEHEdE|
+|gam־yAHad|
 
  * רגזו 1: 
 
 |רִגְזוּ 1|
 |-|
 |רִגְזוּ 1|
-|rEgEzEuE|
+|rigsvzu|
 
  * מכין 1: 
 
 |מֵכִין 1|
 |-|
 |מֵכִין 1|
-|mExEyEnE|
+|mExiyn|
 
  * ואצעקה 1: 
 
 |וְאֶצְעָקָה 1|
 |-|
 |וְאֶצְעָקָה 1|
-|wE'EcEɣEqEhE|
+|wsv'ecsvɣAqAh|
 
  * אהל 1: 
 
 |אֹהֶל 1|
 |-|
 |אֹהֶל 1|
-|'EhElE|
+|'ohel|
 
  * לאפסי 1: 
 
 |לְאַפְסֵי 1|
 |-|
 |לְאַפְסֵי 1|
-|lE'EfEsEyE|
+|lsv'afsvsEy|
 
  * דמעה 1: 
 
 |דִּמְעָה 1|
 |-|
 |דִמְעָה 1|
-|dEmEɣEhE|
+|dimsvɣAh|
 
  * אסרו־חג 1: 
 
 |אִסְרוּ־חַג 1|
 |-|
 |אִסְרוּ־חַג 1|
-|'EsErEuE־EHEgE|
+|'issvru־Hag|
 
  * על־שדי 1: 
 
 |עַל־שְׁדֵי 1|
 |-|
 |עַל־שְׁדֵי 1|
-|ɣElE־EšEdEyE|
+|ɣal־šsvdEy|
 
  * ולא־יסיף 1: 
 
 |וְלֹא־יֹסִיף 1|
 |-|
 |וְלֹא־יֹסִיף 1|
-|wElE'E־EyEsEyEfE|
+|wsvlo'־yosiyf|
 
  * ויתאוו 1: 
 
 |וַיִּתְאַוּוּ 1|
 |-|
 |וַיִתְאַוּוּ 1|
-|wEyEtE'EuEuE|
+|wayitsv'auu|
 
  * מכשול 1: 
 
 |מִכְשׁוֹל 1|
 |-|
 |מִכְשׁוֹֹל 1|
-|mExEšEwElE|
+|mixsvšwol|
 
  * תשבחם 1: 
 
 |תְשַׁבְּחֵם 1|
 |-|
 |תְשַׁבְּחֵם 1|
-|tEšEbEHEmE|
+|tsvšabsvHEm|
 
  * עם־כוש 1: 
 
 |עִם־כּוּשׁ 1|
 |-|
 |עִם־כּוּשׁ 1|
-|ɣEmE־EkEuEšE|
+|ɣim־kuš|
 
  * כי־עת 1: 
 
 |כִּי־עֵת 1|
 |-|
 |כִּי־עֵת 1|
-|kEyE־EɣEtE|
+|kiy־ɣEt|
 
  * ומוצא 1: 
 
 |וּמוֹצָא 1|
 |-|
 |וּמוֹֹצָא 1|
-|uEmEwEcE'E|
+|umwocA'|
 
  * הטה־אזנך 1: 
 
 |הַטֵּה־אָזְנְךָ 1|
 |-|
 |הַטֵה־אָזְנְךָ 1|
-|hETEhE־E'EzEnExE|
+|haTEh־'AzsvnsvxA|
 
  * ושנותם 1: 
 
 |וּשְׁנוֹתָם 1|
 |-|
 |וּשְׁנוֹֹתָם 1|
-|uEšEnEwEtEmE|
+|ušsvnwotAm|
 
  * חרשו 1: 
 
 |חָרְשׁוּ 1|
 |-|
 |חָרְשׁוּ 1|
-|HErEšEuE|
+|HArsvšu|
 
  * אשתונן 1: 
 
 |אֶשְׁתּוֹנָן 1|
 |-|
 |אֶשְׁתוֹֹנָן 1|
-|'EšEtEwEnEnE|
+|'ešsvtwonAn|
 
  * ברכב 1: 
 
 |בָרֶכֶב 1|
 |-|
 |בָרֶכֶב 1|
-|vErExEvE|
+|vArexev|
 
  * כי־רבים 1: 
 
 |כִּי־רַבִּים 1|
 |-|
 |כִּי־רַבִּים 1|
-|kEyE־ErEbEyEmE|
+|kiy־rabiym|
 
  * תחזינה 1: 
 
 |תֶּחֱזֶינָה 1|
 |-|
 |תֶחֱזֶינָה 1|
-|tEHEzEyEnEhE|
+|teHezeynAh|
 
  * אל־רהבים 1: 
 
 |אֶל־רְהָבִים 1|
 |-|
 |אֶל־רְהָבִים 1|
-|'ElE־ErEhEvEyEmE|
+|'el־rsvhAviym|
 
  * לחמה 1: 
 
 |לַחְמָהּ 1|
 |-|
 |לַחְמָה 1|
-|lEHEmEhE|
+|laHsvmAh|
 
  * נהלך 1: 
 
 |נְהַלֵּךְ 1|
 |-|
 |נְהַלֵךְ 1|
-|nEhElExE|
+|nsvhalExsv|
 
  * אליהם 1: 
 
 |אֲלֵיהֶם 1|
 |-|
 |אֲלֵיהֶם 1|
-|'ElEyEhEmE|
+|'alEyhem|
 
  * בנעוריהם 1: 
 
 |בִּנְעוּרֵיהֶם 1|
 |-|
 |בִּנְעוּרֵיהֶם 1|
-|bEnEɣEuErEyEhEmE|
+|binsvɣurEyhem|
 
  * יתפרדו 1: 
 
 |יִתְפָּרְדוּ 1|
 |-|
 |יִתְפָּרְדוּ 1|
-|yEtEpErEdEuE|
+|yitsvpArsvdu|
 
  * ליראה 1: 
 
 |לְיִרְאָה 1|
 |-|
 |לְיִרְאָה 1|
-|lEyErE'EhE|
+|lsvyirsv'Ah|
 
  * נחרו 1: 
 
 |נִחָרוּ 1|
 |-|
 |נִחָרוּ 1|
-|nEHErEuE|
+|niHAru|
 
  * בגאונם 1: 
 
 |בִגְאוֹנָם 1|
 |-|
 |בִגְאוֹֹנָם 1|
-|vEgE'EwEnEmE|
+|vigsv'wonAm|
 
  * תכן 1: 
 
 |תָּכִן 1|
 |-|
 |תָכִן 1|
-|tExEnE|
+|tAxin|
 
  * רויה 1: 
 
 |רְוָיָה 1|
 |-|
 |רְוָיָה 1|
-|rEwEyEhE|
+|rsvwAyAh|
 
  * אותתם 1: 
 
 |אוֹתֹתָם 1|
 |-|
 |אוֹֹתֹתָם 1|
-|'EwEtEtEmE|
+|'wototAm|
 
  * חמה 1: 
 
 |חֵמָה 1|
 |-|
 |חֵמָה 1|
-|HEmEhE|
+|HEmAh|
 
  * בשיבה 1: 
 
 |בְּשֵׂיבָה 1|
 |-|
 |בְּשֵׂיבָה 1|
-|bESEyEvEhE|
+|bsvSEyvAh|
 
  * בעונם 1: 
 
 |בַּעֲוֺנָם 1|
 |-|
 |בַּעֲוֺנָם 1|
-|bEɣEwEnEmE|
+|baɣaw_o_nAm|
 
  * וצפור 1: 
 
 |וְצִפּוֹר 1|
 |-|
 |וְצִפּוֹֹר 1|
-|wEcEpEwErE|
+|wsvcipwor|
 
  * בדרכך 1: 
 
 |בִּדְרָכֶךָ 1|
 |-|
 |בִּדְרָכֶךָ 1|
-|bEdErExExE|
+|bidsvrAxexA|
 
  * על־פלגי 1: 
 
 |עַל־פַּלְגֵי 1|
 |-|
 |עַל־פַּלְגֵי 1|
-|ɣElE־EpElEgEyE|
+|ɣal־palsvgEy|
 
  * בכל־גוים 1: 
 
 |בְּכָל־גּוֹיִם 1|
 |-|
 |בְּכָל־גוֹֹיִם 1|
-|bExElE־EgEwEyEmE|
+|bsvxAl־gwoyim|
 
  * בעדו 1: 
 
 |בַּעֲדוֹ 1|
 |-|
 |בַּעֲדוֹֹ 1|
-|bEɣEdEwE|
+|baɣadwo|
 
  * רדפם 1: 
 
 |רֹדְפָם 1|
 |-|
 |רֹדְפָם 1|
-|rEdEfEmE|
+|rodsvfAm|
 
  * השגיח 1: 
 
 |הִשְׁגִּיחַ 1|
 |-|
 |הִשְׁגִיחַ 1|
-|hEšEgEyEHE|
+|hišsvgiyHa|
 
  * חם־לבי 1: 
 
 |חַם־לִבִּי 1|
 |-|
 |חַם־לִבִּי 1|
-|HEmE־ElEbEyE|
+|Ham־libiy|
 
  * ישלח־בם 1: 
 
 |יְשַׁלַּח־בָּם 1|
 |-|
 |יְשַׁלַח־בָּם 1|
-|yEšElEHE־EbEmE|
+|ysvšalaH־bAm|
 
  * את־זאת 1: 
 
 |אֶת־זֹאת 1|
 |-|
 |אֶת־זֹאת 1|
-|'EtE־EzE'EtE|
+|'et־zo't|
 
  * נעלמים 1: 
 
 |נַעֲלָמִים 1|
 |-|
 |נַעֲלָמִים 1|
-|nEɣElEmEyEmE|
+|naɣalAmiym|
 
  * כמדבר 1: 
 
 |כַּמִּדְבָּר 1|
 |-|
 |כַּמִדְבָּר 1|
-|kEmEdEbErE|
+|kamidsvbAr|
 
  * לדברו 1: 
 
 |לִדְבָרוֹ 1|
 |-|
 |לִדְבָרוֹֹ 1|
-|lEdEvErEwE|
+|lidsvvArwo|
 
  * כחתן 1: 
 
 |כְּחָתָן 1|
 |-|
 |כְּחָתָן 1|
-|kEHEtEnE|
+|ksvHAtAn|
 
  * מריבי 1: 
 
 |מֵרִיבֵי 1|
 |-|
 |מֵרִיבֵי 1|
-|mErEyEvEyE|
+|mEriyvEy|
 
  * אל־יעלצו 1: 
 
 |אַל־יַעַלְצוּ 1|
 |-|
 |אַל־יַעַלְצוּ 1|
-|'ElE־EyEɣElEcEuE|
+|'al־yaɣalsvcu|
 
  * תחגר 1: 
 
 |תַּחְגֹּר 1|
 |-|
 |תַחְגֹר 1|
-|tEHEgErE|
+|taHsvgor|
 
  * עם־משיחך 1: 
 
 |עִם־מְשִׁיחֶךָ 1|
 |-|
 |עִם־מְשִׁיחֶךָ 1|
-|ɣEmE־EmEšEyEHExE|
+|ɣim־msvšiyHexA|
 
  * כמו־קד 1: 
 
 |כְּמוֹ־קֵד 1|
 |-|
 |כְּמוֹֹ־קֵד 1|
-|kEmEwE־EqEdE|
+|ksvmwo־qEd|
 
  * מזקנים 1: 
 
 |מִזְּקֵנִים 1|
 |-|
 |מִזְקֵנִים 1|
-|mEzEqEnEyEmE|
+|mizsvqEniym|
 
  * חקרתני 1: 
 
 |חֲקַרְתַּנִי 1|
 |-|
 |חֲקַרְתַנִי 1|
-|HEqErEtEnEyE|
+|Haqarsvtaniy|
 
  * ולגדלתו 1: 
 
 |וְלִגְדֻלָּתוֹ 1|
 |-|
 |וְלִגְדֻלָתוֹֹ 1|
-|wElEgEdElEtEwE|
+|wsvligsvdulAtwo|
 
  * יתמללו 1: 
 
 |יִתְמֹלָלוּ 1|
 |-|
 |יִתְמֹלָלוּ 1|
-|yEtEmElElEuE|
+|yitsvmolAlu|
 
  * חלצה 1: 
 
 |חַלְּצָה 1|
 |-|
 |חַלְצָה 1|
-|HElEcEhE|
+|HalsvcAh|
 
  * בשמותם 1: 
 
 |בִשְׁמוֹתָם 1|
 |-|
 |בִשְׁמוֹֹתָם 1|
-|vEšEmEwEtEmE|
+|višsvmwotAm|
 
  * כאדם 1: 
 
 |כְּאָדָם 1|
 |-|
 |כְּאָדָם 1|
-|kE'EdEmE|
+|ksv'AdAm|
 
  * ותבל 1: 
 
 |וְתֵבֵל 1|
 |-|
 |וְתֵבֵל 1|
-|wEtEvElE|
+|wsvtEvEl|
 
  * יקום 1: 
 
 |יָקוּם 1|
 |-|
 |יָקוּם 1|
-|yEqEuEmE|
+|yAqum|
 
  * הבוגדים 1: 
 
 |הַבּוֹגְדִים 1|
 |-|
 |הַבּוֹֹגְדִים 1|
-|hEbEwEgEdEyEmE|
+|habwogsvdiym|
 
  * בישר 1: 
 
 |בְּיֹשֶׁר 1|
 |-|
 |בְּיֹשֶׁר 1|
-|bEyEšErE|
+|bsvyošer|
 
  * ונותן 1: 
 
 |וְנוֹתֵן 1|
 |-|
 |וְנוֹֹתֵן 1|
-|wEnEwEtEnE|
+|wsvnwotEn|
 
  * שכנו 1: 
 
 |שָׁכְנוּ 1|
 |-|
 |שָׁכְנוּ 1|
-|šExEnEuE|
+|šAxsvnu|
 
  * כצדקו 1: 
 
 |כְּצִדְקוֹ 1|
 |-|
 |כְּצִדְקוֹֹ 1|
-|kEcEdEqEwE|
+|ksvcidsvqwo|
 
  * לעזרני 1: 
 
 |לְעָזְרֵנִי 1|
 |-|
 |לְעָזְרֵנִי 1|
-|lEɣEzErEnEyE|
+|lsvɣAzsvrEniy|
 
  * הודו־לו 1: 
 
 |הוֹדוּ־לוֹ 1|
 |-|
 |הוֹֹדוּ־לוֹֹ 1|
-|hEwEdEuE־ElEwE|
+|hwodu־lwo|
 
  * שבטי־יה 1: 
 
 |שִׁבְטֵי־יָהּ 1|
 |-|
 |שִׁבְטֵי־יָה 1|
-|šEvETEyE־EyEhE|
+|šivsvTEy־yAh|
 
  * להר 1: 
 
 |לְהַר 1|
 |-|
 |לְהַר 1|
-|lEhErE|
+|lsvhar|
 
  * באשמרות 1: 
 
 |בְּאַשְׁמֻרוֹת 1|
 |-|
 |בְּאַשְׁמֻרוֹֹת 1|
-|bE'EšEmErEwEtE|
+|bsv'ašsvmurwot|
 
  * וחלקי 1: 
 
 |וְחֶלְקִי 1|
 |-|
 |וְחֶלְקִי 1|
-|wEHElEqEyE|
+|wsvHelsvqiy|
 
  * ורכב 1: 
 
 |וְרֶכֶב 1|
 |-|
 |וְרֶכֶב 1|
-|wErExEvE|
+|wsvrexev|
 
  * ואבד 1: 
 
 |וְאָבַד 1|
 |-|
 |וְאָבַד 1|
-|wE'EvEdE|
+|wsv'Avad|
 
  * [צבאיו 1: 
 
 |[צְבָאָיו 1|
 |-|
 |[צְבָאָיו 1|
-|[EcEvE'EyEwE|
+|[csvvA'Ayw|
 
  * אשר־יראה 1: 
 
 |אֲשֶׁר־יִרְאֶה 1|
 |-|
 |אֲשֶׁר־יִרְאֶה 1|
-|'EšErE־EyErE'EhE|
+|'ašer־yirsv'eh|
 
  * ישבר 1: 
 
 |יְשַׁבֵּר 1|
 |-|
 |יְשַׁבֵּר 1|
-|yEšEbErE|
+|ysvšabEr|
 
  * תזרח 1: 
 
 |תִּזְרַח 1|
 |-|
 |תִזְרַח 1|
-|tEzErEHE|
+|tizsvraH|
 
  * נכרתה 1: 
 
 |נִכְרָתָה 1|
 |-|
 |נִכְרָתָה 1|
-|nExErEtEhE|
+|nixsvrAtAh|
 
  * ותקרב 1: 
 
 |וּתְקָרֵב 1|
 |-|
 |וּתְקָרֵב 1|
-|uEtEqErEvE|
+|utsvqArEv|
 
  * מאסם 1: 
 
 |מְאָסָם 1|
 |-|
 |מְאָסָם 1|
-|mE'EsEmE|
+|msv'AsAm|
 
  * במעשה 1: 
 
 |בְּמַעֲשֵׂה 1|
 |-|
 |בְּמַעֲשֵׂה 1|
-|bEmEɣESEhE|
+|bsvmaɣaSEh|
 
  * תהיינה 1: 
 
 |תִּהְיֶינָה 1|
 |-|
 |תִהְיֶינָה 1|
-|tEhEyEyEnEhE|
+|tihsvyeynAh|
 
  * אענה 1: 
 
 |אֶעֱנֶה 1|
 |-|
 |אֶעֱנֶה 1|
-|'EɣEnEhE|
+|'eɣeneh|
 
  * לישחק 1: 
 
 |לְיִשְׂחָק 1|
 |-|
 |לְיִשְׂחָק 1|
-|lEyESEHEqE|
+|lsvyiSsvHAq|
 
  * ותנו־תף 1: 
 
 |וּתְנוּ־תֹף 1|
 |-|
 |וּתְנוּ־תֹף 1|
-|uEtEnEuE־EtEfE|
+|utsvnu־tof|
 
  * ותרומם 1: 
 
 |וַתְּרוֹמֵם 1|
 |-|
 |וַתְרוֹֹמֵם 1|
-|wEtErEwEmEmE|
+|watsvrwomEm|
 
  * [וענני 1: 
 
 |[וַעֲנֵנִי 1|
 |-|
 |[וַעֲנֵנִי 1|
-|[EwEɣEnEnEyE|
+|[waɣanEniy|
 
  * לטבוח 1: 
 
 |לִטְבוֹחַ 1|
 |-|
 |לִטְבוֹֹחַ 1|
-|lETEvEwEHE|
+|liTsvvwoHa|
 
  * נתץ 1: 
 
 |נְתֹץ 1|
 |-|
 |נְתֹץ 1|
-|nEtEcE|
+|nsvtoc|
 
  * לשאל־אכל 1: 
 
 |לִשְׁאָל־אֹכֶל 1|
 |-|
 |לִשְׁאָל־אֹכֶל 1|
-|lEšE'ElE־E'ExElE|
+|lišsv'Al־'oxel|
 
  * וקומי 1: 
 
 |וְקוּמִי 1|
 |-|
 |וְקוּמִי 1|
-|wEqEuEmEyE|
+|wsvqumiy|
 
  * את־מזבחך 1: 
 
 |אֶת־מִזְבַּחֲךָ 1|
 |-|
 |אֶת־מִזְבַּחֲךָ 1|
-|'EtE־EmEzEbEHExE|
+|'et־mizsvbaHaxA|
 
  * מאחרי־שבת 1: 
 
 |מְאַחֲרֵי־שֶׁבֶת 1|
 |-|
 |מְאַחֲרֵי־שֶׁבֶת 1|
-|mE'EHErEyE־EšEvEtE|
+|msv'aHarEy־ševet|
 
  * יגמלני 1: 
 
 |יִגְמְלֵנִי 1|
 |-|
 |יִגְמְלֵנִי 1|
-|yEgEmElEnEyE|
+|yigsvmsvlEniy|
 
  * בנפלאותיך 1: 
 
 |בְּנִפְלְאוֹתֶיךָ 1|
 |-|
 |בְּנִפְלְאוֹֹתֶיךָ 1|
-|bEnEfElE'EwEtEyExE|
+|bsvnifsvlsv'woteyxA|
 
  * יצוה 1: 
 
 |יְצַוֶּה 1|
 |-|
 |יְצַוֶּה 1|
-|yEcEuEhE|
+|ysvcaueh|
 
  * קמנו 1: 
 
 |קַּמְנוּ 1|
 |-|
 |קַמְנוּ 1|
-|qEmEnEuE|
+|qamsvnu|
 
  * בטנך 1: 
 
 |בִטְנְךָ 1|
 |-|
 |בִטְנְךָ 1|
-|vETEnExE|
+|viTsvnsvxA|
 
  * שיר־חנכת 1: 
 
 |שִׁיר־חֲנֻכַּת 1|
 |-|
 |שִׁיר־חֲנֻכַּת 1|
-|šEyErE־EHEnEkEtE|
+|šiyr־Hanukat|
 
  * ואל־מעשה 1: 
 
 |וְאֶל־מַעֲשֵׂה 1|
 |-|
 |וְאֶל־מַעֲשֵׂה 1|
-|wE'ElE־EmEɣESEhE|
+|wsv'el־maɣaSEh|
 
  * ונחלי 1: 
 
 |וְנַחֲלֵי 1|
 |-|
 |וְנַחֲלֵי 1|
-|wEnEHElEyE|
+|wsvnaHalEy|
 
  * גשמיהם 1: 
 
 |גִּשְׁמֵיהֶם 1|
 |-|
 |גִשְׁמֵיהֶם 1|
-|gEšEmEyEhEmE|
+|gišsvmEyhem|
 
  * למשפטיך 1: 
 
 |לְמִשְׁפָּטֶיךָ 1|
 |-|
 |לְמִשְׁפָּטֶיךָ 1|
-|lEmEšEpETEyExE|
+|lsvmišsvpATeyxA|
 
  * תכלה 1: 
 
 |תִּכְלָה 1|
 |-|
 |תִכְלָה 1|
-|tExElEhE|
+|tixsvlAh|
 
  * הסירותי 1: 
 
 |הֲסִירוֹתִי 1|
 |-|
 |הֲסִירוֹֹתִי 1|
-|hEsEyErEwEtEyE|
+|hasiyrwotiy|
 
  * שכנתי 1: 
 
 |שָׁכַנְתִּי 1|
 |-|
 |שָׁכַנְתִי 1|
-|šExEnEtEyE|
+|šAxansvtiy|
 
  * כל־משבריך 1: 
 
 |כָּל־מִשְׁבָּרֶיךָ 1|
 |-|
 |כָּל־מִשְׁבָּרֶיךָ 1|
-|kElE־EmEšEbErEyExE|
+|kAl־mišsvbAreyxA|
 
  * אך־הבל 1: 
 
 |אַךְ־הֶבֶל 1|
 |-|
 |אַךְ־הֶבֶל 1|
-|'ExE־EhEvElE|
+|'axsv־hevel|
 
  * עזרה 1: 
 
 |עֶזְרָה 1|
 |-|
 |עֶזְרָה 1|
-|ɣEzErEhE|
+|ɣezsvrAh|
 
  * השתות 1: 
 
 |הַשָּׁתוֹת 1|
 |-|
 |הַשָׁתוֹֹת 1|
-|hEšEtEwEtE|
+|hašAtwot|
 
  * נמסו 1: 
 
 |נָמַסּוּ 1|
 |-|
 |נָמַסוּ 1|
-|nEmEsEuE|
+|nAmasu|
 
  * כקיר 1: 
 
 |כְּקִיר 1|
 |-|
 |כְּקִיר 1|
-|kEqEyErE|
+|ksvqiyr|
 
  * על־יד 1: 
 
 |עַל־יַד 1|
 |-|
 |עַל־יַד 1|
-|ɣElE־EyEdE|
+|ɣal־yad|
 
  * כי־גז 1: 
 
 |כִּי־גָז 1|
 |-|
 |כִּי־גָז 1|
-|kEyE־EgEzE|
+|kiy־gAz|
 
  * גם־צמאים 1: 
 
 |גַּם־צְמֵאִים 1|
 |-|
 |גַם־צְמֵאִים 1|
-|gEmE־EcEmE'EyEmE|
+|gam־csvmE'iym|
 
  * השגו־חיל 1: 
 
 |הִשְׂגּוּ־חָיִל 1|
 |-|
 |הִשְׂגוּ־חָיִל 1|
-|hESEgEuE־EHEyElE|
+|hiSsvgu־HAyil|
 
  * [מלשני] 1: 
 
 |[מְלָשְׁנִי] 1|
 |-|
 |[מְלָשְׁנִי] 1|
-|[EmElEšEnEyE]E|
+|[msvlAšsvniy]|
 
  * אם־הרגם 1: 
 
 |אִם־הֲרָגָם 1|
 |-|
 |אִם־הֲרָגָם 1|
-|'EmE־EhErEgEmE|
+|'im־harAgAm|
 
  * ומחול 1: 
 
 |וּמָחוֹל 1|
 |-|
 |וּמָחוֹֹל 1|
-|uEmEHEwElE|
+|umAHwol|
 
  * וכל־תהמות 1: 
 
 |וְכָל־תְּהֹמוֹת 1|
 |-|
 |וְכָל־תְהֹמוֹֹת 1|
-|wExElE־EtEhEmEwEtE|
+|wsvxAl־tsvhomwot|
 
  * מעוז־חיי 1: 
 
 |מָעוֹז־חַיַּי 1|
 |-|
 |מָעוֹֹז־חַיַי 1|
-|mEɣEwEzE־EHEyEyE|
+|mAɣwoz־Hayay|
 
  * ביום־קראנו 1: 
 
 |בְיוֹם־קָרְאֵנוּ 1|
 |-|
 |בְיוֹֹם־קָרְאֵנוּ 1|
-|vEyEwEmE־EqErE'EnEuE|
+|vsvywom־qArsv'Enu|
 
  * עתם 1: 
 
 |עִתָּם 1|
 |-|
 |עִתָם 1|
-|ɣEtEmE|
+|ɣitAm|
 
  * לצלע 1: 
 
 |לְצֶלַע 1|
 |-|
 |לְצֶלַע 1|
-|lEcElEɣE|
+|lsvcelaɣ|
 
  * עוף 1: 
 
 |עוֹף 1|
 |-|
 |עוֹֹף 1|
-|ɣEwEfE|
+|ɣwof|
 
  * מרחק 1: 
 
 |מֵרָחֹק 1|
 |-|
 |מֵרָחֹק 1|
-|mErEHEqE|
+|mErAHoq|
 
  * התרעעי 1: 
 
 |הִתְרֹעָעִי 1|
 |-|
 |הִתְרֹעָעִי 1|
-|hEtErEɣEɣEyE|
+|hitsvroɣAɣiy|
 
  * מאותתיך 1: 
 
 |מֵאוֹתֹתֶיךָ 1|
 |-|
 |מֵאוֹֹתֹתֶיךָ 1|
-|mE'EwEtEtEyExE|
+|mE'wototeyxA|
 
  * נתיב 1: 
 
 |נָתִיב 1|
 |-|
 |נָתִיב 1|
-|nEtEyEvE|
+|nAtiyv|
 
  * ישמר־צאתך 1: 
 
 |יִשְׁמָר־צֵאתְךָ 1|
 |-|
 |יִשְׁמָר־צֵאתְךָ 1|
-|yEšEmErE־EcE'EtExE|
+|yišsvmAr־cE'tsvxA|
 
  * ויאכלם 1: 
 
 |וַיֹּאכְלֵם 1|
 |-|
 |וַיֹאכְלֵם 1|
-|wEyE'ExElEmE|
+|wayo'xsvlEm|
 
  * וקומה 1: 
 
 |וְקוּמָה 1|
 |-|
 |וְקוּמָה 1|
-|wEqEuEmEhE|
+|wsvqumAh|
 
  * באחרית 1: 
 
 |בְּאַחֲרִית 1|
 |-|
 |בְּאַחֲרִית 1|
-|bE'EHErEyEtE|
+|bsv'aHariyt|
 
  * במצודה 1: 
 
 |בַמְּצוּדָה 1|
 |-|
 |בַמְצוּדָה 1|
-|vEmEcEuEdEhE|
+|vamsvcudAh|
 
  * ירבצון 1: 
 
 |יִרְבָּצוּן 1|
 |-|
 |יִרְבָּצוּן 1|
-|yErEbEcEuEnE|
+|yirsvbAcun|
 
  * אם־יש־עול 1: 
 
 |אִם־יֶשׁ־עָוֶל 1|
 |-|
 |אִם־יֶשׁ־עָוֶל 1|
-|'EmE־EyEšE־EɣEwElE|
+|'im־yeš־ɣAwel|
 
  * במחנה 1: 
 
 |בַּמַּחֲנֶה 1|
 |-|
 |בַּמַחֲנֶה 1|
-|bEmEHEnEhE|
+|bamaHaneh|
 
  * רפה 1: 
 
 |רְפָה 1|
 |-|
 |רְפָה 1|
-|rEfEhE|
+|rsvfAh|
 
  * בראש 1: 
 
 |בְּרֹאשׁ 1|
 |-|
 |בְּרֹאשׁ 1|
-|bErE'EšE|
+|bsvro'š|
 
  * בגדים 1: 
 
 |בֹגְדִים 1|
 |-|
 |בֹגְדִים 1|
-|vEgEdEyEmE|
+|vogsvdiym|
 
  * בשלמיו 1: 
 
 |בִּשְׁלֹמָיו 1|
 |-|
 |בִּשְׁלֹמָיו 1|
-|bEšElEmEyEwE|
+|bišsvlomAyw|
 
  * אשתה 1: 
 
 |אֶשְׁתֶּה 1|
 |-|
 |אֶשְׁתֶה 1|
-|'EšEtEhE|
+|'ešsvteh|
 
  * אנצלה 1: 
 
 |אִנָּצְלָה 1|
 |-|
 |אִנָצְלָה 1|
-|'EnEcElEhE|
+|'inAcsvlAh|
 
  * אחטא־לך 1: 
 
 |אֶחֱטָא־לָךְ 1|
 |-|
 |אֶחֱטָא־לָךְ 1|
-|'EHETE'E־ElExE|
+|'eHeTA'־lAxsv|
 
  * תחשכנה 1: 
 
 |תֶּחְשַׁכְנָה 1|
 |-|
 |תֶחְשַׁכְנָה 1|
-|tEHEšExEnEhE|
+|teHsvšaxsvnAh|
 
  * אשביע 1: 
 
 |אַשְׂבִּיעַ 1|
 |-|
 |אַשְׂבִּיעַ 1|
-|'ESEbEyEɣE|
+|'aSsvbiyɣa|
 
  * בשדה־צען 1: 
 
 |בִּשְׂדֵה־צֹעַן 1|
 |-|
 |בִּשְׂדֵה־צֹעַן 1|
-|bESEdEhE־EcEɣEnE|
+|biSsvdEh־coɣan|
 
  * יקר 1: 
 
 |יָקָר 1|
 |-|
 |יָקָר 1|
-|yEqErE|
+|yAqAr|
 
  * ותהללך 1: 
 
 |וּתְהַלְלֶךָּ 1|
 |-|
 |וּתְהַלְלֶךָּ 1|
-|uEtEhElElEkE|
+|utsvhalsvlekA|
 
  * רבתים 1: 
 
 |רִבֹּתַיִם 1|
 |-|
 |רִבֹּתַיִם 1|
-|rEbEtEyEmE|
+|ribotayim|
 
  * מטתי 1: 
 
 |מִטָּתִי 1|
 |-|
 |מִטָתִי 1|
-|mETEtEyE|
+|miTAtiy|
 
  * ושקמותם 1: 
 
 |וְשִׁקְמוֹתָם 1|
 |-|
 |וְשִׁקְמוֹֹתָם 1|
-|wEšEqEmEwEtEmE|
+|wsvšiqsvmwotAm|
 
  * ימוטו 1: 
 
 |יִמּוֹטוּ 1|
 |-|
 |יִמוֹֹטוּ 1|
-|yEmEwETEuE|
+|yimwoTu|
 
  * ישא 1: 
 
 |יִשָּׂא 1|
 |-|
 |יִשָׂא 1|
-|yESE'E|
+|yiSA'|
 
  * ובעלילותיך 1: 
 
 |וּבַעֲלִילוֹתֶיךָ 1|
 |-|
 |וּבַעֲלִילוֹֹתֶיךָ 1|
-|uEvEɣElEyElEwEtEyExE|
+|uvaɣaliylwoteyxA|
 
  * מנגדו 1: 
 
 |מִנֶּגְדּוֹ 1|
 |-|
 |מִנֶגְדוֹֹ 1|
-|mEnEgEdEwE|
+|minegsvdwo|
 
  * בעוני 1: 
 
 |בַּעֲוֺנִי 1|
 |-|
 |בַּעֲוֺנִי 1|
-|bEɣEwEnEyE|
+|baɣaw_o_niy|
 
  * באפל 1: 
 
 |בָּאֹפֶל 1|
 |-|
 |בָּאֹפֶל 1|
-|bE'EfElE|
+|bA'ofel|
 
  * כארבה 1: 
 
 |כָּאַרְבֶּה 1|
 |-|
 |כָּאַרְבֶּה 1|
-|kE'ErEbEhE|
+|kA'arsvbeh|
 
  * זקף 1: 
 
 |זֹקֵף 1|
 |-|
 |זֹקֵף 1|
-|zEqEfE|
+|zoqEf|
 
  * קצץ 1: 
 
 |קִצֵּץ 1|
 |-|
 |קִצֵץ 1|
-|qEcEcE|
+|qicEc|
 
  * ויבטח 1: 
 
 |וַיִּבְטַח 1|
 |-|
 |וַיִבְטַח 1|
-|wEyEvETEHE|
+|wayivsvTaH|
 
  * תשפיל 1: 
 
 |תַּשְׁפִּיל 1|
 |-|
 |תַשְׁפִּיל 1|
-|tEšEpEyElE|
+|tašsvpiyl|
 
  * ישרף 1: 
 
 |יִשְׂרֹף 1|
 |-|
 |יִשְׂרֹף 1|
-|yESErEfE|
+|yiSsvrof|
 
  * לימיני 1: 
 
 |לִימִינִי 1|
 |-|
 |לִימִינִי 1|
-|lEyEmEyEnEyE|
+|liymiyniy|
 
  * ברכנו 1: 
 
 |בֵּרַכְנוּ 1|
 |-|
 |בֵּרַכְנוּ 1|
-|bErExEnEuE|
+|bEraxsvnu|
 
  * בטובת 1: 
 
 |בְּטוֹבַת 1|
 |-|
 |בְּטוֹֹבַת 1|
-|bETEwEvEtE|
+|bsvTwovat|
 
  * ותרד 1: 
 
 |וְתֵרֵד 1|
 |-|
 |וְתֵרֵד 1|
-|wEtErEdE|
+|wsvtErEd|
 
  * את־חסידיו 1: 
 
 |אֶת־חֲסִידָיו 1|
 |-|
 |אֶת־חֲסִידָיו 1|
-|'EtE־EHEsEyEdEyEwE|
+|'et־HasiydAyw|
 
  * וענוים 1: 
 
 |וַעֲנָוִים 1|
 |-|
 |וַעֲנָוִים 1|
-|wEɣEnEwEyEmE|
+|waɣanAwiym|
 
  * להלכים 1: 
 
 |לַהֹלְכִים 1|
 |-|
 |לַהֹלְכִים 1|
-|lEhElExEyEmE|
+|laholsvxiym|
 
  * ביון 1: 
 
 |בִּיוֵן 1|
 |-|
 |בִּיוֵן 1|
-|bEyEwEnE|
+|biywEn|
 
  * [יכסמו 1: 
 
 |[יְכַסֵּמוֹ 1|
 |-|
 |[יְכַסֵמוֹֹ 1|
-|[EyExEsEmEwE|
+|[ysvxasEmwo|
 
  * אנפת 1: 
 
 |אָנַפְתָּ 1|
 |-|
 |אָנַפְתָ 1|
-|'EnEfEtE|
+|'AnafsvtA|
 
  * ואשתו 1: 
 
 |וְאִשְׁתּוֹ 1|
 |-|
 |וְאִשְׁתוֹֹ 1|
-|wE'EšEtEwE|
+|wsv'išsvtwo|
 
  * חלותי 1: 
 
 |חַלּוֹתִי 1|
 |-|
 |חַלוֹֹתִי 1|
-|HElEwEtEyE|
+|Halwotiy|
 
  * בדבריו 1: 
 
 |בִדְבָרָיו 1|
 |-|
 |בִדְבָרָיו 1|
-|vEdEvErEyEwE|
+|vidsvvArAyw|
 
  * אבתינו 1: 
 
 |אֲבֹתֵינוּ 1|
 |-|
 |אֲבֹתֵינוּ 1|
-|'EvEtEyEnEuE|
+|'avotEynu|
 
  * על־נדיבים 1: 
 
 |עַל־נְדִיבִים 1|
 |-|
 |עַל־נְדִיבִים 1|
-|ɣElE־EnEdEyEvEyEmE|
+|ɣal־nsvdiyviym|
 
  * וברעתם 1: 
 
 |וּבְרָעָתָם 1|
 |-|
 |וּבְרָעָתָם 1|
-|uEvErEɣEtEmE|
+|uvsvrAɣAtAm|
 
  * ימולל 1: 
 
 |יְמוֹלֵל 1|
 |-|
 |יְמוֹֹלֵל 1|
-|yEmEwElElE|
+|ysvmwolEl|
 
  * הקיפוני 1: 
 
 |הִקִּיפוּנִי 1|
 |-|
 |הִקִיפוּנִי 1|
-|hEqEyEfEuEnEyE|
+|hiqiyfuniy|
 
  * דם־עבדיך 1: 
 
 |דַּם־עֲבָדֶיךָ 1|
 |-|
 |דַם־עֲבָדֶיךָ 1|
-|dEmE־EɣEvEdEyExE|
+|dam־ɣavAdeyxA|
 
  * אגם־מים 1: 
 
 |אֲגַם־מָיִם 1|
 |-|
 |אֲגַם־מָיִם 1|
-|'EgEmE־EmEyEmE|
+|'agam־mAyim|
 
  * מצום 1: 
 
 |מִצּוֹם 1|
 |-|
 |מִצוֹֹם 1|
-|mEcEwEmE|
+|micwom|
 
  * וכל־דרכי 1: 
 
 |וְכָל־דְּרָכַי 1|
 |-|
 |וְכָל־דְרָכַי 1|
-|wExElE־EdErExEyE|
+|wsvxAl־dsvrAxay|
 
  * בל־ידרש 1: 
 
 |בַּל־יִדְרֹשׁ 1|
 |-|
 |בַּל־יִדְרֹשׁ 1|
-|bElE־EyEdErEšE|
+|bal־yidsvroš|
 
  * מצמיתי 1: 
 
 |מַצְמִיתַי 1|
 |-|
 |מַצְמִיתַי 1|
-|mEcEmEyEtEyE|
+|macsvmiytay|
 
  * וכנה 1: 
 
 |וְכַנָּה 1|
 |-|
 |וְכַנָה 1|
-|wExEnEhE|
+|wsvxanAh|
 
  * כוס־ישועות 1: 
 
 |כּוֹס־יְשׁוּעוֹת 1|
 |-|
 |כּוֹֹס־יְשׁוּעוֹֹת 1|
-|kEwEsE־EyEšEuEɣEwEtE|
+|kwos־ysvšuɣwot|
 
  * כל־און 1: 
 
 |כָל־אָוֶן 1|
 |-|
 |כָל־אָוֶן 1|
-|xElE־E'EwEnE|
+|xAl־'Awen|
 
  * לא־יחשיך 1: 
 
 |לֹא־יַחְשִׁיךְ 1|
 |-|
 |לֹא־יַחְשִׁיךְ 1|
-|lE'E־EyEHEšEyExE|
+|lo'־yaHsvšiyxsv|
 
  * מאף 1: 
 
 |מֵאַף 1|
 |-|
 |מֵאַף 1|
-|mE'EfE|
+|mE'af|
 
  * בהדר 1: 
 
 |בֶּהָדָר 1|
 |-|
 |בֶּהָדָר 1|
-|bEhEdErE|
+|behAdAr|
 
  * עצבותם 1: 
 
 |עַצְּבוֹתָם 1|
 |-|
 |עַצְבוֹֹתָם 1|
-|ɣEcEvEwEtEmE|
+|ɣacsvvwotAm|
 
  * לבן־אמתך 1: 
 
 |לְבֶן־אֲמָתֶךָ 1|
 |-|
 |לְבֶן־אֲמָתֶךָ 1|
-|lEvEnE־E'EmEtExE|
+|lsvven־'amAtexA|
 
  * יעבדנו 1: 
 
 |יַעַבְדֶנּוּ 1|
 |-|
 |יַעַבְדֶנוּ 1|
-|yEɣEvEdEnEuE|
+|yaɣavsvdenu|
 
  * שלוה 1: 
 
 |שַׁלְוָה 1|
 |-|
 |שַׁלְוָה 1|
-|šElEwEhE|
+|šalsvwAh|
 
  * לא־פדה 1: 
 
 |לֹא־פָדֹה 1|
 |-|
 |לֹא־פָדֹה 1|
-|lE'E־EfEdEhE|
+|lo'־fAdoh|
 
  * תבנית 1: 
 
 |תַּבְנִית 1|
 |-|
 |תַבְנִית 1|
-|tEvEnEyEtE|
+|tavsvniyt|
 
  * חרק 1: 
 
 |חָרֹק 1|
 |-|
 |חָרֹק 1|
-|HErEqE|
+|HAroq|
 
  * למשיחי 1: 
 
 |לִמְשִׁיחִי 1|
 |-|
 |לִמְשִׁיחִי 1|
-|lEmEšEyEHEyE|
+|limsvšiyHiy|
 
  * זרעך 1: 
 
 |זַרְעֶךָ 1|
 |-|
 |זַרְעֶךָ 1|
-|zErEɣExE|
+|zarsvɣexA|
 
  * יישן 1: 
 
 |יִישָׁן 1|
 |-|
 |יִישָׁן 1|
-|yEyEšEnE|
+|yiyšAn|
 
  * [שירו] 1: 
 
 |[שִׁירוֹ] 1|
 |-|
 |[שִׁירוֹֹ] 1|
-|[EšEyErEwE]E|
+|[šiyrwo]|
 
  * הוכה־כעשב 1: 
 
 |הוּכָּה־כָעֵשֶׂב 1|
 |-|
 |הוּכָּה־כָעֵשֶׂב 1|
-|hEuEkEhE־ExEɣESEvE|
+|hukAh־xAɣESev|
 
  * על־כל־מעשיו 1: 
 
 |עַל־כָּל־מַעֲשָׂיו 1|
 |-|
 |עַל־כָּל־מַעֲשָׂיו 1|
-|ɣElE־EkElE־EmEɣESEyEwE|
+|ɣal־kAl־maɣaSAyw|
 
  * וחרק 1: 
 
 |וְחֹרֵק 1|
 |-|
 |וְחֹרֵק 1|
-|wEHErEqE|
+|wsvHorEq|
 
  * בבן־אדם 1: 
 
 |בְּבֶן־אָדָם 1|
 |-|
 |בְּבֶן־אָדָם 1|
-|bEvEnE־E'EdEmE|
+|bsvven־'AdAm|
 
  * ושקוי 1: 
 
 |וְשִׁקֻּוַי 1|
 |-|
 |וְשִׁקֻוַי 1|
-|wEšEqEwEyE|
+|wsvšiquway|
 
  * ותבער־אש 1: 
 
 |וַתִּבְעַר־אֵשׁ 1|
 |-|
 |וַתִבְעַר־אֵשׁ 1|
-|wEtEvEɣErE־E'EšE|
+|wativsvɣar־'Eš|
 
  * ברצח 1: 
 
 |בְּרֶצַח 1|
 |-|
 |בְּרֶצַח 1|
-|bErEcEHE|
+|bsvrecaH|
 
  * אשר־הכית 1: 
 
 |אֲשֶׁר־הִכִּיתָ 1|
 |-|
 |אֲשֶׁר־הִכִּיתָ 1|
-|'EšErE־EhEkEyEtE|
+|'ašer־hikiytA|
 
  * יריב 1: 
 
 |יָרִיב 1|
 |-|
 |יָרִיב 1|
-|yErEyEvE|
+|yAriyv|
 
  * נתשת 1: 
 
 |נָתַשְׁתָּ 1|
 |-|
 |נָתַשְׁתָ 1|
-|nEtEšEtE|
+|nAtašsvtA|
 
  * על־חילם 1: 
 
 |עַל־חֵילָם 1|
 |-|
 |עַל־חֵילָם 1|
-|ɣElE־EHEyElEmE|
+|ɣal־HEylAm|
 
  * ישבנו 1: 
 
 |יָשַׁבְנוּ 1|
 |-|
 |יָשַׁבְנוּ 1|
-|yEšEvEnEuE|
+|yAšavsvnu|
 
  * את־תפלתם 1: 
 
 |אֶת־תְּפִלָּתָם 1|
 |-|
 |אֶת־תְפִלָתָם 1|
-|'EtE־EtEfElEtEmE|
+|'et־tsvfilAtAm|
 
  * תדרוש־רשעו 1: 
 
 |תִּדְרוֹשׁ־רִשְׁעוֹ 1|
 |-|
 |תִדְרוֹֹשׁ־רִשְׁעוֹֹ 1|
-|tEdErEwEšE־ErEšEɣEwE|
+|tidsvrwoš־rišsvɣwo|
 
  * לרעהו 1: 
 
 |לְרֵעֵהוּ 1|
 |-|
 |לְרֵעֵהוּ 1|
-|lErEɣEhEuE|
+|lsvrEɣEhu|
 
  * היסוד 1: 
 
 |הַיְסוֹד 1|
 |-|
 |הַיְסוֹֹד 1|
-|hEyEsEwEdE|
+|haysvswod|
 
  * טבעו 1: 
 
 |טָבְעוּ 1|
 |-|
 |טָבְעוּ 1|
-|TEvEɣEuE|
+|TAvsvɣu|
 
  * לא־שמע 1: 
 
 |לֹא־שֹׁמֵעַ 1|
 |-|
 |לֹא־שֹׁמֵעַ 1|
-|lE'E־EšEmEɣE|
+|lo'־šomEɣa|
 
  * ויכרת 1: 
 
 |וְיַכְרֵת 1|
 |-|
 |וְיַכְרֵת 1|
-|wEyExErEtE|
+|wsvyaxsvrEt|
 
  * כל־סביביו 1: 
 
 |כָּל־סְבִיבָיו 1|
 |-|
 |כָּל־סְבִיבָיו 1|
-|kElE־EsEvEyEvEyEwE|
+|kAl־ssvviyvAyw|
 
  * מאין 1: 
 
 |מֵאַיִן 1|
 |-|
 |מֵאַיִן 1|
-|mE'EyEnE|
+|mE'ayin|
 
  * ובער 1: 
 
 |וָבַעַר 1|
 |-|
 |וָבַעַר 1|
-|wEvEɣErE|
+|wAvaɣar|
 
  * אטד 1: 
 
 |אָטָד 1|
 |-|
 |אָטָד 1|
-|'ETEdE|
+|'ATAd|
 
  * מטו 1: 
 
 |מָטוּ 1|
 |-|
 |מָטוּ 1|
-|mETEuE|
+|mATu|
 
  * הושיענו 1: 
 
 |הוֹשִׁיעֵנוּ 1|
 |-|
 |הוֹֹשִׁיעֵנוּ 1|
-|hEwEšEyEɣEnEuE|
+|hwošiyɣEnu|
 
  * ובקר 1: 
 
 |וָבֹקֶר 1|
 |-|
 |וָבֹקֶר 1|
-|wEvEqErE|
+|wAvoqer|
 
  * הראשנים 1: 
 
 |הָרִאשֹׁנִים 1|
 |-|
 |הָרִאשֹׁנִים 1|
-|hErE'EšEnEyEmE|
+|hAri'šoniym|
 
  * משיר 1: 
 
 |מִשִּׁיר 1|
 |-|
 |מִשִׁיר 1|
-|mEšEyErE|
+|mišiyr|
 
  * פי־קראתי 1: 
 
 |פִּי־קָרָאתִי 1|
 |-|
 |פִּי־קָרָאתִי 1|
-|pEyE־EqErE'EtEyE|
+|piy־qArA'tiy|
 
  * אחלי 1: 
 
 |אַחֲלַי 1|
 |-|
 |אַחֲלַי 1|
-|'EHElEyE|
+|'aHalay|
 
  * ולישרים 1: 
 
 |וְלִישָׁרִים 1|
 |-|
 |וְלִישָׁרִים 1|
-|wElEyEšErEyEmE|
+|wsvliyšAriym|
 
  * ויזרעו 1: 
 
 |וַיִּזְרְעוּ 1|
 |-|
 |וַיִזְרְעוּ 1|
-|wEyEzErEɣEuE|
+|wayizsvrsvɣu|
 
  * נברא 1: 
 
 |נִבְרָא 1|
 |-|
 |נִבְרָא 1|
-|nEvErE'E|
+|nivsvrA'|
 
  * מאויי 1: 
 
 |מַאֲוַיֵּי 1|
 |-|
 |מַאֲוַיֵי 1|
-|mE'EwEyEyE|
+|ma'awayEy|
 
  * פלצות 1: 
 
 |פַּלָּצוּת 1|
 |-|
 |פַּלָצוּת 1|
-|pElEcEuEtE|
+|palAcut|
 
  * יתהללו 1: 
 
 |יִתְהַלָּלוּ 1|
 |-|
 |יִתְהַלָלוּ 1|
-|yEtEhElElEuE|
+|yitsvhalAlu|
 
  * דרשי 1: 
 
 |דֹּרְשֵׁי 1|
 |-|
 |דֹרְשֵׁי 1|
-|dErEšEyE|
+|dorsvšEy|
 
  * עלמנו 1: 
 
 |עֲלֻמֵנוּ 1|
 |-|
 |עֲלֻמֵנוּ 1|
-|ɣElEmEnEuE|
+|ɣalumEnu|
 
  * ממצוקותי 1: 
 
 |מִמְּצוּקוֹתַי 1|
 |-|
 |מִמְצוּקוֹֹתַי 1|
-|mEmEcEuEqEwEtEyE|
+|mimsvcuqwotay|
 
  * באניות 1: 
 
 |בָּאֳנִיּוֹת 1|
 |-|
 |בָּאֳנִיוֹֹת 1|
-|bE'EnEyEwEtE|
+|bA'Aniywot|
 
  * לא־יקרב 1: 
 
 |לֹא־יִקְרַב 1|
 |-|
 |לֹא־יִקְרַב 1|
-|lE'E־EyEqErEvE|
+|lo'־yiqsvrav|
 
  * ודור 1: 
 
 |וָדוֹר 1|
 |-|
 |וָדוֹֹר 1|
-|wEdEwErE|
+|wAdwor|
 
  * אשמעה 1: 
 
 |אֶשְׁמְעָה 1|
 |-|
 |אֶשְׁמְעָה 1|
-|'EšEmEɣEhE|
+|'ešsvmsvɣAh|
 
  * תערך 1: 
 
 |תַּעֲרֹךְ 1|
 |-|
 |תַעֲרֹךְ 1|
-|tEɣErExE|
+|taɣaroxsv|
 
  * הר־קדשו 1: 
 
 |הַר־קָדְשׁוֹ 1|
 |-|
 |הַר־קָדְשׁוֹֹ 1|
-|hErE־EqEdEšEwE|
+|har־qAdsvšwo|
 
  * מצאו 1: 
 
 |מָצָאוּ 1|
 |-|
 |מָצָאוּ 1|
-|mEcE'EuE|
+|mAcA'u|
 
  * ויכנע 1: 
 
 |וַיַּכְנַע 1|
 |-|
 |וַיַכְנַע 1|
-|wEyExEnEɣE|
+|wayaxsvnaɣ|
 
  * בגבורתו 1: 
 
 |בִּגְבוּרָתוֹ 1|
 |-|
 |בִּגְבוּרָתוֹֹ 1|
-|bEgEvEuErEtEwE|
+|bigsvvurAtwo|
 
  * מכל־מלמדי 1: 
 
 |מִכָּל־מְלַמְּדַי 1|
 |-|
 |מִכָּל־מְלַמְדַי 1|
-|mEkElE־EmElEmEdEyE|
+|mikAl־msvlamsvday|
 
  * אוה 1: 
 
 |אִוָּהּ 1|
 |-|
 |אִוָּה 1|
-|'EuEhE|
+|'iuAh|
 
  * חלקם 1: 
 
 |חֶלְקָם 1|
 |-|
 |חֶלְקָם 1|
-|HElEqEmE|
+|HelsvqAm|
 
  * [ואשר] 1: 
 
 |[וְאֻשַּׁר] 1|
 |-|
 |[וְאֻשַׁר] 1|
-|[EwE'EšErE]E|
+|[wsv'ušar]|
 
  * האוכל 1: 
 
 |הַאוֹכַל 1|
 |-|
 |הַאוֹֹכַל 1|
-|hE'EwExElE|
+|ha'woxal|
 
  * [ושבילך] 1: 
 
 |[וּשְׁבִילְךָ] 1|
 |-|
 |[וּשְׁבִילְךָ] 1|
-|[EuEšEvEyElExE]E|
+|[ušsvviylsvxA]|
 
  * עד־שערי 1: 
 
 |עַד־שַׁעֲרֵי 1|
 |-|
 |עַד־שַׁעֲרֵי 1|
-|ɣEdE־EšEɣErEyE|
+|ɣad־šaɣarEy|
 
  * דמה 1: 
 
 |דָּמָה 1|
 |-|
 |דָמָה 1|
-|dEmEhE|
+|dAmAh|
 
  * ויטמאו 1: 
 
 |וַיִּטְמְאוּ 1|
 |-|
 |וַיִטְמְאוּ 1|
-|wEyETEmE'EuE|
+|wayiTsvmsv'u|
 
  * כפף 1: 
 
 |כָּפַף 1|
 |-|
 |כָּפַף 1|
-|kEfEfE|
+|kAfaf|
 
  * שאלו 1: 
 
 |שַׁאֲלוּ 1|
 |-|
 |שַׁאֲלוּ 1|
-|šE'ElEuE|
+|ša'alu|
 
  * רגליהם 1: 
 
 |רַגְלֵיהֶם 1|
 |-|
 |רַגְלֵיהֶם 1|
-|rEgElEyEhEmE|
+|ragsvlEyhem|
 
  * ממסגרותיהם 1: 
 
 |מִמִּסְגְּרוֹתֵיהֶם 1|
 |-|
 |מִמִסְגְרוֹֹתֵיהֶם 1|
-|mEmEsEgErEwEtEyEhEmE|
+|mimissvgsvrwotEyhem|
 
  * לעצבותם 1: 
 
 |לְעַצְּבוֹתָם 1|
 |-|
 |לְעַצְבוֹֹתָם 1|
-|lEɣEcEvEwEtEmE|
+|lsvɣacsvvwotAm|
 
  * אספת 1: 
 
 |אָסַפְתָּ 1|
 |-|
 |אָסַפְתָ 1|
-|'EsEfEtE|
+|'AsafsvtA|
 
  * קרנות 1: 
 
 |קַרְנוֹת 1|
 |-|
 |קַרְנוֹֹת 1|
-|qErEnEwEtE|
+|qarsvnwot|
 
  * ויגיעם 1: 
 
 |וִיגִיעָם 1|
 |-|
 |וִיגִיעָם 1|
-|wEyEgEyEɣEmE|
+|wiygiyɣAm|
 
  * אל־באפך 1: 
 
 |אַל־בְּאַפְּךָ 1|
 |-|
 |אַל־בְּאַפְּךָ 1|
-|'ElE־EbE'EpExE|
+|'al־bsv'apsvxA|
 
  * צמחה 1: 
 
 |צִמְחָהּ 1|
 |-|
 |צִמְחָה 1|
-|cEmEHEhE|
+|cimsvHAh|
 
  * בכח 1: 
 
 |בַּכֹּחַ 1|
 |-|
 |בַּכֹּחַ 1|
-|bEkEHE|
+|bakoHa|
 
  * הגוי 1: 
 
 |הַגּוֹי 1|
 |-|
 |הַגוֹֹי 1|
-|hEgEwEyE|
+|hagwoy|
 
  * שיאחז 1: 
 
 |שֶׁיֹּאחֵז 1|
 |-|
 |שֶׁיֹאחֵז 1|
-|šEyE'EHEzE|
+|šeyo'HEz|
 
  * ולא־האמינו 1: 
 
 |וְלֹא־הֶאֱמִינוּ 1|
 |-|
 |וְלֹא־הֶאֱמִינוּ 1|
-|wElE'E־EhE'EmEyEnEuE|
+|wsvlo'־he'emiynu|
 
  * נגביר 1: 
 
 |נַגְבִּיר 1|
 |-|
 |נַגְבִּיר 1|
-|nEgEbEyErE|
+|nagsvbiyr|
 
  * ילעגו־למו 1: 
 
 |יִלְעֲגוּ־לָמוֹ 1|
 |-|
 |יִלְעֲגוּ־לָמוֹֹ 1|
-|yElEɣEgEuE־ElEmEwE|
+|yilsvɣagu־lAmwo|
 
  * על־ערבים 1: 
 
 |עַל־עֲרָבִים 1|
 |-|
 |עַל־עֲרָבִים 1|
-|ɣElE־EɣErEvEyEmE|
+|ɣal־ɣarAviym|
 
  * לא־תכלא 1: 
 
 |לֹא־תִכְלָא 1|
 |-|
 |לֹא־תִכְלָא 1|
-|lE'E־EtExElE'E|
+|lo'־tixsvlA'|
 
  * הגבהים 1: 
 
 |הַגְּבֹהִים 1|
 |-|
 |הַגְבֹהִים 1|
-|hEgEvEhEyEmE|
+|hagsvvohiym|
 
  * ואת־בנותיהם 1: 
 
 |וְאֶת־בְּנוֹתֵיהֶם 1|
 |-|
 |וְאֶת־בְּנוֹֹתֵיהֶם 1|
-|wE'EtE־EbEnEwEtEyEhEmE|
+|wsv'et־bsvnwotEyhem|
 
  * ברגל 1: 
 
 |בְרָגֶל 1|
 |-|
 |בְרָגֶל 1|
-|vErEgElE|
+|vsvrAgel|
 
  * וסגר 1: 
 
 |וּסְגֹר 1|
 |-|
 |וּסְגֹר 1|
-|uEsEgErE|
+|ussvgor|
 
  * וחלצני 1: 
 
 |וְחַלְּצֵנִי 1|
 |-|
 |וְחַלְצֵנִי 1|
-|wEHElEcEnEyE|
+|wsvHalsvcEniy|
 
  * תך 1: 
 
 |תֹּךְ 1|
 |-|
 |תֹךְ 1|
-|tExE|
+|toxsv|
 
  * תפוג 1: 
 
 |תָפוּג 1|
 |-|
 |תָפוּג 1|
-|tEfEuEgE|
+|tAfug|
 
  * לעינינו 1: 
 
 |לְעֵינֵינוּ 1|
 |-|
 |לְעֵינֵינוּ 1|
-|lEɣEyEnEyEnEuE|
+|lsvɣEynEynu|
 
  * ומנוס 1: 
 
 |וּמָנוֹס 1|
 |-|
 |וּמָנוֹֹס 1|
-|uEmEnEwEsE|
+|umAnwos|
 
  * שור 1: 
 
 |שׁוֹר 1|
 |-|
 |שׁוֹֹר 1|
-|šEwErE|
+|šwor|
 
  * מחפש 1: 
 
 |מְחֻפָּשׂ 1|
 |-|
 |מְחֻפָּשׂ 1|
-|mEHEpESE|
+|msvHupAS|
 
  * ולדברו 1: 
 
 |וְלִדְבָרוֹ 1|
 |-|
 |וְלִדְבָרוֹֹ 1|
-|wElEdEvErEwE|
+|wsvlidsvvArwo|
 
  * ויחי־עוד 1: 
 
 |וִיחִי־עוֹד 1|
 |-|
 |וִיחִי־עוֹֹד 1|
-|wEyEHEyE־EɣEwEdE|
+|wiyHiy־ɣwod|
 
  * אם־תשכבון 1: 
 
 |אִם־תִּשְׁכְּבוּן 1|
 |-|
 |אִם־תִשְׁכְּבוּן 1|
-|'EmE־EtEšEkEvEuEnE|
+|'im־tišsvksvvun|
 
  * ילבשו־בשת 1: 
 
 |יִלְבְּשׁוּ־בֹשֶׁת 1|
 |-|
 |יִלְבְּשׁוּ־בֹשֶׁת 1|
-|yElEbEšEuE־EvEšEtE|
+|yilsvbsvšu־vošet|
 
  * נולד 1: 
 
 |נוֹלָד 1|
 |-|
 |נוֹֹלָד 1|
-|nEwElEdE|
+|nwolAd|
 
  * עלי־פיך 1: 
 
 |עֲלֵי־פִיךָ 1|
 |-|
 |עֲלֵי־פִיךָ 1|
-|ɣElEyE־EfEyExE|
+|ɣalEy־fiyxA|
 
  * מוזר 1: 
 
 |מוּזָר 1|
 |-|
 |מוּזָר 1|
-|mEuEzErE|
+|muzAr|
 
  * ידבק 1: 
 
 |יִדְבַּק 1|
 |-|
 |יִדְבַּק 1|
-|yEdEbEqE|
+|yidsvbaq|
 
  * מחקיך 1: 
 
 |מֵחֻקֶּיךָ 1|
 |-|
 |מֵחֻקֶיךָ 1|
-|mEHEqEyExE|
+|mEHuqeyxA|
 
  * מיד־אויבי 1: 
 
 |מִיַּד־אוֹיְבַי 1|
 |-|
 |מִיַד־אוֹֹיְבַי 1|
-|mEyEdE־E'EwEyEvEyE|
+|miyad־'woysvvay|
 
  * לבכם 1: 
 
 |לִבְּכֶם 1|
 |-|
 |לִבְּכֶם 1|
-|lEbExEmE|
+|libsvxem|
 
  * ומאלה 1: 
 
 |וּמֵאָלָה 1|
 |-|
 |וּמֵאָלָה 1|
-|uEmE'ElEhE|
+|umE'AlAh|
 
  * ואמי 1: 
 
 |וְאִמִּי 1|
 |-|
 |וְאִמִי 1|
-|wE'EmEyE|
+|wsv'imiy|
 
  * ועצמותי 1: 
 
 |וְעַצְמוֹתַי 1|
 |-|
 |וְעַצְמוֹֹתַי 1|
-|wEɣEcEmEwEtEyE|
+|wsvɣacsvmwotay|
 
  * אל־שחת 1: 
 
 |אֶל־שָׁחַת 1|
 |-|
 |אֶל־שָׁחַת 1|
-|'ElE־EšEHEtE|
+|'el־šAHat|
 
  * מלחשים 1: 
 
 |מְלַחֲשִׁים 1|
 |-|
 |מְלַחֲשִׁים 1|
-|mElEHEšEyEmE|
+|msvlaHašiym|
 
  * הצליחה 1: 
 
 |הַצְלִיחָה 1|
 |-|
 |הַצְלִיחָה 1|
-|hEcElEyEHEhE|
+|hacsvliyHAh|
 
  * בצלצלי־שמע 1: 
 
 |בְצִלְצְלֵי־שָׁמַע 1|
 |-|
 |בְצִלְצְלֵי־שָׁמַע 1|
-|vEcElEcElEyE־EšEmEɣE|
+|vsvcilsvcsvlEy־šAmaɣ|
 
  * תתחסד 1: 
 
 |תִּתְחַסָּד 1|
 |-|
 |תִתְחַסָד 1|
-|tEtEHEsEdE|
+|titsvHasAd|
 
  * נמלטה 1: 
 
 |נִמְלְטָה 1|
 |-|
 |נִמְלְטָה 1|
-|nEmElETEhE|
+|nimsvlsvTAh|
 
  * הושיבני 1: 
 
 |הוֹשִׁיבַנִי 1|
 |-|
 |הוֹֹשִׁיבַנִי 1|
-|hEwEšEyEvEnEyE|
+|hwošiyvaniy|
 
  * ומשלם 1: 
 
 |וּמְשַׁלֵּם 1|
 |-|
 |וּמְשַׁלֵם 1|
-|uEmEšElEmE|
+|umsvšalEm|
 
  * תמלא 1: 
 
 |תְּמַלֵּא 1|
 |-|
 |תְמַלֵא 1|
-|tEmElE'E|
+|tsvmalE'|
 
  * שעריו 1: 
 
 |שְׁעָרָיו 1|
 |-|
 |שְׁעָרָיו 1|
-|šEɣErEyEwE|
+|šsvɣArAyw|
 
  * סכתו 1: 
 
 |סֻכָּתוֹ 1|
 |-|
 |סֻכָּתוֹֹ 1|
-|sEkEtEwE|
+|sukAtwo|
 
  * מחרבותיהם 1: 
 
 |מֵחָרְבוֹתֵיהֶם 1|
 |-|
 |מֵחָרְבוֹֹתֵיהֶם 1|
-|mEHErEvEwEtEyEhEmE|
+|mEHArsvvwotEyhem|
 
  * ושחרו־אל 1: 
 
 |וְשִׁחֲרוּ־אֵל 1|
 |-|
 |וְשִׁחֲרוּ־אֵל 1|
-|wEšEHErEuE־E'ElE|
+|wsvšiHaru־'El|
 
  * ועליה 1: 
 
 |וְעָלֶיהָ 1|
 |-|
 |וְעָלֶיהָ 1|
-|wEɣElEyEhE|
+|wsvɣAleyhA|
 
  * ויסחך 1: 
 
 |וְיִסָּחֲךָ 1|
 |-|
 |וְיִסָחֲךָ 1|
-|wEyEsEHExE|
+|wsvyisAHaxA|
 
  * ירעש 1: 
 
 |יִרְעַשׁ 1|
 |-|
 |יִרְעַשׁ 1|
-|yErEɣEšE|
+|yirsvɣaš|
 
  * לחטא־לו 1: 
 
 |לַחֲטֹא־לוֹ 1|
 |-|
 |לַחֲטֹא־לוֹֹ 1|
-|lEHETE'E־ElEwE|
+|laHaTo'־lwo|
 
  * באתי 1: 
 
 |בָּאתִי 1|
 |-|
 |בָּאתִי 1|
-|bE'EtEyE|
+|bA'tiy|
 
  * ישטפו 1: 
 
 |יִשְׁטֹפוּ 1|
 |-|
 |יִשְׁטֹפוּ 1|
-|yEšETEfEuE|
+|yišsvTofu|
 
  * פחים 1: 
 
 |פַּחִים 1|
 |-|
 |פַּחִים 1|
-|pEHEyEmE|
+|paHiym|
 
  * ידמה 1: 
 
 |יִדְמֶה 1|
 |-|
 |יִדְמֶה 1|
-|yEdEmEhE|
+|yidsvmeh|
 
  * זרמתם 1: 
 
 |זְרַמְתָּם 1|
 |-|
 |זְרַמְתָם 1|
-|zErEmEtEmE|
+|zsvramsvtAm|
 
  * אינמו 1: 
 
 |אֵינֵמוֹ 1|
 |-|
 |אֵינֵמוֹֹ 1|
-|'EyEnEmEwE|
+|'EynEmwo|
 
  * ורשע 1: 
 
 |וְרָשָׁע 1|
 |-|
 |וְרָשָׁע 1|
-|wErEšEɣE|
+|wsvrAšAɣ|
 
  * ועל־בן 1: 
 
 |וְעַל־בֵּן 1|
 |-|
 |וְעַל־בֵּן 1|
-|wEɣElE־EbEnE|
+|wsvɣal־bEn|
 
  * וידא 1: 
 
 |וַיֵּדֶא 1|
 |-|
 |וַיֵדֶא 1|
-|wEyEdE'E|
+|wayEde'|
 
  * יחבל־און 1: 
 
 |יְחַבֶּל־אָוֶן 1|
 |-|
 |יְחַבֶּל־אָוֶן 1|
-|yEHEbElE־E'EwEnE|
+|ysvHabel־'Awen|
 
  * ואל־יחרש 1: 
 
 |וְאַל־יֶחֱרַשׁ 1|
 |-|
 |וְאַל־יֶחֱרַשׁ 1|
-|wE'ElE־EyEHErEšE|
+|wsv'al־yeHeraš|
 
  * נער 1: 
 
 |נַעַר 1|
 |-|
 |נַעַר 1|
-|nEɣErE|
+|naɣar|
 
  * ישקו 1: 
 
 |יַשְׁקוּ 1|
 |-|
 |יַשְׁקוּ 1|
-|yEšEqEuE|
+|yašsvqu|
 
  * כי־ישתקו 1: 
 
 |כִי־יִשְׁתֹּקוּ 1|
 |-|
 |כִי־יִשְׁתֹקוּ 1|
-|xEyE־EyEšEtEqEuE|
+|xiy־yišsvtoqu|
 
  * תשמרם 1: 
 
 |תִּשְׁמְרֵם 1|
 |-|
 |תִשְׁמְרֵם 1|
-|tEšEmErEmE|
+|tišsvmsvrEm|
 
  * לשפנים 1: 
 
 |לַשְׁפַנִּים 1|
 |-|
 |לַשְׁפַנִים 1|
-|lEšEfEnEyEmE|
+|lašsvfaniym|
 
  * ועדתיך 1: 
 
 |וְעֵדֹתֶיךָ 1|
 |-|
 |וְעֵדֹתֶיךָ 1|
-|wEɣEdEtEyExE|
+|wsvɣEdoteyxA|
 
  * ימטר 1: 
 
 |יַמְטֵר 1|
 |-|
 |יַמְטֵר 1|
-|yEmETErE|
+|yamsvTEr|
 
  * עד־נפש 1: 
 
 |עַד־נָפֶשׁ 1|
 |-|
 |עַד־נָפֶשׁ 1|
-|ɣEdE־EnEfEšE|
+|ɣad־nAfeš|
 
  * על־קרבו 1: 
 
 |עַל־קְרֹבוֹ 1|
 |-|
 |עַל־קְרֹבוֹֹ 1|
-|ɣElE־EqErEvEwE|
+|ɣal־qsvrovwo|
 
  * מעדתיך 1: 
 
 |מֵעֵדֹתֶיךָ 1|
 |-|
 |מֵעֵדֹתֶיךָ 1|
-|mEɣEdEtEyExE|
+|mEɣEdoteyxA|
 
  * כוננהו 1: 
 
 |כּוֹנְנֵהוּ 1|
 |-|
 |כּוֹֹנְנֵהוּ 1|
-|kEwEnEnEhEuE|
+|kwonsvnEhu|
 
  * אלבין 1: 
 
 |אַלְבִּין 1|
 |-|
 |אַלְבִּין 1|
-|'ElEbEyEnE|
+|'alsvbiyn|
 
  * ובשבט 1: 
 
 |וּבְשֵׁבֶט 1|
 |-|
 |וּבְשֵׁבֶט 1|
-|uEvEšEvETE|
+|uvsvšEveT|
 
  * כי־חטאתי 1: 
 
 |כִּי־חָטָאתִי 1|
 |-|
 |כִּי־חָטָאתִי 1|
-|kEyE־EHETE'EtEyE|
+|kiy־HATA'tiy|
 
  * כמדו 1: 
 
 |כְּמַדּוֹ 1|
 |-|
 |כְּמַדוֹֹ 1|
-|kEmEdEwE|
+|ksvmadwo|
 
  * לביתך 1: 
 
 |לְבֵיתְךָ 1|
 |-|
 |לְבֵיתְךָ 1|
-|lEvEyEtExE|
+|lsvvEytsvxA|
 
  * מכעס 1: 
 
 |מִכַּעַס 1|
 |-|
 |מִכַּעַס 1|
-|mEkEɣEsE|
+|mikaɣas|
 
  * אתמול 1: 
 
 |אֶתְמוֹל 1|
 |-|
 |אֶתְמוֹֹל 1|
-|'EtEmEwElE|
+|'etsvmwol|
 
  * כיולדה 1: 
 
 |כַּיּוֹלֵדָה 1|
 |-|
 |כַּיוֹֹלֵדָה 1|
-|kEyEwElEdEhE|
+|kaywolEdAh|
 
  * אל־עדותיך 1: 
 
 |אֶל־עֵדְוֺתֶיךָ 1|
 |-|
 |אֶל־עֵדְוֺתֶיךָ 1|
-|'ElE־EɣEdEwEtEyExE|
+|'el־ɣEdsvw_o_teyxA|
 
  * ישח 1: 
 
 |יָשֹׁחַ 1|
 |-|
 |יָשֹׁחַ 1|
-|yEšEHE|
+|yAšoHa|
 
  * אדמה 1: 
 
 |אֲדָמָה 1|
 |-|
 |אֲדָמָה 1|
-|'EdEmEhE|
+|'adAmAh|
 
  * פלט 1: 
 
 |פַלֵּט 1|
 |-|
 |פַלֵט 1|
-|fElETE|
+|falET|
 
  * ועל־אמתך 1: 
 
 |וְעַל־אֲמִתֶּךָ 1|
 |-|
 |וְעַל־אֲמִתֶךָ 1|
-|wEɣElE־E'EmEtExE|
+|wsvɣal־'amitexA|
 
  * הוללים 1: 
 
 |הוֹלְלִים 1|
 |-|
 |הוֹֹלְלִים 1|
-|hEwElElEyEmE|
+|hwolsvliym|
 
  * בת־ציון 1: 
 
 |בַת־צִיּוֹן 1|
 |-|
 |בַת־צִיוֹֹן 1|
-|vEtE־EcEyEwEnE|
+|vat־ciywon|
 
  * באמונתי 1: 
 
 |בֶּאֱמוּנָתִי 1|
 |-|
 |בֶּאֱמוּנָתִי 1|
-|bE'EmEuEnEtEyE|
+|be'emunAtiy|
 
  * כי־צדיק 1: 
 
 |כִּי־צַדִּיק 1|
 |-|
 |כִּי־צַדִיק 1|
-|kEyE־EcEdEyEqE|
+|kiy־cadiyq|
 
  * ירעפו 1: 
 
 |יִרְעֲפוּ 1|
 |-|
 |יִרְעֲפוּ 1|
-|yErEɣEfEuE|
+|yirsvɣafu|
 
  * נלך 1: 
 
 |נֵלֵךְ 1|
 |-|
 |נֵלֵךְ 1|
-|nElExE|
+|nElExsv|
 
  * ואת־שועתם 1: 
 
 |וְאֶת־שַׁוְעָתָם 1|
 |-|
 |וְאֶת־שַׁוְעָתָם 1|
-|wE'EtE־EšEwEɣEtEmE|
+|wsv'et־šawsvɣAtAm|
 
  * קשט 1: 
 
 |קֹשֶׁט 1|
 |-|
 |קֹשֶׁט 1|
-|qEšETE|
+|qošeT|
 
  * יתפלל 1: 
 
 |יִתְפַּלֵּל 1|
 |-|
 |יִתְפַּלֵל 1|
-|yEtEpElElE|
+|yitsvpalEl|
 
  * ואל־תבלעני 1: 
 
 |וְאַל־תִּבְלָעֵנִי 1|
 |-|
 |וְאַל־תִבְלָעֵנִי 1|
-|wE'ElE־EtEvElEɣEnEyE|
+|wsv'al־tivsvlAɣEniy|
 
  * שלומי 1: 
 
 |שְׁלוֹמִי 1|
 |-|
 |שְׁלוֹֹמִי 1|
-|šElEwEmEyE|
+|šsvlwomiy|
 
  * אריקם 1: 
 
 |אֲרִיקֵם 1|
 |-|
 |אֲרִיקֵם 1|
-|'ErEyEqEmE|
+|'ariyqEm|
 
  * כל־צבאם 1: 
 
 |כָּל־צְבָאָם 1|
 |-|
 |כָּל־צְבָאָם 1|
-|kElE־EcEvE'EmE|
+|kAl־csvvA'Am|
 
  * והרק 1: 
 
 |וְהָרֵק 1|
 |-|
 |וְהָרֵק 1|
-|wEhErEqE|
+|wsvhArEq|
 
  * וגם־בתולות 1: 
 
 |וְגַם־בְּתוּלוֹת 1|
 |-|
 |וְגַם־בְּתוּלוֹֹת 1|
-|wEgEmE־EbEtEuElEwEtE|
+|wsvgam־bsvtulwot|
 
  * כרביבים 1: 
 
 |כִּרְבִיבִים 1|
 |-|
 |כִּרְבִיבִים 1|
-|kErEvEyEvEyEmE|
+|kirsvviyviym|
 
  * קרובה 1: 
 
 |קְרוֹבָה 1|
 |-|
 |קְרוֹֹבָה 1|
-|qErEwEvEhE|
+|qsvrwovAh|
 
  * כי־הלל 1: 
 
 |כִּי־הִלֵּל 1|
 |-|
 |כִּי־הִלֵל 1|
-|kEyE־EhElElE|
+|kiy־hilEl|
 
  * אבתיו 1: 
 
 |אֲבֹתָיו 1|
 |-|
 |אֲבֹתָיו 1|
-|'EvEtEyEwE|
+|'avotAyw|
 
  * ויחלצם 1: 
 
 |וַיְחַלְּצֵם 1|
 |-|
 |וַיְחַלְצֵם 1|
-|wEyEHElEcEmE|
+|waysvHalsvcEm|
 
  * וקדם 1: 
 
 |וָקֶדֶם 1|
 |-|
 |וָקֶדֶם 1|
-|wEqEdEmE|
+|wAqedem|
 
  * לא־ישבתי 1: 
 
 |לֹא־יָשַׁבְתִּי 1|
 |-|
 |לֹא־יָשַׁבְתִי 1|
-|lE'E־EyEšEvEtEyE|
+|lo'־yAšavsvtiy|
 
  * תשימני 1: 
 
 |תְּשִׂימֵנִי 1|
 |-|
 |תְשִׂימֵנִי 1|
-|tESEyEmEnEyE|
+|tsvSiymEniy|
 
  * הסתופף 1: 
 
 |הִסְתּוֹפֵף 1|
 |-|
 |הִסְתוֹֹפֵף 1|
-|hEsEtEwEfEfE|
+|hissvtwofEf|
 
  * ותחת־כנפיו 1: 
 
 |וְתַחַת־כְּנָפָיו 1|
 |-|
 |וְתַחַת־כְּנָפָיו 1|
-|wEtEHEtE־EkEnEfEyEwE|
+|wsvtaHat־ksvnAfAyw|
 
  * יאמרך 1: 
 
 |יֹאמְרֻךָ 1|
 |-|
 |יֹאמְרֻךָ 1|
-|yE'EmErExE|
+|yo'msvruxA|
 
  * חפש 1: 
 
 |חֵפֶשׂ 1|
 |-|
 |חֵפֶשׂ 1|
-|HEfESE|
+|HEfeS|
 
  * וחסיד 1: 
 
 |וְחָסִיד 1|
 |-|
 |וְחָסִיד 1|
-|wEHEsEyEdE|
+|wsvHAsiyd|
 
  * ולא־הסתיר 1: 
 
 |וְלֹא־הִסְתִּיר 1|
 |-|
 |וְלֹא־הִסְתִיר 1|
-|wElE'E־EhEsEtEyErE|
+|wsvlo'־hissvtiyr|
 
  * לעלות 1: 
 
 |לַעֲלוֹת 1|
 |-|
 |לַעֲלוֹֹת 1|
-|lEɣElEwEtE|
+|laɣalwot|
 
  * נכספה 1: 
 
 |נִכְסְפָה 1|
 |-|
 |נִכְסְפָה 1|
-|nExEsEfEhE|
+|nixsvssvfAh|
 
  * אבא־בם 1: 
 
 |אָבֹא־בָם 1|
 |-|
 |אָבֹא־בָם 1|
-|'EvE'E־EvEmE|
+|'Avo'־vAm|
 
  * ותנהלני 1: 
 
 |וּתְנַהֲלֵנִי 1|
 |-|
 |וּתְנַהֲלֵנִי 1|
-|uEtEnEhElEnEyE|
+|utsvnahalEniy|
 
  * אמרת־יהוה 1: 
 
 |אִמְרַת־יְהוָה 1|
 |-|
 |אִמְרַת־יְהוָה 1|
-|'EmErEtE־EyEhEwEhE|
+|'imsvrat־ysvhwAh|
 
  * בבהלה 1: 
 
 |בַּבֶּהָלָה 1|
 |-|
 |בַּבֶּהָלָה 1|
-|bEbEhElEhE|
+|babehAlAh|
 
  * הרגנו 1: 
 
 |הֹרַגְנוּ 1|
 |-|
 |הֹרַגְנוּ 1|
-|hErEgEnEuE|
+|horagsvnu|
 
  * יהרסון 1: 
 
 |יֵהָרֵסוּן 1|
 |-|
 |יֵהָרֵסוּן 1|
-|yEhErEsEuEnE|
+|yEhArEsun|
 
  * אם־חקתי 1: 
 
 |אִם־חֻקֹּתַי 1|
 |-|
 |אִם־חֻקֹתַי 1|
-|'EmE־EHEqEtEyE|
+|'im־Huqotay|
 
  * ותך 1: 
 
 |וָתֹךְ 1|
 |-|
 |וָתֹךְ 1|
-|wEtExE|
+|wAtoxsv|
 
  * באמונתך 1: 
 
 |בֶּאֱמוּנָתֶךָ 1|
 |-|
 |בֶּאֱמוּנָתֶךָ 1|
-|bE'EmEuEnEtExE|
+|be'emunAtexA|
 
  * ויתבוננו 1: 
 
 |וְיִתְבּוֹנְנוּ 1|
 |-|
 |וְיִתְבּוֹֹנְנוּ 1|
-|wEyEtEbEwEnEnEuE|
+|wsvyitsvbwonsvnu|
 
  * כל־הרשעים 1: 
 
 |כָּל־הָרְשָׁעִים 1|
 |-|
 |כָּל־הָרְשָׁעִים 1|
-|kElE־EhErEšEɣEyEmE|
+|kAl־hArsvšAɣiym|
 
  * כי־צדק 1: 
 
 |כִּי־צֶדֶק 1|
 |-|
 |כִּי־צֶדֶק 1|
-|kEyE־EcEdEqE|
+|kiy־cedeq|
 
  * ירדפוני 1: 
 
 |יִרְדְּפוּנִי 1|
 |-|
 |יִרְדְפוּנִי 1|
-|yErEdEfEuEnEyE|
+|yirsvdsvfuniy|
 
  * ויפח 1: 
 
 |וִיפֵחַ 1|
 |-|
 |וִיפֵחַ 1|
-|wEyEfEHE|
+|wiyfEHa|
 
  * יחסה־בו 1: 
 
 |יֶחֱסֶה־בּוֹ 1|
 |-|
 |יֶחֱסֶה־בּוֹֹ 1|
-|yEHEsEhE־EbEwE|
+|yeHeseh־bwo|
 
  * אזנכם 1: 
 
 |אָזְנְכֶם 1|
 |-|
 |אָזְנְכֶם 1|
-|'EzEnExEmE|
+|'Azsvnsvxem|
 
  * מגדל 1: 
 
 |מגדל 1|
 |-|
 |מגדל 1|
-|mEgEdElE|
+|mgdl|
 
  * עד־זקנה 1: 
 
 |עַד־זִקְנָה 1|
 |-|
 |עַד־זִקְנָה 1|
-|ɣEdE־EzEqEnEhE|
+|ɣad־ziqsvnAh|
 
  * תימן 1: 
 
 |תֵימָן 1|
 |-|
 |תֵימָן 1|
-|tEyEmEnE|
+|tEymAn|
 
  * שוב־נא 1: 
 
 |שׁוּב־נָא 1|
 |-|
 |שׁוּב־נָא 1|
-|šEuEvE־EnE'E|
+|šuv־nA'|
 
  * ברננה 1: 
 
 |בִּרְנָנָה 1|
 |-|
 |בִּרְנָנָה 1|
-|bErEnEnEhE|
+|birsvnAnAh|
 
  * שקקה 1: 
 
 |שֹׁקֵקָה 1|
 |-|
 |שֹׁקֵקָה 1|
-|šEqEqEhE|
+|šoqEqAh|
 
  * להרע 1: 
 
 |לְהָרַע 1|
 |-|
 |לְהָרַע 1|
-|lEhErEɣE|
+|lsvhAraɣ|
 
  * גם־עדתיך 1: 
 
 |גַּם־עֵדֹתֶיךָ 1|
 |-|
 |גַם־עֵדֹתֶיךָ 1|
-|gEmE־EɣEdEtEyExE|
+|gam־ɣEdoteyxA|
 
  * ]אמר 1: 
 
 |]אָמַר 1|
 |-|
 |]אָמַר 1|
-|]E'EmErE|
+|]'Amar|
 
  * נפוגותי 1: 
 
 |נְפוּגוֹתִי 1|
 |-|
 |נְפוּגוֹֹתִי 1|
-|nEfEuEgEwEtEyE|
+|nsvfugwotiy|
 
  * אדדם 1: 
 
 |אֶדַּדֵּם 1|
 |-|
 |אֶדַדֵם 1|
-|'EdEdEmE|
+|'edadEm|
 
  * והדברים 1: 
 
 |וְהַדֹּבְרִים 1|
 |-|
 |וְהַדֹבְרִים 1|
-|wEhEdEvErEyEmE|
+|wsvhadovsvriym|
 
  * עזרתני 1: 
 
 |עֲזַרְתַּנִי 1|
 |-|
 |עֲזַרְתַנִי 1|
-|ɣEzErEtEnEyE|
+|ɣazarsvtaniy|
 
  * ואל־יבאו 1: 
 
 |וְאַל־יָבֹאוּ 1|
 |-|
 |וְאַל־יָבֹאוּ 1|
-|wE'ElE־EyEvE'EuE|
+|wsv'al־yAvo'u|
 
  * מה־ידידות 1: 
 
 |מַה־יְּדִידוֹת 1|
 |-|
 |מַה־יְדִידוֹֹת 1|
-|mEhE־EyEdEyEdEwEtE|
+|mah־ysvdiydwot|
 
  * אדעה 1: 
 
 |אֵדְעָה 1|
 |-|
 |אֵדְעָה 1|
-|'EdEɣEhE|
+|'EdsvɣAh|
 
  * בודד 1: 
 
 |בּוֹדֵד 1|
 |-|
 |בּוֹֹדֵד 1|
-|bEwEdEdE|
+|bwodEd|
 
  * יתרועעו 1: 
 
 |יִתְרוֹעֲעוּ 1|
 |-|
 |יִתְרוֹֹעֲעוּ 1|
-|yEtErEwEɣEɣEuE|
+|yitsvrwoɣaɣu|
 
  * ואקימה 1: 
 
 |וָאֲקַיֵּמָה 1|
 |-|
 |וָאֲקַיֵמָה 1|
-|wE'EqEyEmEhE|
+|wA'aqayEmAh|
 
  * כי־ימינך 1: 
 
 |כִּי־יְמִינְךָ 1|
 |-|
 |כִּי־יְמִינְךָ 1|
-|kEyE־EyEmEyEnExE|
+|kiy־ysvmiynsvxA|
 
  * תקות 1: 
 
 |תִּקְוַת 1|
 |-|
 |תִקְוַת 1|
-|tEqEwEtE|
+|tiqsvwat|
 
  * חושה־לי 1: 
 
 |חוּשָׁה־לִּי 1|
 |-|
 |חוּשָׁה־לִי 1|
-|HEuEšEhE־ElEyE|
+|HušAh־liy|
 
  * מבית 1: 
 
 |מִבֵּית 1|
 |-|
 |מִבֵּית 1|
-|mEbEyEtE|
+|mibEyt|
 
  * מעמו 1: 
 
 |מֵעִמּוֹ 1|
 |-|
 |מֵעִמוֹֹ 1|
-|mEɣEmEwE|
+|mEɣimwo|
 
  * אם־יצר 1: 
 
 |אִם־יֹצֵר 1|
 |-|
 |אִם־יֹצֵר 1|
-|'EmE־EyEcErE|
+|'im־yocEr|
 
  * וממלכות 1: 
 
 |וּמַמְלָכוֹת 1|
 |-|
 |וּמַמְלָכוֹֹת 1|
-|uEmEmElExEwEtE|
+|umamsvlAxwot|
 
  * בפרש 1: 
 
 |בְּפָרֵשׂ 1|
 |-|
 |בְּפָרֵשׂ 1|
-|bEfErESE|
+|bsvfArES|
 
  * לא־ישמר־עיר 1: 
 
 |לֹא־יִשְׁמָר־עִיר 1|
 |-|
 |לֹא־יִשְׁמָר־עִיר 1|
-|lE'E־EyEšEmErE־EɣEyErE|
+|lo'־yišsvmAr־ɣiyr|
 
  * בגת 1: 
 
 |בְּגַת 1|
 |-|
 |בְּגַת 1|
-|bEgEtE|
+|bsvgat|
 
  * שחברה־לה 1: 
 
 |שֶׁחֻבְּרָה־לָּהּ 1|
 |-|
 |שֶׁחֻבְּרָה־לָה 1|
-|šEHEbErEhE־ElEhE|
+|šeHubsvrAh־lAh|
 
  * כל־פקודי 1: 
 
 |כָּל־פִּקּוּדֵי 1|
 |-|
 |כָּל־פִּקוּדֵי 1|
-|kElE־EpEqEuEdEyE|
+|kAl־piqudEy|
 
  * בתם־לבבי 1: 
 
 |בְּתָם־לְבָבִי 1|
 |-|
 |בְּתָם־לְבָבִי 1|
-|bEtEmE־ElEvEvEyE|
+|bsvtAm־lsvvAviy|
 
  * בכל־נפלאותיו 1: 
 
 |בְּכָל־נִפְלְאוֹתָיו 1|
 |-|
 |בְּכָל־נִפְלְאוֹֹתָיו 1|
-|bExElE־EnEfElE'EwEtEyEwE|
+|bsvxAl־nifsvlsv'wotAyw|
 
  * בשוב־אויבי 1: 
 
 |בְּשׁוּב־אוֹיְבַי 1|
 |-|
 |בְּשׁוּב־אוֹֹיְבַי 1|
-|bEšEuEvE־E'EwEyEvEyE|
+|bsvšuv־'woysvvay|
 
  * לדך 1: 
 
 |לַדָּךְ 1|
 |-|
 |לַדָךְ 1|
-|lEdExE|
+|ladAxsv|
 
  * הביאו 1: 
 
 |הֱבִיאוֹ 1|
 |-|
 |הֱבִיאוֹֹ 1|
-|hEvEyE'EwE|
+|heviy'wo|
 
  * כוננה 1: 
 
 |כּוֹנְנָה 1|
 |-|
 |כּוֹֹנְנָה 1|
-|kEwEnEnEhE|
+|kwonsvnAh|
 
  * ויהיו 1: 
 
 |וַיִּהְיוּ 1|
 |-|
 |וַיִהְיוּ 1|
-|wEyEhEyEuE|
+|wayihsvyu|
 
  * בשמי 1: 
 
 |בִּשְׁמֵי 1|
 |-|
 |בִּשְׁמֵי 1|
-|bEšEmEyE|
+|bišsvmEy|
 
  * בלא־הון 1: 
 
 |בְלֹא־הוֹן 1|
 |-|
 |בְלֹא־הוֹֹן 1|
-|vElE'E־EhEwEnE|
+|vsvlo'־hwon|
 
  * הן־בעוון 1: 
 
 |הֵן־בְּעָווֹן 1|
 |-|
 |הֵן־בְּעָווֹֹן 1|
-|hEnE־EbEɣEwEwEnE|
+|hEn־bsvɣAwwon|
 
  * אתה־כהן 1: 
 
 |אַתָּה־כֹהֵן 1|
 |-|
 |אַתָה־כֹהֵן 1|
-|'EtEhE־ExEhEnE|
+|'atAh־xohEn|
 
  * שברו 1: 
 
 |שִׂבְרוֹ 1|
 |-|
 |שִׂבְרוֹֹ 1|
-|SEvErEwE|
+|Sivsvrwo|
 
  * בכור 1: 
 
 |בְּכוֹר 1|
 |-|
 |בְּכוֹֹר 1|
-|bExEwErE|
+|bsvxwor|
 
  * דרושים 1: 
 
 |דְּרוּשִׁים 1|
 |-|
 |דְרוּשִׁים 1|
-|dErEuEšEyEmE|
+|dsvrušiym|
 
  * כי־חפצת 1: 
 
 |כִּי־חָפַצְתָּ 1|
 |-|
 |כִּי־חָפַצְתָ 1|
-|kEyE־EHEfEcEtE|
+|kiy־HAfacsvtA|
 
  * כלבבך 1: 
 
 |כִלְבָבֶךָ 1|
 |-|
 |כִלְבָבֶךָ 1|
-|xElEvEvExE|
+|xilsvvAvexA|
 
  * מטהרו 1: 
 
 |מִטְּהָרוֹ 1|
 |-|
 |מִטְהָרוֹֹ 1|
-|mETEhErEwE|
+|miTsvhArwo|
 
  * נתננו 1: 
 
 |נְתָנָנוּ 1|
 |-|
 |נְתָנָנוּ 1|
-|nEtEnEnEuE|
+|nsvtAnAnu|
 
  * מנאפים 1: 
 
 |מְנָאֲפִים 1|
 |-|
 |מְנָאֲפִים 1|
-|mEnE'EfEyEmE|
+|msvnA'afiym|
 
  * בעדת 1: 
 
 |בַּעֲדַת 1|
 |-|
 |בַּעֲדַת 1|
-|bEɣEdEtE|
+|baɣadat|
 
  * ועמלי 1: 
 
 |וַעֲמָלִי 1|
 |-|
 |וַעֲמָלִי 1|
-|wEɣEmElEyE|
+|waɣamAliy|
 
  * יונה 1: 
 
 |יוֹנָה 1|
 |-|
 |יוֹֹנָה 1|
-|yEwEnEhE|
+|ywonAh|
 
  * אלמדם 1: 
 
 |אֲלַמְּדֵם 1|
 |-|
 |אֲלַמְדֵם 1|
-|'ElEmEdEmE|
+|'alamsvdEm|
 
  * בחוץ 1: 
 
 |בַּחוּץ 1|
 |-|
 |בַּחוּץ 1|
-|bEHEuEcE|
+|baHuc|
 
  * כתרוני 1: 
 
 |כִּתְּרוּנִי 1|
 |-|
 |כִּתְרוּנִי 1|
-|kEtErEuEnEyE|
+|kitsvruniy|
 
  * כי־הכית 1: 
 
 |כִּי־הִכִּיתָ 1|
 |-|
 |כִּי־הִכִּיתָ 1|
-|kEyE־EhEkEyEtE|
+|kiy־hikiytA|
 
  * אגדע 1: 
 
 |אֲגַדֵּעַ 1|
 |-|
 |אֲגַדֵעַ 1|
-|'EgEdEɣE|
+|'agadEɣa|
 
  * והצילנו 1: 
 
 |וְהַצִּילֵנוּ 1|
 |-|
 |וְהַצִילֵנוּ 1|
-|wEhEcEyElEnEuE|
+|wsvhaciylEnu|
 
  * לא־היה 1: 
 
 |לֹא־הָיָה 1|
 |-|
 |לֹא־הָיָה 1|
-|lE'E־EhEyEhE|
+|lo'־hAyAh|
 
  * לא־אשכח 1: 
 
 |לֹא־אֶשְׁכַּח 1|
 |-|
 |לֹא־אֶשְׁכַּח 1|
-|lE'E־E'EšEkEHE|
+|lo'־'ešsvkaH|
 
  * נפלו־לי 1: 
 
 |נָפְלוּ־לִי 1|
 |-|
 |נָפְלוּ־לִי 1|
-|nEfElEuE־ElEyE|
+|nAfsvlu־liy|
 
  * הבין 1: 
 
 |הָבִין 1|
 |-|
 |הָבִין 1|
-|hEvEyEnE|
+|hAviyn|
 
  * ישימות 1: 
 
 |ישימות 1|
 |-|
 |ישימות 1|
-|yEשEyEmEwEtE|
+|yשymwt|
 
  * ישאלוני 1: 
 
 |יִשְׁאָלוּנִי 1|
 |-|
 |יִשְׁאָלוּנִי 1|
-|yEšE'ElEuEnEyE|
+|yišsv'Aluniy|
 
  * שמחוך 1: 
 
 |שִׂמְּחוּךָ 1|
 |-|
 |שִׂמְחוּךָ 1|
-|SEmEHEuExE|
+|SimsvHuxA|
 
  * נאזר 1: 
 
 |נֶאְזָר 1|
 |-|
 |נֶאְזָר 1|
-|nE'EzErE|
+|ne'svzAr|
 
  * יברכנהו 1: 
 
 |יְבָרֲכֶנְהוּ 1|
 |-|
 |יְבָרֲכֶנְהוּ 1|
-|yEvErExEnEhEuE|
+|ysvvAraxensvhu|
 
  * ולא־יבין 1: 
 
 |וְלֹא־יָבִין 1|
 |-|
 |וְלֹא־יָבִין 1|
-|wElE'E־EyEvEyEnE|
+|wsvlo'־yAviyn|
 
  * יבהלון 1: 
 
 |יִבָּהֵלוּן 1|
 |-|
 |יִבָּהֵלוּן 1|
-|yEbEhElEuEnE|
+|yibAhElun|
 
  * נקדמה 1: 
 
 |נְקַדְּמָה 1|
 |-|
 |נְקַדְמָה 1|
-|nEqEdEmEhE|
+|nsvqadsvmAh|
 
  * קרסלי 1: 
 
 |קַרְסֻלָּי 1|
 |-|
 |קַרְסֻלָי 1|
-|qErEsElEyE|
+|qarsvsulAy|
 
  * כל־יורדי 1: 
 
 |כָּל־יוֹרְדֵי 1|
 |-|
 |כָּל־יוֹֹרְדֵי 1|
-|kElE־EyEwErEdEyE|
+|kAl־yworsvdEy|
 
  * ולא־אשקר 1: 
 
 |וְלֹא־אֲשַׁקֵּר 1|
 |-|
 |וְלֹא־אֲשַׁקֵר 1|
-|wElE'E־E'EšEqErE|
+|wsvlo'־'ašaqEr|
 
  * מאתך 1: 
 
 |מֵאִתְּךָ 1|
 |-|
 |מֵאִתְךָ 1|
-|mE'EtExE|
+|mE'itsvxA|
 
  * יתרם 1: 
 
 |יִתְרָם 1|
 |-|
 |יִתְרָם 1|
-|yEtErEmE|
+|yitsvrAm|
 
  * עתתי 1: 
 
 |עִתֹּתָי 1|
 |-|
 |עִתֹתָי 1|
-|ɣEtEtEyE|
+|ɣitotAy|
 
  * אשמחה 1: 
 
 |אֶשְׂמְחָה 1|
 |-|
 |אֶשְׂמְחָה 1|
-|'ESEmEHEhE|
+|'eSsvmsvHAh|
 
  * אהגה־בך 1: 
 
 |אֶהְגֶּה־בָּךְ 1|
 |-|
 |אֶהְגֶה־בָּךְ 1|
-|'EhEgEhE־EbExE|
+|'ehsvgeh־bAxsv|
 
  * ואשכנה 1: 
 
 |וְאֶשְׁכֹּנָה 1|
 |-|
 |וְאֶשְׁכֹּנָה 1|
-|wE'EšEkEnEhE|
+|wsv'ešsvkonAh|
 
  * מעללי־אל 1: 
 
 |מַעַלְלֵי־אֵל 1|
 |-|
 |מַעַלְלֵי־אֵל 1|
-|mEɣElElEyE־E'ElE|
+|maɣalsvlEy־'El|
 
  * ויפתוהו 1: 
 
 |וַיְפַתּוּהוּ 1|
 |-|
 |וַיְפַתוּהוּ 1|
-|wEyEfEtEuEhEuE|
+|waysvfatuhu|
 
  * יאריהם 1: 
 
 |יְאֹרֵיהֶם 1|
 |-|
 |יְאֹרֵיהֶם 1|
-|yE'ErEyEhEmE|
+|ysv'orEyhem|
 
  * עשהו 1: 
 
 |עָשָׂהוּ 1|
 |-|
 |עָשָׂהוּ 1|
-|ɣESEhEuE|
+|ɣASAhu|
 
  * כל־משאלותיך 1: 
 
 |כָּל־מִשְׁאֲלוֹתֶיךָ 1|
 |-|
 |כָּל־מִשְׁאֲלוֹֹתֶיךָ 1|
-|kElE־EmEšE'ElEwEtEyExE|
+|kAl־mišsv'alwoteyxA|
 
  * חלכה 1: 
 
 |חֵלֶכָה 1|
 |-|
 |חֵלֶכָה 1|
-|HElExEhE|
+|HElexAh|
 
  * לבשרי 1: 
 
 |לִבְשָׂרִי 1|
 |-|
 |לִבְשָׂרִי 1|
-|lEvESErEyE|
+|livsvSAriy|
 
  * תשמע 1: 
 
 |תִּשְׁמַע 1|
 |-|
 |תִשְׁמַע 1|
-|tEšEmEɣE|
+|tišsvmaɣ|
 
  * מקומו 1: 
 
 |מְקוֹמוֹ 1|
 |-|
 |מְקוֹֹמוֹֹ 1|
-|mEqEwEmEwE|
+|msvqwomwo|
 
  * ושבועתו 1: 
 
 |וּשְׁבוּעָתוֹ 1|
 |-|
 |וּשְׁבוּעָתוֹֹ 1|
-|uEšEvEuEɣEtEwE|
+|ušsvvuɣAtwo|
 
  * ויכעיסו 1: 
 
 |וַיַּכְעִיסוּ 1|
 |-|
 |וַיַכְעִיסוּ 1|
-|wEyExEɣEyEsEuE|
+|wayaxsvɣiysu|
 
  * צור־לבבי 1: 
 
 |צוּר־לְבָבִי 1|
 |-|
 |צוּר־לְבָבִי 1|
-|cEuErE־ElEvEvEyE|
+|cur־lsvvAviy|
 
  * נעם 1: 
 
 |נֹעַם 1|
 |-|
 |נֹעַם 1|
-|nEɣEmE|
+|noɣam|
 
  * הכפירים 1: 
 
 |הַכְּפִירִים 1|
 |-|
 |הַכְּפִירִים 1|
-|hEkEfEyErEyEmE|
+|haksvfiyriym|
 
  * [ידעתי] 1: 
 
 |[יָדַעְתִּי] 1|
 |-|
 |[יָדַעְתִי] 1|
-|[EyEdEɣEtEyE]E|
+|[yAdaɣsvtiy]|
 
  * ירשיענו 1: 
 
 |יַרְשִׁיעֶנּוּ 1|
 |-|
 |יַרְשִׁיעֶנוּ 1|
-|yErEšEyEɣEnEuE|
+|yarsvšiyɣenu|
 
  * אל־בצע 1: 
 
 |אֶל־בָּצַע 1|
 |-|
 |אֶל־בָּצַע 1|
-|'ElE־EbEcEɣE|
+|'el־bAcaɣ|
 
  * עזמו 1: 
 
 |עֻזָּמוֹ 1|
 |-|
 |עֻזָמוֹֹ 1|
-|ɣEzEmEwE|
+|ɣuzAmwo|
 
  * לשטף 1: 
 
 |לְשֵׁטֶף 1|
 |-|
 |לְשֵׁטֶף 1|
-|lEšETEfE|
+|lsvšETef|
 
  * חצריך 1: 
 
 |חֲצֵרֶיךָ 1|
 |-|
 |חֲצֵרֶיךָ 1|
-|HEcErEyExE|
+|HacEreyxA|
 
  * בהכרת 1: 
 
 |בְּהִכָּרֵת 1|
 |-|
 |בְּהִכָּרֵת 1|
-|bEhEkErEtE|
+|bsvhikArEt|
 
  * תלכדו 1: 
 
 |תִּלְכְּדוֹ 1|
 |-|
 |תִלְכְּדוֹֹ 1|
-|tElEkEdEwE|
+|tilsvksvdwo|
 
  * בדמים 1: 
 
 |בַּדָּמִים 1|
 |-|
 |בַּדָמִים 1|
-|bEdEmEyEmE|
+|badAmiym|
 
  * חמסו 1: 
 
 |חֲמָסוֹ 1|
 |-|
 |חֲמָסוֹֹ 1|
-|HEmEsEwE|
+|HamAswo|
 
  * ואת־יראי 1: 
 
 |וְאֶת־יִרְאֵי 1|
 |-|
 |וְאֶת־יִרְאֵי 1|
-|wE'EtE־EyErE'EyE|
+|wsv'et־yirsv'Ey|
 
  * מכל־פשעי 1: 
 
 |מִכָּל־פְּשָׁעַי 1|
 |-|
 |מִכָּל־פְּשָׁעַי 1|
-|mEkElE־EpEšEɣEyE|
+|mikAl־psvšAɣay|
 
  * לרנתי 1: 
 
 |לְרִנָּתִי 1|
 |-|
 |לְרִנָתִי 1|
-|lErEnEtEyE|
+|lsvrinAtiy|
 
  * ומבקש 1: 
 
 |וּמְבַקֵּשׁ 1|
 |-|
 |וּמְבַקֵשׁ 1|
-|uEmEvEqEšE|
+|umsvvaqEš|
 
  * באזוב 1: 
 
 |בְאֵזוֹב 1|
 |-|
 |בְאֵזוֹֹב 1|
-|vE'EzEwEvE|
+|vsv'Ezwov|
 
  * באלילים 1: 
 
 |בָּאֱלִילִים 1|
 |-|
 |בָּאֱלִילִים 1|
-|bE'ElEyElEyEmE|
+|bA'eliyliym|
 
  * היגיד 1: 
 
 |הֲיַגִּיד 1|
 |-|
 |הֲיַגִיד 1|
-|hEyEgEyEdE|
+|hayagiyd|
 
  * מתרונן 1: 
 
 |מִתְרוֹנֵן 1|
 |-|
 |מִתְרוֹֹנֵן 1|
-|mEtErEwEnEnE|
+|mitsvrwonEn|
 
  * אל־יהי־לו 1: 
 
 |אַל־יְהִי־לוֹ 1|
 |-|
 |אַל־יְהִי־לוֹֹ 1|
-|'ElE־EyEhEyE־ElEwE|
+|'al־ysvhiy־lwo|
 
  * יחפשו־עולת 1: 
 
 |יַחְפְּשׂוּ־עוֹלֹת 1|
 |-|
 |יַחְפְּשׂוּ־עוֹֹלֹת 1|
-|yEHEpESEuE־EɣEwElEtE|
+|yaHsvpsvSu־ɣwolot|
 
  * חנה 1: 
 
 |חֹנֶה 1|
 |-|
 |חֹנֶה 1|
-|HEnEhE|
+|Honeh|
 
  * ירוממני 1: 
 
 |יְרוֹמְמֵנִי 1|
 |-|
 |יְרוֹֹמְמֵנִי 1|
-|yErEwEmEmEnEyE|
+|ysvrwomsvmEniy|
 
  * הראנו 1: 
 
 |הַרְאֵנוּ 1|
 |-|
 |הַרְאֵנוּ 1|
-|hErE'EnEuE|
+|harsv'Enu|
 
  * הסלח 1: 
 
 |הַסֹּלֵחַ 1|
 |-|
 |הַסֹלֵחַ 1|
-|hEsElEHE|
+|hasolEHa|
 
  * אשגבהו 1: 
 
 |אֲשַׂגְּבֵהוּ 1|
 |-|
 |אֲשַׂגְבֵהוּ 1|
-|'ESEgEvEhEuE|
+|'aSagsvvEhu|
 
  * כי־חנם 1: 
 
 |כִּי־חִנָּם 1|
 |-|
 |כִּי־חִנָם 1|
-|kEyE־EHEnEmE|
+|kiy־HinAm|
 
  * ורוזנים 1: 
 
 |וְרוֹזְנִים 1|
 |-|
 |וְרוֹֹזְנִים 1|
-|wErEwEzEnEyEmE|
+|wsvrwozsvniym|
 
  * ילד־בה 1: 
 
 |יֻלַּד־בָּהּ 1|
 |-|
 |יֻלַד־בָּה 1|
-|yElEdE־EbEhE|
+|yulad־bAh|
 
  * בימים 1: 
 
 |בַּיַּמִּים 1|
 |-|
 |בַּיַמִים 1|
-|bEyEmEyEmE|
+|bayamiym|
 
  * לא־חכו 1: 
 
 |לֹא־חִכּוּ 1|
 |-|
 |לֹא־חִכּוּ 1|
-|lE'E־EHEkEuE|
+|lo'־Hiku|
 
  * חשכת־מים 1: 
 
 |חֶשְׁכַת־מַיִם 1|
 |-|
 |חֶשְׁכַת־מַיִם 1|
-|HEšExEtE־EmEyEmE|
+|Hešsvxat־mayim|
 
  * בירקרק 1: 
 
 |בִּירַקְרַק 1|
 |-|
 |בִּירַקְרַק 1|
-|bEyErEqErEqE|
+|biyraqsvraq|
 
  * מה־יגיל 1: 
 
 |מַה־יגיל 1|
 |-|
 |מַה־יגיל 1|
-|mEhE־EyEgEyElE|
+|mah־ygyl|
 
  * בקום־למשפט 1: 
 
 |בְּקוּם־לַמִּשְׁפָּט 1|
 |-|
 |בְּקוּם־לַמִשְׁפָּט 1|
-|bEqEuEmE־ElEmEšEpETE|
+|bsvqum־lamišsvpAT|
 
  * נשמה 1: 
 
 |נְשַׁמָּה 1|
 |-|
 |נְשַׁמָה 1|
-|nEšEmEhE|
+|nsvšamAh|
 
  * רפאני 1: 
 
 |רְפָאֵנִי 1|
 |-|
 |רְפָאֵנִי 1|
-|rEfE'EnEyE|
+|rsvfA'Eniy|
 
  * לקום 1: 
 
 |לָקוּם 1|
 |-|
 |לָקוּם 1|
-|lEqEuEmE|
+|lAqum|
 
  * תלמיה 1: 
 
 |תְּלָמֶיהָ 1|
 |-|
 |תְלָמֶיהָ 1|
-|tElEmEyEhE|
+|tsvlAmeyhA|
 
  * ירעפון 1: 
 
 |יִרְעֲפוּן 1|
 |-|
 |יִרְעֲפוּן 1|
-|yErEɣEfEuEnE|
+|yirsvɣafun|
 
  * חבורתי 1: 
 
 |חַבּוּרֹתָי 1|
 |-|
 |חַבּוּרֹתָי 1|
-|HEbEuErEtEyE|
+|HaburotAy|
 
  * ושמש 1: 
 
 |וָשָׁמֶשׁ 1|
 |-|
 |וָשָׁמֶשׁ 1|
-|wEšEmEšE|
+|wAšAmeš|
 
  * בהצותו 1: 
 
 |בְּהַצּוֹתוֹ 1|
 |-|
 |בְּהַצוֹֹתוֹֹ 1|
-|bEhEcEwEtEwE|
+|bsvhacwotwo|
 
  * כי־דלותי 1: 
 
 |כִּי־דַלּוֹתִי 1|
 |-|
 |כִּי־דַלוֹֹתִי 1|
-|kEyE־EdElEwEtEyE|
+|kiy־dalwotiy|
 
  * הניעמו 1: 
 
 |הֲנִיעֵמוֹ 1|
 |-|
 |הֲנִיעֵמוֹֹ 1|
-|hEnEyEɣEmEwE|
+|haniyɣEmwo|
 
  * אני־קראתיך 1: 
 
 |אֲנִי־קְרָאתִיךָ 1|
 |-|
 |אֲנִי־קְרָאתִיךָ 1|
-|'EnEyE־EqErE'EtEyExE|
+|'aniy־qsvrA'tiyxA|
 
  * ידרכון 1: 
 
 |יִדְרְכוּן 1|
 |-|
 |יִדְרְכוּן 1|
-|yEdErExEuEnE|
+|yidsvrsvxun|
 
  * ועת 1: 
 
 |ועת 1|
 |-|
 |ועת 1|
-|wEɣEtE|
+|wɣt|
 
  * ובתולתיו 1: 
 
 |וּבְתוּלֹתָיו 1|
 |-|
 |וּבְתוּלֹתָיו 1|
-|uEvEtEuElEtEyEwE|
+|uvsvtulotAyw|
 
  * וכליותי 1: 
 
 |וְכִלְיוֹתַי 1|
 |-|
 |וְכִלְיוֹֹתַי 1|
-|wExElEyEwEtEyE|
+|wsvxilsvywotay|
 
  * כאורה 1: 
 
 |כָּאוֹרָה 1|
 |-|
 |כָּאוֹֹרָה 1|
-|kE'EwErEhE|
+|kA'worAh|
 
  * רננו 1: 
 
 |רַנְּנוּ 1|
 |-|
 |רַנְנוּ 1|
-|rEnEnEuE|
+|ransvnu|
 
  * תפתח־ארץ 1: 
 
 |תִּפְתַּח־אֶרֶץ 1|
 |-|
 |תִפְתַח־אֶרֶץ 1|
-|tEfEtEHE־E'ErEcE|
+|tifsvtaH־'erec|
 
  * ומחבש 1: 
 
 |וּמְחַבֵּשׁ 1|
 |-|
 |וּמְחַבֵּשׁ 1|
-|uEmEHEbEšE|
+|umsvHabEš|
 
  * חידתי 1: 
 
 |חִידָתִי 1|
 |-|
 |חִידָתִי 1|
-|HEyEdEtEyE|
+|HiydAtiy|
 
  * לא־יבול 1: 
 
 |לֹא־יִבּוֹל 1|
 |-|
 |לֹא־יִבּוֹֹל 1|
-|lE'E־EyEbEwElE|
+|lo'־yibwol|
 
  * אל־חפץ 1: 
 
 |אֵל־חָפֵץ 1|
 |-|
 |אֵל־חָפֵץ 1|
-|'ElE־EHEfEcE|
+|'El־HAfEc|
 
  * עם־פעלי 1: 
 
 |עִם־פֹּעֲלֵי 1|
 |-|
 |עִם־פֹּעֲלֵי 1|
-|ɣEmE־EpEɣElEyE|
+|ɣim־poɣalEy|
 
  * שחד 1: 
 
 |שֹּׁחַד 1|
 |-|
 |שֹׁחַד 1|
-|šEHEdE|
+|šoHad|
 
  * יגיע 1: 
 
 |יְגִיעַ 1|
 |-|
 |יְגִיעַ 1|
-|yEgEyEɣE|
+|ysvgiyɣa|
 
  * ונחלתם 1: 
 
 |וְנַחֲלָתָם 1|
 |-|
 |וְנַחֲלָתָם 1|
-|wEnEHElEtEmE|
+|wsvnaHalAtAm|
 
  * מי־זה 1: 
 
 |מִי־זֶה 1|
 |-|
 |מִי־זֶה 1|
-|mEyE־EzEhE|
+|miy־zeh|
 
  * ואיבינו 1: 
 
 |וְאֹיְבֵינוּ 1|
 |-|
 |וְאֹיְבֵינוּ 1|
-|wE'EyEvEyEnEuE|
+|wsv'oysvvEynu|
 
  * וירפאם 1: 
 
 |וְיִרְפָּאֵם 1|
 |-|
 |וְיִרְפָּאֵם 1|
-|wEyErEpE'EmE|
+|wsvyirsvpA'Em|
 
  * ודין 1: 
 
 |וְדַיַּן 1|
 |-|
 |וְדַיַן 1|
-|wEdEyEnE|
+|wsvdayan|
 
  * בשן 1: 
 
 |בָשָׁן 1|
 |-|
 |בָשָׁן 1|
-|vEšEnE|
+|vAšAn|
 
  * איש־האלהים 1: 
 
 |אִישׁ־הָאֱלֹהִים 1|
 |-|
 |אִישׁ־הָאֱלֹהִים 1|
-|'EyEšE־EhE'ElEhEyEmE|
+|'iyš־hA'elohiym|
 
  * ונעפה 1: 
 
 |וַנָּעֻפָה 1|
 |-|
 |וַנָעֻפָה 1|
-|wEnEɣEfEhE|
+|wanAɣufAh|
 
  * שמונים 1: 
 
 |שְׁמוֹנִים 1|
 |-|
 |שְׁמוֹֹנִים 1|
-|šEmEwEnEyEmE|
+|šsvmwoniym|
 
  * לעשקי 1: 
 
 |לְעֹשְׁקָי 1|
 |-|
 |לְעֹשְׁקָי 1|
-|lEɣEšEqEyE|
+|lsvɣošsvqAy|
 
  * נוראתיך 1: 
 
 |נוֹרְאֹתֶיךָ 1|
 |-|
 |נוֹֹרְאֹתֶיךָ 1|
-|nEwErE'EtEyExE|
+|nworsv'oteyxA|
 
  * בלבבו 1: 
 
 |בִּלְבָבוֹ 1|
 |-|
 |בִּלְבָבוֹֹ 1|
-|bElEvEvEwE|
+|bilsvvAvwo|
 
  * המכסה 1: 
 
 |הַמְכַסֶּה 1|
 |-|
 |הַמְכַסֶה 1|
-|hEmExEsEhE|
+|hamsvxaseh|
 
  * ויגרשהו 1: 
 
 |וַיְגָרֲשֵׁהוּ 1|
 |-|
 |וַיְגָרֲשֵׁהוּ 1|
-|wEyEgErEšEhEuE|
+|waysvgArašEhu|
 
  * שטפתני 1: 
 
 |שְׁטָפָתְנִי 1|
 |-|
 |שְׁטָפָתְנִי 1|
-|šETEfEtEnEyE|
+|šsvTAfAtsvniy|
 
  * במעגלותיך 1: 
 
 |בְּמַעְגְּלוֹתֶיךָ 1|
 |-|
 |בְּמַעְגְלוֹֹתֶיךָ 1|
-|bEmEɣEgElEwEtEyExE|
+|bsvmaɣsvgsvlwoteyxA|
 
  * חסין 1: 
 
 |חֲסִין 1|
 |-|
 |חֲסִין 1|
-|HEsEyEnE|
+|Hasiyn|
 
  * נעכר 1: 
 
 |נֶעְכָּר 1|
 |-|
 |נֶעְכָּר 1|
-|nEɣEkErE|
+|neɣsvkAr|
 
  * נערץ 1: 
 
 |נַעֲרָץ 1|
 |-|
 |נַעֲרָץ 1|
-|nEɣErEcE|
+|naɣarAc|
 
  * נמכר 1: 
 
 |נִמְכַּר 1|
 |-|
 |נִמְכַּר 1|
-|nEmEkErE|
+|nimsvkar|
 
  * וצפרדע 1: 
 
 |וּצְפַרְדֵּעַ 1|
 |-|
 |וּצְפַרְדֵעַ 1|
-|uEcEfErEdEɣE|
+|ucsvfarsvdEɣa|
 
  * ירכתי 1: 
 
 |יַרְכְּתֵי 1|
 |-|
 |יַרְכְּתֵי 1|
-|yErEkEtEyE|
+|yarsvksvtEy|
 
  * מה־אהבתי 1: 
 
 |מָה־אָהַבְתִּי 1|
 |-|
 |מָה־אָהַבְתִי 1|
-|mEhE־E'EhEvEtEyE|
+|mAh־'Ahavsvtiy|
 
  * על־פי 1: 
 
 |עַל־פִּי 1|
 |-|
 |עַל־פִּי 1|
-|ɣElE־EpEyE|
+|ɣal־piy|
 
  * תודת 1: 
 
 |תּוֹדֹת 1|
 |-|
 |תוֹֹדֹת 1|
-|tEwEdEtE|
+|twodot|
 
  * תודך 1: 
 
 |תּוֹדֶךָּ 1|
 |-|
 |תוֹֹדֶךָּ 1|
-|tEwEdEkE|
+|twodekA|
 
  * לא־נתן 1: 
 
 |לֹא־נָתַן 1|
 |-|
 |לֹא־נָתַן 1|
-|lE'E־EnEtEnE|
+|lo'־nAtan|
 
  * לכל־בשר 1: 
 
 |לְכָל־בָּשָׂר 1|
 |-|
 |לְכָל־בָּשָׂר 1|
-|lExElE־EbESErE|
+|lsvxAl־bASAr|
 
  * בחיקי 1: 
 
 |בְחֵיקִי 1|
 |-|
 |בְחֵיקִי 1|
-|vEHEyEqEyE|
+|vsvHEyqiy|
 
  * חזיתיך 1: 
 
 |חֲזִיתִיךָ 1|
 |-|
 |חֲזִיתִיךָ 1|
-|HEzEyEtEyExE|
+|HaziytiyxA|
 
  * יערך 1: 
 
 |יַעֲרֹךְ 1|
 |-|
 |יַעֲרֹךְ 1|
-|yEɣErExE|
+|yaɣaroxsv|
 
  * הגדילו 1: 
 
 |הִגְדִּילוּ 1|
 |-|
 |הִגְדִילוּ 1|
-|hEgEdEyElEuE|
+|higsvdiylu|
 
  * שגיאות 1: 
 
 |שְׁגִיאוֹת 1|
 |-|
 |שְׁגִיאוֹֹת 1|
-|šEgEyE'EwEtE|
+|šsvgiy'wot|
 
  * הודעת 1: 
 
 |הוֹדַעְתָּ 1|
 |-|
 |הוֹֹדַעְתָ 1|
-|hEwEdEɣEtE|
+|hwodaɣsvtA|
 
  * שפחה 1: 
 
 |שִׁפְחָה 1|
 |-|
 |שִׁפְחָה 1|
-|šEfEHEhE|
+|šifsvHAh|
 
  * כי־עוני 1: 
 
 |כִּי־עֲוֺנִי 1|
 |-|
 |כִּי־עֲוֺנִי 1|
-|kEyE־EɣEwEnEyE|
+|kiy־ɣaw_o_niy|
 
  * ואבואה 1: 
 
 |וְאָבוֹאָה 1|
 |-|
 |וְאָבוֹֹאָה 1|
-|wE'EvEwE'EhE|
+|wsv'Avwo'Ah|
 
  * כהניו 1: 
 
 |כֹּהֲנָיו 1|
 |-|
 |כֹּהֲנָיו 1|
-|kEhEnEyEwE|
+|kohanAyw|
 
  * מושיב 1: 
 
 |מוֹשִׁיב 1|
 |-|
 |מוֹֹשִׁיב 1|
-|mEwEšEyEvE|
+|mwošiyv|
 
  * לגזר 1: 
 
 |לְגֹזֵר 1|
 |-|
 |לְגֹזֵר 1|
-|lEgEzErE|
+|lsvgozEr|
 
  * ישועו 1: 
 
 |יְשַׁוְּעוּ 1|
 |-|
 |יְשַׁוְּעוּ 1|
-|yEšEuEɣEuE|
+|ysvšausvɣu|
 
  * ומרים 1: 
 
 |וּמֵרִים 1|
 |-|
 |וּמֵרִים 1|
-|uEmErEyEmE|
+|umEriym|
 
  * וישב־יהוה 1: 
 
 |וַיָּשֶׁב־יְהוָה 1|
 |-|
 |וַיָשֶׁב־יְהוָה 1|
-|wEyEšEvE־EyEhEwEhE|
+|wayAšev־ysvhwAh|
 
  * כל־נסיכמו 1: 
 
 |כָּל־נְסִיכֵמוֹ 1|
 |-|
 |כָּל־נְסִיכֵמוֹֹ 1|
-|kElE־EnEsEyExEmEwE|
+|kAl־nsvsiyxEmwo|
 
  * מדור 1: 
 
 |מִדּוּר 1|
 |-|
 |מִדוּר 1|
-|mEdEuErE|
+|midur|
 
  * בן־אמתך 1: 
 
 |בֶּן־אֲמָתֶךָ 1|
 |-|
 |בֶּן־אֲמָתֶךָ 1|
-|bEnE־E'EmEtExE|
+|ben־'amAtexA|
 
  * ימשני 1: 
 
 |יַמְשֵׁנִי 1|
 |-|
 |יַמְשֵׁנִי 1|
-|yEmEšEnEyE|
+|yamsvšEniy|
 
  * כיריעה 1: 
 
 |כַּיְרִיעָה 1|
 |-|
 |כַּיְרִיעָה 1|
-|kEyErEyEɣEhE|
+|kaysvriyɣAh|
 
  * ותדע 1: 
 
 |וַתֵּדָע 1|
 |-|
 |וַתֵדָע 1|
-|wEtEdEɣE|
+|watEdAɣ|
 
  * על־משכבכם 1: 
 
 |עַל־מִשְׁכַּבְכֶם 1|
 |-|
 |עַל־מִשְׁכַּבְכֶם 1|
-|ɣElE־EmEšEkEvExEmE|
+|ɣal־mišsvkavsvxem|
 
  * תרים 1: 
 
 |תרים 1|
 |-|
 |תרים 1|
-|tErEyEmE|
+|trym|
 
  * תצמית 1: 
 
 |תַּצְמִית 1|
 |-|
 |תַצְמִית 1|
-|tEcEmEyEtE|
+|tacsvmiyt|
 
  * ומדבריך 1: 
 
 |ומדבריך 1|
 |-|
 |ומדבריך 1|
-|wEmEdEvErEyExE|
+|wmdvryx|
 
  * אל־אביונים 1: 
 
 |אֶל־אֶבְיוֹנִים 1|
 |-|
 |אֶל־אֶבְיוֹֹנִים 1|
-|'ElE־E'EvEyEwEnEyEmE|
+|'el־'evsvywoniym|
 
  * אשר־בארץ 1: 
 
 |אֲשֶׁר־בָּאָרֶץ 1|
 |-|
 |אֲשֶׁר־בָּאָרֶץ 1|
-|'EšErE־EbE'ErEcE|
+|'ašer־bA'Arec|
 
  * יחמתני 1: 
 
 |יֶחֱמַתְנִי 1|
 |-|
 |יֶחֱמַתְנִי 1|
-|yEHEmEtEnEyE|
+|yeHematsvniy|
 
  * מממלכה 1: 
 
 |מִמַּמְלָכָה 1|
 |-|
 |מִמַמְלָכָה 1|
-|mEmEmElExEhE|
+|mimamsvlAxAh|
 
  * אל־חי 1: 
 
 |אֵל־חָי 1|
 |-|
 |אֵל־חָי 1|
-|'ElE־EHEyE|
+|'El־HAy|
 
  * אגידה 1: 
 
 |אַגִּידָה 1|
 |-|
 |אַגִידָה 1|
-|'EgEyEdEhE|
+|'agiydAh|
 
  * חורפיך 1: 
 
 |חוֹרְפֶיךָ 1|
 |-|
 |חוֹֹרְפֶיךָ 1|
-|HEwErEfEyExE|
+|HworsvfeyxA|
 
  * כרה 1: 
 
 |כָּרָה 1|
 |-|
 |כָּרָה 1|
-|kErEhE|
+|kArAh|
 
  * אם־כמץ 1: 
 
 |אִם־כַּמֹּץ 1|
 |-|
 |אִם־כַּמֹץ 1|
-|'EmE־EkEmEcE|
+|'im־kamoc|
 
  * ממתקוממים 1: 
 
 |מִמִּתְקוֹמְמִים 1|
 |-|
 |מִמִתְקוֹֹמְמִים 1|
-|mEmEtEqEwEmEmEyEmE|
+|mimitsvqwomsvmiym|
 
  * בעבורם 1: 
 
 |בַּעֲבוּרָם 1|
 |-|
 |בַּעֲבוּרָם 1|
-|bEɣEvEuErEmE|
+|baɣavurAm|
 
  * כחצים 1: 
 
 |כְּחִצִּים 1|
 |-|
 |כְּחִצִים 1|
-|kEHEcEyEmE|
+|ksvHiciym|
 
  * בבטן 1: 
 
 |בְּבֶטֶן 1|
 |-|
 |בְּבֶטֶן 1|
-|bEvETEnE|
+|bsvveTen|
 
  * את־ארחו 1: 
 
 |אֶת־אָרְחוֹ 1|
 |-|
 |אֶת־אָרְחוֹֹ 1|
-|'EtE־E'ErEHEwE|
+|'et־'ArsvHwo|
 
  * ירצה 1: 
 
 |יִרְצֶה 1|
 |-|
 |יִרְצֶה 1|
-|yErEcEhE|
+|yirsvceh|
 
  * אין־שלום 1: 
 
 |אֵין־שָׁלוֹם 1|
 |-|
 |אֵין־שָׁלוֹֹם 1|
-|'EyEnE־EšElEwEmE|
+|'Eyn־šAlwom|
 
  * שככה 1: 
 
 |שֶׁכָּכָה 1|
 |-|
 |שֶׁכָּכָה 1|
-|šEkExEhE|
+|šekAxAh|
 
  * שרפה 1: 
 
 |שְׂרֻפָה 1|
 |-|
 |שְׂרֻפָה 1|
-|SErEfEhE|
+|SsvrufAh|
 
  * אבטח־בך 1: 
 
 |אֶבְטַח־בָּךְ 1|
 |-|
 |אֶבְטַח־בָּךְ 1|
-|'EvETEHE־EbExE|
+|'evsvTaH־bAxsv|
 
  * אענך 1: 
 
 |אֶעֶנְךָ 1|
 |-|
 |אֶעֶנְךָ 1|
-|'EɣEnExE|
+|'eɣensvxA|
 
  * כי־אפר 1: 
 
 |כִּי־אֵפֶר 1|
 |-|
 |כִּי־אֵפֶר 1|
-|kEyE־E'EfErE|
+|kiy־'Efer|
 
  * פוררת 1: 
 
 |פוֹרַרְתָּ 1|
 |-|
 |פוֹֹרַרְתָ 1|
-|fEwErErEtE|
+|fworarsvtA|
 
  * קרעו 1: 
 
 |קָרְעוּ 1|
 |-|
 |קָרְעוּ 1|
-|qErEɣEuE|
+|qArsvɣu|
 
  * בת־עין 1: 
 
 |בַּת־עָיִן 1|
 |-|
 |בַּת־עָיִן 1|
-|bEtE־EɣEyEnE|
+|bat־ɣAyin|
 
  * חדל 1: 
 
 |חָדַל 1|
 |-|
 |חָדַל 1|
-|HEdElE|
+|HAdal|
 
  * תצא 1: 
 
 |תֵּצֵא 1|
 |-|
 |תֵצֵא 1|
-|tEcE'E|
+|tEcE'|
 
  * מלכי־צדק 1: 
 
 |מַלְכִּי־צֶדֶק 1|
 |-|
 |מַלְכִּי־צֶדֶק 1|
-|mElEkEyE־EcEdEqE|
+|malsvkiy־cedeq|
 
  * השם־עבים 1: 
 
 |הַשָּׂם־עָבִים 1|
 |-|
 |הַשָׂם־עָבִים 1|
-|hESEmE־EɣEvEyEmE|
+|haSAm־ɣAviym|
 
  * ופשעי 1: 
 
 |וּפְשָׁעַי 1|
 |-|
 |וּפְשָׁעַי 1|
-|uEfEšEɣEyE|
+|ufsvšAɣay|
 
  * יאתיו 1: 
 
 |יֶאֱתָיוּ 1|
 |-|
 |יֶאֱתָיוּ 1|
-|yE'EtEyEuE|
+|ye'etAyu|
 
  * לא־הניח 1: 
 
 |לֹא־הִנִּיחַ 1|
 |-|
 |לֹא־הִנִיחַ 1|
-|lE'E־EhEnEyEHE|
+|lo'־hiniyHa|
 
  * מונה 1: 
 
 |מוֹנֶה 1|
 |-|
 |מוֹֹנֶה 1|
-|mEwEnEhE|
+|mwoneh|
 
  * משכן־שמך 1: 
 
 |מִשְׁכַּן־שְׁמֶךָ 1|
 |-|
 |מִשְׁכַּן־שְׁמֶךָ 1|
-|mEšEkEnE־EšEmExE|
+|mišsvkan־šsvmexA|
 
  * אמחצם 1: 
 
 |אֶמְחָצֵם 1|
 |-|
 |אֶמְחָצֵם 1|
-|'EmEHEcEmE|
+|'emsvHAcEm|
 
  * תסכני 1: 
 
 |תְּסֻכֵּנִי 1|
 |-|
 |תְסֻכֵּנִי 1|
-|tEsEkEnEyE|
+|tsvsukEniy|
 
  * ודוממתי 1: 
 
 |וְדוֹמַמְתִּי 1|
 |-|
 |וְדוֹֹמַמְתִי 1|
-|wEdEwEmEmEtEyE|
+|wsvdwomamsvtiy|
 
  * מאל 1: 
 
 |מֵאֵל 1|
 |-|
 |מֵאֵל 1|
-|mE'ElE|
+|mE'El|
 
  * באמונה 1: 
 
 |בֶּאֱמוּנָה 1|
 |-|
 |בֶּאֱמוּנָה 1|
-|bE'EmEuEnEhE|
+|be'emunAh|
 
  * וסלח 1: 
 
 |וְסַלָּח 1|
 |-|
 |וְסַלָח 1|
-|wEsElEHE|
+|wsvsalAH|
 
  * מקדשך 1: 
 
 |מִקְדָּשֶׁךָ 1|
 |-|
 |מִקְדָשֶׁךָ 1|
-|mEqEdEšExE|
+|miqsvdAšexA|
 
  * מוצאי־בקר 1: 
 
 |מוֹצָאֵי־בֹקֶר 1|
 |-|
 |מוֹֹצָאֵי־בֹקֶר 1|
-|mEwEcE'EyE־EvEqErE|
+|mwocA'Ey־voqer|
 
  * חיתי 1: 
 
 |חַיָּתִי 1|
 |-|
 |חַיָתִי 1|
-|HEyEtEyE|
+|HayAtiy|
 
  * כל־גדרתיו 1: 
 
 |כָל־גְּדֵרֹתָיו 1|
 |-|
 |כָל־גְדֵרֹתָיו 1|
-|xElE־EgEdErEtEyEwE|
+|xAl־gsvdErotAyw|
 
  * וחילו 1: 
 
 |וְחֵילוֹ 1|
 |-|
 |וְחֵילוֹֹ 1|
-|wEHEyElEwE|
+|wsvHEylwo|
 
  * במוט 1: 
 
 |בְּמוֹט 1|
 |-|
 |בְּמוֹֹט 1|
-|bEmEwETE|
+|bsvmwoT|
 
  * עגלות 1: 
 
 |עֲגָלוֹת 1|
 |-|
 |עֲגָלוֹֹת 1|
-|ɣEgElEwEtE|
+|ɣagAlwot|
 
  * תעטרנו 1: 
 
 |תַּעְטְרֶנּוּ 1|
 |-|
 |תַעְטְרֶנוּ 1|
-|tEɣETErEnEuE|
+|taɣsvTsvrenu|
 
  * יאטם 1: 
 
 |יַאְטֵם 1|
 |-|
 |יַאְטֵם 1|
-|yE'ETEmE|
+|ya'svTEm|
 
  * עם־רשעים 1: 
 
 |עִם־רְשָׁעִים 1|
 |-|
 |עִם־רְשָׁעִים 1|
-|ɣEmE־ErEšEɣEyEmE|
+|ɣim־rsvšAɣiym|
 
  * טבעתי 1: 
 
 |טָבַעְתִּי 1|
 |-|
 |טָבַעְתִי 1|
-|TEvEɣEtEyE|
+|TAvaɣsvtiy|
 
  * הופיעה 1: 
 
 |הוֹפִיעָה 1|
 |-|
 |הוֹֹפִיעָה 1|
-|hEwEfEyEɣEhE|
+|hwofiyɣAh|
 
  * יביט 1: 
 
 |יַבִּיט 1|
 |-|
 |יַבִּיט 1|
-|yEbEyETE|
+|yabiyT|
 
  * על־ים 1: 
 
 |עַל־יָם 1|
 |-|
 |עַל־יָם 1|
-|ɣElE־EyEmE|
+|ɣal־yAm|
 
  * תוסיף 1: 
 
 |תּוֹסִיף 1|
 |-|
 |תוֹֹסִיף 1|
-|tEwEsEyEfE|
+|twosiyf|
 
  * יאזינו 1: 
 
 |יַאֲזִינוּ 1|
 |-|
 |יַאֲזִינוּ 1|
-|yE'EzEyEnEuE|
+|ya'aziynu|
 
  * אגוף 1: 
 
 |אֶגּוֹף 1|
 |-|
 |אֶגוֹֹף 1|
-|'EgEwEfE|
+|'egwof|
 
  * כי־חציך 1: 
 
 |כִּי־חִצֶּיךָ 1|
 |-|
 |כִּי־חִצֶיךָ 1|
-|kEyE־EHEcEyExE|
+|kiy־HiceyxA|
 
  * מחול 1: 
 
 |מֵחוֹל 1|
 |-|
 |מֵחוֹֹל 1|
-|mEHEwElE|
+|mEHwol|
 
  * ביום־אידי 1: 
 
 |בְיוֹם־אֵידִי 1|
 |-|
 |בְיוֹֹם־אֵידִי 1|
-|vEyEwEmE־E'EyEdEyE|
+|vsvywom־'Eydiy|
 
  * וארשת 1: 
 
 |וַאֲרֶשֶׁת 1|
 |-|
 |וַאֲרֶשֶׁת 1|
-|wE'ErEšEtE|
+|wa'arešet|
 
  * וזעם 1: 
 
 |וָזַעַם 1|
 |-|
 |וָזַעַם 1|
-|wEzEɣEmE|
+|wAzaɣam|
 
  * כנים 1: 
 
 |כִּנִּים 1|
 |-|
 |כִּנִים 1|
-|kEnEyEmE|
+|kiniym|
 
  * סלית 1: 
 
 |סָלִיתָ 1|
 |-|
 |סָלִיתָ 1|
-|sElEyEtE|
+|sAliytA|
 
  * לטמון 1: 
 
 |לִטְמוֹן 1|
 |-|
 |לִטְמוֹֹן 1|
-|lETEmEwEnE|
+|liTsvmwon|
 
  * אל־ירימו 1: 
 
 |אַל־ירימו 1|
 |-|
 |אַל־ירימו 1|
-|'ElE־EyErEyEmEwE|
+|'al־yrymw|
 
  * אך־ריק 1: 
 
 |אַךְ־רִיק 1|
 |-|
 |אַךְ־רִיק 1|
-|'ExE־ErEyEqE|
+|'axsv־riyq|
 
  * וזמרת 1: 
 
 |וְזִמְרָת 1|
 |-|
 |וְזִמְרָת 1|
-|wEzEmErEtE|
+|wsvzimsvrAt|
 
  * למרחב 1: 
 
 |לַמֶּרְחָב 1|
 |-|
 |לַמֶרְחָב 1|
-|lEmErEHEvE|
+|lamersvHAv|
 
  * אל־תקח 1: 
 
 |אַל־תִּקַּח 1|
 |-|
 |אַל־תִקַח 1|
-|'ElE־EtEqEHE|
+|'al־tiqaH|
 
  * ברדפי 1: 
 
 |בְרֹדְפַי 1|
 |-|
 |בְרֹדְפַי 1|
-|vErEdEfEyE|
+|vsvrodsvfay|
 
  * נטפו 1: 
 
 |נָטְפוּ 1|
 |-|
 |נָטְפוּ 1|
-|nETEfEuE|
+|nATsvfu|
 
  * גבורות 1: 
 
 |גְּבוּרוֹת 1|
 |-|
 |גְבוּרוֹֹת 1|
-|gEvEuErEwEtE|
+|gsvvurwot|
 
  * עם־נבל 1: 
 
 |עִם־נָבֶל 1|
 |-|
 |עִם־נָבֶל 1|
-|ɣEmE־EnEvElE|
+|ɣim־nAvel|
 
  * מארצו 1: 
 
 |מֵאַרְצוֹ 1|
 |-|
 |מֵאַרְצוֹֹ 1|
-|mE'ErEcEwE|
+|mE'arsvcwo|
 
  * ישלח־עזרך 1: 
 
 |יִשְׁלַח־עֶזְרְךָ 1|
 |-|
 |יִשְׁלַח־עֶזְרְךָ 1|
-|yEšElEHE־EɣEzErExE|
+|yišsvlaH־ɣezsvrsvxA|
 
  * אל־תמשכני 1: 
 
 |אַל־תִּמְשְׁכֵנִי 1|
 |-|
 |אַל־תִמְשְׁכֵנִי 1|
-|'ElE־EtEmEšExEnEyE|
+|'al־timsvšsvxEniy|
 
  * ישרי־דרך 1: 
 
 |יִשְׁרֵי־דָרֶךְ 1|
 |-|
 |יִשְׁרֵי־דָרֶךְ 1|
-|yEšErEyE־EdErExE|
+|yišsvrEy־dArexsv|
 
  * בגיא־מלח 1: 
 
 |בְּגֵיא־מֶלַח 1|
 |-|
 |בְּגֵיא־מֶלַח 1|
-|bEgEyE'E־EmElEHE|
+|bsvgEy'־melaH|
 
  * במנעמיהם 1: 
 
 |בְּמַנְעַמֵּיהֶם 1|
 |-|
 |בְּמַנְעַמֵיהֶם 1|
-|bEmEnEɣEmEyEhEmE|
+|bsvmansvɣamEyhem|
 
  * ויושיעני 1: 
 
 |וְיוֹשִׁיעֵנִי 1|
 |-|
 |וְיוֹֹשִׁיעֵנִי 1|
-|wEyEwEšEyEɣEnEyE|
+|wsvywošiyɣEniy|
 
  * תחתינו 1: 
 
 |תַּחְתֵּינוּ 1|
 |-|
 |תַחְתֵינוּ 1|
-|tEHEtEyEnEuE|
+|taHsvtEynu|
 
  * חטאנו 1: 
 
 |חָטָאנוּ 1|
 |-|
 |חָטָאנוּ 1|
-|HETE'EnEuE|
+|HATA'nu|
 
  * יחלו 1: 
 
 |יְחַלּוּ 1|
 |-|
 |יְחַלוּ 1|
-|yEHElEuE|
+|ysvHalu|
 
  * וכתמי 1: 
 
 |וּכְתֻמִּי 1|
 |-|
 |וּכְתֻמִי 1|
-|uExEtEmEyE|
+|uxsvtumiy|
 
  * תרעלה 1: 
 
 |תַּרְעֵלָה 1|
 |-|
 |תַרְעֵלָה 1|
-|tErEɣElEhE|
+|tarsvɣElAh|
 
  * ובשת 1: 
 
 |וּבֹשֶׁת 1|
 |-|
 |וּבֹשֶׁת 1|
-|uEvEšEtE|
+|uvošet|
 
  * משביח 1: 
 
 |מַשְׁבִּיחַ 1|
 |-|
 |מַשְׁבִּיחַ 1|
-|mEšEbEyEHE|
+|mašsvbiyHa|
 
  * [שתה] 1: 
 
 |[שַׁתָּה] 1|
 |-|
 |[שַׁתָה] 1|
-|[EšEtEhE]E|
+|[šatAh]|
 
  * להושיבי 1: 
 
 |לְהוֹשִׁיבִי 1|
 |-|
 |לְהוֹֹשִׁיבִי 1|
-|lEhEwEšEyEvEyE|
+|lsvhwošiyviy|
 
  * הישבי 1: 
 
 |הַיֹּשְׁבִי 1|
 |-|
 |הַיֹשְׁבִי 1|
-|hEyEšEvEyE|
+|hayošsvviy|
 
  * יביע 1: 
 
 |יַבִּיעַ 1|
 |-|
 |יַבִּיעַ 1|
-|yEbEyEɣE|
+|yabiyɣa|
 
  * ונרוממה 1: 
 
 |וּנְרוֹמְמָה 1|
 |-|
 |וּנְרוֹֹמְמָה 1|
-|uEnErEwEmEmEhE|
+|unsvrwomsvmAh|
 
  * ותכבדני 1: 
 
 |וּתְכַבְּדֵנִי 1|
 |-|
 |וּתְכַבְּדֵנִי 1|
-|uEtExEbEdEnEyE|
+|utsvxabsvdEniy|
 
  * ישיחו 1: 
 
 |יָשִׂיחוּ 1|
 |-|
 |יָשִׂיחוּ 1|
-|yESEyEHEuE|
+|yASiyHu|
 
  * משאתו 1: 
 
 |מִשְּׂאֵתוֹ 1|
 |-|
 |מִשְׂאֵתוֹֹ 1|
-|mESE'EtEwE|
+|miSsv'Etwo|
 
  * וים 1: 
 
 |וְיָם 1|
 |-|
 |וְיָם 1|
-|wEyEmE|
+|wsvyAm|
 
  * עצום 1: 
 
 |עָצוּם 1|
 |-|
 |עָצוּם 1|
-|ɣEcEuEmE|
+|ɣAcum|
 
  * הושע 1: 
 
 |הוֹשַׁע 1|
 |-|
 |הוֹֹשַׁע 1|
-|hEwEšEɣE|
+|hwošaɣ|
 
  * מאשפת 1: 
 
 |מֵאַשְׁפֹּת 1|
 |-|
 |מֵאַשְׁפֹּת 1|
-|mE'EšEpEtE|
+|mE'ašsvpot|
 
  * מעללי־יה 1: 
 
 |מַעַלְלֵי־יָהּ 1|
 |-|
 |מַעַלְלֵי־יָה 1|
-|mEɣElElEyE־EyEhE|
+|maɣalsvlEy־yAh|
 
  * נבוס 1: 
 
 |נָבוּס 1|
 |-|
 |נָבוּס 1|
-|nEvEuEsE|
+|nAvus|
 
  * ושטן 1: 
 
 |וְשָׂטָן 1|
 |-|
 |וְשָׂטָן 1|
-|wESETEnE|
+|wsvSATAn|
 
  * כאפיקים 1: 
 
 |כַּאֲפִיקִים 1|
 |-|
 |כַּאֲפִיקִים 1|
-|kE'EfEyEqEyEmE|
+|ka'afiyqiym|
 
  * בעדתם 1: 
 
 |בַּעֲדָתָם 1|
 |-|
 |בַּעֲדָתָם 1|
-|bEɣEdEtEmE|
+|baɣadAtAm|
 
  * על־בנים 1: 
 
 |עַל־בָּנִים 1|
 |-|
 |עַל־בָּנִים 1|
-|ɣElE־EbEnEyEmE|
+|ɣal־bAniym|
 
  * לנצרי 1: 
 
 |לְנֹצְרֵי 1|
 |-|
 |לְנֹצְרֵי 1|
-|lEnEcErEyE|
+|lsvnocsvrEy|
 
  * עדי־ארץ 1: 
 
 |עֲדֵי־אָרֶץ 1|
 |-|
 |עֲדֵי־אָרֶץ 1|
-|ɣEdEyE־E'ErEcE|
+|ɣadEy־'Arec|
 
  * וחצים 1: 
 
 |וְחִצִּים 1|
 |-|
 |וְחִצִים 1|
-|wEHEcEyEmE|
+|wsvHiciym|
 
  * יסובבה 1: 
 
 |יְסוֹבְבֻהָ 1|
 |-|
 |יְסוֹֹבְבֻהָ 1|
-|yEsEwEvEvEhE|
+|ysvswovsvvuhA|
 
  * יבולם 1: 
 
 |יְבוּלָם 1|
 |-|
 |יְבוּלָם 1|
-|yEvEuElEmE|
+|ysvvulAm|
 
  * ישוד 1: 
 
 |יָשׁוּד 1|
 |-|
 |יָשׁוּד 1|
-|yEšEuEdE|
+|yAšud|
 
  * ואמתו 1: 
 
 |וַאֲמִתּוֹ 1|
 |-|
 |וַאֲמִתוֹֹ 1|
-|wE'EmEtEwE|
+|wa'amitwo|
 
  * ישמר 1: 
 
 |יִשְׁמֹר 1|
 |-|
 |יִשְׁמֹר 1|
-|yEšEmErE|
+|yišsvmor|
 
  * לרעי 1: 
 
 |לְרֵעִי 1|
 |-|
 |לְרֵעִי 1|
-|lErEɣEyE|
+|lsvrEɣiy|
 
  * אמרי־פי 1: 
 
 |אִמְרֵי־פִי 1|
 |-|
 |אִמְרֵי־פִי 1|
-|'EmErEyE־EfEyE|
+|'imsvrEy־fiy|
 
  * יכבד 1: 
 
 |יְכַבֵּד 1|
 |-|
 |יְכַבֵּד 1|
-|yExEbEdE|
+|ysvxabEd|
 
  * אשכר 1: 
 
 |אֶשְׁכָּר 1|
 |-|
 |אֶשְׁכָּר 1|
-|'EšEkErE|
+|'ešsvkAr|
 
  * ביום־אפו 1: 
 
 |בְּיוֹם־אַפּוֹ 1|
 |-|
 |בְּיוֹֹם־אַפּוֹֹ 1|
-|bEyEwEmE־E'EpEwE|
+|bsvywom־'apwo|
 
  * על־זאת 1: 
 
 |עַל־זֹאת 1|
 |-|
 |עַל־זֹאת 1|
-|ɣElE־EzE'EtE|
+|ɣal־zo't|
 
  * לבן 1: 
 
 |לַבֵּן 1|
 |-|
 |לַבֵּן 1|
-|lEbEnE|
+|labEn|
 
  * יבקשו 1: 
 
 |יְבַקְשׁוּ 1|
 |-|
 |יְבַקְשׁוּ 1|
-|yEvEqEšEuE|
+|ysvvaqsvšu|
 
  * כתמר 1: 
 
 |כַּתָּמָר 1|
 |-|
 |כַּתָמָר 1|
-|kEtEmErE|
+|katAmAr|
 
  * מרחוק 1: 
 
 |מֵרָחוֹק 1|
 |-|
 |מֵרָחוֹֹק 1|
-|mErEHEwEqE|
+|mErAHwoq|
 
  * לא־חפצת 1: 
 
 |לֹא־חָפַצְתָּ 1|
 |-|
 |לֹא־חָפַצְתָ 1|
-|lE'E־EHEfEcEtE|
+|lo'־HAfacsvtA|
 
  * אל־תגעו 1: 
 
 |אַל־תִּגְּעוּ 1|
 |-|
 |אַל־תִגְעוּ 1|
-|'ElE־EtEgEɣEuE|
+|'al־tigsvɣu|
 
  * ימחאו־כף 1: 
 
 |יִמְחֲאוּ־כָף 1|
 |-|
 |יִמְחֲאוּ־כָף 1|
-|yEmEHE'EuE־ExEfE|
+|yimsvHa'u־xAf|
 
  * את־כל־איבי 1: 
 
 |אֶת־כָּל־אֹיְבַי 1|
 |-|
 |אֶת־כָּל־אֹיְבַי 1|
-|'EtE־EkElE־E'EyEvEyE|
+|'et־kAl־'oysvvay|
 
  * [יגל] 1: 
 
 |[יָּגֶל] 1|
 |-|
 |[יָגֶל] 1|
-|[EyEgElE]E|
+|[yAgel]|
 
  * ארחיק 1: 
 
 |אַרְחִיק 1|
 |-|
 |אַרְחִיק 1|
-|'ErEHEyEqE|
+|'arsvHiyq|
 
  * גברי 1: 
 
 |גִּבֹּרֵי 1|
 |-|
 |גִבֹּרֵי 1|
-|gEbErEyE|
+|giborEy|
 
  * ימח 1: 
 
 |יִמַּח 1|
 |-|
 |יִמַח 1|
-|yEmEHE|
+|yimaH|
 
  * אל־מצותיך 1: 
 
 |אֶל־מִצְוֺתֶיךָ 1|
 |-|
 |אֶל־מִצְוֺתֶיךָ 1|
-|'ElE־EmEcEwEtEyExE|
+|'el־micsvw_o_teyxA|
 
  * את־בניהם 1: 
 
 |אֶת־בְּנֵיהֶם 1|
 |-|
 |אֶת־בְּנֵיהֶם 1|
-|'EtE־EbEnEyEhEmE|
+|'et־bsvnEyhem|
 
  * הלעולם 1: 
 
 |הַלְעוֹלָם 1|
 |-|
 |הַלְעוֹֹלָם 1|
-|hElEɣEwElEmE|
+|halsvɣwolAm|
 
  * כי־הפלה 1: 
 
 |כִּי־הִפְלָה 1|
 |-|
 |כִּי־הִפְלָה 1|
-|kEyE־EhEfElEhE|
+|kiy־hifsvlAh|
 
  * [מות 1: 
 
 |[מָוֶת 1|
 |-|
 |[מָוֶת 1|
-|[EmEwEtE|
+|[mAwet|
 
  * רנן 1: 
 
 |רַנֵּן 1|
 |-|
 |רַנֵן 1|
-|rEnEnE|
+|ranEn|
 
  * בקע 1: 
 
 |בָּקַע 1|
 |-|
 |בָּקַע 1|
-|bEqEɣE|
+|bAqaɣ|
 
  * נשקו 1: 
 
 |נָשָׁקוּ 1|
 |-|
 |נָשָׁקוּ 1|
-|nEšEqEuE|
+|nAšAqu|
 
  * קמי 1: 
 
 |קָמַי 1|
 |-|
 |קָמַי 1|
-|qEmEyE|
+|qAmay|
 
  * כדמות 1: 
 
 |כִּדְמוּת 1|
 |-|
 |כִּדְמוּת 1|
-|kEdEmEuEtE|
+|kidsvmut|
 
  * מן־הגוים 1: 
 
 |מִן־הַגּוֹיִם 1|
 |-|
 |מִן־הַגוֹֹיִם 1|
-|mEnE־EhEgEwEyEmE|
+|min־hagwoyim|
 
  * זה־היום 1: 
 
 |זֶה־הַיּוֹם 1|
 |-|
 |זֶה־הַיוֹֹם 1|
-|zEhE־EhEyEwEmE|
+|zeh־haywom|
 
  * כסוי 1: 
 
 |כְּסוּי 1|
 |-|
 |כְּסוּי 1|
-|kEsEuEyE|
+|ksvsuy|
 
  * את־קולי 1: 
 
 |אֶת־קוֹלִי 1|
 |-|
 |אֶת־קוֹֹלִי 1|
-|'EtE־EqEwElEyE|
+|'et־qwoliy|
 
  * יראתי 1: 
 
 |יָרֵאתִי 1|
 |-|
 |יָרֵאתִי 1|
-|yErE'EtEyE|
+|yArE'tiy|
 
  * ישכנו־בה 1: 
 
 |יִשְׁכְּנוּ־בָהּ 1|
 |-|
 |יִשְׁכְּנוּ־בָה 1|
-|yEšEkEnEuE־EvEhE|
+|yišsvksvnu־vAh|
 
  * ואדירי 1: 
 
 |וְאַדִּירֵי 1|
 |-|
 |וְאַדִירֵי 1|
-|wE'EdEyErEyE|
+|wsv'adiyrEy|
 
  * הראם 1: 
 
 |הֶרְאָם 1|
 |-|
 |הֶרְאָם 1|
-|hErE'EmE|
+|hersv'Am|
 
  * כי־שכחתי 1: 
 
 |כִּי־שָׁכַחְתִּי 1|
 |-|
 |כִּי־שָׁכַחְתִי 1|
-|kEyE־EšExEHEtEyE|
+|kiy־šAxaHsvtiy|
 
  * ויחפש 1: 
 
 |וַיְחַפֵּשׂ 1|
 |-|
 |וַיְחַפֵּשׂ 1|
-|wEyEHEpESE|
+|waysvHapES|
 
  * ואת־נוהו 1: 
 
 |וְאֶת־נָוֵהוּ 1|
 |-|
 |וְאֶת־נָוֵהוּ 1|
-|wE'EtE־EnEwEhEuE|
+|wsv'et־nAwEhu|
 
  * חפצו 1: 
 
 |חֶפְצוֹ 1|
 |-|
 |חֶפְצוֹֹ 1|
-|HEfEcEwE|
+|Hefsvcwo|
 
  * מקום 1: 
 
 |מָקוֹם 1|
 |-|
 |מָקוֹֹם 1|
-|mEqEwEmE|
+|mAqwom|
 
  * כהנדף 1: 
 
 |כְּהִנְדֹּף 1|
 |-|
 |כְּהִנְדֹף 1|
-|kEhEnEdEfE|
+|ksvhinsvdof|
 
  * מעול 1: 
 
 |מְעַוֵּל 1|
 |-|
 |מְעַוֵּל 1|
-|mEɣEuElE|
+|msvɣauEl|
 
  * משקה 1: 
 
 |מַשְׁקֶה 1|
 |-|
 |מַשְׁקֶה 1|
-|mEšEqEhE|
+|mašsvqeh|
 
  * וחרפה 1: 
 
 |וְחֶרְפָּה 1|
 |-|
 |וְחֶרְפָּה 1|
-|wEHErEpEhE|
+|wsvHersvpAh|
 
  * כבד 1: 
 
 |כָבֵד 1|
 |-|
 |כָבֵד 1|
-|xEvEdE|
+|xAvEd|
 
  * בצרתה 1: 
 
 |בַּצָּרָתָה 1|
 |-|
 |בַּצָרָתָה 1|
-|bEcErEtEhE|
+|bacArAtAh|
 
  * תנפצם 1: 
 
 |תְּנַפְּצֵם 1|
 |-|
 |תְנַפְּצֵם 1|
-|tEnEpEcEmE|
+|tsvnapsvcEm|
 
  * ואל־תתעלם 1: 
 
 |וְאַל־תִּתְעַלַּם 1|
 |-|
 |וְאַל־תִתְעַלַם 1|
-|wE'ElE־EtEtEɣElEmE|
+|wsv'al־titsvɣalam|
 
  * חפצם 1: 
 
 |חֶפְצָם 1|
 |-|
 |חֶפְצָם 1|
-|HEfEcEmE|
+|HefsvcAm|
 
  * גברו 1: 
 
 |גָּבְרוּ 1|
 |-|
 |גָבְרוּ 1|
-|gEvErEuE|
+|gAvsvru|
 
  * ישרתני 1: 
 
 |יְשָׁרְתֵנִי 1|
 |-|
 |יְשָׁרְתֵנִי 1|
-|yEšErEtEnEyE|
+|ysvšArsvtEniy|
 
  * מסבי 1: 
 
 |מְסִבָּי 1|
 |-|
 |מְסִבָּי 1|
-|mEsEbEyE|
+|msvsibAy|
 
  * בספרתך 1: 
 
 |בְּסִפְרָתֶךָ 1|
 |-|
 |בְּסִפְרָתֶךָ 1|
-|bEsEfErEtExE|
+|bsvsifsvrAtexA|
 
  * האמינו 1: 
 
 |הֶאֱמִינוּ 1|
 |-|
 |הֶאֱמִינוּ 1|
-|hE'EmEyEnEuE|
+|he'emiynu|
 
  * יפלטהו 1: 
 
 |יְפַלְּטֵהוּ 1|
 |-|
 |יְפַלְטֵהוּ 1|
-|yEfElETEhEuE|
+|ysvfalsvTEhu|
 
  * לכל־אונם 1: 
 
 |לְכָל־אוֹנָם 1|
 |-|
 |לְכָל־אוֹֹנָם 1|
-|lExElE־E'EwEnEmE|
+|lsvxAl־'wonAm|
 
  * ישכחו 1: 
 
 |יִשְׁכְּחוּ 1|
 |-|
 |יִשְׁכְּחוּ 1|
-|yEšEkEHEuE|
+|yišsvksvHu|
 
  * בבמותם 1: 
 
 |בְּבָמוֹתָם 1|
 |-|
 |בְּבָמוֹֹתָם 1|
-|bEvEmEwEtEmE|
+|bsvvAmwotAm|
 
  * הדחויה 1: 
 
 |הַדְּחוּיָה 1|
 |-|
 |הַדְחוּיָה 1|
-|hEdEHEuEyEhE|
+|hadsvHuyAh|
 
  * זנחתני 1: 
 
 |זְנַחְתָּנִי 1|
 |-|
 |זְנַחְתָנִי 1|
-|zEnEHEtEnEyE|
+|zsvnaHsvtAniy|
 
  * כתורתך 1: 
 
 |כְתוֹרָתֶךָ 1|
 |-|
 |כְתוֹֹרָתֶךָ 1|
-|xEtEwErEtExE|
+|xsvtworAtexA|
 
  * ותרם 1: 
 
 |וַתָּרֶם 1|
 |-|
 |וַתָרֶם 1|
-|wEtErEmE|
+|watArem|
 
  * הושעתנו 1: 
 
 |הוֹשַׁעְתָּנוּ 1|
 |-|
 |הוֹֹשַׁעְתָנוּ 1|
-|hEwEšEɣEtEnEuE|
+|hwošaɣsvtAnu|
 
  * גנב 1: 
 
 |גַנָּב 1|
 |-|
 |גַנָב 1|
-|gEnEvE|
+|ganAv|
 
  * בחירו 1: 
 
 |בְחִירוֹ 1|
 |-|
 |בְחִירוֹֹ 1|
-|vEHEyErEwE|
+|vsvHiyrwo|
 
  * רחש 1: 
 
 |רָחַשׁ 1|
 |-|
 |רָחַשׁ 1|
-|rEHEšE|
+|rAHaš|
 
  * ויבאני 1: 
 
 |וִיבֹאֻנִי 1|
 |-|
 |וִיבֹאֻנִי 1|
-|wEyEvE'EnEyE|
+|wiyvo'uniy|
 
  * כזוית 1: 
 
 |כְזָוִיֹּת 1|
 |-|
 |כְזָוִיֹת 1|
-|xEzEwEyEtE|
+|xsvzAwiyot|
 
  * רפאה 1: 
 
 |רְפָאָה 1|
 |-|
 |רְפָאָה 1|
-|rEfE'EhE|
+|rsvfA'Ah|
 
  * ויתעב 1: 
 
 |וַיְתָעֵב 1|
 |-|
 |וַיְתָעֵב 1|
-|wEyEtEɣEvE|
+|waysvtAɣEv|
 
  * ובסתם 1: 
 
 |וּבְסָתֻם 1|
 |-|
 |וּבְסָתֻם 1|
-|uEvEsEtEmE|
+|uvsvsAtum|
 
  * ומה־נעים 1: 
 
 |וּמַה־נָּעִים 1|
 |-|
 |וּמַה־נָעִים 1|
-|uEmEhE־EnEɣEyEmE|
+|umah־nAɣiym|
 
  * וריבה 1: 
 
 |וְרִיבָה 1|
 |-|
 |וְרִיבָה 1|
-|wErEyEvEhE|
+|wsvriyvAh|
 
  * כרת 1: 
 
 |כָּרַת 1|
 |-|
 |כָּרַת 1|
-|kErEtE|
+|kArat|
 
  * מחמתו 1: 
 
 |מֵחַמָּתוֹ 1|
 |-|
 |מֵחַמָתוֹֹ 1|
-|mEHEmEtEwE|
+|mEHamAtwo|
 
  * וינוסו 1: 
 
 |וְיָנוּסוּ 1|
 |-|
 |וְיָנוּסוּ 1|
-|wEyEnEuEsEuE|
+|wsvyAnusu|
 
  * מבור 1: 
 
 |מִבּוֹר 1|
 |-|
 |מִבּוֹֹר 1|
-|mEbEwErE|
+|mibwor|
 
  * ויכוננוני 1: 
 
 |וַיְכוֹנְנוּנִי 1|
 |-|
 |וַיְכוֹֹנְנוּנִי 1|
-|wEyExEwEnEnEuEnEyE|
+|waysvxwonsvnuniy|
 
  * נהג 1: 
 
 |נֹהֵג 1|
 |-|
 |נֹהֵג 1|
-|nEhEgE|
+|nohEg|
 
  * מימי 1: 
 
 |מִימֵי 1|
 |-|
 |מִימֵי 1|
-|mEyEmEyE|
+|miymEy|
 
  * דרכם 1: 
 
 |דַרְכָּם 1|
 |-|
 |דַרְכָּם 1|
-|dErEkEmE|
+|darsvkAm|
 
  * על־יצועי 1: 
 
 |עַל־יְצוּעָי 1|
 |-|
 |עַל־יְצוּעָי 1|
-|ɣElE־EyEcEuEɣEyE|
+|ɣal־ysvcuɣAy|
 
  * וסומך 1: 
 
 |וְסוֹמֵךְ 1|
 |-|
 |וְסוֹֹמֵךְ 1|
-|wEsEwEmExE|
+|wsvswomExsv|
 
  * וגבעות 1: 
 
 |וּגְבָעוֹת 1|
 |-|
 |וּגְבָעוֹֹת 1|
-|uEgEvEɣEwEtE|
+|ugsvvAɣwot|
 
  * ונזליהם 1: 
 
 |וְנֹזְלֵיהֶם 1|
 |-|
 |וְנֹזְלֵיהֶם 1|
-|wEnEzElEyEhEmE|
+|wsvnozsvlEyhem|
 
  * ישבעון 1: 
 
 |יִשְׂבְּעוּן 1|
 |-|
 |יִשְׂבְּעוּן 1|
-|yESEbEɣEuEnE|
+|yiSsvbsvɣun|
 
  * עשה־אלה 1: 
 
 |עֹשֵׂה־אֵלֶּה 1|
 |-|
 |עֹשֵׂה־אֵלֶה 1|
-|ɣESEhE־E'ElEhE|
+|ɣoSEh־'Eleh|
 
  * ריק 1: 
 
 |רִיק 1|
 |-|
 |רִיק 1|
-|rEyEqE|
+|riyq|
 
  * לדר־ודור 1: 
 
 |לְדֹר־וָדוֹר 1|
 |-|
 |לְדֹר־וָדוֹֹר 1|
-|lEdErE־EwEdEwErE|
+|lsvdor־wAdwor|
 
  * יגע 1: 
 
 |יִגַּע 1|
 |-|
 |יִגַע 1|
-|yEgEɣE|
+|yigaɣ|
 
  * מנחת־ערב 1: 
 
 |מִנְחַת־עָרֶב 1|
 |-|
 |מִנְחַת־עָרֶב 1|
-|mEnEHEtE־EɣErEvE|
+|minsvHat־ɣArev|
 
  * באהלי־רשע 1: 
 
 |בְּאָהֳלֵי־רֶשַׁע 1|
 |-|
 |בְּאָהֳלֵי־רֶשַׁע 1|
-|bE'EhElEyE־ErEšEɣE|
+|bsv'AhAlEy־rešaɣ|
 
  * כל־חפצי־בם 1: 
 
 |כָּל־חֶפְצִי־בָם 1|
 |-|
 |כָּל־חֶפְצִי־בָם 1|
-|kElE־EHEfEcEyE־EvEmE|
+|kAl־Hefsvciy־vAm|
 
  * באתנו 1: 
 
 |בָּאַתְנוּ 1|
 |-|
 |בָּאַתְנוּ 1|
-|bE'EtEnEuE|
+|bA'atsvnu|
 
  * והתבוננת 1: 
 
 |וְהִתְבּוֹנַנְתָּ 1|
 |-|
 |וְהִתְבּוֹֹנַנְתָ 1|
-|wEhEtEbEwEnEnEtE|
+|wsvhitsvbwonansvtA|
 
  * השכלתי 1: 
 
 |הִשְׂכַּלְתִּי 1|
 |-|
 |הִשְׂכַּלְתִי 1|
-|hESEkElEtEyE|
+|hiSsvkalsvtiy|
 
  * אל־תהלו 1: 
 
 |אַל־תָּהֹלּוּ 1|
 |-|
 |אַל־תָהֹלוּ 1|
-|'ElE־EtEhElEuE|
+|'al־tAholu|
 
  * ויגרש 1: 
 
 |וַיְגָרֶשׁ 1|
 |-|
 |וַיְגָרֶשׁ 1|
-|wEyEgErEšE|
+|waysvgAreš|
 
  * ויאר 1: 
 
 |וַיָּאֶר 1|
 |-|
 |וַיָאֶר 1|
-|wEyE'ErE|
+|wayA'er|
 
  * ושמרי 1: 
 
 |וְשֹׁמְרֵי 1|
 |-|
 |וְשֹׁמְרֵי 1|
-|wEšEmErEyE|
+|wsvšomsvrEy|
 
  * ועננו 1: 
 
 |ועננו 1|
 |-|
 |ועננו 1|
-|wEɣEnEnEwE|
+|wɣnnw|
 
  * הצלת 1: 
 
 |הִצַּלְתָּ 1|
 |-|
 |הִצַלְתָ 1|
-|hEcElEtE|
+|hicalsvtA|
 
  * לבשת 1: 
 
 |לָבָשְׁתָּ 1|
 |-|
 |לָבָשְׁתָ 1|
-|lEvEšEtE|
+|lAvAšsvtA|
 
  * עצמינו 1: 
 
 |עֲצָמֵינוּ 1|
 |-|
 |עֲצָמֵינוּ 1|
-|ɣEcEmEyEnEuE|
+|ɣacAmEynu|
 
  * כי־חזה 1: 
 
 |כִּי־חָזָה 1|
 |-|
 |כִּי־חָזָה 1|
-|kEyE־EHEzEhE|
+|kiy־HAzAh|
 
  * ישפטו 1: 
 
 |יִשָּׁפְטוּ 1|
 |-|
 |יִשָׁפְטוּ 1|
-|yEšEfETEuE|
+|yišAfsvTu|
 
  * המבין 1: 
 
 |הַמֵּבִין 1|
 |-|
 |הַמֵבִין 1|
-|hEmEvEyEnE|
+|hamEviyn|
 
  * צרוף 1: 
 
 |צָרוּף 1|
 |-|
 |צָרוּף 1|
-|cErEuEfE|
+|cAruf|
 
  * יחלצני 1: 
 
 |יְחַלְּצֵנִי 1|
 |-|
 |יְחַלְצֵנִי 1|
-|yEHElEcEnEyE|
+|ysvHalsvcEniy|
 
  * להתהלל 1: 
 
 |לְהִתְהַלֵּל 1|
 |-|
 |לְהִתְהַלֵל 1|
-|lEhEtEhElElE|
+|lsvhitsvhalEl|
 
  * יסכר 1: 
 
 |יִסָּכֵר 1|
 |-|
 |יִסָכֵר 1|
-|yEsExErE|
+|yisAxEr|
 
  * צרפתהו 1: 
 
 |צְרָפָתְהוּ 1|
 |-|
 |צְרָפָתְהוּ 1|
-|cErEfEtEhEuE|
+|csvrAfAtsvhu|
 
  * מסלות 1: 
 
 |מְסִלּוֹת 1|
 |-|
 |מְסִלוֹֹת 1|
-|mEsElEwEtE|
+|msvsilwot|
 
  * מוסר 1: 
 
 |מוּסָר 1|
 |-|
 |מוּסָר 1|
-|mEuEsErE|
+|musAr|
 
  * מגערת 1: 
 
 |מִגַּעֲרַת 1|
 |-|
 |מִגַעֲרַת 1|
-|mEgEɣErEtE|
+|migaɣarat|
 
  * בהוסדם 1: 
 
 |בְּהִוָּסְדָם 1|
 |-|
 |בְּהִוָּסְדָם 1|
-|bEhEuEsEdEmE|
+|bsvhiuAssvdAm|
 
  * ישובב 1: 
 
 |יְשׁוֹבֵב 1|
 |-|
 |יְשׁוֹֹבֵב 1|
-|yEšEwEvEvE|
+|ysvšwovEv|
 
  * ינחני 1: 
 
 |יַנְחֵנִי 1|
 |-|
 |יַנְחֵנִי 1|
-|yEnEHEnEyE|
+|yansvHEniy|
 
  * חידות 1: 
 
 |חִידוֹת 1|
 |-|
 |חִידוֹֹת 1|
-|HEyEdEwEtE|
+|Hiydwot|
 
  * חטים 1: 
 
 |חִטִּים 1|
 |-|
 |חִטִים 1|
-|HETEyEmE|
+|HiTiym|
 
  * שפטה 1: 
 
 |שָׁפְטָה 1|
 |-|
 |שָׁפְטָה 1|
-|šEfETEhE|
+|šAfsvTAh|
 
  * מנת־חלקי 1: 
 
 |מְנָת־חֶלְקִי 1|
 |-|
 |מְנָת־חֶלְקִי 1|
-|mEnEtE־EHElEqEyE|
+|msvnAt־Helsvqiy|
 
  * בגדי 1: 
 
 |בְגָדַי 1|
 |-|
 |בְגָדַי 1|
-|vEgEdEyE|
+|vsvgAday|
 
  * ממתקוממי 1: 
 
 |מִּמִתְקוֹמְמַי 1|
 |-|
 |מִמִתְקוֹֹמְמַי 1|
-|mEmEtEqEwEmEmEyE|
+|mimitsvqwomsvmay|
 
  * כחלל 1: 
 
 |כֶחָלָל 1|
 |-|
 |כֶחָלָל 1|
-|xEHElElE|
+|xeHAlAl|
 
  * בשפתותיך 1: 
 
 |בְּשְׂפְתוֹתֶיךָ 1|
 |-|
 |בְּשְׂפְתוֹֹתֶיךָ 1|
-|bESEfEtEwEtEyExE|
+|bsvSsvfsvtwoteyxA|
 
  * אחריו 1: 
 
 |אַחֲרָיו 1|
 |-|
 |אַחֲרָיו 1|
-|'EHErEyEwE|
+|'aHarAyw|
 
  * יעצבו 1: 
 
 |יְעַצֵּבוּ 1|
 |-|
 |יְעַצֵבוּ 1|
-|yEɣEcEvEuE|
+|ysvɣacEvu|
 
  * ואושעה 1: 
 
 |וְאִוָּשֵׁעָה 1|
 |-|
 |וְאִוָּשֵׁעָה 1|
-|wE'EuEšEɣEhE|
+|wsv'iuAšEɣAh|
 
  * אלימו 1: 
 
 |אֵלֵימוֹ 1|
 |-|
 |אֵלֵימוֹֹ 1|
-|'ElEyEmEwE|
+|'ElEymwo|
 
  * כי־כלינו 1: 
 
 |כִּי־כָלִינוּ 1|
 |-|
 |כִּי־כָלִינוּ 1|
-|kEyE־ExElEyEnEuE|
+|kiy־xAliynu|
 
  * לא־ישמע 1: 
 
 |לֹא־יִשְׁמַע 1|
 |-|
 |לֹא־יִשְׁמַע 1|
-|lE'E־EyEšEmEɣE|
+|lo'־yišsvmaɣ|
 
  * למלחה 1: 
 
 |לִמְלֵחָה 1|
 |-|
 |לִמְלֵחָה 1|
-|lEmElEHEhE|
+|limsvlEHAh|
 
  * גויות 1: 
 
 |גְוִיּוֹת 1|
 |-|
 |גְוִיוֹֹת 1|
-|gEwEyEwEtE|
+|gsvwiywot|
 
  * ואשתעשע 1: 
 
 |וְאֶשְׁתַּעֲשַׁע 1|
 |-|
 |וְאֶשְׁתַעֲשַׁע 1|
-|wE'EšEtEɣEšEɣE|
+|wsv'ešsvtaɣašaɣ|
 
  * חללו 1: 
 
 |חִלְּלוּ 1|
 |-|
 |חִלְלוּ 1|
-|HElElEuE|
+|Hilsvlu|
 
  * שאו־מנחה 1: 
 
 |שְׂאוּ־מִנְחָה 1|
 |-|
 |שְׂאוּ־מִנְחָה 1|
-|SE'EuE־EmEnEHEhE|
+|Ssv'u־minsvHAh|
 
  * תמעד 1: 
 
 |תִמְעַד 1|
 |-|
 |תִמְעַד 1|
-|tEmEɣEdE|
+|timsvɣad|
 
  * ימלך 1: 
 
 |יִמְלֹךְ 1|
 |-|
 |יִמְלֹךְ 1|
-|yEmElExE|
+|yimsvloxsv|
 
  * יבנם 1: 
 
 |יִבְנֵם 1|
 |-|
 |יִבְנֵם 1|
-|yEvEnEmE|
+|yivsvnEm|
 
  * אריד 1: 
 
 |אָרִיד 1|
 |-|
 |אָרִיד 1|
-|'ErEyEdE|
+|'Ariyd|
 
  * נשבעו 1: 
 
 |נִשְׁבָּעוּ 1|
 |-|
 |נִשְׁבָּעוּ 1|
-|nEšEbEɣEuE|
+|nišsvbAɣu|
 
  * בדמי 1: 
 
 |בְּדָמִי 1|
 |-|
 |בְּדָמִי 1|
-|bEdEmEyE|
+|bsvdAmiy|
 
  * ורחמים 1: 
 
 |וְרַחֲמִים 1|
 |-|
 |וְרַחֲמִים 1|
-|wErEHEmEyEmE|
+|wsvraHamiym|
 
  * בכל־הגוים 1: 
 
 |בְּכָל־הַגּוֹיִם 1|
 |-|
 |בְּכָל־הַגוֹֹיִם 1|
-|bExElE־EhEgEwEyEmE|
+|bsvxAl־hagwoyim|
 
  * בלענוהו 1: 
 
 |בִּלַּעֲנוּהוּ 1|
 |-|
 |בִּלַעֲנוּהוּ 1|
-|bElEɣEnEuEhEuE|
+|bilaɣanuhu|
 
  * ואצרנה 1: 
 
 |וְאֶצְּרֶנָּה 1|
 |-|
 |וְאֶצְרֶנָה 1|
-|wE'EcErEnEhE|
+|wsv'ecsvrenAh|
 
  * ופניהם 1: 
 
 |וּפְנֵיהֶם 1|
 |-|
 |וּפְנֵיהֶם 1|
-|uEfEnEyEhEmE|
+|ufsvnEyhem|
 
  * נינם 1: 
 
 |נִינָם 1|
 |-|
 |נִינָם 1|
-|nEyEnEmE|
+|niynAm|
 
  * ולציון 1: 
 
 |וּלֲצִיּוֹן 1|
 |-|
 |וּלֲצִיוֹֹן 1|
-|uElEcEyEwEnE|
+|ulaciywon|
 
  * ולשמרי 1: 
 
 |וּלְשֹׁמְרֵי 1|
 |-|
 |וּלְשֹׁמְרֵי 1|
-|uElEšEmErEyE|
+|ulsvšomsvrEy|
 
  * ישועתה 1: 
 
 |יְשׁוּעָתָה 1|
 |-|
 |יְשׁוּעָתָה 1|
-|yEšEuEɣEtEhE|
+|ysvšuɣAtAh|
 
  * יסעדנו 1: 
 
 |יִסְעָדֶנּוּ 1|
 |-|
 |יִסְעָדֶנוּ 1|
-|yEsEɣEdEnEuE|
+|yissvɣAdenu|
 
  * ילדו 1: 
 
 |יֻלָּדוּ 1|
 |-|
 |יֻלָדוּ 1|
-|yElEdEuE|
+|yulAdu|
 
  * וישגב 1: 
 
 |וַיְשַׂגֵּב 1|
 |-|
 |וַיְשַׂגֵב 1|
-|wEyESEgEvE|
+|waysvSagEv|
 
  * אדמות 1: 
 
 |אֲדָמוֹת 1|
 |-|
 |אֲדָמוֹֹת 1|
-|'EdEmEwEtE|
+|'adAmwot|
 
  * ששתי 1: 
 
 |שַׂשְׂתִּי 1|
 |-|
 |שַׂשְׂתִי 1|
-|SESEtEyE|
+|SaSsvtiy|
 
  * כי־בטחתי 1: 
 
 |כִּי־בָטַחְתִּי 1|
 |-|
 |כִּי־בָטַחְתִי 1|
-|kEyE־EvETEHEtEyE|
+|kiy־vATaHsvtiy|
 
  * נמקו 1: 
 
 |נָמַקּוּ 1|
 |-|
 |נָמַקוּ 1|
-|nEmEqEuE|
+|nAmaqu|
 
  * בחרות 1: 
 
 |בַּחֲרוֹת 1|
 |-|
 |בַּחֲרוֹֹת 1|
-|bEHErEwEtE|
+|baHarwot|
 
  * לאפו 1: 
 
 |לְאַפּוֹ 1|
 |-|
 |לְאַפּוֹֹ 1|
-|lE'EpEwE|
+|lsv'apwo|
 
  * בעבדך 1: 
 
 |בְּעַבְדֶּךָ 1|
 |-|
 |בְּעַבְדֶךָ 1|
-|bEɣEvEdExE|
+|bsvɣavsvdexA|
 
  * אשר־עשית 1: 
 
 |אֲשֶׁר־עָשִׂיתָ 1|
 |-|
 |אֲשֶׁר־עָשִׂיתָ 1|
-|'EšErE־EɣESEyEtE|
+|'ašer־ɣASiytA|
 
  * כאבל־אם 1: 
 
 |כַּאֲבֶל־אֵם 1|
 |-|
 |כַּאֲבֶל־אֵם 1|
-|kE'EvElE־E'EmE|
+|ka'avel־'Em|
 
  * במקהלות 1: 
 
 |בְּמַקְהֵלוֹת 1|
 |-|
 |בְּמַקְהֵלוֹֹת 1|
-|bEmEqEhElEwEtE|
+|bsvmaqsvhElwot|
 
  * אשמח 1: 
 
 |אֶשְׂמַח 1|
 |-|
 |אֶשְׂמַח 1|
-|'ESEmEHE|
+|'eSsvmaH|
 
  * בכל־מעשיו 1: 
 
 |בְּכָל־מַעֲשָׂיו 1|
 |-|
 |בְּכָל־מַעֲשָׂיו 1|
-|bExElE־EmEɣESEyEwE|
+|bsvxAl־maɣaSAyw|
 
  * אכלתי 1: 
 
 |אָכָלְתִּי 1|
 |-|
 |אָכָלְתִי 1|
-|'ExElEtEyE|
+|'AxAlsvtiy|
 
  * ישים 1: 
 
 |יָשִׂים 1|
 |-|
 |יָשִׂים 1|
-|yESEyEmE|
+|yASiym|
 
  * ולא־עלתה 1: 
 
 |וְלֹא־עלתה 1|
 |-|
 |וְלֹא־עלתה 1|
-|wElE'E־EɣElEtEhE|
+|wsvlo'־ɣlth|
 
  * כי־ישמע 1: 
 
 |כִּי־יִשְׁמַע 1|
 |-|
 |כִּי־יִשְׁמַע 1|
-|kEyE־EyEšEmEɣE|
+|kiy־yišsvmaɣ|
 
  * רמות 1: 
 
 |רָמוֹת 1|
 |-|
 |רָמוֹֹת 1|
-|rEmEwEtE|
+|rAmwot|
 
  * והרע 1: 
 
 |וְהָרַע 1|
 |-|
 |וְהָרַע 1|
-|wEhErEɣE|
+|wsvhAraɣ|
 
  * שתה 1: 
 
 |שַׁתָּה 1|
 |-|
 |שַׁתָה 1|
-|šEtEhE|
+|šatAh|
 
  * ראשיהם 1: 
 
 |רָאשֵׁיהֶם 1|
 |-|
 |רָאשֵׁיהֶם 1|
-|rE'EšEyEhEmE|
+|rA'šEyhem|
 
  * ותבא 1: 
 
 |וַתָּבֹא 1|
 |-|
 |וַתָבֹא 1|
-|wEtEvE'E|
+|watAvo'|
 
  * הליצני 1: 
 
 |הֱלִיצֻנִי 1|
 |-|
 |הֱלִיצֻנִי 1|
-|hElEyEcEnEyE|
+|heliycuniy|
 
  * את־אבניה 1: 
 
 |אֶת־אֲבָנֶיהָ 1|
 |-|
 |אֶת־אֲבָנֶיהָ 1|
-|'EtE־E'EvEnEyEhE|
+|'et־'avAneyhA|
 
  * מעוזם 1: 
 
 |מָעוּזָּם 1|
 |-|
 |מָעוּזָם 1|
-|mEɣEuEzEmE|
+|mAɣuzAm|
 
  * והרה 1: 
 
 |וְהָרָה 1|
 |-|
 |וְהָרָה 1|
-|wEhErEhE|
+|wsvhArAh|
 
  * אלילים 1: 
 
 |אֱלִילִים 1|
 |-|
 |אֱלִילִים 1|
-|'ElEyElEyEmE|
+|'eliyliym|
 
  * אל־תפלת 1: 
 
 |אֶל־תְּפִלַּת 1|
 |-|
 |אֶל־תְפִלַת 1|
-|'ElE־EtEfElEtE|
+|'el־tsvfilat|
 
  * פקדיו 1: 
 
 |פִקֻּדָיו 1|
 |-|
 |פִקֻדָיו 1|
-|fEqEdEyEwE|
+|fiqudAyw|
 
  * זרמו 1: 
 
 |זֹרְמוּ 1|
 |-|
 |זֹרְמוּ 1|
-|zErEmEuE|
+|zorsvmu|
 
  * על־חטאתינו 1: 
 
 |עַל־חַטֹּאתֵינוּ 1|
 |-|
 |עַל־חַטֹאתֵינוּ 1|
-|ɣElE־EHETE'EtEyEnEuE|
+|ɣal־HaTo'tEynu|
 
  * יעציבוהו 1: 
 
 |יַעֲצִיבוּהוּ 1|
 |-|
 |יַעֲצִיבוּהוּ 1|
-|yEɣEcEyEvEuEhEuE|
+|yaɣaciyvuhu|
 
  * עצת 1: 
 
 |עֲצַת 1|
 |-|
 |עֲצַת 1|
-|ɣEcEtE|
+|ɣacat|
 
  * וישחו 1: 
 
 |וַיָּשֹׁחוּ 1|
 |-|
 |וַיָשֹׁחוּ 1|
-|wEyEšEHEuE|
+|wayAšoHu|
 
  * החסד 1: 
 
 |הַחֶסֶד 1|
 |-|
 |הַחֶסֶד 1|
-|hEHEsEdE|
+|haHesed|
 
  * בהר־יהוה 1: 
 
 |בְהַר־יְהוָה 1|
 |-|
 |בְהַר־יְהוָה 1|
-|vEhErE־EyEhEwEhE|
+|vsvhar־ysvhwAh|
 
  * לעיניך 1: 
 
 |לְעֵינֶיךָ 1|
 |-|
 |לְעֵינֶיךָ 1|
-|lEɣEyEnEyExE|
+|lsvɣEyneyxA|
 
  * אם־אבא 1: 
 
 |אִם־אָבֹא 1|
 |-|
 |אִם־אָבֹא 1|
-|'EmE־E'EvE'E|
+|'im־'Avo'|
 
  * כי־מטה 1: 
 
 |כִי־מָטָה 1|
 |-|
 |כִי־מָטָה 1|
-|xEyE־EmETEhE|
+|xiy־mATAh|
 
  * הבוז 1: 
 
 |הַבּוּז 1|
 |-|
 |הַבּוּז 1|
-|hEbEuEzE|
+|habuz|
 
  * להצהיל 1: 
 
 |לְהַצְהִיל 1|
 |-|
 |לְהַצְהִיל 1|
-|lEhEcEhEyElE|
+|lsvhacsvhiyl|
 
  * כמוצא 1: 
 
 |כְּמוֹצֵא 1|
 |-|
 |כְּמוֹֹצֵא 1|
-|kEmEwEcE'E|
+|ksvmwocE'|
 
  * ומעולם 1: 
 
 |וּמֵעוֹלָם 1|
 |-|
 |וּמֵעוֹֹלָם 1|
-|uEmEɣEwElEmE|
+|umEɣwolAm|
 
  * תועבות 1: 
 
 |תוֹעֵבוֹת 1|
 |-|
 |תוֹֹעֵבוֹֹת 1|
-|tEwEɣEvEwEtE|
+|twoɣEvwot|
 
  * הערער 1: 
 
 |הָעַרְעָר 1|
 |-|
 |הָעַרְעָר 1|
-|hEɣErEɣErE|
+|hAɣarsvɣAr|
 
  * כי־אמרו 1: 
 
 |כִּי־אָמְרוּ 1|
 |-|
 |כִּי־אָמְרוּ 1|
-|kEyE־E'EmErEuE|
+|kiy־'Amsvru|
 
  * מבטיחי 1: 
 
 |מַבְטִיחִי 1|
 |-|
 |מַבְטִיחִי 1|
-|mEvETEyEHEyE|
+|mavsvTiyHiy|
 
  * אשריך 1: 
 
 |אַשְׁרֶיךָ 1|
 |-|
 |אַשְׁרֶיךָ 1|
-|'EšErEyExE|
+|'ašsvreyxA|
 
  * שנותיך 1: 
 
 |שְׁנוֹתֶיךָ 1|
 |-|
 |שְׁנוֹֹתֶיךָ 1|
-|šEnEwEtEyExE|
+|šsvnwoteyxA|
 
  * אם־עשיתי 1: 
 
 |אִם־עָשִׂיתִי 1|
 |-|
 |אִם־עָשִׂיתִי 1|
-|'EmE־EɣESEyEtEyE|
+|'im־ɣASiytiy|
 
  * וילינו 1: 
 
 |וַיָּלִינוּ 1|
 |-|
 |וַיָלִינוּ 1|
-|wEyElEyEnEuE|
+|wayAliynu|
 
  * נדיבה 1: 
 
 |נְדִיבָה 1|
 |-|
 |נְדִיבָה 1|
-|nEdEyEvEhE|
+|nsvdiyvAh|
 
  * חטאה 1: 
 
 |חֲטָאָה 1|
 |-|
 |חֲטָאָה 1|
-|HETE'EhE|
+|HaTA'Ah|
 
  * לנפשם 1: 
 
 |לְנַפְשָׁם 1|
 |-|
 |לְנַפְשָׁם 1|
-|lEnEfEšEmE|
+|lsvnafsvšAm|
 
  * אם־קפץ 1: 
 
 |אִם־קָפַץ 1|
 |-|
 |אִם־קָפַץ 1|
-|'EmE־EqEfEcE|
+|'im־qAfac|
 
  * לכל־עונכי 1: 
 
 |לְכָל־עֲוֺנֵכִי 1|
 |-|
 |לְכָל־עֲוֺנֵכִי 1|
-|lExElE־EɣEwEnExEyE|
+|lsvxAl־ɣaw_o_nExiy|
 
  * ימלו 1: 
 
 |יִמָּלוּ 1|
 |-|
 |יִמָלוּ 1|
-|yEmElEuE|
+|yimAlu|
 
  * עם־גבר 1: 
 
 |עִם־גְּבַר 1|
 |-|
 |עִם־גְבַר 1|
-|ɣEmE־EgEvErE|
+|ɣim־gsvvar|
 
  * בקראי־לך 1: 
 
 |בְּקָרְאִי־לָךְ 1|
 |-|
 |בְּקָרְאִי־לָךְ 1|
-|bEqErE'EyE־ElExE|
+|bsvqArsv'iy־lAxsv|
 
  * ומשלג 1: 
 
 |וּמִשֶּׁלֶג 1|
 |-|
 |וּמִשֶׁלֶג 1|
-|uEmEšElEgE|
+|umišeleg|
 
  * איש־עני 1: 
 
 |אִישׁ־עָנִי 1|
 |-|
 |אִישׁ־עָנִי 1|
-|'EyEšE־EɣEnEyE|
+|'iyš־ɣAniy|
 
  * לא־תעזב 1: 
 
 |לֹא־תַעֲזֹב 1|
 |-|
 |לֹא־תַעֲזֹב 1|
-|lE'E־EtEɣEzEvE|
+|lo'־taɣazov|
 
  * שם־רמש 1: 
 
 |שָׁם־רֶמֶשׂ 1|
 |-|
 |שָׁם־רֶמֶשׂ 1|
-|šEmE־ErEmESE|
+|šAm־remeS|
 
  * לוה 1: 
 
 |לֹוֶה 1|
 |-|
 |לֹוֶה 1|
-|lEwEhE|
+|loweh|
 
  * חילם 1: 
 
 |חֵילָם 1|
 |-|
 |חֵילָם 1|
-|HEyElEmE|
+|HEylAm|
 
  * הראיתה 1: 
 
 |הִרְאִיתָה 1|
 |-|
 |הִרְאִיתָה 1|
-|hErE'EyEtEhE|
+|hirsv'iytAh|
 
  * וסחרה 1: 
 
 |וְסֹחֵרָה 1|
 |-|
 |וְסֹחֵרָה 1|
-|wEsEHErEhE|
+|wsvsoHErAh|
 
  * יפל 1: 
 
 |יִפֹּל 1|
 |-|
 |יִפֹּל 1|
-|yEpElE|
+|yipol|
 
  * וכסילים 1: 
 
 |וּכְסִילִים 1|
 |-|
 |וּכְסִילִים 1|
-|uExEsEyElEyEmE|
+|uxsvsiyliym|
 
  * וירממוהו 1: 
 
 |וִירֹמְמוּהוּ 1|
 |-|
 |וִירֹמְמוּהוּ 1|
-|wEyErEmEmEuEhEuE|
+|wiyromsvmuhu|
 
  * מנגה 1: 
 
 |מִנֹּגַהּ 1|
 |-|
 |מִנֹגַה 1|
-|mEnEgEhE|
+|minogah|
 
  * [חיקך] 1: 
 
 |[חֵיקְךָ] 1|
 |-|
 |[חֵיקְךָ] 1|
-|[EHEyEqExE]E|
+|[HEyqsvxA]|
 
  * ויתן־לך 1: 
 
 |וְיִתֶּן־לְךָ 1|
 |-|
 |וְיִתֶן־לְךָ 1|
-|wEyEtEnE־ElExE|
+|wsvyiten־lsvxA|
 
  * באמונתו 1: 
 
 |בֶּאֱמוּנָתוֹ 1|
 |-|
 |בֶּאֱמוּנָתוֹֹ 1|
-|bE'EmEuEnEtEwE|
+|be'emunAtwo|
 
  * עודני 1: 
 
 |עִוְּדֻנִי 1|
 |-|
 |עִוְּדֻנִי 1|
-|ɣEuEdEnEyE|
+|ɣiusvduniy|
 
  * ואשפכה 1: 
 
 |וְאֶשְׁפְּכָה 1|
 |-|
 |וְאֶשְׁפְּכָה 1|
-|wE'EšEpExEhE|
+|wsv'ešsvpsvxAh|
 
  * באיש 1: 
 
 |בְּאִישׁ 1|
 |-|
 |בְּאִישׁ 1|
-|bE'EyEšE|
+|bsv'iyš|
 
  * מבטחי 1: 
 
 |מִבְטַחִי 1|
 |-|
 |מִבְטַחִי 1|
-|mEvETEHEyE|
+|mivsvTaHiy|
 
  * יקומון 1: 
 
 |יְקוּמוּן 1|
 |-|
 |יְקוּמוּן 1|
-|yEqEuEmEuEnE|
+|ysvqumun|
 
  * ויקרא־ארץ 1: 
 
 |וַיִּקְרָא־אָרֶץ 1|
 |-|
 |וַיִקְרָא־אָרֶץ 1|
-|wEyEqErE'E־E'ErEcE|
+|wayiqsvrA'־'Arec|
 
  * ידיכם 1: 
 
 |יְדֵיכֶם 1|
 |-|
 |יְדֵיכֶם 1|
-|yEdEyExEmE|
+|ysvdEyxem|
 
  * ושמים 1: 
 
 |וְשָׁמָיִם 1|
 |-|
 |וְשָׁמָיִם 1|
-|wEšEmEyEmE|
+|wsvšAmAyim|
 
  * לקולי 1: 
 
 |לְקוֹלִי 1|
 |-|
 |לְקוֹֹלִי 1|
-|lEqEwElEyE|
+|lsvqwoliy|
 
  * ואנה 1: 
 
 |וְאָנָה 1|
 |-|
 |וְאָנָה 1|
-|wE'EnEhE|
+|wsv'AnAh|
 
  * תורדם 1: 
 
 |תּוֹרִדֵם 1|
 |-|
 |תוֹֹרִדֵם 1|
-|tEwErEdEmE|
+|tworidEm|
 
  * והמטים 1: 
 
 |וְהַמַּטִּים 1|
 |-|
 |וְהַמַטִים 1|
-|wEhEmETEyEmE|
+|wsvhamaTiym|
 
  * קרני 1: 
 
 |קַרְנִי 1|
 |-|
 |קַרְנִי 1|
-|qErEnEyE|
+|qarsvniy|
 
  * והשמיעו 1: 
 
 |וְהַשְׁמִיעוּ 1|
 |-|
 |וְהַשְׁמִיעוּ 1|
-|wEhEšEmEyEɣEuE|
+|wsvhašsvmiyɣu|
 
  * מהנה 1: 
 
 |מֵהֵנָּה 1|
 |-|
 |מֵהֵנָה 1|
-|mEhEnEhE|
+|mEhEnAh|
 
  * יתצך 1: 
 
 |יִתָּצְךָ 1|
 |-|
 |יִתָצְךָ 1|
-|yEtEcExE|
+|yitAcsvxA|
 
  * את־גמולך 1: 
 
 |אֶת־גְּמוּלֵךְ 1|
 |-|
 |אֶת־גְמוּלֵךְ 1|
-|'EtE־EgEmEuElExE|
+|'et־gsvmulExsv|
 
  * חטאו־עוד 1: 
 
 |חָטְאוּ־עוֹד 1|
 |-|
 |חָטְאוּ־עוֹֹד 1|
-|HETE'EuE־EɣEwEdE|
+|HATsv'u־ɣwod|
 
  * [עניים] 1: 
 
 |[עֲנִיִּים] 1|
 |-|
 |[עֲנִיִים] 1|
-|[EɣEnEyEyEmE]E|
+|[ɣaniyiym]|
 
  * גדלתי 1: 
 
 |גְּדֻלָּתִי 1|
 |-|
 |גְדֻלָתִי 1|
-|gEdElEtEyE|
+|gsvdulAtiy|
 
  * בחוריו 1: 
 
 |בַּחוּרָיו 1|
 |-|
 |בַּחוּרָיו 1|
-|bEHEuErEyEwE|
+|baHurAyw|
 
  * לנטות 1: 
 
 |לִנְטוֹת 1|
 |-|
 |לִנְטוֹֹת 1|
-|lEnETEwEtE|
+|linsvTwot|
 
  * ולא־דומיה 1: 
 
 |וְלֹא־דוּמִיָּה 1|
 |-|
 |וְלֹא־דוּמִיָה 1|
-|wElE'E־EdEuEmEyEhE|
+|wsvlo'־dumiyAh|
 
  * השלכתי 1: 
 
 |הָשְׁלַכְתִּי 1|
 |-|
 |הָשְׁלַכְתִי 1|
-|hEšElExEtEyE|
+|hAšsvlaxsvtiy|
 
  * אין־המלך 1: 
 
 |אֵין־הַמֶּלֶךְ 1|
 |-|
 |אֵין־הַמֶלֶךְ 1|
-|'EyEnE־EhEmElExE|
+|'Eyn־hamelexsv|
 
  * כל־משפחות 1: 
 
 |כָּל־מִשְׁפְּחוֹת 1|
 |-|
 |כָּל־מִשְׁפְּחוֹֹת 1|
-|kElE־EmEšEpEHEwEtE|
+|kAl־mišsvpsvHwot|
 
  * כי־קדוש 1: 
 
 |כִּי־קָדוֹשׁ 1|
 |-|
 |כִּי־קָדוֹֹשׁ 1|
-|kEyE־EqEdEwEšE|
+|kiy־qAdwoš|
 
  * מן־דמעה 1: 
 
 |מִן־דִּמְעָה 1|
 |-|
 |מִן־דִמְעָה 1|
-|mEnE־EdEmEɣEhE|
+|min־dimsvɣAh|
 
  * ולקדוש 1: 
 
 |וְלִקְדוֹשׁ 1|
 |-|
 |וְלִקְדוֹֹשׁ 1|
-|wElEqEdEwEšE|
+|wsvliqsvdwoš|
 
  * פנים 1: 
 
 |פָּנִים 1|
 |-|
 |פָּנִים 1|
-|pEnEyEmE|
+|pAniym|
 
  * שמרים 1: 
 
 |שֹׁמְרִים 1|
 |-|
 |שֹׁמְרִים 1|
-|šEmErEyEmE|
+|šomsvriym|
 
  * נדברו 1: 
 
 |נִדְבָּרוּ 1|
 |-|
 |נִדְבָּרוּ 1|
-|nEdEbErEuE|
+|nidsvbAru|
 
  * יאבתי 1: 
 
 |יָאָבְתִּי 1|
 |-|
 |יָאָבְתִי 1|
-|yE'EvEtEyE|
+|yA'Avsvtiy|
 
  * הפרו 1: 
 
 |הֵפֵרוּ 1|
 |-|
 |הֵפֵרוּ 1|
-|hEfErEuE|
+|hEfEru|
 
  * נאמנים 1: 
 
 |נֶאֱמָנִים 1|
 |-|
 |נֶאֱמָנִים 1|
-|nE'EmEnEyEmE|
+|ne'emAniym|
 
  * המתים 1: 
 
 |הַמֵּתִים 1|
 |-|
 |הַמֵתִים 1|
-|hEmEtEyEmE|
+|hamEtiym|
 
  * אויה־לי 1: 
 
 |אוֹיָה־לִי 1|
 |-|
 |אוֹֹיָה־לִי 1|
-|'EwEyEhE־ElEyE|
+|'woyAh־liy|
 
  * מכל־צרה 1: 
 
 |מִכָּל־צָרָה 1|
 |-|
 |מִכָּל־צָרָה 1|
-|mEkElE־EcErEhE|
+|mikAl־cArAh|
 
  * את־דברוו 1: 
 
 |אֶת־דברוו 1|
 |-|
 |אֶת־דברוו 1|
-|'EtE־EdEvErEwEwE|
+|'et־dvrww|
 
  * גילי 1: 
 
 |גִּילִי 1|
 |-|
 |גִילִי 1|
-|gEyElEyE|
+|giyliy|
 
  * אשחרך 1: 
 
 |אֲ‍שַׁחֲרֶךָּ 1|
 |-|
 |אֲשַׁחֲרֶךָּ 1|
-|'EšEHErEkE|
+|'ašaHarekA|
 
  * ויכוננה 1: 
 
 |וַיְכוֹנְנֶהָ 1|
 |-|
 |וַיְכוֹֹנְנֶהָ 1|
-|wEyExEwEnEnEhE|
+|waysvxwonsvnehA|
 
  * וישק 1: 
 
 |וַיַּשְׁקְ 1|
 |-|
 |וַיַשְׁקְ 1|
-|wEyEšEqE|
+|wayašsvqsv|
 
  * ולבם 1: 
 
 |וְלִבָּם 1|
 |-|
 |וְלִבָּם 1|
-|wElEbEmE|
+|wsvlibAm|
 
  * ישכון 1: 
 
 |יִשְׁכּוֹן 1|
 |-|
 |יִשְׁכּוֹֹן 1|
-|yEšEkEwEnE|
+|yišsvkwon|
 
  * כסה 1: 
 
 |כִּסָּה 1|
 |-|
 |כִּסָה 1|
-|kEsEhE|
+|kisAh|
 
  * כמו־חרון 1: 
 
 |כְּמוֹ־חָרוֹן 1|
 |-|
 |כְּמוֹֹ־חָרוֹֹן 1|
-|kEmEwE־EHErEwEnE|
+|ksvmwo־HArwon|
 
  * עברה 1: 
 
 |עֶבְרָה 1|
 |-|
 |עֶבְרָה 1|
-|ɣEvErEhE|
+|ɣevsvrAh|
 
  * ותטעה 1: 
 
 |וַתִּטָּעֶהָ 1|
 |-|
 |וַתִטָעֶהָ 1|
-|wEtETEɣEhE|
+|watiTAɣehA|
 
  * זיתים 1: 
 
 |זֵיתִים 1|
 |-|
 |זֵיתִים 1|
-|zEyEtEyEmE|
+|zEytiym|
 
  * ואת־אויביהם 1: 
 
 |וְאֶת־אוֹיְבֵיהֶם 1|
 |-|
 |וְאֶת־אוֹֹיְבֵיהֶם 1|
-|wE'EtE־E'EwEyEvEyEhEmE|
+|wsv'et־'woysvvEyhem|
 
  * יקיפו 1: 
 
 |יַקִּיפוּ 1|
 |-|
 |יַקִיפוּ 1|
-|yEqEyEfEuE|
+|yaqiyfu|
 
  * עד־קצה 1: 
 
 |עַד־קְצֵה 1|
 |-|
 |עַד־קְצֵה 1|
-|ɣEdE־EqEcEhE|
+|ɣad־qsvcEh|
 
  * שתי 1: 
 
 |שַׁתִּי 1|
 |-|
 |שַׁתִי 1|
-|šEtEyE|
+|šatiy|
 
  * ישרה 1: 
 
 |יְשָׁרָה 1|
 |-|
 |יְשָׁרָה 1|
-|yEšErEhE|
+|ysvšArAh|
 
  * צרתני 1: 
 
 |צַרְתָּנִי 1|
 |-|
 |צַרְתָנִי 1|
-|cErEtEnEyE|
+|carsvtAniy|
 
  * יחזקו־למו 1: 
 
 |יְחַזְּקוּ־לָמוֹ 1|
 |-|
 |יְחַזְקוּ־לָמוֹֹ 1|
-|yEHEzEqEuE־ElEmEwE|
+|ysvHazsvqu־lAmwo|
 
  * וחבלים 1: 
 
 |וַחֲבָלִים 1|
 |-|
 |וַחֲבָלִים 1|
-|wEHEvElEyEmE|
+|waHavAliym|
 
  * קדמוני 1: 
 
 |קִדְּמוּנִי 1|
 |-|
 |קִדְמוּנִי 1|
-|qEdEmEuEnEyE|
+|qidsvmuniy|
 
  * בעברתך 1: 
 
 |בְעֶבְרָתֶךָ 1|
 |-|
 |בְעֶבְרָתֶךָ 1|
-|vEɣEvErEtExE|
+|vsvɣevsvrAtexA|
 
  * שש 1: 
 
 |שָׂשׂ 1|
 |-|
 |שָׂשׂ 1|
-|SESE|
+|SAS|
 
  * וצרי 1: 
 
 |וְצָרָי 1|
 |-|
 |וְצָרָי 1|
-|wEcErEyE|
+|wsvcArAy|
 
  * משור 1: 
 
 |מִשּׁוֹר 1|
 |-|
 |מִשׁוֹֹר 1|
-|mEšEwErE|
+|mišwor|
 
  * ישלם־נדר 1: 
 
 |יְשֻׁלַּם־נֶדֶר 1|
 |-|
 |יְשֻׁלַם־נֶדֶר 1|
-|yEšElEmE־EnEdErE|
+|ysvšulam־neder|
 
  * יירש 1: 
 
 |יִירַשׁ 1|
 |-|
 |יִירַשׁ 1|
-|yEyErEšE|
+|yiyraš|
 
  * בתמים 1: 
 
 |בְּתָמִים 1|
 |-|
 |בְּתָמִים 1|
-|bEtEmEyEmE|
+|bsvtAmiym|
 
  * שעלים 1: 
 
 |שֻׁעָלִים 1|
 |-|
 |שֻׁעָלִים 1|
-|šEɣElEyEmE|
+|šuɣAliym|
 
  * אתה־יהוה 1: 
 
 |אַתָּה־יְהוָה 1|
 |-|
 |אַתָה־יְהוָה 1|
-|'EtEhE־EyEhEwEhE|
+|'atAh־ysvhwAh|
 
  * הלעולמים 1: 
 
 |הַלְעוֹלָמִים 1|
 |-|
 |הַלְעוֹֹלָמִים 1|
-|hElEɣEwElEmEyEmE|
+|halsvɣwolAmiym|
 
  * מזרח 1: 
 
 |מִזְרָח 1|
 |-|
 |מִזְרָח 1|
-|mEzErEHE|
+|mizsvrAH|
 
  * יזמרו 1: 
 
 |יְזַמְּרוּ 1|
 |-|
 |יְזַמְרוּ 1|
-|yEzEmErEuE|
+|ysvzamsvru|
 
  * וירמס 1: 
 
 |וְיִרְמֹס 1|
 |-|
 |וְיִרְמֹס 1|
-|wEyErEmEsE|
+|wsvyirsvmos|
 
  * דשן 1: 
 
 |דָּשֶׁן 1|
 |-|
 |דָשֶׁן 1|
-|dEšEnE|
+|dAšen|
 
  * שאפי 1: 
 
 |שֹׁאֲפִי 1|
 |-|
 |שֹׁאֲפִי 1|
-|šE'EfEyE|
+|šo'afiy|
 
  * כסתי 1: 
 
 |כִסִּתִי 1|
 |-|
 |כִסִתִי 1|
-|xEsEtEyE|
+|xisitiy|
 
  * ואנכי 1: 
 
 |וְאָנֹכִי 1|
 |-|
 |וְאָנֹכִי 1|
-|wE'EnExEyE|
+|wsv'Anoxiy|
 
  * יפאר 1: 
 
 |יְפָאֵר 1|
 |-|
 |יְפָאֵר 1|
-|yEfE'ErE|
+|ysvfA'Er|
 
  * אפיקי 1: 
 
 |אֲפִיקֵי 1|
 |-|
 |אֲפִיקֵי 1|
-|'EfEyEqEyE|
+|'afiyqEy|
 
  * ירנו 1: 
 
 |יָרֹנּוּ 1|
 |-|
 |יָרֹנוּ 1|
-|yErEnEuE|
+|yAronu|
 
  * הצילו 1: 
 
 |הַצִּילוּ 1|
 |-|
 |הַצִילוּ 1|
-|hEcEyElEuE|
+|haciylu|
 
  * ונבא 1: 
 
 |וְנָבִא 1|
 |-|
 |וְנָבִא 1|
-|wEnEvE'E|
+|wsvnAvi'|
 
  * אשר־טמן 1: 
 
 |אֲשֶׁר־טָמַן 1|
 |-|
 |אֲשֶׁר־טָמַן 1|
-|'EšErE־ETEmEnE|
+|'ašer־TAman|
 
  * לעבד־יהוה 1: 
 
 |לְעֶבֶד־יְהוָה 1|
 |-|
 |לְעֶבֶד־יְהוָה 1|
-|lEɣEvEdE־EyEhEwEhE|
+|lsvɣeved־ysvhwAh|
 
  * יחרפני 1: 
 
 |יְחָרְפֵנִי 1|
 |-|
 |יְחָרְפֵנִי 1|
-|yEHErEfEnEyE|
+|ysvHArsvfEniy|
 
  * יין 1: 
 
 |יַיִן 1|
 |-|
 |יַיִן 1|
-|yEyEnE|
+|yayin|
 
  * בחדרי 1: 
 
 |בְּחַדְרֵי 1|
 |-|
 |בְּחַדְרֵי 1|
-|bEHEdErEyE|
+|bsvHadsvrEy|
 
  * מלכות 1: 
 
 |מַלְכוּת 1|
 |-|
 |מַלְכוּת 1|
-|mElExEuEtE|
+|malsvxut|
 
  * פן־תחשה 1: 
 
 |פֶּן־תֶּחֱשֶׁה 1|
 |-|
 |פֶּן־תֶחֱשֶׁה 1|
-|pEnE־EtEHEšEhE|
+|pen־teHešeh|
 
  * להאיר 1: 
 
 |לְהָאִיר 1|
 |-|
 |לְהָאִיר 1|
-|lEhE'EyErE|
+|lsvhA'iyr|
 
  * נאם 1: 
 
 |נְאֻם 1|
 |-|
 |נְאֻם 1|
-|nE'EmE|
+|nsv'um|
 
  * כרו־לי 1: 
 
 |כָּרוּ־לִי 1|
 |-|
 |כָּרוּ־לִי 1|
-|kErEuE־ElEyE|
+|kAru־liy|
 
  * בינו 1: 
 
 |בִּינוּ 1|
 |-|
 |בִּינוּ 1|
-|bEyEnEuE|
+|biynu|
 
  * ותשלך 1: 
 
 |וַתַּשְׁלֵךְ 1|
 |-|
 |וַתַשְׁלֵךְ 1|
-|wEtEšElExE|
+|watašsvlExsv|
 
  * יואב 1: 
 
 |יוֹאָב 1|
 |-|
 |יוֹֹאָב 1|
-|yEwE'EvE|
+|ywo'Av|
 
  * מן־שאול 1: 
 
 |מִן־שְׁאוֹל 1|
 |-|
 |מִן־שְׁאוֹֹל 1|
-|mEnE־EšE'EwElE|
+|min־šsv'wol|
 
  * לא־יחסרו 1: 
 
 |לֹא־יַחְסְרוּ 1|
 |-|
 |לֹא־יַחְסְרוּ 1|
-|lE'E־EyEHEsErEuE|
+|lo'־yaHsvssvru|
 
  * בגאותו 1: 
 
 |בְּגַאֲוָתוֹ 1|
 |-|
 |בְּגַאֲוָתוֹֹ 1|
-|bEgE'EwEtEwE|
+|bsvga'awAtwo|
 
  * כי־פקודיך 1: 
 
 |כִּי־פִקּוּדֶיךָ 1|
 |-|
 |כִּי־פִקוּדֶיךָ 1|
-|kEyE־EfEqEuEdEyExE|
+|kiy־fiqudeyxA|
 
  * מפקודיך 1: 
 
 |מִפִּקּוּדֶיךָ 1|
 |-|
 |מִפִּקוּדֶיךָ 1|
-|mEpEqEuEdEyExE|
+|mipiqudeyxA|
 
  * בארץ־ציה 1: 
 
 |בְּאֶרֶץ־צִיָּה 1|
 |-|
 |בְּאֶרֶץ־צִיָה 1|
-|bE'ErEcE־EcEyEhE|
+|bsv'erec־ciyAh|
 
  * יפה 1: 
 
 |יְפֵה 1|
 |-|
 |יְפֵה 1|
-|yEfEhE|
+|ysvfEh|
 
  * אשיח 1: 
 
 |אָשִׂיחַ 1|
 |-|
 |אָשִׂיחַ 1|
-|'ESEyEHE|
+|'ASiyHa|
 
  * רעבון 1: 
 
 |רְעָבוֹן 1|
 |-|
 |רְעָבוֹֹן 1|
-|rEɣEvEwEnE|
+|rsvɣAvwon|
 
  * תבחר 1: 
 
 |תִּבְחַר 1|
 |-|
 |תִבְחַר 1|
-|tEvEHErE|
+|tivsvHar|
 
  * תפקדנו 1: 
 
 |תִפְקְדֶנּוּ 1|
 |-|
 |תִפְקְדֶנוּ 1|
-|tEfEqEdEnEuE|
+|tifsvqsvdenu|
 
  * וקראני 1: 
 
 |וּקְרָאֵנִי 1|
 |-|
 |וּקְרָאֵנִי 1|
-|uEqErE'EnEyE|
+|uqsvrA'Eniy|
 
  * כי־תפארת 1: 
 
 |כִּי־תִפְאֶרֶת 1|
 |-|
 |כִּי־תִפְאֶרֶת 1|
-|kEyE־EtEfE'ErEtE|
+|kiy־tifsv'eret|
 
  * וזכרך 1: 
 
 |וְזִכְרְךָ 1|
 |-|
 |וְזִכְרְךָ 1|
-|wEzExErExE|
+|wsvzixsvrsvxA|
 
  * האריכו 1: 
 
 |הֶאֱרִיכוּ 1|
 |-|
 |הֶאֱרִיכוּ 1|
-|hE'ErEyExEuE|
+|he'eriyxu|
 
  * מדם 1: 
 
 |מִדָּם 1|
 |-|
 |מִדָם 1|
-|mEdEmE|
+|midAm|
 
  * תעברנה 1: 
 
 |תַּעֲבֹרְנָה 1|
 |-|
 |תַעֲבֹרְנָה 1|
-|tEɣEvErEnEhE|
+|taɣavorsvnAh|
 
  * נשמע 1: 
 
 |נִשְׁמָע 1|
 |-|
 |נִשְׁמָע 1|
-|nEšEmEɣE|
+|nišsvmAɣ|
 
  * טעמו 1: 
 
 |טַעֲמוּ 1|
 |-|
 |טַעֲמוּ 1|
-|TEɣEmEuE|
+|Taɣamu|
 
  * ירדן 1: 
 
 |יַרְדֵּן 1|
 |-|
 |יַרְדֵן 1|
-|yErEdEnE|
+|yarsvdEn|
 
  * תדרש 1: 
 
 |תִּדְרֹשׁ 1|
 |-|
 |תִדְרֹשׁ 1|
-|tEdErEšE|
+|tidsvroš|
 
  * צור־עזי 1: 
 
 |צוּר־עֻזִּי 1|
 |-|
 |צוּר־עֻזִי 1|
-|cEuErE־EɣEzEyE|
+|cur־ɣuziy|
 
  * אל־תמח 1: 
 
 |אַל־תִּמָּח 1|
 |-|
 |אַל־תִמָח 1|
-|'ElE־EtEmEHE|
+|'al־timAH|
 
  * דלותי 1: 
 
 |דַּלּוֹתִי 1|
 |-|
 |דַלוֹֹתִי 1|
-|dElEwEtEyE|
+|dalwotiy|
 
  * כל־מלכי־ארץ 1: 
 
 |כָּל־מַלְכֵי־אָרֶץ 1|
 |-|
 |כָּל־מַלְכֵי־אָרֶץ 1|
-|kElE־EmElExEyE־E'ErEcE|
+|kAl־malsvxEy־'Arec|
 
  * ומשביע 1: 
 
 |וּמַשְׂבִּיעַ 1|
 |-|
 |וּמַשְׂבִּיעַ 1|
-|uEmESEbEyEɣE|
+|umaSsvbiyɣa|
 
  * לא־לנצח 1: 
 
 |לֹא־לָנֶצַח 1|
 |-|
 |לֹא־לָנֶצַח 1|
-|lE'E־ElEnEcEHE|
+|lo'־lAnecaH|
 
  * קותה 1: 
 
 |קִוְּתָה 1|
 |-|
 |קִוְּתָה 1|
-|qEuEtEhE|
+|qiusvtAh|
 
  * ואל־תבישני 1: 
 
 |וְאַל־תְּבִישֵׁנִי 1|
 |-|
 |וְאַל־תְבִישֵׁנִי 1|
-|wE'ElE־EtEvEyEšEnEyE|
+|wsv'al־tsvviyšEniy|
 
  * ודגן־שמים 1: 
 
 |וּדְגַן־שָׁמַיִם 1|
 |-|
 |וּדְגַן־שָׁמַיִם 1|
-|uEdEgEnE־EšEmEyEmE|
+|udsvgan־šAmayim|
 
  * ואל־בחמתך 1: 
 
 |וְאַל־בַּחֲמָתְךָ 1|
 |-|
 |וְאַל־בַּחֲמָתְךָ 1|
-|wE'ElE־EbEHEmEtExE|
+|wsv'al־baHamAtsvxA|
 
  * ועזוז 1: 
 
 |וֶעֱזוּז 1|
 |-|
 |וֶעֱזוּז 1|
-|wEɣEzEuEzE|
+|weɣezuz|
 
  * השאננים 1: 
 
 |הַשַּׁאֲנַנִּים 1|
 |-|
 |הַשַׁאֲנַנִים 1|
-|hEšE'EnEnEyEmE|
+|haša'ananiym|
 
  * סג 1: 
 
 |סָג 1|
 |-|
 |סָג 1|
-|sEgE|
+|sAg|
 
  * קראת 1: 
 
 |קָרָאתָ 1|
 |-|
 |קָרָאתָ 1|
-|qErE'EtE|
+|qArA'tA|
 
  * לצמאון 1: 
 
 |לְצִמָּאוֹן 1|
 |-|
 |לְצִמָאוֹֹן 1|
-|lEcEmE'EwEnE|
+|lsvcimA'won|
 
  * בחנת 1: 
 
 |בָּחַנְתָּ 1|
 |-|
 |בָּחַנְתָ 1|
-|bEHEnEtE|
+|bAHansvtA|
 
  * כי־יעמד 1: 
 
 |כִּי־יַעֲמֹד 1|
 |-|
 |כִּי־יַעֲמֹד 1|
-|kEyE־EyEɣEmEdE|
+|kiy־yaɣamod|
 
  * חרון 1: 
 
 |חֲרוֹן 1|
 |-|
 |חֲרוֹֹן 1|
-|HErEwEnE|
+|Harwon|
 
  * במחיריהם 1: 
 
 |בִּמְחִירֵיהֶם 1|
 |-|
 |בִּמְחִירֵיהֶם 1|
-|bEmEHEyErEyEhEmE|
+|bimsvHiyrEyhem|
 
  * ואגדלנו 1: 
 
 |וַאֲגַדְּלֶנּוּ 1|
 |-|
 |וַאֲגַדְלֶנוּ 1|
-|wE'EgEdElEnEuE|
+|wa'agadsvlenu|
 
  * רחקו 1: 
 
 |רָחָקוּ 1|
 |-|
 |רָחָקוּ 1|
-|rEHEqEuE|
+|rAHAqu|
 
  * לאחריתם 1: 
 
 |לְאַחֲרִיתָם 1|
 |-|
 |לְאַחֲרִיתָם 1|
-|lE'EHErEyEtEmE|
+|lsv'aHariytAm|
 
  * בעשיו 1: 
 
 |בְּעֹשָׂיו 1|
 |-|
 |בְּעֹשָׂיו 1|
-|bEɣESEyEwE|
+|bsvɣoSAyw|
 
  * תחליפם 1: 
 
 |תַּחֲלִיפֵם 1|
 |-|
 |תַחֲלִיפֵם 1|
-|tEHElEyEfEmE|
+|taHaliyfEm|
 
  * והשתחוי־לו 1: 
 
 |וְהִשְׁתַּחֲוִי־לוֹ 1|
 |-|
 |וְהִשְׁתַחֲוִי־לוֹֹ 1|
-|wEhEšEtEHEwEyE־ElEwE|
+|wsvhišsvtaHawiy־lwo|
 
  * הרחיק 1: 
 
 |הִרְחִיק 1|
 |-|
 |הִרְחִיק 1|
-|hErEHEyEqE|
+|hirsvHiyq|
 
  * דוחה 1: 
 
 |דּוֹחֶה 1|
 |-|
 |דוֹֹחֶה 1|
-|dEwEHEhE|
+|dwoHeh|
 
  * יבראון 1: 
 
 |יִבָּרֵאוּן 1|
 |-|
 |יִבָּרֵאוּן 1|
-|yEbErE'EuEnE|
+|yibArE'un|
 
  * יצרתם 1: 
 
 |יְצַרְתָּם 1|
 |-|
 |יְצַרְתָם 1|
-|yEcErEtEmE|
+|ysvcarsvtAm|
 
  * צורם 1: 
 
 |צוּרָם 1|
 |-|
 |צוּרָם 1|
-|cEuErEmE|
+|curAm|
 
  * ]ויתן 1: 
 
 |]וַיִּתֵּן 1|
 |-|
 |]וַיִתֵן 1|
-|]EwEyEtEnE|
+|]wayitEn|
 
  * תצפינה 1: 
 
 |תִּצְפֶּינָה 1|
 |-|
 |תִצְפֶּינָה 1|
-|tEcEpEyEnEhE|
+|ticsvpeynAh|
 
  * וכל־רמש 1: 
 
 |וְכָל־רֹמֵשׂ 1|
 |-|
 |וְכָל־רֹמֵשׂ 1|
-|wExElE־ErEmESE|
+|wsvxAl־romES|
 
  * כל־תהלתו 1: 
 
 |כָּל־תְּהִלָּתוֹ 1|
 |-|
 |כָּל־תְהִלָתוֹֹ 1|
-|kElE־EtEhElEtEwE|
+|kAl־tsvhilAtwo|
 
  * ברקיע 1: 
 
 |בִּרְקִיעַ 1|
 |-|
 |בִּרְקִיעַ 1|
-|bErEqEyEɣE|
+|birsvqiyɣa|
 
  * אותיה 1: 
 
 |אִוִּתִיהָ 1|
 |-|
 |אִוִּתִיהָ 1|
-|'EuEtEyEhE|
+|'iuitiyhA|
 
  * תאלמנה 1: 
 
 |תֵּאָלַמְנָה 1|
 |-|
 |תֵאָלַמְנָה 1|
-|tE'ElEmEnEhE|
+|tE'AlamsvnAh|
 
  * תובלנה 1: 
 
 |תּוּבַלְנָה 1|
 |-|
 |תוּבַלְנָה 1|
-|tEuEvElEnEhE|
+|tuvalsvnAh|
 
  * אם 1: 
 
 |אִם 1|
 |-|
 |אִם 1|
-|'EmE|
+|'im|
 
  * אלמדה 1: 
 
 |אֲלַמְּדָה 1|
 |-|
 |אֲלַמְדָה 1|
-|'ElEmEdEhE|
+|'alamsvdAh|
 
  * ואורך 1: 
 
 |וְאוֹרְךָ 1|
 |-|
 |וְאוֹֹרְךָ 1|
-|wE'EwErExE|
+|wsv'worsvxA|
 
  * ויגל 1: 
 
 |וַיָּגֶל 1|
 |-|
 |וַיָגֶל 1|
-|wEyEgElE|
+|wayAgel|
 
  * תעשרנה 1: 
 
 |תַּעְשְׁרֶנָּה 1|
 |-|
 |תַעְשְׁרֶנָה 1|
-|tEɣEšErEnEhE|
+|taɣsvšsvrenAh|
 
  * לא־יבנה 1: 
 
 |לֹא־יִבְנֶה 1|
 |-|
 |לֹא־יִבְנֶה 1|
-|lE'E־EyEvEnEhE|
+|lo'־yivsvneh|
 
  * אל־בית 1: 
 
 |אֶל־בֵּית 1|
 |-|
 |אֶל־בֵּית 1|
-|'ElE־EbEyEtE|
+|'el־bEyt|
 
  * יפל־בה 1: 
 
 |יִפָּל־בָּהּ 1|
 |-|
 |יִפָּל־בָּה 1|
-|yEpElE־EbEhE|
+|yipAl־bAh|
 
  * עם־רעיהם 1: 
 
 |עִם־רֵעֵיהֶם 1|
 |-|
 |עִם־רֵעֵיהֶם 1|
-|ɣEmE־ErEɣEyEhEmE|
+|ɣim־rEɣEyhem|
 
  * אלופי 1: 
 
 |אַלּוּפִי 1|
 |-|
 |אַלוּפִי 1|
-|'ElEuEfEyE|
+|'alufiy|
 
  * יקם 1: 
 
 |יָקֵם 1|
 |-|
 |יָקֵם 1|
-|yEqEmE|
+|yAqEm|
 
  * נותן־להם 1: 
 
 |נוֹתֵן־לָהֶם 1|
 |-|
 |נוֹֹתֵן־לָהֶם 1|
-|nEwEtEnE־ElEhEmE|
+|nwotEn־lAhem|
 
  * וכל־ארזים 1: 
 
 |וְכָל־אֲרָזִים 1|
 |-|
 |וְכָל־אֲרָזִים 1|
-|wExElE־E'ErEzEyEmE|
+|wsvxAl־'arAziym|
 
  * ואמונתי 1: 
 
 |וֶאֶמוּנָתִי 1|
 |-|
 |וֶאֶמוּנָתִי 1|
-|wE'EmEuEnEtEyE|
+|we'emunAtiy|
 
  * ובצע 1: 
 
 |וּבֹצֵעַ 1|
 |-|
 |וּבֹצֵעַ 1|
-|uEvEcEɣE|
+|uvocEɣa|
 
  * הרכבת 1: 
 
 |הִרְכַּבְתָּ 1|
 |-|
 |הִרְכַּבְתָ 1|
-|hErEkEvEtE|
+|hirsvkavsvtA|
 
  * ישמחו־בך 1: 
 
 |יִשְׂמְחוּ־בָךְ 1|
 |-|
 |יִשְׂמְחוּ־בָךְ 1|
-|yESEmEHEuE־EvExE|
+|yiSsvmsvHu־vAxsv|
 
  * שבטי 1: 
 
 |שִׁבְטֵי 1|
 |-|
 |שִׁבְטֵי 1|
-|šEvETEyE|
+|šivsvTEy|
 
  * יש־אלהים 1: 
 
 |יֵשׁ־אֱלֹהִים 1|
 |-|
 |יֵשׁ־אֱלֹהִים 1|
-|yEšE־E'ElEhEyEmE|
+|yEš־'elohiym|
 
  * יבקע 1: 
 
 |יְבַקַּע 1|
 |-|
 |יְבַקַע 1|
-|yEvEqEɣE|
+|ysvvaqaɣ|
 
  * ויגלו 1: 
 
 |וַיִּגָּלוּ 1|
 |-|
 |וַיִגָלוּ 1|
-|wEyEgElEuE|
+|wayigAlu|
 
  * מחסהו 1: 
 
 |מַחְסֵהוּ 1|
 |-|
 |מַחְסֵהוּ 1|
-|mEHEsEhEuE|
+|maHsvsEhu|
 
  * אקח 1: 
 
 |אֶקַּח 1|
 |-|
 |אֶקַח 1|
-|'EqEHE|
+|'eqaH|
 
  * ושא 1: 
 
 |וְשָׂא 1|
 |-|
 |וְשָׂא 1|
-|wESE'E|
+|wsvSA'|
 
  * בני־יעקב 1: 
 
 |בְּנֵי־יַעֲקֹב 1|
 |-|
 |בְּנֵי־יַעֲקֹב 1|
-|bEnEyE־EyEɣEqEvE|
+|bsvnEy־yaɣaqov|
 
  * ותסך 1: 
 
 |וְתָסֵךְ 1|
 |-|
 |וְתָסֵךְ 1|
-|wEtEsExE|
+|wsvtAsExsv|
 
  * תהותתו 1: 
 
 |תְּהוֹתְתוּ 1|
 |-|
 |תְהוֹֹתְתוּ 1|
-|tEhEwEtEtEuE|
+|tsvhwotsvtu|
 
  * היון 1: 
 
 |הַיָּוֵן 1|
 |-|
 |הַיָוֵן 1|
-|hEyEwEnE|
+|hayAwEn|
 
  * תבנה 1: 
 
 |תִּבְנֶה 1|
 |-|
 |תִבְנֶה 1|
-|tEvEnEhE|
+|tivsvneh|
 
  * תרדפם 1: 
 
 |תִּרְדְּפֵם 1|
 |-|
 |תִרְדְפֵם 1|
-|tErEdEfEmE|
+|tirsvdsvfEm|
 
  * ויעף 1: 
 
 |וַיָּעֹף 1|
 |-|
 |וַיָעֹף 1|
-|wEyEɣEfE|
+|wayAɣof|
 
  * פצו 1: 
 
 |פָּצוּ 1|
 |-|
 |פָּצוּ 1|
-|pEcEuE|
+|pAcu|
 
  * ואבכה 1: 
 
 |וָאֶבְכֶּה 1|
 |-|
 |וָאֶבְכֶּה 1|
-|wE'EvEkEhE|
+|wA'evsvkeh|
 
  * אש־לפניו 1: 
 
 |אֵשׁ־לְפָנָיו 1|
 |-|
 |אֵשׁ־לְפָנָיו 1|
-|'EšE־ElEfEnEyEwE|
+|'Eš־lsvfAnAyw|
 
  * על־גבור 1: 
 
 |עַל־גִּבּוֹר 1|
 |-|
 |עַל־גִבּוֹֹר 1|
-|ɣElE־EgEbEwErE|
+|ɣal־gibwor|
 
  * ילקטון 1: 
 
 |יִלְקֹטוּן 1|
 |-|
 |יִלְקֹטוּן 1|
-|yElEqETEuEnE|
+|yilsvqoTun|
 
  * תתעב 1: 
 
 |תְּתַעֵב 1|
 |-|
 |תְתַעֵב 1|
-|tEtEɣEvE|
+|tsvtaɣEv|
 
  * לנפל 1: 
 
 |לִנְפֹּל 1|
 |-|
 |לִנְפֹּל 1|
-|lEnEpElE|
+|linsvpol|
 
  * יכלכל 1: 
 
 |יְכַלְכֵּל 1|
 |-|
 |יְכַלְכֵּל 1|
-|yExElEkElE|
+|ysvxalsvkEl|
 
  * בלי 1: 
 
 |בְּלִי 1|
 |-|
 |בְּלִי 1|
-|bElEyE|
+|bsvliy|
 
  * השמו 1: 
 
 |הֵשַׁמּוּ 1|
 |-|
 |הֵשַׁמוּ 1|
-|hEšEmEuE|
+|hEšamu|
 
  * ורננו 1: 
 
 |וְרַנְּנוּ 1|
 |-|
 |וְרַנְנוּ 1|
-|wErEnEnEuE|
+|wsvransvnu|
 
  * כישן 1: 
 
 |כְּיָשֵׁן 1|
 |-|
 |כְּיָשֵׁן 1|
-|kEyEšEnE|
+|ksvyAšEn|
 
  * באהלי־חם 1: 
 
 |בְּאָהֳלֵי־חָם 1|
 |-|
 |בְּאָהֳלֵי־חָם 1|
-|bE'EhElEyE־EHEmE|
+|bsv'AhAlEy־HAm|
 
  * על־הררי 1: 
 
 |עַל־הַרְרֵי 1|
 |-|
 |עַל־הַרְרֵי 1|
-|ɣElE־EhErErEyE|
+|ɣal־harsvrEy|
 
  * אעלה 1: 
 
 |אַעֲלֶה 1|
 |-|
 |אַעֲלֶה 1|
-|'EɣElEhE|
+|'aɣaleh|
 
  * בצואר 1: 
 
 |בְצַוָּאר 1|
 |-|
 |בְצַוָּאר 1|
-|vEcEuE'ErE|
+|vsvcauA'r|
 
  * כל־המיחלים 1: 
 
 |כָּל־הַמְיַחֲלִים 1|
 |-|
 |כָּל־הַמְיַחֲלִים 1|
-|kElE־EhEmEyEHElEyEmE|
+|kAl־hamsvyaHaliym|
 
  * ותדעהו 1: 
 
 |וַתֵּדָעֵהוּ 1|
 |-|
 |וַתֵדָעֵהוּ 1|
-|wEtEdEɣEhEuE|
+|watEdAɣEhu|
 
  * לבות 1: 
 
 |לִבּוֹת 1|
 |-|
 |לִבּוֹֹת 1|
-|lEbEwEtE|
+|libwot|
 
  * ויחיהו 1: 
 
 |וִיחַיֵּהוּ 1|
 |-|
 |וִיחַיֵהוּ 1|
-|wEyEHEyEhEuE|
+|wiyHayEhu|
 
  * יעטפו־בר 1: 
 
 |יַעַטְפוּ־בָר 1|
 |-|
 |יַעַטְפוּ־בָר 1|
-|yEɣETEfEuE־EvErE|
+|yaɣaTsvfu־vAr|
 
  * ואת־כל־אשר־בם 1: 
 
 |וְאֶת־כָּל־אֲשֶׁר־בָּם 1|
 |-|
 |וְאֶת־כָּל־אֲשֶׁר־בָּם 1|
-|wE'EtE־EkElE־E'EšErE־EbEmE|
+|wsv'et־kAl־'ašer־bAm|
 
  * את־אל 1: 
 
 |אֶת־אֵל 1|
 |-|
 |אֶת־אֵל 1|
-|'EtE־E'ElE|
+|'et־'El|
 
  * יחמרו 1: 
 
 |יֶחְמְרוּ 1|
 |-|
 |יֶחְמְרוּ 1|
-|yEHEmErEuE|
+|yeHsvmsvru|
 
  * מי־יבין 1: 
 
 |מִי־יָבִין 1|
 |-|
 |מִי־יָבִין 1|
-|mEyE־EyEvEyEnE|
+|miy־yAviyn|
 
  * ואל־תעזבני 1: 
 
 |וְאַל־תַּעַזְבֵנִי 1|
 |-|
 |וְאַל־תַעַזְבֵנִי 1|
-|wE'ElE־EtEɣEzEvEnEyE|
+|wsv'al־taɣazsvvEniy|
 
  * שמחי 1: 
 
 |שְׂמֵחֵי 1|
 |-|
 |שְׂמֵחֵי 1|
-|SEmEHEyE|
+|SsvmEHEy|
 
  * ולא־ישחית 1: 
 
 |וְלֹא־יַשְׁחִית 1|
 |-|
 |וְלֹא־יַשְׁחִית 1|
-|wElE'E־EyEšEHEyEtE|
+|wsvlo'־yašsvHiyt|
 
  * [וידעי] 1: 
 
 |[וְיֹדְעֵי] 1|
 |-|
 |[וְיֹדְעֵי] 1|
-|[EwEyEdEɣEyE]E|
+|[wsvyodsvɣEy]|
 
  * בעדתיך 1: 
 
 |בְעֵדֹתֶיךָ 1|
 |-|
 |בְעֵדֹתֶיךָ 1|
-|vEɣEdEtEyExE|
+|vsvɣEdoteyxA|
 
  * גם־זקנתי 1: 
 
 |גַּם־זָקַנְתִּי 1|
 |-|
 |גַם־זָקַנְתִי 1|
-|gEmE־EzEqEnEtEyE|
+|gam־zAqansvtiy|
 
  * ישבו־בה 1: 
 
 |יָשְׁבוּ־בָהּ 1|
 |-|
 |יָשְׁבוּ־בָה 1|
-|yEšEvEuE־EvEhE|
+|yAšsvvu־vAh|
 
  * לכל־אשר 1: 
 
 |לְכָל־אֲשֶׁר 1|
 |-|
 |לְכָל־אֲשֶׁר 1|
-|lExElE־E'EšErE|
+|lsvxAl־'ašer|
 
  * פסת־בר 1: 
 
 |פִסַּת־בַּר 1|
 |-|
 |פִסַת־בַּר 1|
-|fEsEtE־EbErE|
+|fisat־bar|
 
  * חרש 1: 
 
 |חֵרֵשׁ 1|
 |-|
 |חֵרֵשׁ 1|
-|HErEšE|
+|HErEš|
 
  * כמעיל 1: 
 
 |כַמְעִיל 1|
 |-|
 |כַמְעִיל 1|
-|xEmEɣEyElE|
+|xamsvɣiyl|
 
  * צר־ומצוק 1: 
 
 |צַר־וּמָצוֹק 1|
 |-|
 |צַר־וּמָצוֹֹק 1|
-|cErE־EuEmEcEwEqE|
+|car־umAcwoq|
 
  * אל־עבדיך 1: 
 
 |אֶל־עֲבָדֶיךָ 1|
 |-|
 |אֶל־עֲבָדֶיךָ 1|
-|'ElE־EɣEvEdEyExE|
+|'el־ɣavAdeyxA|
 
  * לא־דרך 1: 
 
 |לֹא־דָרֶךְ 1|
 |-|
 |לֹא־דָרֶךְ 1|
-|lE'E־EdErExE|
+|lo'־dArexsv|
 
  * לא־יכלו 1: 
 
 |לֹא־יָכְלוּ 1|
 |-|
 |לֹא־יָכְלוּ 1|
-|lE'E־EyExElEuE|
+|lo'־yAxsvlu|
 
  * לדרך 1: 
 
 |לְדֶרֶךְ 1|
 |-|
 |לְדֶרֶךְ 1|
-|lEdErExE|
+|lsvderexsv|
 
  * בשרו 1: 
 
 |בַּשְּׂרוּ 1|
 |-|
 |בַּשְׂרוּ 1|
-|bESErEuE|
+|baSsvru|
 
  * תשוה 1: 
 
 |תְּשַׁוֶּה 1|
 |-|
 |תְשַׁוֶּה 1|
-|tEšEuEhE|
+|tsvšaueh|
 
  * [שפכו] 1: 
 
 |[שֻׁפְּכוּ] 1|
 |-|
 |[שֻׁפְּכוּ] 1|
-|[EšEpExEuE]E|
+|[šupsvxu]|
 
  * מספדי 1: 
 
 |מִסְפְּדִי 1|
 |-|
 |מִסְפְּדִי 1|
-|mEsEpEdEyE|
+|missvpsvdiy|
 
  * כל־כבודה 1: 
 
 |כָּל־כְּבוּדָּה 1|
 |-|
 |כָּל־כְּבוּדָה 1|
-|kElE־EkEvEuEdEhE|
+|kAl־ksvvudAh|
 
  * מפלט 1: 
 
 |מִפְלָט 1|
 |-|
 |מִפְלָט 1|
-|mEfElETE|
+|mifsvlAT|
 
  * ומתניהם 1: 
 
 |וּמָתְנֵיהֶם 1|
 |-|
 |וּמָתְנֵיהֶם 1|
-|uEmEtEnEyEhEmE|
+|umAtsvnEyhem|
 
  * לכו־שמעו 1: 
 
 |לְכוּ־שִׁמְעוּ 1|
 |-|
 |לְכוּ־שִׁמְעוּ 1|
-|lExEuE־EšEmEɣEuE|
+|lsvxu־šimsvɣu|
 
  * יהלל־יה 1: 
 
 |יְהַלֶּל־יָהּ 1|
 |-|
 |יְהַלֶל־יָה 1|
-|yEhElElE־EyEhE|
+|ysvhalel־yAh|
 
  * כחשיכה 1: 
 
 |כַּחֲשֵׁיכָה 1|
 |-|
 |כַּחֲשֵׁיכָה 1|
-|kEHEšEyExEhE|
+|kaHašEyxAh|
 
  * תוצאות 1: 
 
 |תּוֹצָאוֹת 1|
 |-|
 |תוֹֹצָאוֹֹת 1|
-|tEwEcE'EwEtE|
+|twocA'wot|
 
  * וגרים 1: 
 
 |וְגָרִים 1|
 |-|
 |וְגָרִים 1|
-|wEgErEyEmE|
+|wsvgAriym|
 
  * במה 1: 
 
 |בַּמֶּה 1|
 |-|
 |בַּמֶה 1|
-|bEmEhE|
+|bameh|
 
  * זכרתם 1: 
 
 |זְכַרְתָּם 1|
 |-|
 |זְכַרְתָם 1|
-|zExErEtEmE|
+|zsvxarsvtAm|
 
  * בגלגל 1: 
 
 |בַּגַּלְגַּל 1|
 |-|
 |בַּגַלְגַל 1|
-|bEgElEgElE|
+|bagalsvgal|
 
  * לשמה 1: 
 
 |לְשַׁמָּה 1|
 |-|
 |לְשַׁמָה 1|
-|lEšEmEhE|
+|lsvšamAh|
 
  * עקבות 1: 
 
 |עִקְּבוֹת 1|
 |-|
 |עִקְבוֹֹת 1|
-|ɣEqEvEwEtE|
+|ɣiqsvvwot|
 
  * לדחות 1: 
 
 |לִדְחוֹת 1|
 |-|
 |לִדְחוֹֹת 1|
-|lEdEHEwEtE|
+|lidsvHwot|
 
  * על־עלילותם 1: 
 
 |עַל־עֲלִילוֹתָם 1|
 |-|
 |עַל־עֲלִילוֹֹתָם 1|
-|ɣElE־EɣElEyElEwEtEmE|
+|ɣal־ɣaliylwotAm|
 
  * לחצרות 1: 
 
 |לְחַצְרוֹת 1|
 |-|
 |לְחַצְרוֹֹת 1|
-|lEHEcErEwEtE|
+|lsvHacsvrwot|
 
  * הביטה 1: 
 
 |הַבִּיטָה 1|
 |-|
 |הַבִּיטָה 1|
-|hEbEyETEhE|
+|habiyTAh|
 
  * רחקיך 1: 
 
 |רְחֵקֶיךָ 1|
 |-|
 |רְחֵקֶיךָ 1|
-|rEHEqEyExE|
+|rsvHEqeyxA|
 
  * וסוס 1: 
 
 |וָסוּס 1|
 |-|
 |וָסוּס 1|
-|wEsEuEsE|
+|wAsus|
 
  * ויצב־מים 1: 
 
 |וַיַּצֶּב־מַיִם 1|
 |-|
 |וַיַצֶב־מַיִם 1|
-|wEyEcEvE־EmEyEmE|
+|wayacev־mayim|
 
  * טוב־מעט 1: 
 
 |טוֹב־מְעַט 1|
 |-|
 |טוֹֹב־מְעַט 1|
-|TEwEvE־EmEɣETE|
+|Twov־msvɣaT|
 
  * יהלמני־צדיק 1: 
 
 |יֶהֶלְמֵנִי־צַדִּיק 1|
 |-|
 |יֶהֶלְמֵנִי־צַדִיק 1|
-|yEhElEmEnEyE־EcEdEyEqE|
+|yehelsvmEniy־cadiyq|
 
  * רגמתם 1: 
 
 |רִגְמָתָם 1|
 |-|
 |רִגְמָתָם 1|
-|rEgEmEtEmE|
+|rigsvmAtAm|
 
  * ובאלהי 1: 
 
 |וּבֵאלֹהַי 1|
 |-|
 |וּבֵאלֹהַי 1|
-|uEvE'ElEhEyE|
+|uvE'lohay|
 
  * כי־ידין 1: 
 
 |כִּי־יָדִין 1|
 |-|
 |כִּי־יָדִין 1|
-|kEyE־EyEdEyEnE|
+|kiy־yAdiyn|
 
  * כמעשה 1: 
 
 |כְּמַעֲשֵׂה 1|
 |-|
 |כְּמַעֲשֵׂה 1|
-|kEmEɣESEhE|
+|ksvmaɣaSEh|
 
  * [ישי] 1: 
 
 |[יַשִּׁי] 1|
 |-|
 |[יַשִׁי] 1|
-|[EyEšEyE]E|
+|[yašiy]|
 
  * ללמד 1: 
 
 |לְלַמֵּד 1|
 |-|
 |לְלַמֵד 1|
-|lElEmEdE|
+|lsvlamEd|
 
  * המעלך 1: 
 
 |הַמַּעַלְךָ 1|
 |-|
 |הַמַעַלְךָ 1|
-|hEmEɣElExE|
+|hamaɣalsvxA|
 
  * טוב־יום 1: 
 
 |טוֹב־יוֹם 1|
 |-|
 |טוֹֹב־יוֹֹם 1|
-|TEwEvE־EyEwEmE|
+|Twov־ywom|
 
  * דלתות 1: 
 
 |דַּלְתוֹת 1|
 |-|
 |דַלְתוֹֹת 1|
-|dElEtEwEtE|
+|dalsvtwot|
 
  * משפטי־פיך 1: 
 
 |מִשְׁפְּטֵי־פִיךָ 1|
 |-|
 |מִשְׁפְּטֵי־פִיךָ 1|
-|mEšEpETEyE־EfEyExE|
+|mišsvpsvTEy־fiyxA|
 
  * השפוך 1: 
 
 |הַשָּׁפוּךְ 1|
 |-|
 |הַשָׁפוּךְ 1|
-|hEšEfEuExE|
+|hašAfuxsv|
 
  * להוציא 1: 
 
 |לְהוֹצִיא 1|
 |-|
 |לְהוֹֹצִיא 1|
-|lEhEwEcEyE'E|
+|lsvhwociy'|
 
  * כפו 1: 
 
 |כַפּוֹ 1|
 |-|
 |כַפּוֹֹ 1|
-|xEpEwE|
+|xapwo|
 
  * כל־קצוי־ארץ 1: 
 
 |כָּל־קַצְוֵי־אֶרֶץ 1|
 |-|
 |כָּל־קַצְוֵי־אֶרֶץ 1|
-|kElE־EqEcEwEyE־E'ErEcE|
+|kAl־qacsvwEy־'erec|
 
  * מתהלך 1: 
 
 |מִתְהַלֵּךְ 1|
 |-|
 |מִתְהַלֵךְ 1|
-|mEtEhElExE|
+|mitsvhalExsv|
 
  * בהמיר 1: 
 
 |בְּהָמִיר 1|
 |-|
 |בְּהָמִיר 1|
-|bEhEmEyErE|
+|bsvhAmiyr|
 
  * מרוממי 1: 
 
 |מְרוֹמְמִי 1|
 |-|
 |מְרוֹֹמְמִי 1|
-|mErEwEmEmEyE|
+|msvrwomsvmiy|
 
  * ותהלתו 1: 
 
 |וּתְהִלָּתוֹ 1|
 |-|
 |וּתְהִלָתוֹֹ 1|
-|uEtEhElEtEwE|
+|utsvhilAtwo|
 
  * בנאמני־ארץ 1: 
 
 |בְּנֶאֶמְנֵי־אֶרֶץ 1|
 |-|
 |בְּנֶאֶמְנֵי־אֶרֶץ 1|
-|bEnE'EmEnEyE־E'ErEcE|
+|bsvne'emsvnEy־'erec|
 
  * השגים 1: 
 
 |הַשֹּׁגִים 1|
 |-|
 |הַשֹׁגִים 1|
-|hEšEgEyEmE|
+|hašogiym|
 
  * כי־צרה 1: 
 
 |כִּי־צָרָה 1|
 |-|
 |כִּי־צָרָה 1|
-|kEyE־EcErEhE|
+|kiy־cArAh|
 
  * כל־מעשיו 1: 
 
 |כָּל־מַעֲשָׂיו 1|
 |-|
 |כָּל־מַעֲשָׂיו 1|
-|kElE־EmEɣESEyEwE|
+|kAl־maɣaSAyw|
 
  * יוצר 1: 
 
 |יוֹצֵר 1|
 |-|
 |יוֹֹצֵר 1|
-|yEwEcErE|
+|ywocEr|
 
  * וחלקלקות 1: 
 
 |וַחֲלַקְלַקּוֹת 1|
 |-|
 |וַחֲלַקְלַקוֹֹת 1|
-|wEHElEqElEqEwEtE|
+|waHalaqsvlaqwot|
 
  * ויכשילוהו 1: 
 
 |וַיַּכְשִׁילוּהוּ 1|
 |-|
 |וַיַכְשִׁילוּהוּ 1|
-|wEyExEšEyElEuEhEuE|
+|wayaxsvšiyluhu|
 
  * כפרד 1: 
 
 |כְּפֶרֶד 1|
 |-|
 |כְּפֶרֶד 1|
-|kEfErEdE|
+|ksvfered|
 
  * ויחלפו 1: 
 
 |וְיַחֲלֹפוּ 1|
 |-|
 |וְיַחֲלֹפוּ 1|
-|wEyEHElEfEuE|
+|wsvyaHalofu|
 
  * לא־גבה 1: 
 
 |לֹא־גָבַהּ 1|
 |-|
 |לֹא־גָבַה 1|
-|lE'E־EgEvEhE|
+|lo'־gAvah|
 
  * נחתו 1: 
 
 |נִחֲתוּ 1|
 |-|
 |נִחֲתוּ 1|
-|nEHEtEuE|
+|niHatu|
 
  * עם־גדלות 1: 
 
 |עִם־גְּדֹלוֹת 1|
 |-|
 |עִם־גְדֹלוֹֹת 1|
-|ɣEmE־EgEdElEwEtE|
+|ɣim־gsvdolwot|
 
  * מפריס 1: 
 
 |מַפְרִיס 1|
 |-|
 |מַפְרִיס 1|
-|mEfErEyEsE|
+|mafsvriys|
 
  * בל־ילין 1: 
 
 |בַּל־יָלִין 1|
 |-|
 |בַּל־יָלִין 1|
-|bElE־EyElEyEnE|
+|bal־yAliyn|
 
  * הקימתו 1: 
 
 |הֲקֵימֹתוֹ 1|
 |-|
 |הֲקֵימֹתוֹֹ 1|
-|hEqEyEmEtEwE|
+|haqEymotwo|
 
  * על־תאות 1: 
 
 |עַל־תַּאֲוַת 1|
 |-|
 |עַל־תַאֲוַת 1|
-|ɣElE־EtE'EwEtE|
+|ɣal־ta'awat|
 
  * יפלטם 1: 
 
 |יְפַלְּטֵם 1|
 |-|
 |יְפַלְטֵם 1|
-|yEfElETEmE|
+|ysvfalsvTEm|
 
  * ומצאי 1: 
 
 |וּמֹצָאֵי 1|
 |-|
 |וּמֹצָאֵי 1|
-|uEmEcE'EyE|
+|umocA'Ey|
 
  * כל־האדם 1: 
 
 |כָּל־הָאָדָם 1|
 |-|
 |כָּל־הָאָדָם 1|
-|kElE־EhE'EdEmE|
+|kAl־hA'AdAm|
 
  * ויתן־לו 1: 
 
 |וְיִתֶּן־לוֹ 1|
 |-|
 |וְיִתֶן־לוֹֹ 1|
-|wEyEtEnE־ElEwE|
+|wsvyiten־lwo|
 
  * אין־כמוך 1: 
 
 |אֵין־כָּמוֹךָ 1|
 |-|
 |אֵין־כָּמוֹֹךָ 1|
-|'EyEnE־EkEmEwExE|
+|'Eyn־kAmwoxA|
 
  * ובשמך 1: 
 
 |וּבְשִׁמְךָ 1|
 |-|
 |וּבְשִׁמְךָ 1|
-|uEvEšEmExE|
+|uvsvšimsvxA|
 
  * וזמרו 1: 
 
 |וְזַמֵּרוּ 1|
 |-|
 |וְזַמֵרוּ 1|
-|wEzEmErEuE|
+|wsvzamEru|
 
  * עם־חסיד 1: 
 
 |עִם־חָסִיד 1|
 |-|
 |עִם־חָסִיד 1|
-|ɣEmE־EHEsEyEdE|
+|ɣim־HAsiyd|
 
  * חסד־ומשפט 1: 
 
 |חֶסֶד־וּמִשְׁפָּט 1|
 |-|
 |חֶסֶד־וּמִשְׁפָּט 1|
-|HEsEdE־EuEmEšEpETE|
+|Hesed־umišsvpAT|
 
  * יעברו 1: 
 
 |יַעַבְרוּ 1|
 |-|
 |יַעַבְרוּ 1|
-|yEɣEvErEuE|
+|yaɣavsvru|
 
  * בפרעה 1: 
 
 |בְּפַרְעֹה 1|
 |-|
 |בְּפַרְעֹה 1|
-|bEfErEɣEhE|
+|bsvfarsvɣoh|
 
  * יהוה־אלהים 1: 
 
 |יְהוָה־אֱלֹהִים 1|
 |-|
 |יְהוָה־אֱלֹהִים 1|
-|yEhEwEhE־E'ElEhEyEmE|
+|ysvhwAh־'elohiym|
 
  * כמריבה 1: 
 
 |כִּמְרִיבָה 1|
 |-|
 |כִּמְרִיבָה 1|
-|kEmErEyEvEhE|
+|kimsvriyvAh|
 
  * מפשע 1: 
 
 |מִפֶּשַׁע 1|
 |-|
 |מִפֶּשַׁע 1|
-|mEpEšEɣE|
+|mipešaɣ|
 
  * צלמם 1: 
 
 |צַלְמָם 1|
 |-|
 |צַלְמָם 1|
-|cElEmEmE|
+|calsvmAm|
 
  * עללות 1: 
 
 |עֲלִלוֹת 1|
 |-|
 |עֲלִלוֹֹת 1|
-|ɣElElEwEtE|
+|ɣalilwot|
 
  * שרץ 1: 
 
 |שָׁרַץ 1|
 |-|
 |שָׁרַץ 1|
-|šErEcE|
+|šArac|
 
  * אהבו 1: 
 
 |אֶהֱבוּ 1|
 |-|
 |אֶהֱבוּ 1|
-|'EhEvEuE|
+|'ehevu|
 
  * ותודה 1: 
 
 |וְתוֹדָה 1|
 |-|
 |וְתוֹֹדָה 1|
-|wEtEwEdEhE|
+|wsvtwodAh|
 
  * שטחתי 1: 
 
 |שִׁטַּחְתִּי 1|
 |-|
 |שִׁטַחְתִי 1|
-|šETEHEtEyE|
+|šiTaHsvtiy|
 
  * כפכה 1: 
 
 |כַּפֶּכָה 1|
 |-|
 |כַּפֶּכָה 1|
-|kEpExEhE|
+|kapexAh|
 
  * מנחות 1: 
 
 |מְנֻחוֹת 1|
 |-|
 |מְנֻחוֹֹת 1|
-|mEnEHEwEtE|
+|msvnuHwot|
 
  * וביהוה 1: 
 
 |וּבַיהוָה 1|
 |-|
 |וּבַיהוָה 1|
-|uEvEyEhEwEhE|
+|uvayhwAh|
 
  * כהררי־אל 1: 
 
 |כְּהַרְרֵי־אֵל 1|
 |-|
 |כְּהַרְרֵי־אֵל 1|
-|kEhErErEyE־E'ElE|
+|ksvharsvrEy־'El|
 
  * רעיך 1: 
 
 |רֵעֶיךָ 1|
 |-|
 |רֵעֶיךָ 1|
-|rEɣEyExE|
+|rEɣeyxA|
 
  * השרים 1: 
 
 |הַשָּׂרִים 1|
 |-|
 |הַשָׂרִים 1|
-|hESErEyEmE|
+|haSAriym|
 
  * עם־עתודים 1: 
 
 |עִם־עַתּוּדִים 1|
 |-|
 |עִם־עַתוּדִים 1|
-|ɣEmE־EɣEtEuEdEyEmE|
+|ɣim־ɣatudiym|
 
  * ובתבונות 1: 
 
 |וּבִתְבוּנוֹת 1|
 |-|
 |וּבִתְבוּנוֹֹת 1|
-|uEvEtEvEuEnEwEtE|
+|uvitsvvunwot|
 
  * נוסדו־יחד 1: 
 
 |נוֹסְדוּ־יָחַד 1|
 |-|
 |נוֹֹסְדוּ־יָחַד 1|
-|nEwEsEdEuE־EyEHEdE|
+|nwossvdu־yAHad|
 
  * תם־וישר 1: 
 
 |תֹּם־וָיֹשֶׁר 1|
 |-|
 |תֹם־וָיֹשֶׁר 1|
-|tEmE־EwEyEšErE|
+|tom־wAyošer|
 
  * כסוחה 1: 
 
 |כְּסוּחָה 1|
 |-|
 |כְּסוּחָה 1|
-|kEsEuEHEhE|
+|ksvsuHAh|
 
  * במקדשו 1: 
 
 |בְּמִקְדָּשׁוֹ 1|
 |-|
 |בְּמִקְדָשׁוֹֹ 1|
-|bEmEqEdEšEwE|
+|bsvmiqsvdAšwo|
 
  * אל־חיל 1: 
 
 |אֶל־חָיִל 1|
 |-|
 |אֶל־חָיִל 1|
-|'ElE־EHEyElE|
+|'el־HAyil|
 
  * עולת 1: 
 
 |עוֹלֹת 1|
 |-|
 |עוֹֹלֹת 1|
-|ɣEwElEtE|
+|ɣwolot|
 
  * כראים 1: 
 
 |כִּרְאֵים 1|
 |-|
 |כִּרְאֵים 1|
-|kErE'EyEmE|
+|kirsv'Eym|
 
  * חנות 1: 
 
 |חַנּוֹת 1|
 |-|
 |חַנוֹֹת 1|
-|HEnEwEtE|
+|Hanwot|
 
  * וינהגם 1: 
 
 |וַיְנַהֲגֵם 1|
 |-|
 |וַיְנַהֲגֵם 1|
-|wEyEnEhEgEmE|
+|waysvnahagEm|
 
  * ולא־פנה 1: 
 
 |וְלֹא־פָנָה 1|
 |-|
 |וְלֹא־פָנָה 1|
-|wElE'E־EfEnEhE|
+|wsvlo'־fAnAh|
 
  * גם־ברכות 1: 
 
 |גַּם־בְּרָכוֹת 1|
 |-|
 |גַם־בְּרָכוֹֹת 1|
-|gEmE־EbErExEwEtE|
+|gam־bsvrAxwot|
 
  * צויתה 1: 
 
 |צִוִּיתָה 1|
 |-|
 |צִוִּיתָה 1|
-|cEuEyEtEhE|
+|ciuiytAh|
 
  * ישמרך 1: 
 
 |יִשְׁמָרְךָ 1|
 |-|
 |יִשְׁמָרְךָ 1|
-|yEšEmErExE|
+|yišsvmArsvxA|
 
  * ימלל 1: 
 
 |יְמַלֵּל 1|
 |-|
 |יְמַלֵל 1|
-|yEmElElE|
+|ysvmalEl|
 
  * ככל־אבותי 1: 
 
 |כְּכָל־אֲבוֹתָי 1|
 |-|
 |כְּכָל־אֲבוֹֹתָי 1|
-|kExElE־E'EvEwEtEyE|
+|ksvxAl־'avwotAy|
 
  * וימשלו 1: 
 
 |וַיִּמְשְׁלוּ 1|
 |-|
 |וַיִמְשְׁלוּ 1|
-|wEyEmEšElEuE|
+|wayimsvšsvlu|
 
  * לבוא 1: 
 
 |לָבוֹא 1|
 |-|
 |לָבוֹֹא 1|
-|lEvEwE'E|
+|lAvwo'|
 
  * לנתיבתי 1: 
 
 |לִנְתִיבָתִי 1|
 |-|
 |לִנְתִיבָתִי 1|
-|lEnEtEyEvEtEyE|
+|linsvtiyvAtiy|
 
  * כמו־פתן 1: 
 
 |כְּמוֹ־פֶתֶן 1|
 |-|
 |כְּמוֹֹ־פֶתֶן 1|
-|kEmEwE־EfEtEnE|
+|ksvmwo־feten|
 
  * יצפנני 1: 
 
 |יִצְפְּנֵנִי 1|
 |-|
 |יִצְפְּנֵנִי 1|
-|yEcEpEnEnEyE|
+|yicsvpsvnEniy|
 
  * פריץ 1: 
 
 |פָּרִיץ 1|
 |-|
 |פָּרִיץ 1|
-|pErEyEcE|
+|pAriyc|
 
  * ותתן־לי 1: 
 
 |וַתִּתֶּן־לִי 1|
 |-|
 |וַתִתֶן־לִי 1|
-|wEtEtEnE־ElEyE|
+|watiten־liy|
 
  * שארית 1: 
 
 |שְׁאֵרִית 1|
 |-|
 |שְׁאֵרִית 1|
-|šE'ErEyEtE|
+|šsv'Eriyt|
 
  * וגר 1: 
 
 |וְגֵר 1|
 |-|
 |וְגֵר 1|
-|wEgErE|
+|wsvgEr|
 
  * רוצה 1: 
 
 |רוֹצֶה 1|
 |-|
 |רוֹֹצֶה 1|
-|rEwEcEhE|
+|rwoceh|
 
  * ויזכרו 1: 
 
 |וַיִּזְכְּרוּ 1|
 |-|
 |וַיִזְכְּרוּ 1|
-|wEyEzEkErEuE|
+|wayizsvksvru|
 
  * הותר 1: 
 
 |הוֹתֵר 1|
 |-|
 |הוֹֹתֵר 1|
-|hEwEtErE|
+|hwotEr|
 
  * אם־בקלו 1: 
 
 |אִם־בְּקֹלוֹ 1|
 |-|
 |אִם־בְּקֹלוֹֹ 1|
-|'EmE־EbEqElEwE|
+|'im־bsvqolwo|
 
  * תסמכני 1: 
 
 |תִסְמְכֵנִי 1|
 |-|
 |תִסְמְכֵנִי 1|
-|tEsEmExEnEyE|
+|tissvmsvxEniy|
 
  * שלף 1: 
 
 |שָׁלַף 1|
 |-|
 |שָׁלַף 1|
-|šElEfE|
+|šAlaf|
 
  * ונגע 1: 
 
 |וְנֶגַע 1|
 |-|
 |וְנֶגַע 1|
-|wEnEgEɣE|
+|wsvnegaɣ|
 
  * יכסוף 1: 
 
 |יִכְסוֹף 1|
 |-|
 |יִכְסוֹֹף 1|
-|yExEsEwEfE|
+|yixsvswof|
 
  * ממשפטיך 1: 
 
 |מִמִּשְׁפָּטֶיךָ 1|
 |-|
 |מִמִשְׁפָּטֶיךָ 1|
-|mEmEšEpETEyExE|
+|mimišsvpATeyxA|
 
  * ילבשו־צדק 1: 
 
 |יִלְבְּשׁוּ־צֶדֶק 1|
 |-|
 |יִלְבְּשׁוּ־צֶדֶק 1|
-|yElEbEšEuE־EcEdEqE|
+|yilsvbsvšu־cedeq|
 
  * המעד 1: 
 
 |הַמְעַד 1|
 |-|
 |הַמְעַד 1|
-|hEmEɣEdE|
+|hamsvɣad|
 
  * בנינו 1: 
 
 |בָּנֵינוּ 1|
 |-|
 |בָּנֵינוּ 1|
-|bEnEyEnEuE|
+|bAnEynu|
 
  * ותפשוהו 1: 
 
 |וְתִפְשׂוּהוּ 1|
 |-|
 |וְתִפְשׂוּהוּ 1|
-|wEtEfESEuEhEuE|
+|wsvtifsvSuhu|
 
  * החיה 1: 
 
 |הַחַיָּה 1|
 |-|
 |הַחַיָה 1|
-|hEHEyEhE|
+|haHayAh|
 
  * ובל־אשא 1: 
 
 |וּבַל־אֶשָּׂא 1|
 |-|
 |וּבַל־אֶשָׂא 1|
-|uEvElE־E'ESE'E|
+|uval־'eSA'|
 
  * ותהמי 1: 
 
 |וַתֶּהֱמִי 1|
 |-|
 |וַתֶהֱמִי 1|
-|wEtEhEmEyE|
+|watehemiy|
 
  * נקלה 1: 
 
 |נִקְלֶה 1|
 |-|
 |נִקְלֶה 1|
-|nEqElEhE|
+|niqsvleh|
 
  * כי־נטו 1: 
 
 |כִּי־נָטוּ 1|
 |-|
 |כִּי־נָטוּ 1|
-|kEyE־EnETEuE|
+|kiy־nATu|
 
  * חזיר 1: 
 
 |חֲזִיר 1|
 |-|
 |חֲזִיר 1|
-|HEzEyErE|
+|Haziyr|
 
  * דעכו 1: 
 
 |דֹּעֲכוּ 1|
 |-|
 |דֹעֲכוּ 1|
-|dEɣExEuE|
+|doɣaxu|
 
  * רצונך 1: 
 
 |רְצוֹנֶךָ 1|
 |-|
 |רְצוֹֹנֶךָ 1|
-|rEcEwEnExE|
+|rsvcwonexA|
 
  * ואשאפה 1: 
 
 |וָאֶשְׁאָפָה 1|
 |-|
 |וָאֶשְׁאָפָה 1|
-|wE'EšE'EfEhE|
+|wA'ešsv'AfAh|
 
  * חלמיש 1: 
 
 |חַלָּמִישׁ 1|
 |-|
 |חַלָמִישׁ 1|
-|HElEmEyEšE|
+|HalAmiyš|
 
  * נכבדות 1: 
 
 |נִכְבָּדוֹת 1|
 |-|
 |נִכְבָּדוֹֹת 1|
-|nExEbEdEwEtE|
+|nixsvbAdwot|
 
  * ביד־גוים 1: 
 
 |בְּיַד־גּוֹיִם 1|
 |-|
 |בְּיַד־גוֹֹיִם 1|
-|bEyEdE־EgEwEyEmE|
+|bsvyad־gwoyim|
 
  * וסבא 1: 
 
 |וּסְבָא 1|
 |-|
 |וּסְבָא 1|
-|uEsEvE'E|
+|ussvvA'|
 
  * וסלחת 1: 
 
 |וְסָלַחְתָּ 1|
 |-|
 |וְסָלַחְתָ 1|
-|wEsElEHEtE|
+|wsvsAlaHsvtA|
 
  * כל־העם 1: 
 
 |כָּל־הָעָם 1|
 |-|
 |כָּל־הָעָם 1|
-|kElE־EhEɣEmE|
+|kAl־hAɣAm|
 
  * כמשפטך 1: 
 
 |כְּמִשְׁפָּטֶךָ 1|
 |-|
 |כְּמִשְׁפָּטֶךָ 1|
-|kEmEšEpETExE|
+|ksvmišsvpATexA|
 
  * כי־חפרו 1: 
 
 |כִי־חָפְרוּ 1|
 |-|
 |כִי־חָפְרוּ 1|
-|xEyE־EHEfErEuE|
+|xiy־HAfsvru|
 
  * יושבי 1: 
 
 |יוֹשְׁבֵי 1|
 |-|
 |יוֹֹשְׁבֵי 1|
-|yEwEšEvEyE|
+|ywošsvvEy|
 
  * בהוללים 1: 
 
 |בַּהוֹלְלִים 1|
 |-|
 |בַּהוֹֹלְלִים 1|
-|bEhEwElElEyEmE|
+|bahwolsvliym|
 
  * ישפך 1: 
 
 |יִשְׁפֹּךְ 1|
 |-|
 |יִשְׁפֹּךְ 1|
-|yEšEpExE|
+|yišsvpoxsv|
 
  * סלעים 1: 
 
 |סְלָעִים 1|
 |-|
 |סְלָעִים 1|
-|sElEɣEyEmE|
+|ssvlAɣiym|
 
  * צמאם 1: 
 
 |צְמָאָם 1|
 |-|
 |צְמָאָם 1|
-|cEmE'EmE|
+|csvmA'Am|
 
  * בשפטך 1: 
 
 |בְשָׁפְטֶךָ 1|
 |-|
 |בְשָׁפְטֶךָ 1|
-|vEšEfETExE|
+|vsvšAfsvTexA|
 
  * שחוק 1: 
 
 |שְׂחוֹק 1|
 |-|
 |שְׂחוֹֹק 1|
-|SEHEwEqE|
+|SsvHwoq|
 
  * אבטח־בו 1: 
 
 |אֶבְטַח־בּוֹ 1|
 |-|
 |אֶבְטַח־בּוֹֹ 1|
-|'EvETEHE־EbEwE|
+|'evsvTaH־bwo|
 
  * פקדתו 1: 
 
 |פְּקֻדָּתוֹ 1|
 |-|
 |פְּקֻדָתוֹֹ 1|
-|pEqEdEtEwE|
+|psvqudAtwo|
 
  * סמוכים 1: 
 
 |סְמוּכִים 1|
 |-|
 |סְמוּכִים 1|
-|sEmEuExEyEmE|
+|ssvmuxiym|
 
  * כי־עם־יהוה 1: 
 
 |כִּי־עִם־יְהוָה 1|
 |-|
 |כִּי־עִם־יְהוָה 1|
-|kEyE־EɣEmE־EyEhEwEhE|
+|kiy־ɣim־ysvhwAh|
 
  * ננערתי 1: 
 
 |נִנְעַרְתִּי 1|
 |-|
 |נִנְעַרְתִי 1|
-|nEnEɣErEtEyE|
+|ninsvɣarsvtiy|
 
  * יחי 1: 
 
 |יְחִי 1|
 |-|
 |יְחִי 1|
-|yEHEyE|
+|ysvHiy|
 
  * אל־הסלע 1: 
 
 |אֶל־הַסָּלַע 1|
 |-|
 |אֶל־הַסָלַע 1|
-|'ElE־EhEsElEɣE|
+|'el־hasAlaɣ|
 
  * בל־ידעום 1: 
 
 |בַּל־יְדָעוּם 1|
 |-|
 |בַּל־יְדָעוּם 1|
-|bElE־EyEdEɣEuEmE|
+|bal־ysvdAɣum|
 
  * ויקחהו 1: 
 
 |וַיִּקָּחֵהוּ 1|
 |-|
 |וַיִקָחֵהוּ 1|
-|wEyEqEHEhEuE|
+|wayiqAHEhu|
 
  * קנה 1: 
 
 |קָנֶה 1|
 |-|
 |קָנֶה 1|
-|qEnEhE|
+|qAneh|
 
  * העטית 1: 
 
 |הֶעֱטִיתָ 1|
 |-|
 |הֶעֱטִיתָ 1|
-|hEɣETEyEtE|
+|heɣeTiytA|
 
  * את־ארזי 1: 
 
 |אֶת־אַרְזֵי 1|
 |-|
 |אֶת־אַרְזֵי 1|
-|'EtE־E'ErEzEyE|
+|'et־'arsvzEy|
 
  * לאדמתו 1: 
 
 |לְאַדְמָתוֹ 1|
 |-|
 |לְאַדְמָתוֹֹ 1|
-|lE'EdEmEtEwE|
+|lsv'adsvmAtwo|
 
  * כטל־חרמון 1: 
 
 |כְּטַל־חֶרְמוֹן 1|
 |-|
 |כְּטַל־חֶרְמוֹֹן 1|
-|kETElE־EHErEmEwEnE|
+|ksvTal־Hersvmwon|
 
  * תשת־חשך 1: 
 
 |תָּשֶׁת־חֹשֶׁךְ 1|
 |-|
 |תָשֶׁת־חֹשֶׁךְ 1|
-|tEšEtE־EHEšExE|
+|tAšet־Hošexsv|
 
  * ישתחוו 1: 
 
 |יִשְׁתַּחֲווּ 1|
 |-|
 |יִשְׁתַחֲווּ 1|
-|yEšEtEHEwEuE|
+|yišsvtaHawu|
 
  * שמחת 1: 
 
 |שִׂמְחַת 1|
 |-|
 |שִׂמְחַת 1|
-|SEmEHEtE|
+|SimsvHat|
 
  * אל־תהרגם 1: 
 
 |אַל־תַּהַרְגֵם 1|
 |-|
 |אַל־תַהַרְגֵם 1|
-|'ElE־EtEhErEgEmE|
+|'al־taharsvgEm|
 
  * על־שפתי 1: 
 
 |עַל־שְׂפָתָי 1|
 |-|
 |עַל־שְׂפָתָי 1|
-|ɣElE־ESEfEtEyE|
+|ɣal־SsvfAtAy|
 
  * כל־אלהים 1: 
 
 |כָּל־אֱלֹהִים 1|
 |-|
 |כָּל־אֱלֹהִים 1|
-|kElE־E'ElEhEyEmE|
+|kAl־'elohiym|
 
  * אצר 1: 
 
 |אֱצֹּר 1|
 |-|
 |אֱצֹר 1|
-|'EcErE|
+|'ecor|
 
  * מוצאו 1: 
 
 |מוֹצָאוֹ 1|
 |-|
 |מוֹֹצָאוֹֹ 1|
-|mEwEcE'EwE|
+|mwocA'wo|
 
  * ואל־נהר 1: 
 
 |וְאֶל־נָהָר 1|
 |-|
 |וְאֶל־נָהָר 1|
-|wE'ElE־EnEhErE|
+|wsv'el־nAhAr|
 
  * לכל־איביך 1: 
 
 |לְכָל־אֹיְבֶיךָ 1|
 |-|
 |לְכָל־אֹיְבֶיךָ 1|
-|lExElE־E'EyEvEyExE|
+|lsvxAl־'oysvveyxA|
 
  * וישישו 1: 
 
 |וְיָשִׂישׂוּ 1|
 |-|
 |וְיָשִׂישׂוּ 1|
-|wEyESEyESEuE|
+|wsvyASiySu|
 
  * אם־אתן 1: 
 
 |אִם־אֶתֵּן 1|
 |-|
 |אִם־אֶתֵן 1|
-|'EmE־E'EtEnE|
+|'im־'etEn|
 
  * ומוסדי 1: 
 
 |וּמוֹסְדֵי 1|
 |-|
 |וּמוֹֹסְדֵי 1|
-|uEmEwEsEdEyE|
+|umwossvdEy|
 
  * קדשי 1: 
 
 |קָדְשִׁי 1|
 |-|
 |קָדְשִׁי 1|
-|qEdEšEyE|
+|qAdsvšiy|
 
  * מעליותיו 1: 
 
 |מֵעֲלִיּוֹתָיו 1|
 |-|
 |מֵעֲלִיוֹֹתָיו 1|
-|mEɣElEyEwEtEyEwE|
+|mEɣaliywotAyw|
 
  * כל־עצי־יער 1: 
 
 |כָּל־עֲצֵי־יָעַר 1|
 |-|
 |כָּל־עֲצֵי־יָעַר 1|
-|kElE־EɣEcEyE־EyEɣErE|
+|kAl־ɣacEy־yAɣar|
 
  * אם־אשכחך 1: 
 
 |אִם־אֶשְׁכָּחֵךְ 1|
 |-|
 |אִם־אֶשְׁכָּחֵךְ 1|
-|'EmE־E'EšEkEHExE|
+|'im־'ešsvkAHExsv|
 
  * ישבח 1: 
 
 |יְשַׁבַּח 1|
 |-|
 |יְשַׁבַּח 1|
-|yEšEbEHE|
+|ysvšabaH|
 
  * יתעב 1: 
 
 |יְתָעֵב 1|
 |-|
 |יְתָעֵב 1|
-|yEtEɣEvE|
+|ysvtAɣEv|
 
  * תאוה 1: 
 
 |תַאֲוָה 1|
 |-|
 |תַאֲוָה 1|
-|tE'EwEhE|
+|ta'awAh|
 
  * ובתקוממיך 1: 
 
 |וּבִתְקוֹמְמֶיךָ 1|
 |-|
 |וּבִתְקוֹֹמְמֶיךָ 1|
-|uEvEtEqEwEmEmEyExE|
+|uvitsvqwomsvmeyxA|
 
  * קבר־פתוח 1: 
 
 |קֶבֶר־פָּתוּחַ 1|
 |-|
 |קֶבֶר־פָּתוּחַ 1|
-|qEvErE־EpEtEuEHE|
+|qever־pAtuHa|
 
  * אין־עוד 1: 
 
 |אֵין־עוֹד 1|
 |-|
 |אֵין־עוֹֹד 1|
-|'EyEnE־EɣEwEdE|
+|'Eyn־ɣwod|
 
  * וכל־מעשהו 1: 
 
 |וְכָל־מַעֲשֵׂהוּ 1|
 |-|
 |וְכָל־מַעֲשֵׂהוּ 1|
-|wExElE־EmEɣESEhEuE|
+|wsvxAl־maɣaSEhu|
 
  * אושע 1: 
 
 |אִוָּשֵׁעַ 1|
 |-|
 |אִוָּשֵׁעַ 1|
-|'EuEšEɣE|
+|'iuAšEɣa|
 
  * יקשו 1: 
 
 |יָקְשׁוּ 1|
 |-|
 |יָקְשׁוּ 1|
-|yEqEšEuE|
+|yAqsvšu|
 
  * כל־משפט 1: 
 
 |כָּל־מִשְׁפַּט 1|
 |-|
 |כָּל־מִשְׁפַּט 1|
-|kElE־EmEšEpETE|
+|kAl־mišsvpaT|
 
  * עליותיו 1: 
 
 |עֲ‍לִיּוֹתָיו 1|
 |-|
 |עֲלִיוֹֹתָיו 1|
-|ɣElEyEwEtEyEwE|
+|ɣaliywotAyw|
 
  * עלי־עשור 1: 
 
 |עֲ‍לֵי־עָשׂוֹר 1|
 |-|
 |עֲלֵי־עָשׂוֹֹר 1|
-|ɣElEyE־EɣESEwErE|
+|ɣalEy־ɣASwor|
 
  * ריבך 1: 
 
 |רִיבֶךָ 1|
 |-|
 |רִיבֶךָ 1|
-|rEyEvExE|
+|riyvexA|
 
  * ומעונתיהם 1: 
 
 |וּמֵעֲוֺנֹתֵיהֶם 1|
 |-|
 |וּמֵעֲוֺנֹתֵיהֶם 1|
-|uEmEɣEwEnEtEyEhEmE|
+|umEɣaw_o_notEyhem|
 
  * וגורו 1: 
 
 |וְגוּרוּ 1|
 |-|
 |וְגוּרוּ 1|
-|wEgEuErEuE|
+|wsvguru|
 
  * שנאו 1: 
 
 |שִׂנְאוּ 1|
 |-|
 |שִׂנְאוּ 1|
-|SEnE'EuE|
+|Sinsv'u|
 
  * מי־ישכן 1: 
 
 |מִי־יִשְׁכֹּן 1|
 |-|
 |מִי־יִשְׁכֹּן 1|
-|mEyE־EyEšEkEnE|
+|miy־yišsvkon|
 
  * דברת־בחזון 1: 
 
 |דִּבַּרְתָּ־בְחָזוֹן 1|
 |-|
 |דִבַּרְתָ־בְחָזוֹֹן 1|
-|dEbErEtE־EvEHEzEwEnE|
+|dibarsvtA־vsvHAzwon|
 
  * כל־גבולות 1: 
 
 |כָּל־גְּבוּלוֹת 1|
 |-|
 |כָּל־גְבוּלוֹֹת 1|
-|kElE־EgEvEuElEwEtE|
+|kAl־gsvvulwot|
 
  * ושמחה 1: 
 
 |וְשִׂמְחָה 1|
 |-|
 |וְשִׂמְחָה 1|
-|wESEmEHEhE|
+|wsvSimsvHAh|
 
  * קטרת 1: 
 
 |קְטֹרֶת 1|
 |-|
 |קְטֹרֶת 1|
-|qETErEtE|
+|qsvToret|
 
  * השיגוני 1: 
 
 |הִשִּׂיגוּנִי 1|
 |-|
 |הִשִׂיגוּנִי 1|
-|hESEyEgEuEnEyE|
+|hiSiyguniy|
 
  * [ישוב] 1: 
 
 |[יָשׁוּב] 1|
 |-|
 |[יָשׁוּב] 1|
-|[EyEšEuEvE]E|
+|[yAšuv]|
 
  * מטה 1: 
 
 |מָטָה 1|
 |-|
 |מָטָה 1|
-|mETEhE|
+|mATAh|
 
  * יחלתני 1: 
 
 |יִחַלְתָּנִי 1|
 |-|
 |יִחַלְתָנִי 1|
-|yEHElEtEnEyE|
+|yiHalsvtAniy|
 
  * מעשק 1: 
 
 |מֵעֹשֶׁק 1|
 |-|
 |מֵעֹשֶׁק 1|
-|mEɣEšEqE|
+|mEɣošeq|
 
  * מן־גערתך 1: 
 
 |מִן־גַּעֲרָתְךָ 1|
 |-|
 |מִן־גַעֲרָתְךָ 1|
-|mEnE־EgEɣErEtExE|
+|min־gaɣarAtsvxA|
 
  * כל־מטה־לחם 1: 
 
 |כָּל־מַטֵּה־לֶחֶם 1|
 |-|
 |כָּל־מַטֵה־לֶחֶם 1|
-|kElE־EmETEhE־ElEHEmE|
+|kAl־maTEh־leHem|
 
  * [חסדיו 1: 
 
 |[חֲסָדָיו 1|
 |-|
 |[חֲסָדָיו 1|
-|[EHEsEdEyEwE|
+|[HasAdAyw|
 
  * ותפלטמו 1: 
 
 |וַתְּפַלְּטֵמוֹ 1|
 |-|
 |וַתְפַלְטֵמוֹֹ 1|
-|wEtEfElETEmEwE|
+|watsvfalsvTEmwo|
 
  * עד־עת 1: 
 
 |עַד־עֵת 1|
 |-|
 |עַד־עֵת 1|
-|ɣEdE־EɣEtE|
+|ɣad־ɣEt|
 
  * יקללו־סלה 1: 
 
 |יְקַלְלוּ־סֶלָה 1|
 |-|
 |יְקַלְלוּ־סֶלָה 1|
-|yEqElElEuE־EsElEhE|
+|ysvqalsvlu־selAh|
 
  * בית־אהרן 1: 
 
 |בֵית־אַהֲרֹן 1|
 |-|
 |בֵית־אַהֲרֹן 1|
-|vEyEtE־E'EhErEnE|
+|vEyt־'aharon|
 
  * נשבר 1: 
 
 |נִשְׁבָּר 1|
 |-|
 |נִשְׁבָּר 1|
-|nEšEbErE|
+|nišsvbAr|
 
  * את־אויבים 1: 
 
 |אֶת־אוֹיְבִים 1|
 |-|
 |אֶת־אוֹֹיְבִים 1|
-|'EtE־E'EwEyEvEyEmE|
+|'et־'woysvviym|
 
  * ברשע 1: 
 
 |בְּרֶשַׁע 1|
 |-|
 |בְּרֶשַׁע 1|
-|bErEšEɣE|
+|bsvrešaɣ|
 
  * מי־יעלה 1: 
 
 |מִי־יַעֲלֶה 1|
 |-|
 |מִי־יַעֲלֶה 1|
-|mEyE־EyEɣElEhE|
+|miy־yaɣaleh|
 
  * למרמה 1: 
 
 |לְמִרְמָה 1|
 |-|
 |לְמִרְמָה 1|
-|lEmErEmEhE|
+|lsvmirsvmAh|
 
  * שאלת 1: 
 
 |שָׁאָלְתָּ 1|
 |-|
 |שָׁאָלְתָ 1|
-|šE'ElEtE|
+|šA'AlsvtA|
 
  * עד־מבאו 1: 
 
 |עַד־מְבֹאוֹ 1|
 |-|
 |עַד־מְבֹאוֹֹ 1|
-|ɣEdE־EmEvE'EwE|
+|ɣad־msvvo'wo|
 
  * אלמד 1: 
 
 |אֶלְמַד 1|
 |-|
 |אֶלְמַד 1|
-|'ElEmEdE|
+|'elsvmad|
 
  * דואג 1: 
 
 |דּוֹאֵג 1|
 |-|
 |דוֹֹאֵג 1|
-|dEwE'EgE|
+|dwo'Eg|
 
  * במהמרות 1: 
 
 |בְּמַהֲמֹרוֹת 1|
 |-|
 |בְּמַהֲמֹרוֹֹת 1|
-|bEmEhEmErEwEtE|
+|bsvmahamorwot|
 
  * גם־הם 1: 
 
 |גַּם־הֵם 1|
 |-|
 |גַם־הֵם 1|
-|gEmE־EhEmE|
+|gam־hEm|
 
  * ויורד 1: 
 
 |וַיּוֹרֶד 1|
 |-|
 |וַיוֹֹרֶד 1|
-|wEyEwErEdE|
+|waywored|
 
  * לאיתן 1: 
 
 |לְאֵיתָן 1|
 |-|
 |לְאֵיתָן 1|
-|lE'EyEtEnE|
+|lsv'EytAn|
 
  * חיתני 1: 
 
 |חִיָּתְנִי 1|
 |-|
 |חִיָתְנִי 1|
-|HEyEtEnEyE|
+|HiyAtsvniy|
 
  * ]הפך 1: 
 
 |]הָפַךְ 1|
 |-|
 |]הָפַךְ 1|
-|]EhEfExE|
+|]hAfaxsv|
 
  * מקלות 1: 
 
 |מִקֹּלוֹת 1|
 |-|
 |מִקֹלוֹֹת 1|
-|mEqElEwEtE|
+|miqolwot|
 
  * לקראתי 1: 
 
 |לִקְרָאתִי 1|
 |-|
 |לִקְרָאתִי 1|
-|lEqErE'EtEyE|
+|liqsvrA'tiy|
 
  * ומפקודיך 1: 
 
 |וּמִפִּקּוּדֶיךָ 1|
 |-|
 |וּמִפִּקוּדֶיךָ 1|
-|uEmEpEqEuEdEyExE|
+|umipiqudeyxA|
 
  * בחבל 1: 
 
 |בְּחֶבֶל 1|
 |-|
 |בְּחֶבֶל 1|
-|bEHEvElE|
+|bsvHevel|
 
  * תושיעני 1: 
 
 |תוֹשִׁיעֵנִי 1|
 |-|
 |תוֹֹשִׁיעֵנִי 1|
-|tEwEšEyEɣEnEyE|
+|twošiyɣEniy|
 
  * לעשקם 1: 
 
 |לְעָשְׁקָם 1|
 |-|
 |לְעָשְׁקָם 1|
-|lEɣEšEqEmE|
+|lsvɣAšsvqAm|
 
  * לי־טוב 1: 
 
 |לִי־טוֹב 1|
 |-|
 |לִי־טוֹֹב 1|
-|lEyE־ETEwEvE|
+|liy־Twov|
 
  * דכאת 1: 
 
 |דִכִּאתָ 1|
 |-|
 |דִכִּאתָ 1|
-|dEkE'EtE|
+|diki'tA|
 
  * במעשיו 1: 
 
 |בְּמַעֲשָׂיו 1|
 |-|
 |בְּמַעֲשָׂיו 1|
-|bEmEɣESEyEwE|
+|bsvmaɣaSAyw|
 
  * לאבדני 1: 
 
 |לְאַבְּדֵנִי 1|
 |-|
 |לְאַבְּדֵנִי 1|
-|lE'EbEdEnEyE|
+|lsv'absvdEniy|
 
  * ואין־לי 1: 
 
 |וְאֵין־לִי 1|
 |-|
 |וְאֵין־לִי 1|
-|wE'EyEnE־ElEyE|
+|wsv'Eyn־liy|
 
  * כלבנון 1: 
 
 |כַּלְּבָנוֹן 1|
 |-|
 |כַּלְבָנוֹֹן 1|
-|kElEvEnEwEnE|
+|kalsvvAnwon|
 
  * מיורדי־[מירדי־] 1: 
 
 |מיורדי־[מִיָּרְדִי־] 1|
 |-|
 |מיורדי־[מִיָרְדִי־] 1|
-|mEyEwErEdEyE־E[EmEyErEdEyE־E]E|
+|mywrdy־[miyArsvdiy־]|
 
  * על־בניהם 1: 
 
 |עַל־בְּנֵיהֶם 1|
 |-|
 |עַל־בְּנֵיהֶם 1|
-|ɣElE־EbEnEyEhEmE|
+|ɣal־bsvnEyhem|
 
  * ויוכח 1: 
 
 |וַיּוֹכַח 1|
 |-|
 |וַיוֹֹכַח 1|
-|wEyEwExEHE|
+|waywoxaH|
 
  * את־גבורתו 1: 
 
 |אֶת־גְּבוּרָתוֹ 1|
 |-|
 |אֶת־גְבוּרָתוֹֹ 1|
-|'EtE־EgEvEuErEtEwE|
+|'et־gsvvurAtwo|
 
  * בחקתיך 1: 
 
 |בְּחֻקֹּתֶיךָ 1|
 |-|
 |בְּחֻקֹתֶיךָ 1|
-|bEHEqEtEyExE|
+|bsvHuqoteyxA|
 
  * את־שבותנו 1: 
 
 |אֶת־שבותנו 1|
 |-|
 |אֶת־שבותנו 1|
-|'EtE־EשEvEwEtEnEwE|
+|'et־שvwtnw|
 
  * בעצומיו 1: 
 
 |בַּעֲצוּמָיו 1|
 |-|
 |בַּעֲצוּמָיו 1|
-|bEɣEcEuEmEyEwE|
+|baɣacumAyw|
 
  * כי־זכר 1: 
 
 |כִּי־זָכַר 1|
 |-|
 |כִּי־זָכַר 1|
-|kEyE־EzExErE|
+|kiy־zAxar|
 
  * להציל 1: 
 
 |לְהַצִּיל 1|
 |-|
 |לְהַצִיל 1|
-|lEhEcEyElE|
+|lsvhaciyl|
 
  * שובי 1: 
 
 |שׁוּבִי 1|
 |-|
 |שׁוּבִי 1|
-|šEuEvEyE|
+|šuviy|
 
  * ארצך 1: 
 
 |אַרְצֶךָ 1|
 |-|
 |אַרְצֶךָ 1|
-|'ErEcExE|
+|'arsvcexA|
 
  * עד־בהמה 1: 
 
 |עַד־בְּהֵמָה 1|
 |-|
 |עַד־בְּהֵמָה 1|
-|ɣEdE־EbEhEmEhE|
+|ɣad־bsvhEmAh|
 
  * מיד־צר 1: 
 
 |מִיַּד־צָר 1|
 |-|
 |מִיַד־צָר 1|
-|mEyEdE־EcErE|
+|miyad־cAr|
 
  * אל־עיר 1: 
 
 |אֶל־עִיר 1|
 |-|
 |אֶל־עִיר 1|
-|'ElE־EɣEyErE|
+|'el־ɣiyr|
 
  * אותתינו 1: 
 
 |אוֹתֹתֵינוּ 1|
 |-|
 |אוֹֹתֹתֵינוּ 1|
-|'EwEtEtEyEnEuE|
+|'wototEynu|
 
  * גם־אני 1: 
 
 |גַּם־אֲנִי 1|
 |-|
 |גַם־אֲנִי 1|
-|gEmE־E'EnEyE|
+|gam־'aniy|
 
  * ששם 1: 
 
 |שֶׁשָּׁם 1|
 |-|
 |שֶׁשָׁם 1|
-|šEšEmE|
+|šešAm|
 
  * בימיהם 1: 
 
 |בִימֵיהֶם 1|
 |-|
 |בִימֵיהֶם 1|
-|vEyEmEyEhEmE|
+|viymEyhem|
 
  * כל־עוף 1: 
 
 |כָּל־עוֹף 1|
 |-|
 |כָּל־עוֹֹף 1|
-|kElE־EɣEwEfE|
+|kAl־ɣwof|
 
  * רוממות 1: 
 
 |רוֹמְמוֹת 1|
 |-|
 |רוֹֹמְמוֹֹת 1|
-|rEwEmEmEwEtE|
+|rwomsvmwot|
 
  * יאספון 1: 
 
 |יֵאָסֵפוּן 1|
 |-|
 |יֵאָסֵפוּן 1|
-|yE'EsEfEuEnE|
+|yE'AsEfun|
 
  * ובטחו 1: 
 
 |וּבִטְחוּ 1|
 |-|
 |וּבִטְחוּ 1|
-|uEvETEHEuE|
+|uviTsvHu|
 
  * טוב־יהוה 1: 
 
 |טוֹב־יְהוָה 1|
 |-|
 |טוֹֹב־יְהוָה 1|
-|TEwEvE־EyEhEwEhE|
+|Twov־ysvhwAh|
 
  * וכליל 1: 
 
 |וְכָלִיל 1|
 |-|
 |וְכָלִיל 1|
-|wExElEyElE|
+|wsvxAliyl|
 
  * קנאתי 1: 
 
 |קִנְאָתִי 1|
 |-|
 |קִנְאָתִי 1|
-|qEnE'EtEyE|
+|qinsv'Atiy|
 
  * פן־יטרף 1: 
 
 |פֶּן־יִטְרֹף 1|
 |-|
 |פֶּן־יִטְרֹף 1|
-|pEnE־EyETErEfE|
+|pen־yiTsvrof|
 
  * יהי־אחריתו 1: 
 
 |יְהִי־אַחֲרִיתוֹ 1|
 |-|
 |יְהִי־אַחֲרִיתוֹֹ 1|
-|yEhEyE־E'EHErEyEtEwE|
+|ysvhiy־'aHariytwo|
 
  * בבל 1: 
 
 |בָּבֶל 1|
 |-|
 |בָּבֶל 1|
-|bEvElE|
+|bAvel|
 
  * פדית 1: 
 
 |פָּדִיתָ 1|
 |-|
 |פָּדִיתָ 1|
-|pEdEyEtE|
+|pAdiytA|
 
  * יגירהו 1: 
 
 |יַגִּירֻהוּ 1|
 |-|
 |יַגִירֻהוּ 1|
-|yEgEyErEhEuE|
+|yagiyruhu|
 
  * ודמו 1: 
 
 |וְדֹמּוּ 1|
 |-|
 |וְדֹמוּ 1|
-|wEdEmEuE|
+|wsvdomu|
 
  * עוללים 1: 
 
 |עוֹלְלִים 1|
 |-|
 |עוֹֹלְלִים 1|
-|ɣEwElElEyEmE|
+|ɣwolsvliym|
 
  * תשתוחח 1: 
 
 |תִשְׁתּוֹחָח 1|
 |-|
 |תִשְׁתוֹֹחָח 1|
-|tEšEtEwEHEHE|
+|tišsvtwoHAH|
 
  * בקול־רנה 1: 
 
 |בְּקוֹל־רִנָּה 1|
 |-|
 |בְּקוֹֹל־רִנָה 1|
-|bEqEwElE־ErEnEhE|
+|bsvqwol־rinAh|
 
  * מפיקים 1: 
 
 |מְפִיקִים 1|
 |-|
 |מְפִיקִים 1|
-|mEfEyEqEyEmE|
+|msvfiyqiym|
 
  * כבדוהו 1: 
 
 |כַּבְּדוּהוּ 1|
 |-|
 |כַּבְּדוּהוּ 1|
-|kEbEdEuEhEuE|
+|kabsvduhu|
 
  * על־חומתיה 1: 
 
 |עַל־חוֹמֹתֶיהָ 1|
 |-|
 |עַל־חוֹֹמֹתֶיהָ 1|
-|ɣElE־EHEwEmEtEyEhE|
+|ɣal־HwomoteyhA|
 
  * ארם 1: 
 
 |אֲרַם 1|
 |-|
 |אֲרַם 1|
-|'ErEmE|
+|'aram|
 
  * [חיל] 1: 
 
 |[חֵיל] 1|
 |-|
 |[חֵיל] 1|
-|[EHEyElE]E|
+|[HEyl]|
 
  * אל־מזבח 1: 
 
 |אֶל־מִזְבַּח 1|
 |-|
 |אֶל־מִזְבַּח 1|
-|'ElE־EmEzEbEHE|
+|'el־mizsvbaH|
 
  * מה־בצע 1: 
 
 |מַה־בֶּצַע 1|
 |-|
 |מַה־בֶּצַע 1|
-|mEhE־EbEcEɣE|
+|mah־becaɣ|
 
  * יתיצב 1: 
 
 |יִתְיַצֵּב 1|
 |-|
 |יִתְיַצֵב 1|
-|yEtEyEcEvE|
+|yitsvyacEv|
 
  * בכל־מקמות 1: 
 
 |בְּכָל־מְקֹמוֹת 1|
 |-|
 |בְּכָל־מְקֹמוֹֹת 1|
-|bExElE־EmEqEmEwEtE|
+|bsvxAl־msvqomwot|
 
  * מי־חכם 1: 
 
 |מִי־חָכָם 1|
 |-|
 |מִי־חָכָם 1|
-|mEyE־EHExEmE|
+|miy־HAxAm|
 
  * גל־עיני 1: 
 
 |גַּל־עֵינַי 1|
 |-|
 |גַל־עֵינַי 1|
-|gElE־EɣEyEnEyE|
+|gal־ɣEynay|
 
  * אדוניהם 1: 
 
 |אֲ‍דוֹנֵיהֶם 1|
 |-|
 |אֲדוֹֹנֵיהֶם 1|
-|'EdEwEnEyEhEmE|
+|'adwonEyhem|
 
  * דתן 1: 
 
 |דָּתָן 1|
 |-|
 |דָתָן 1|
-|dEtEnE|
+|dAtAn|
 
  * ואין־למו 1: 
 
 |וְאֵין־לָמוֹ 1|
 |-|
 |וְאֵין־לָמוֹֹ 1|
-|wE'EyEnE־ElEmEwE|
+|wsv'Eyn־lAmwo|
 
  * הר־קדשי 1: 
 
 |הַר־קָדְשִׁי 1|
 |-|
 |הַר־קָדְשִׁי 1|
-|hErE־EqEdEšEyE|
+|har־qAdsvšiy|
 
  * את־הים 1: 
 
 |אֶת־הַיָּם 1|
 |-|
 |אֶת־הַיָם 1|
-|'EtE־EhEyEmE|
+|'et־hayAm|
 
  * יכלתיו 1: 
 
 |יְכָלְתִּיו 1|
 |-|
 |יְכָלְתִיו 1|
-|yExElEtEyEwE|
+|ysvxAlsvtiyw|
 
  * עוזה 1: 
 
 |עוּזָּה 1|
 |-|
 |עוּזָה 1|
-|ɣEuEzEhE|
+|ɣuzAh|
 
  * נשאים 1: 
 
 |נְשִׂאִים 1|
 |-|
 |נְשִׂאִים 1|
-|nESE'EyEmE|
+|nsvSi'iym|
 
  * כל־אנשי־חיל 1: 
 
 |כָל־אַנְשֵׁי־חַיִל 1|
 |-|
 |כָל־אַנְשֵׁי־חַיִל 1|
-|xElE־E'EnEšEyE־EHEyElE|
+|xAl־'ansvšEy־Hayil|
 
  * למשען 1: 
 
 |לְמִשְׁעָן 1|
 |-|
 |לְמִשְׁעָן 1|
-|lEmEšEɣEnE|
+|lsvmišsvɣAn|
 
  * הוללו 1: 
 
 |הוּלָּלוּ 1|
 |-|
 |הוּלָלוּ 1|
-|hEuElElEuE|
+|hulAlu|
 
  * מלאך־יהוה 1: 
 
 |מַלְאַךְ־יְהוָה 1|
 |-|
 |מַלְאַךְ־יְהוָה 1|
-|mElE'ExE־EyEhEwEhE|
+|malsv'axsv־ysvhwAh|
 
  * נחשבנו 1: 
 
 |נֶחְשַׁבְנוּ 1|
 |-|
 |נֶחְשַׁבְנוּ 1|
-|nEHEšEvEnEuE|
+|neHsvšavsvnu|
 
  * מגדל־עז 1: 
 
 |מִגְדַּל־עֹז 1|
 |-|
 |מִגְדַל־עֹז 1|
-|mEgEdElE־EɣEzE|
+|migsvdal־ɣoz|
 
  * וכואב 1: 
 
 |וְכוֹאֵב 1|
 |-|
 |וְכוֹֹאֵב 1|
-|wExEwE'EvE|
+|wsvxwo'Ev|
 
  * כל־שנאי 1: 
 
 |כָּל־שֹׂנְאָי 1|
 |-|
 |כָּל־שֹׂנְאָי 1|
-|kElE־ESEnE'EyE|
+|kAl־Sonsv'Ay|
 
  * בלבבכם 1: 
 
 |בִלְבַבְכֶם 1|
 |-|
 |בִלְבַבְכֶם 1|
-|vElEvEvExEmE|
+|vilsvvavsvxem|
 
  * ערך 1: 
 
 |עֲרֹךְ 1|
 |-|
 |עֲרֹךְ 1|
-|ɣErExE|
+|ɣaroxsv|
 
  * בלבבי 1: 
 
 |בִּלְבָבִי 1|
 |-|
 |בִּלְבָבִי 1|
-|bElEvEvEyE|
+|bilsvvAviy|
 
  * אל־תשימני 1: 
 
 |אַל־תְּשִׂימֵנִי 1|
 |-|
 |אַל־תְשִׂימֵנִי 1|
-|'ElE־EtESEyEmEnEyE|
+|'al־tsvSiymEniy|
 
  * יביטו 1: 
 
 |יַבִּיטוּ 1|
 |-|
 |יַבִּיטוּ 1|
-|yEbEyETEuE|
+|yabiyTu|
 
  * ישביעך 1: 
 
 |יַשְׂבִּיעֵךְ 1|
 |-|
 |יַשְׂבִּיעֵךְ 1|
-|yESEbEyEɣExE|
+|yaSsvbiyɣExsv|
 
  * ותרפאני 1: 
 
 |וַתִּרְפָּאֵנִי 1|
 |-|
 |וַתִרְפָּאֵנִי 1|
-|wEtErEpE'EnEyE|
+|watirsvpA'Eniy|
 
  * לא־יהגו 1: 
 
 |לֹא־יֶהְגּוּ 1|
 |-|
 |לֹא־יֶהְגוּ 1|
-|lE'E־EyEhEgEuE|
+|lo'־yehsvgu|
 
  * לדממה 1: 
 
 |לִדְמָמָה 1|
 |-|
 |לִדְמָמָה 1|
-|lEdEmEmEhE|
+|lidsvmAmAh|
 
  * שקץ 1: 
 
 |שִׁקַּץ 1|
 |-|
 |שִׁקַץ 1|
-|šEqEcE|
+|šiqac|
 
  * אזבחה־לך 1: 
 
 |אֶזְבְּחָה־לָּךְ 1|
 |-|
 |אֶזְבְּחָה־לָךְ 1|
-|'EzEbEHEhE־ElExE|
+|'ezsvbsvHAh־lAxsv|
 
  * בנפשם 1: 
 
 |בְּנַפְשָׁם 1|
 |-|
 |בְּנַפְשָׁם 1|
-|bEnEfEšEmE|
+|bsvnafsvšAm|
 
  * קדשיו 1: 
 
 |קְדֹשָׁיו 1|
 |-|
 |קְדֹשָׁיו 1|
-|qEdEšEyEwE|
+|qsvdošAyw|
 
  * ידרשוהו 1: 
 
 |יִדְרְשׁוּהוּ 1|
 |-|
 |יִדְרְשׁוּהוּ 1|
-|yEdErEšEuEhEuE|
+|yidsvrsvšuhu|
 
  * נברכה 1: 
 
 |נִבְרְכָה 1|
 |-|
 |נִבְרְכָה 1|
-|nEvErExEhE|
+|nivsvrsvxAh|
 
  * גול 1: 
 
 |גּוֹל 1|
 |-|
 |גוֹֹל 1|
-|gEwElE|
+|gwol|
 
  * קובר 1: 
 
 |קוֹבֵר 1|
 |-|
 |קוֹֹבֵר 1|
-|qEwEvErE|
+|qwovEr|
 
  * ותט 1: 
 
 |וַתֵּט 1|
 |-|
 |וַתֵט 1|
-|wEtETE|
+|watET|
 
  * יזכרו 1: 
 
 |יִזְכְּרוּ 1|
 |-|
 |יִזְכְּרוּ 1|
-|yEzEkErEuE|
+|yizsvksvru|
 
  * אזכרכי 1: 
 
 |אֶזְכְּרֵכִי 1|
 |-|
 |אֶזְכְּרֵכִי 1|
-|'EzEkErExEyE|
+|'ezsvksvrExiy|
 
  * הציל־יהוה 1: 
 
 |הִצִּיל־יְהוָה 1|
 |-|
 |הִצִיל־יְהוָה 1|
-|hEcEyElE־EyEhEwEhE|
+|hiciyl־ysvhwAh|
 
  * אצא 1: 
 
 |אֵצֵא 1|
 |-|
 |אֵצֵא 1|
-|'EcE'E|
+|'EcE'|
 
  * עטה־אור 1: 
 
 |עֹטֶה־אוֹר 1|
 |-|
 |עֹטֶה־אוֹֹר 1|
-|ɣETEhE־E'EwErE|
+|ɣoTeh־'wor|
 
  * בשרירות 1: 
 
 |בִּשְׁרִירוּת 1|
 |-|
 |בִּשְׁרִירוּת 1|
-|bEšErEyErEuEtE|
+|bišsvriyrut|
 
  * נותר 1: 
 
 |נוֹתָר 1|
 |-|
 |נוֹֹתָר 1|
-|nEwEtErE|
+|nwotAr|
 
  * ודרשו 1: 
 
 |וְדָרְשׁוּ 1|
 |-|
 |וְדָרְשׁוּ 1|
-|wEdErEšEuE|
+|wsvdArsvšu|
 
  * תחנונותי 1: 
 
 |תַּחֲנוּנוֹתָי 1|
 |-|
 |תַחֲנוּנוֹֹתָי 1|
-|tEHEnEuEnEwEtEyE|
+|taHanunwotAy|
 
  * ציה 1: 
 
 |צִיָּה 1|
 |-|
 |צִיָה 1|
-|cEyEhE|
+|ciyAh|
 
  * בשרתי 1: 
 
 |בִּשַּׂרְתִּי 1|
 |-|
 |בִּשַׂרְתִי 1|
-|bESErEtEyE|
+|biSarsvtiy|
 
  * יהושיע 1: 
 
 |יְהוֹשִׁיעַ 1|
 |-|
 |יְהוֹֹשִׁיעַ 1|
-|yEhEwEšEyEɣE|
+|ysvhwošiyɣa|
 
  * שארי 1: 
 
 |שְׁאֵרִי 1|
 |-|
 |שְׁאֵרִי 1|
-|šE'ErEyE|
+|šsv'Eriy|
 
  * וירננו 1: 
 
 |וִירַנְּנוּ 1|
 |-|
 |וִירַנְנוּ 1|
-|wEyErEnEnEuE|
+|wiyransvnu|
 
  * אשוע 1: 
 
 |אֲשַׁוֵּעַ 1|
 |-|
 |אֲשַׁוֵּעַ 1|
-|'EšEuEɣE|
+|'ašauEɣa|
 
  * יפלס 1: 
 
 |יְפַלֵּס 1|
 |-|
 |יְפַלֵס 1|
-|yEfElEsE|
+|ysvfalEs|
 
  * על־ימי־מלך 1: 
 
 |עַל־יְמֵי־מֶלֶךְ 1|
 |-|
 |עַל־יְמֵי־מֶלֶךְ 1|
-|ɣElE־EyEmEyE־EmElExE|
+|ɣal־ysvmEy־melexsv|
 
  * נשיר 1: 
 
 |נָשִׁיר 1|
 |-|
 |נָשִׁיר 1|
-|nEšEyErE|
+|nAšiyr|
 
  * סביביו 1: 
 
 |סְבִיבָיו 1|
 |-|
 |סְבִיבָיו 1|
-|sEvEyEvEyEwE|
+|ssvviyvAyw|
 
  * הצאן 1: 
 
 |הַצֹּאן 1|
 |-|
 |הַצֹאן 1|
-|hEcE'EnE|
+|haco'n|
 
  * חולי 1: 
 
 |חוּלִי 1|
 |-|
 |חוּלִי 1|
-|HEuElEyE|
+|Huliy|
 
  * לידיתון 1: 
 
 |לידיתון 1|
 |-|
 |לידיתון 1|
-|lEyEdEyEtEwEnE|
+|lydytwn|
 
  * מגור 1: 
 
 |מָגוֹר 1|
 |-|
 |מָגוֹֹר 1|
-|mEgEwErE|
+|mAgwor|
 
  * קמים 1: 
 
 |קָמִים 1|
 |-|
 |קָמִים 1|
-|qEmEyEmE|
+|qAmiym|
 
  * את־דגתם 1: 
 
 |אֶת־דְּגָתָם 1|
 |-|
 |אֶת־דְגָתָם 1|
-|'EtE־EdEgEtEmE|
+|'et־dsvgAtAm|
 
  * ובית 1: 
 
 |וּבֵית 1|
 |-|
 |וּבֵית 1|
-|uEvEyEtE|
+|uvEyt|
 
  * כלמתי 1: 
 
 |כְּלִמָּתִי 1|
 |-|
 |כְּלִמָתִי 1|
-|kElEmEtEyE|
+|ksvlimAtiy|
 
  * בכל 1: 
 
 |בַּכֹּל 1|
 |-|
 |בַּכֹּל 1|
-|bEkElE|
+|bakol|
 
  * נאוה־קדש 1: 
 
 |נַאֲוָה־קֹדֶשׁ 1|
 |-|
 |נַאֲוָה־קֹדֶשׁ 1|
-|nE'EwEhE־EqEdEšE|
+|na'awAh־qodeš|
 
  * זקן־אהרן 1: 
 
 |זְקַן־אַהֲרֹן 1|
 |-|
 |זְקַן־אַהֲרֹן 1|
-|zEqEnE־E'EhErEnE|
+|zsvqan־'aharon|
 
  * ומתוקים 1: 
 
 |וּמְתוּקִים 1|
 |-|
 |וּמְתוּקִים 1|
-|uEmEtEuEqEyEmE|
+|umsvtuqiym|
 
  * בצור 1: 
 
 |בְּצוּר 1|
 |-|
 |בְּצוּר 1|
-|bEcEuErE|
+|bsvcur|
 
  * תשיב 1: 
 
 |תָשִׁיב 1|
 |-|
 |תָשִׁיב 1|
-|tEšEyEvE|
+|tAšiyv|
 
  * עדתך 1: 
 
 |עֲדָתְךָ 1|
 |-|
 |עֲדָתְךָ 1|
-|ɣEdEtExE|
+|ɣadAtsvxA|
 
  * בסערך 1: 
 
 |בְּסַעֲרֶךָ 1|
 |-|
 |בְּסַעֲרֶךָ 1|
-|bEsEɣErExE|
+|bsvsaɣarexA|
 
  * עד־אעבור 1: 
 
 |עַד־אֶעֱבוֹר 1|
 |-|
 |עַד־אֶעֱבוֹֹר 1|
-|ɣEdE־E'EɣEvEwErE|
+|ɣad־'eɣevwor|
 
  * בכל־לילה 1: 
 
 |בְכָל־לַיְלָה 1|
 |-|
 |בְכָל־לַיְלָה 1|
-|vExElE־ElEyElEhE|
+|vsvxAl־laysvlAh|
 
  * תהלך 1: 
 
 |תִּהֲלַךְ 1|
 |-|
 |תִהֲלַךְ 1|
-|tEhElExE|
+|tihalaxsv|
 
  * שבלול 1: 
 
 |שַׁבְּלוּל 1|
 |-|
 |שַׁבְּלוּל 1|
-|šEbElEuElE|
+|šabsvlul|
 
  * תבונות 1: 
 
 |תְבוּנוֹת 1|
 |-|
 |תְבוּנוֹֹת 1|
-|tEvEuEnEwEtE|
+|tsvvunwot|
 
  * וכל־אשר־בו 1: 
 
 |וְכָל־אֲשֶׁר־בּוֹ 1|
 |-|
 |וְכָל־אֲשֶׁר־בּוֹֹ 1|
-|wExElE־E'EšErE־EbEwE|
+|wsvxAl־'ašer־bwo|
 
  * מעיר־יהוה 1: 
 
 |מֵעִיר־יְהוָה 1|
 |-|
 |מֵעִיר־יְהוָה 1|
-|mEɣEyErE־EyEhEwEhE|
+|mEɣiyr־ysvhwAh|
 
  * אם־עונות 1: 
 
 |אִם־עֲוֺנוֹת 1|
 |-|
 |אִם־עֲוֺנוֹֹת 1|
-|'EmE־EɣEwEnEwEtE|
+|'im־ɣaw_o_nwot|
 
  * שכב 1: 
 
 |שָׁכַב 1|
 |-|
 |שָׁכַב 1|
-|šExEvE|
+|šAxav|
 
  * ענינו 1: 
 
 |עָנְיֵנוּ 1|
 |-|
 |עָנְיֵנוּ 1|
-|ɣEnEyEnEuE|
+|ɣAnsvyEnu|
 
  * כתהמות 1: 
 
 |כִּתְהֹמוֹת 1|
 |-|
 |כִּתְהֹמוֹֹת 1|
-|kEtEhEmEwEtE|
+|kitsvhomwot|
 
  * הנך 1: 
 
 |הִנֶּךָּ 1|
 |-|
 |הִנֶךָּ 1|
-|hEnEkE|
+|hinekA|
 
  * ביד־צר 1: 
 
 |בְיַד־צָר 1|
 |-|
 |בְיַד־צָר 1|
-|vEyEdE־EcErE|
+|vsvyad־cAr|
 
  * אצמיח 1: 
 
 |אַצְמִיחַ 1|
 |-|
 |אַצְמִיחַ 1|
-|'EcEmEyEHE|
+|'acsvmiyHa|
 
  * כשמש 1: 
 
 |כַשֶּׁמֶשׁ 1|
 |-|
 |כַשֶׁמֶשׁ 1|
-|xEšEmEšE|
+|xašemeš|
 
  * לפעלו 1: 
 
 |לְפָעֳלוֹ 1|
 |-|
 |לְפָעֳלוֹֹ 1|
-|lEfEɣElEwE|
+|lsvfAɣAlwo|
 
  * בעליל 1: 
 
 |בַּעֲלִיל 1|
 |-|
 |בַּעֲלִיל 1|
-|bEɣElEyElE|
+|baɣaliyl|
 
  * קוצר 1: 
 
 |קוֹצֵר 1|
 |-|
 |קוֹֹצֵר 1|
-|qEwEcErE|
+|qwocEr|
 
  * וצרה 1: 
 
 |וְצָרָה 1|
 |-|
 |וְצָרָה 1|
-|wEcErEhE|
+|wsvcArAh|
 
  * חגנו 1: 
 
 |חַגֵּנוּ 1|
 |-|
 |חַגֵנוּ 1|
-|HEgEnEuE|
+|HagEnu|
 
  * לממשלות 1: 
 
 |לְמֶמְשְׁלוֹת 1|
 |-|
 |לְמֶמְשְׁלוֹֹת 1|
-|lEmEmEšElEwEtE|
+|lsvmemsvšsvlwot|
 
  * מבשן 1: 
 
 |מִבָּשָׁן 1|
 |-|
 |מִבָּשָׁן 1|
-|mEbEšEnE|
+|mibAšAn|
 
  * אם־אלך 1: 
 
 |אִם־אֵלֵךְ 1|
 |-|
 |אִם־אֵלֵךְ 1|
-|'EmE־E'ElExE|
+|'im־'ElExsv|
 
  * העלית 1: 
 
 |הֶעֱלִיתָ 1|
 |-|
 |הֶעֱלִיתָ 1|
-|hEɣElEyEtE|
+|heɣeliytA|
 
  * שטפונו 1: 
 
 |שְׁטָפוּנוּ 1|
 |-|
 |שְׁטָפוּנוּ 1|
-|šETEfEuEnEuE|
+|šsvTAfunu|
 
  * לרוץ 1: 
 
 |לָרוּץ 1|
 |-|
 |לָרוּץ 1|
-|lErEuEcE|
+|lAruc|
 
  * קדקדו 1: 
 
 |קָדְקֳדוֹ 1|
 |-|
 |קָדְקֳדוֹֹ 1|
-|qEdEqEdEwE|
+|qAdsvqAdwo|
 
  * כי־אחרית 1: 
 
 |כִּי־אַחֲרִית 1|
 |-|
 |כִּי־אַחֲרִית 1|
-|kEyE־E'EHErEyEtE|
+|kiy־'aHariyt|
 
  * בכל־לבבי 1: 
 
 |בְּכָל־לְבָבִי 1|
 |-|
 |בְּכָל־לְבָבִי 1|
-|bExElE־ElEvEvEyE|
+|bsvxAl־lsvvAviy|
 
  * על־גג 1: 
 
 |עַל־גָּג 1|
 |-|
 |עַל־גָג 1|
-|ɣElE־EgEgE|
+|ɣal־gAg|
 
  * דכא 1: 
 
 |דִּכָּא 1|
 |-|
 |דִכָּא 1|
-|dEkE'E|
+|dikA'|
 
  * ושאלו 1: 
 
 |וְשִׁאֵלוּ 1|
 |-|
 |וְשִׁאֵלוּ 1|
-|wEšE'ElEuE|
+|wsvši'Elu|
 
  * עוזנו 1: 
 
 |עוּזֵּנוּ 1|
 |-|
 |עוּזֵנוּ 1|
-|ɣEuEzEnEuE|
+|ɣuzEnu|
 
  * ואשמורה 1: 
 
 |וְאַשְׁמוּרָה 1|
 |-|
 |וְאַשְׁמוּרָה 1|
-|wE'EšEmEuErEhE|
+|wsv'ašsvmurAh|
 
  * צחיחה 1: 
 
 |צְחִיחָה 1|
 |-|
 |צְחִיחָה 1|
-|cEHEyEHEhE|
+|csvHiyHAh|
 
  * לא־רגל 1: 
 
 |לֹא־רָגַל 1|
 |-|
 |לֹא־רָגַל 1|
-|lE'E־ErEgElE|
+|lo'־rAgal|
 
  * בצריו 1: 
 
 |בְצָרָיו 1|
 |-|
 |בְצָרָיו 1|
-|vEcErEyEwE|
+|vsvcArAyw|
 
  * ידכאו 1: 
 
 |יְדַכְּאוּ 1|
 |-|
 |יְדַכְּאוּ 1|
-|yEdEkE'EuE|
+|ysvdaksv'u|
 
  * ועד־הנה 1: 
 
 |וְעַד־הֵנָּה 1|
 |-|
 |וְעַד־הֵנָה 1|
-|wEɣEdE־EhEnEhE|
+|wsvɣad־hEnAh|
 
  * אזניך 1: 
 
 |אָזְנֶיךָ 1|
 |-|
 |אָזְנֶיךָ 1|
-|'EzEnEyExE|
+|'AzsvneyxA|
 
  * באבן 1: 
 
 |בָּאֶבֶן 1|
 |-|
 |בָּאֶבֶן 1|
-|bE'EvEnE|
+|bA'even|
 
  * כימות 1: 
 
 |כִּימוֹת 1|
 |-|
 |כִּימוֹֹת 1|
-|kEyEmEwEtE|
+|kiymwot|
 
  * ישעות 1: 
 
 |יְשֻׁעוֹת 1|
 |-|
 |יְשֻׁעוֹֹת 1|
-|yEšEɣEwEtE|
+|ysvšuɣwot|
 
  * נארתה 1: 
 
 |נֵאַרְתָּה 1|
 |-|
 |נֵאַרְתָה 1|
-|nE'ErEtEhE|
+|nE'arsvtAh|
 
  * ויתיעצו 1: 
 
 |וְיִתְיָעֲצוּ 1|
 |-|
 |וְיִתְיָעֲצוּ 1|
-|wEyEtEyEɣEcEuE|
+|wsvyitsvyAɣacu|
 
  * משוה 1: 
 
 |מְשַׁוֶּה 1|
 |-|
 |מְשַׁוֶּה 1|
-|mEšEuEhE|
+|msvšaueh|
 
  * וכרע 1: 
 
 |וּכְרֹעַ 1|
 |-|
 |וּכְרֹעַ 1|
-|uExErEɣE|
+|uxsvroɣa|
 
  * רקמתי 1: 
 
 |רֻקַּמְתִּי 1|
 |-|
 |רֻקַמְתִי 1|
-|rEqEmEtEyE|
+|ruqamsvtiy|
 
  * בגאוה 1: 
 
 |בְּגַאֲוָה 1|
 |-|
 |בְּגַאֲוָה 1|
-|bEgE'EwEhE|
+|bsvga'awAh|
 
  * ביה 1: 
 
 |בְּיָהּ 1|
 |-|
 |בְּיָה 1|
-|bEyEhE|
+|bsvyAh|
 
  * אשתך 1: 
 
 |אֶשְׁתְּךָ 1|
 |-|
 |אֶשְׁתְךָ 1|
-|'EšEtExE|
+|'ešsvtsvxA|
 
  * ביראתך 1: 
 
 |בְּיִרְאָתֶךָ 1|
 |-|
 |בְּיִרְאָתֶךָ 1|
-|bEyErE'EtExE|
+|bsvyirsv'AtexA|
 
  * רוממה 1: 
 
 |רוֹמֵמָה 1|
 |-|
 |רוֹֹמֵמָה 1|
-|rEwEmEmEhE|
+|rwomEmAh|
 
  * גרוני 1: 
 
 |גְּרוֹנִי 1|
 |-|
 |גְרוֹֹנִי 1|
-|gErEwEnEyE|
+|gsvrwoniy|
 
  * ללשננו 1: 
 
 |לִלְשֹׁנֵנוּ 1|
 |-|
 |לִלְשֹׁנֵנוּ 1|
-|lElEšEnEnEuE|
+|lilsvšonEnu|
 
  * עם־שמש 1: 
 
 |עִם־שָׁמֶשׁ 1|
 |-|
 |עִם־שָׁמֶשׁ 1|
-|ɣEmE־EšEmEšE|
+|ɣim־šAmeš|
 
  * יסעדך 1: 
 
 |יִסְעָדֶךָּ 1|
 |-|
 |יִסְעָדֶךָּ 1|
-|yEsEɣEdEkE|
+|yissvɣAdekA|
 
  * דאבה 1: 
 
 |דָאֲבָה 1|
 |-|
 |דָאֲבָה 1|
-|dE'EvEhE|
+|dA'avAh|
 
  * וקוי 1: 
 
 |וְקֹוֵי 1|
 |-|
 |וְקֹוֵי 1|
-|wEqEwEyE|
+|wsvqowEy|
 
  * ועולתך 1: 
 
 |וְעוֹלָתְךָ 1|
 |-|
 |וְעוֹֹלָתְךָ 1|
-|wEɣEwElEtExE|
+|wsvɣwolAtsvxA|
 
  * שבית 1: 
 
 |שָׁבִיתָ 1|
 |-|
 |שָׁבִיתָ 1|
-|šEvEyEtE|
+|šAviytA|
 
  * השתחוו־לו 1: 
 
 |הִשְׁתַּחֲווּ־לוֹ 1|
 |-|
 |הִשְׁתַחֲווּ־לוֹֹ 1|
-|hEšEtEHEwEuE־ElEwE|
+|hišsvtaHawu־lwo|
 
  * וכאלם 1: 
 
 |וּכְאִלֵּם 1|
 |-|
 |וּכְאִלֵם 1|
-|uExE'ElEmE|
+|uxsv'ilEm|
 
  * ולא־איש 1: 
 
 |וְלֹא־אִישׁ 1|
 |-|
 |וְלֹא־אִישׁ 1|
-|wElE'E־E'EyEšE|
+|wsvlo'־'iyš|
 
  * משמחי־לב 1: 
 
 |מְשַׂמְּחֵי־לֵב 1|
 |-|
 |מְשַׂמְחֵי־לֵב 1|
-|mESEmEHEyE־ElEvE|
+|msvSamsvHEy־lEv|
 
  * זרועתי 1: 
 
 |זְרוֹעֹתָי 1|
 |-|
 |זְרוֹֹעֹתָי 1|
-|zErEwEɣEtEyE|
+|zsvrwoɣotAy|
 
  * בתוכחות 1: 
 
 |בְּתוֹכָחוֹת 1|
 |-|
 |בְּתוֹֹכָחוֹֹת 1|
-|bEtEwExEHEwEtE|
+|bsvtwoxAHwot|
 
  * ויבקשו 1: 
 
 |וִיבַקְשׁוּ 1|
 |-|
 |וִיבַקְשׁוּ 1|
-|wEyEvEqEšEuE|
+|wiyvaqsvšu|
 
  * תעז 1: 
 
 |תָּעֹז 1|
 |-|
 |תָעֹז 1|
-|tEɣEzE|
+|tAɣoz|
 
  * שכל 1: 
 
 |שֵׂכֶל 1|
 |-|
 |שֵׂכֶל 1|
-|SExElE|
+|SExel|
 
  * כי־אזכרה 1: 
 
 |כִּי־אֶזְכְּרָה 1|
 |-|
 |כִּי־אֶזְכְּרָה 1|
-|kEyE־E'EzEkErEhE|
+|kiy־'ezsvksvrAh|
 
  * ותפלתו 1: 
 
 |וּתְפִלָּתוֹ 1|
 |-|
 |וּתְפִלָתוֹֹ 1|
-|uEtEfElEtEwE|
+|utsvfilAtwo|
 
  * יברכוכה 1: 
 
 |יְבָרֲכוּכָה 1|
 |-|
 |יְבָרֲכוּכָה 1|
-|yEvErExEuExEhE|
+|ysvvAraxuxAh|
 
  * יעבדוהו 1: 
 
 |יַעַבְדוּהוּ 1|
 |-|
 |יַעַבְדוּהוּ 1|
-|yEɣEvEdEuEhEuE|
+|yaɣavsvduhu|
 
  * מן־המצר 1: 
 
 |מִן־הַמֵּצַר 1|
 |-|
 |מִן־הַמֵצַר 1|
-|mEnE־EhEmEcErE|
+|min־hamEcar|
 
  * כי־קנאתי 1: 
 
 |כִּי־קִנֵּאתִי 1|
 |-|
 |כִּי־קִנֵאתִי 1|
-|kEyE־EqEnE'EtEyE|
+|kiy־qinE'tiy|
 
  * מזדים 1: 
 
 |מִזֵּדִים 1|
 |-|
 |מִזֵדִים 1|
-|mEzEdEyEmE|
+|mizEdiym|
 
  * במתי 1: 
 
 |בָּמֹתַי 1|
 |-|
 |בָּמֹתַי 1|
-|bEmEtEyE|
+|bAmotay|
 
  * בלי־עון 1: 
 
 |בְּלִי־עָוֺן 1|
 |-|
 |בְּלִי־עָוֺן 1|
-|bElEyE־EɣEwEnE|
+|bsvliy־ɣAw_o_n|
 
  * ופתן 1: 
 
 |וָפֶתֶן 1|
 |-|
 |וָפֶתֶן 1|
-|wEfEtEnE|
+|wAfeten|
 
  * רעבה 1: 
 
 |רְעֵבָה 1|
 |-|
 |רְעֵבָה 1|
-|rEɣEvEhE|
+|rsvɣEvAh|
 
  * תחת־אהבתי 1: 
 
 |תַּחַת־אַהֲבָתִי 1|
 |-|
 |תַחַת־אַהֲבָתִי 1|
-|tEHEtE־E'EhEvEtEyE|
+|taHat־'ahavAtiy|
 
  * הוציאני 1: 
 
 |הוֹצִיאֵנִי 1|
 |-|
 |הוֹֹצִיאֵנִי 1|
-|hEwEcEyE'EnEyE|
+|hwociy'Eniy|
 
  * ברוק 1: 
 
 |בְּרוֹק 1|
 |-|
 |בְּרוֹֹק 1|
-|bErEwEqE|
+|bsvrwoq|
 
  * כל־חסיד 1: 
 
 |כָּל־חָסִיד 1|
 |-|
 |כָּל־חָסִיד 1|
-|kElE־EHEsEyEdE|
+|kAl־HAsiyd|
 
  * תמס 1: 
 
 |תֶּמֶס 1|
 |-|
 |תֶמֶס 1|
-|tEmEsE|
+|temes|
 
  * משפיל 1: 
 
 |מַשְׁפִּיל 1|
 |-|
 |מַשְׁפִּיל 1|
-|mEšEpEyElE|
+|mašsvpiyl|
 
  * אעלה־לך 1: 
 
 |אַעֲלֶה־לָּךְ 1|
 |-|
 |אַעֲלֶה־לָךְ 1|
-|'EɣElEhE־ElExE|
+|'aɣaleh־lAxsv|
 
  * ודרור 1: 
 
 |וּדְרוֹר 1|
 |-|
 |וּדְרוֹֹר 1|
-|uEdErEwErE|
+|udsvrwor|
 
  * כחלום 1: 
 
 |כַּחֲלוֹם 1|
 |-|
 |כַּחֲלוֹֹם 1|
-|kEHElEwEmE|
+|kaHalwom|
 
  * ביראה 1: 
 
 |בְּיִרְאָה 1|
 |-|
 |בְּיִרְאָה 1|
-|bEyErE'EhE|
+|bsvyirsv'Ah|
 
  * שמעו־לי 1: 
 
 |שִׁמְעוּ־לִי 1|
 |-|
 |שִׁמְעוּ־לִי 1|
-|šEmEɣEuE־ElEyE|
+|šimsvɣu־liy|
 
  * תפעלון 1: 
 
 |תִּפְעָלוּן 1|
 |-|
 |תִפְעָלוּן 1|
-|tEfEɣElEuEnE|
+|tifsvɣAlun|
 
  * הכן 1: 
 
 |הָכֵן 1|
 |-|
 |הָכֵן 1|
-|hExEnE|
+|hAxEn|
 
  * נס 1: 
 
 |נֵּס 1|
 |-|
 |נֵס 1|
-|nEsE|
+|nEs|
 
  * כל־צורריו 1: 
 
 |כָּל־צוֹרְרָיו 1|
 |-|
 |כָּל־צוֹֹרְרָיו 1|
-|kElE־EcEwErErEyEwE|
+|kAl־cworsvrAyw|
 
  * ולא־נאמנה 1: 
 
 |וְלֹא־נֶאֶמְנָה 1|
 |-|
 |וְלֹא־נֶאֶמְנָה 1|
-|wElE'E־EnE'EmEnEhE|
+|wsvlo'־ne'emsvnAh|
 
  * תרבני 1: 
 
 |תַרְבֵּנִי 1|
 |-|
 |תַרְבֵּנִי 1|
-|tErEbEnEyE|
+|tarsvbEniy|
 
  * ותשא 1: 
 
 |וַתִּשָּׂא 1|
 |-|
 |וַתִשָׂא 1|
-|wEtESE'E|
+|watiSA'|
 
  * יעמידני 1: 
 
 |יַעֲמִידֵנִי 1|
 |-|
 |יַעֲמִידֵנִי 1|
-|yEɣEmEyEdEnEyE|
+|yaɣamiydEniy|
 
  * יתהלך־איש 1: 
 
 |יִתְהַלֶּךְ־אִישׁ 1|
 |-|
 |יִתְהַלֶךְ־אִישׁ 1|
-|yEtEhElExE־E'EyEšE|
+|yitsvhalexsv־'iyš|
 
  * אחיה 1: 
 
 |אֶחְיֶה 1|
 |-|
 |אֶחְיֶה 1|
-|'EHEyEhE|
+|'eHsvyeh|
 
  * כי־גדל 1: 
 
 |כִּי־גָדֹל 1|
 |-|
 |כִּי־גָדֹל 1|
-|kEyE־EgEdElE|
+|kiy־gAdol|
 
  * המבשרות 1: 
 
 |הַמְבַשְּׂרוֹת 1|
 |-|
 |הַמְבַשְׂרוֹֹת 1|
-|hEmEvESErEwEtE|
+|hamsvvaSsvrwot|
 
  * מיד־כלב 1: 
 
 |מִיַּד־כֶּלֶב 1|
 |-|
 |מִיַד־כֶּלֶב 1|
-|mEyEdE־EkElEvE|
+|miyad־kelev|
 
  * גאות 1: 
 
 |גֵּאוּת 1|
 |-|
 |גֵאוּת 1|
-|gE'EuEtE|
+|gE'ut|
 
  * נקני 1: 
 
 |נַקֵּנִי 1|
 |-|
 |נַקֵנִי 1|
-|nEqEnEyE|
+|naqEniy|
 
  * וימלא 1: 
 
 |וְיִמָּלֵא 1|
 |-|
 |וְיִמָלֵא 1|
-|wEyEmElE'E|
+|wsvyimAlE'|
 
  * כלבים 1: 
 
 |כְּלָבִים 1|
 |-|
 |כְּלָבִים 1|
-|kElEvEyEmE|
+|ksvlAviym|
 
  * אפתחה 1: 
 
 |אֶפְתְּחָה 1|
 |-|
 |אֶפְתְחָה 1|
-|'EfEtEHEhE|
+|'efsvtsvHAh|
 
  * גם־סבבוני 1: 
 
 |גַם־סְבָבוּנִי 1|
 |-|
 |גַם־סְבָבוּנִי 1|
-|gEmE־EsEvEvEuEnEyE|
+|gam־ssvvAvuniy|
 
  * שמו־בם 1: 
 
 |שָׂמוּ־בָם 1|
 |-|
 |שָׂמוּ־בָם 1|
-|SEmEuE־EvEmE|
+|SAmu־vAm|
 
  * לשיח 1: 
 
 |לָשִׂיחַ 1|
 |-|
 |לָשִׂיחַ 1|
-|lESEyEHE|
+|lASiyHa|
 
  * את־היכל 1: 
 
 |אֶת־הֵיכַל 1|
 |-|
 |אֶת־הֵיכַל 1|
-|'EtE־EhEyExElE|
+|'et־hEyxal|
 
  * איבש 1: 
 
 |אִיבָשׁ 1|
 |-|
 |אִיבָשׁ 1|
-|'EyEvEšE|
+|'iyvAš|
 
  * ותבואהו 1: 
 
 |וַתְּבוֹאֵהוּ 1|
 |-|
 |וַתְבוֹֹאֵהוּ 1|
-|wEtEvEwE'EhEuE|
+|watsvvwo'Ehu|
 
  * וכבודך 1: 
 
 |וּכְבוֹדֶךָ 1|
 |-|
 |וּכְבוֹֹדֶךָ 1|
-|uExEvEwEdExE|
+|uxsvvwodexA|
 
  * ובקע 1: 
 
 |וּבֹקֵעַ 1|
 |-|
 |וּבֹקֵעַ 1|
-|uEvEqEɣE|
+|uvoqEɣa|
 
  * כמו־עגל 1: 
 
 |כְּמוֹ־עֵגֶל 1|
 |-|
 |כְּמוֹֹ־עֵגֶל 1|
-|kEmEwE־EɣEgElE|
+|ksvmwo־ɣEgel|
 
  * כמו־חי 1: 
 
 |כְּמוֹ־חַי 1|
 |-|
 |כְּמוֹֹ־חַי 1|
-|kEmEwE־EHEyE|
+|ksvmwo־Hay|
 
  * יצפינו 1: 
 
 |יצפינו 1|
 |-|
 |יצפינו 1|
-|yEcEfEyEnEwE|
+|ycfynw|
 
  * ירענה 1: 
 
 |יִרְעֶנָּה 1|
 |-|
 |יִרְעֶנָה 1|
-|yErEɣEnEhE|
+|yirsvɣenAh|
 
  * במשיחי 1: 
 
 |בִמְשִׁיחָי 1|
 |-|
 |בִמְשִׁיחָי 1|
-|vEmEšEyEHEyE|
+|vimsvšiyHAy|
 
  * [יניעון] 1: 
 
 |[יְנִיעוּן] 1|
 |-|
 |[יְנִיעוּן] 1|
-|[EyEnEyEɣEuEnE]E|
+|[ysvniyɣun]|
 
  * הושיעה־לו 1: 
 
 |הוֹשִׁיעָה־לּוֹ 1|
 |-|
 |הוֹֹשִׁיעָה־לוֹֹ 1|
-|hEwEšEyEɣEhE־ElEwE|
+|hwošiyɣAh־lwo|
 
  * ולא־מצאו 1: 
 
 |וְלֹא־מָצְאוּ 1|
 |-|
 |וְלֹא־מָצְאוּ 1|
-|wElE'E־EmEcE'EuE|
+|wsvlo'־mAcsv'u|
 
  * אלמתיו 1: 
 
 |אֲלֻמֹּתָיו 1|
 |-|
 |אֲלֻמֹתָיו 1|
-|'ElEmEtEyEwE|
+|'alumotAyw|
 
  * במנחה 1: 
 
 |בְּמִנְחָה 1|
 |-|
 |בְּמִנְחָה 1|
-|bEmEnEHEhE|
+|bsvminsvHAh|
 
  * ואשמרנה 1: 
 
 |וְאֶשְׁמְרֶנָּה 1|
 |-|
 |וְאֶשְׁמְרֶנָה 1|
-|wE'EšEmErEnEhE|
+|wsv'ešsvmsvrenAh|
 
  * יהגו־ריק 1: 
 
 |יֶהְגּוּ־רִיק 1|
 |-|
 |יֶהְגוּ־רִיק 1|
-|yEhEgEuE־ErEyEqE|
+|yehsvgu־riyq|
 
  * לחלכה 1: 
 
 |לְחֵלְכָה 1|
 |-|
 |לְחֵלְכָה 1|
-|lEHElExEhE|
+|lsvHElsvxAh|
 
  * צפרים 1: 
 
 |צִפֳּרִים 1|
 |-|
 |צִפֳּרִים 1|
-|cEpErEyEmE|
+|cipAriym|
 
  * וכילפת 1: 
 
 |וְכֵילַפֹּת 1|
 |-|
 |וְכֵילַפֹּת 1|
-|wExEyElEpEtE|
+|wsvxEylapot|
 
  * וישמר־אלה 1: 
 
 |וְיִשְׁמָר־אֵלֶּה 1|
 |-|
 |וְיִשְׁמָר־אֵלֶה 1|
-|wEyEšEmErE־E'ElEhE|
+|wsvyišsvmAr־'Eleh|
 
  * יצרנו 1: 
 
 |יִצְרֵנוּ 1|
 |-|
 |יִצְרֵנוּ 1|
-|yEcErEnEuE|
+|yicsvrEnu|
 
  * ממנה 1: 
 
 |מִמֶּנָּה 1|
 |-|
 |מִמֶנָה 1|
-|mEmEnEhE|
+|mimenAh|
 
  * מסה 1: 
 
 |מַסָּה 1|
 |-|
 |מַסָה 1|
-|mEsEhE|
+|masAh|
 
  * בקרבם 1: 
 
 |בְּקִרְבָּם 1|
 |-|
 |בְּקִרְבָּם 1|
-|bEqErEbEmE|
+|bsvqirsvbAm|
 
  * שנאיהם 1: 
 
 |שֹׂנְאֵיהֶם 1|
 |-|
 |שֹׂנְאֵיהֶם 1|
-|SEnE'EyEhEmE|
+|Sonsv'Eyhem|
 
  * ובטני 1: 
 
 |וּבִטְנִי 1|
 |-|
 |וּבִטְנִי 1|
-|uEvETEnEyE|
+|uviTsvniy|
 
  * מה־נורא 1: 
 
 |מַה־נּוֹרָא 1|
 |-|
 |מַה־נוֹֹרָא 1|
-|mEhE־EnEwErE'E|
+|mah־nworA'|
 
  * ושביליך 1: 
 
 |ושביליך 1|
 |-|
 |ושביליך 1|
-|wEשEvEyElEyExE|
+|wשvylyx|
 
  * ורשעים 1: 
 
 |וּרְשָׁעִים 1|
 |-|
 |וּרְשָׁעִים 1|
-|uErEšEɣEyEmE|
+|ursvšAɣiym|
 
  * האפס 1: 
 
 |הֶאָפֵס 1|
 |-|
 |הֶאָפֵס 1|
-|hE'EfEsE|
+|he'AfEs|
 
  * מה־חדל 1: 
 
 |מֶה־חָדֵל 1|
 |-|
 |מֶה־חָדֵל 1|
-|mEhE־EHEdElE|
+|meh־HAdEl|
 
  * אכלא 1: 
 
 |אֶכְלָא 1|
 |-|
 |אֶכְלָא 1|
-|'ExElE'E|
+|'exsvlA'|
 
  * דונג 1: 
 
 |דּוֹנַג 1|
 |-|
 |דוֹֹנַג 1|
-|dEwEnEgE|
+|dwonag|
 
  * איתן 1: 
 
 |אֵיתָן 1|
 |-|
 |אֵיתָן 1|
-|'EyEtEnE|
+|'EytAn|
 
  * נירשה 1: 
 
 |נִירֲשָׁה 1|
 |-|
 |נִירֲשָׁה 1|
-|nEyErEšEhE|
+|niyrašAh|
 
  * בחכמה 1: 
 
 |בְּחָכְמָה 1|
 |-|
 |בְּחָכְמָה 1|
-|bEHExEmEhE|
+|bsvHAxsvmAh|
 
  * יחכם 1: 
 
 |יְחַכֵּם 1|
 |-|
 |יְחַכֵּם 1|
-|yEHEkEmE|
+|ysvHakEm|
 
  * בשערי 1: 
 
 |בְּשַׁעֲרֵי 1|
 |-|
 |בְּשַׁעֲרֵי 1|
-|bEšEɣErEyE|
+|bsvšaɣarEy|
 
  * יסתרני 1: 
 
 |יַסְתִּרֵנִי 1|
 |-|
 |יַסְתִרֵנִי 1|
-|yEsEtErEnEyE|
+|yassvtirEniy|
 
  * שמעו־זאת 1: 
 
 |שִׁמְעוּ־זֹאת 1|
 |-|
 |שִׁמְעוּ־זֹאת 1|
-|šEmEɣEuE־EzE'EtE|
+|šimsvɣu־zo't|
 
  * ועצת 1: 
 
 |וַעֲצַת 1|
 |-|
 |וַעֲצַת 1|
-|wEɣEcEtE|
+|waɣacat|
 
  * קרבה 1: 
 
 |קָרְבָה 1|
 |-|
 |קָרְבָה 1|
-|qErEvEhE|
+|qArsvvAh|
 
  * יום־צעקתי 1: 
 
 |יוֹם־צָעַקְתִּי 1|
 |-|
 |יוֹֹם־צָעַקְתִי 1|
-|yEwEmE־EcEɣEqEtEyE|
+|ywom־cAɣaqsvtiy|
 
  * על־כל־שמך 1: 
 
 |עַל־כָּל־שִׁמְךָ 1|
 |-|
 |עַל־כָּל־שִׁמְךָ 1|
-|ɣElE־EkElE־EšEmExE|
+|ɣal־kAl־šimsvxA|
 
  * תעלמות 1: 
 
 |תַּעֲלֻמוֹת 1|
 |-|
 |תַעֲלֻמוֹֹת 1|
-|tEɣElEmEwEtE|
+|taɣalumwot|
 
  * כרו 1: 
 
 |כָּרוּ 1|
 |-|
 |כָּרוּ 1|
-|kErEuE|
+|kAru|
 
  * דלונו 1: 
 
 |דַלּוֹנוּ 1|
 |-|
 |דַלוֹֹנוּ 1|
-|dElEwEnEuE|
+|dalwonu|
 
  * גדע 1: 
 
 |גִּדֵּעַ 1|
 |-|
 |גִדֵעַ 1|
-|gEdEɣE|
+|gidEɣa|
 
  * ענה 1: 
 
 |עִנָּה 1|
 |-|
 |עִנָה 1|
-|ɣEnEhE|
+|ɣinAh|
 
  * כל־זונה 1: 
 
 |כָּל־זוֹנֶה 1|
 |-|
 |כָּל־זוֹֹנֶה 1|
-|kElE־EzEwEnEhE|
+|kAl־zwoneh|
 
  * כל־תגמולוהי 1: 
 
 |כָּל־תַּגְמוּלוֹהִי 1|
 |-|
 |כָּל־תַגְמוּלוֹֹהִי 1|
-|kElE־EtEgEmEuElEwEhEyE|
+|kAl־tagsvmulwohiy|
 
  * בחסד־אלהים 1: 
 
 |בְחֶסֶד־אֱלֹהִים 1|
 |-|
 |בְחֶסֶד־אֱלֹהִים 1|
-|vEHEsEdE־E'ElEhEyEmE|
+|vsvHesed־'elohiym|
 
  * וקבצנו 1: 
 
 |וְקַבְּצֵנוּ 1|
 |-|
 |וְקַבְּצֵנוּ 1|
-|wEqEbEcEnEuE|
+|wsvqabsvcEnu|
 
  * רחבה 1: 
 
 |רְחָבָה 1|
 |-|
 |רְחָבָה 1|
-|rEHEvEhE|
+|rsvHAvAh|
 
  * ליד־מעגל 1: 
 
 |לְיַד־מַעְגָּל 1|
 |-|
 |לְיַד־מַעְגָל 1|
-|lEyEdE־EmEɣEgElE|
+|lsvyad־maɣsvgAl|
 
  * את־טעמו 1: 
 
 |אֶת־טַעְמוֹ 1|
 |-|
 |אֶת־טַעְמוֹֹ 1|
-|'EtE־ETEɣEmEwE|
+|'et־Taɣsvmwo|
 
  * בכלי־נבל 1: 
 
 |בִכְלִי־נֶבֶל 1|
 |-|
 |בִכְלִי־נֶבֶל 1|
-|vExElEyE־EnEvElE|
+|vixsvliy־nevel|
 
  * אל־שועתם 1: 
 
 |אֶל־שַׁוְעָתָם 1|
 |-|
 |אֶל־שַׁוְעָתָם 1|
-|'ElE־EšEwEɣEtEmE|
+|'el־šawsvɣAtAm|
 
  * לא־יתיצבו 1: 
 
 |לֹא־יִתְיַצְּבוּ 1|
 |-|
 |לֹא־יִתְיַצְבוּ 1|
-|lE'E־EyEtEyEcEvEuE|
+|lo'־yitsvyacsvvu|
 
  * יחטף 1: 
 
 |יַחְטֹף 1|
 |-|
 |יַחְטֹף 1|
-|yEHETEfE|
+|yaHsvTof|
 
  * ארבה 1: 
 
 |אַרְבֶּה 1|
 |-|
 |אַרְבֶּה 1|
-|'ErEbEhE|
+|'arsvbeh|
 
  * וחרון 1: 
 
 |וַחֲרוֹן 1|
 |-|
 |וַחֲרוֹֹן 1|
-|wEHErEwEnE|
+|waHarwon|
 
  * [נודי] 1: 
 
 |[נוּדִי] 1|
 |-|
 |[נוּדִי] 1|
-|[EnEuEdEyE]E|
+|[nudiy]|
 
  * מחתה 1: 
 
 |מְחִתָּה 1|
 |-|
 |מְחִתָה 1|
-|mEHEtEhE|
+|msvHitAh|
 
  * אתרועע 1: 
 
 |אֶתְרוֹעָע 1|
 |-|
 |אֶתְרוֹֹעָע 1|
-|'EtErEwEɣEɣE|
+|'etsvrwoɣAɣ|
 
  * מלטש 1: 
 
 |מְלֻטָּשׁ 1|
 |-|
 |מְלֻטָשׁ 1|
-|mElETEšE|
+|msvluTAš|
 
  * יולדו 1: 
 
 |יִוָּלֵדוּ 1|
 |-|
 |יִוָּלֵדוּ 1|
-|yEuElEdEuE|
+|yiuAlEdu|
 
  * והמים 1: 
 
 |וְהַמַּיִם 1|
 |-|
 |וְהַמַיִם 1|
-|wEhEmEyEmE|
+|wsvhamayim|
 
  * קרבו 1: 
 
 |קָרְבוּ 1|
 |-|
 |קָרְבוּ 1|
-|qErEvEuE|
+|qArsvvu|
 
  * מדרך 1: 
 
 |מִדֶּרֶךְ 1|
 |-|
 |מִדֶרֶךְ 1|
-|mEdErExE|
+|miderexsv|
 
  * בנעם־יהוה 1: 
 
 |בְּנֹעַם־יְהוָה 1|
 |-|
 |בְּנֹעַם־יְהוָה 1|
-|bEnEɣEmE־EyEhEwEhE|
+|bsvnoɣam־ysvhwAh|
 
  * כפים 1: 
 
 |כַפַּיִם 1|
 |-|
 |כַפַּיִם 1|
-|xEpEyEmE|
+|xapayim|
 
  * טובים 1: 
 
 |טוֹבִים 1|
 |-|
 |טוֹֹבִים 1|
-|TEwEvEyEmE|
+|Twoviym|
 
  * ביד־יהוה 1: 
 
 |בְּיַד־יְהוָה 1|
 |-|
 |בְּיַד־יְהוָה 1|
-|bEyEdE־EyEhEwEhE|
+|bsvyad־ysvhwAh|
 
  * ציים 1: 
 
 |צִיִּים 1|
 |-|
 |צִיִים 1|
-|cEyEyEmE|
+|ciyiym|
 
  * ויבן 1: 
 
 |וַיִּבֶן 1|
 |-|
 |וַיִבֶן 1|
-|wEyEvEnE|
+|wayiven|
 
  * ובצל 1: 
 
 |וּבְצֵל 1|
 |-|
 |וּבְצֵל 1|
-|uEvEcElE|
+|uvsvcEl|
 
  * לנדרי 1: 
 
 |לִנְדָרָי 1|
 |-|
 |לִנְדָרָי 1|
-|lEnEdErEyE|
+|linsvdArAy|
 
  * ורם 1: 
 
 |וְרָם 1|
 |-|
 |וְרָם 1|
-|wErEmE|
+|wsvrAm|
 
  * וארון 1: 
 
 |וַאֲרוֹן 1|
 |-|
 |וַאֲרוֹֹן 1|
-|wE'ErEwEnE|
+|wa'arwon|
 
  * ישרתי 1: 
 
 |יִשָּׁרְתִּי 1|
 |-|
 |יִשָׁרְתִי 1|
-|yEšErEtEyE|
+|yišArsvtiy|
 
  * ואשמותי 1: 
 
 |וְאַשְׁמוֹתַי 1|
 |-|
 |וְאַשְׁמוֹֹתַי 1|
-|wE'EšEmEwEtEyE|
+|wsv'ašsvmwotay|
 
  * ותשלחם 1: 
 
 |וַתְּשַׁלְּחֵם 1|
 |-|
 |וַתְשַׁלְחֵם 1|
-|wEtEšElEHEmE|
+|watsvšalsvHEm|
 
  * לשמח 1: 
 
 |לִשְׂמֹחַ 1|
 |-|
 |לִשְׂמֹחַ 1|
-|lESEmEHE|
+|liSsvmoHa|
 
  * הוציאה 1: 
 
 |הוֹצִיאָה 1|
 |-|
 |הוֹֹצִיאָה 1|
-|hEwEcEyE'EhE|
+|hwociy'Ah|
 
  * גם־ראו 1: 
 
 |גַּם־רָאוּ 1|
 |-|
 |גַם־רָאוּ 1|
-|gEmE־ErE'EuE|
+|gam־rA'u|
 
  * ואמלאהו 1: 
 
 |וַאֲמַלְאֵהוּ 1|
 |-|
 |וַאֲמַלְאֵהוּ 1|
-|wE'EmElE'EhEuE|
+|wa'amalsv'Ehu|
 
  * קנאתך 1: 
 
 |קִנְאָתֶךָ 1|
 |-|
 |קִנְאָתֶךָ 1|
-|qEnE'EtExE|
+|qinsv'AtexA|
 
  * מחסור 1: 
 
 |מַחְסוֹר 1|
 |-|
 |מַחְסוֹֹר 1|
-|mEHEsEwErE|
+|maHsvswor|
 
  * ואהבי 1: 
 
 |וְאֹהֲבֵי 1|
 |-|
 |וְאֹהֲבֵי 1|
-|wE'EhEvEyE|
+|wsv'ohavEy|
 
  * תנה־עזך 1: 
 
 |תְּנָה־עֻזְּךָ 1|
 |-|
 |תְנָה־עֻזְךָ 1|
-|tEnEhE־EɣEzExE|
+|tsvnAh־ɣuzsvxA|
 
  * על־כסא 1: 
 
 |עַל־כִּסֵּא 1|
 |-|
 |עַל־כִּסֵא 1|
-|ɣElE־EkEsE'E|
+|ɣal־kisE'|
 
  * עזבתני 1: 
 
 |עֲזַבְתָּנִי 1|
 |-|
 |עֲזַבְתָנִי 1|
-|ɣEzEvEtEnEyE|
+|ɣazavsvtAniy|
 
  * לעליון 1: 
 
 |לְעֶלְיוֹן 1|
 |-|
 |לְעֶלְיוֹֹן 1|
-|lEɣElEyEwEnE|
+|lsvɣelsvywon|
 
  * ומעוז 1: 
 
 |וּמָעוֹז 1|
 |-|
 |וּמָעוֹֹז 1|
-|uEmEɣEwEzE|
+|umAɣwoz|
 
  * אפסי־ארץ 1: 
 
 |אַפְסֵי־אָרֶץ 1|
 |-|
 |אַפְסֵי־אָרֶץ 1|
-|'EfEsEyE־E'ErEcE|
+|'afsvsEy־'Arec|
 
  * ואשיבה 1: 
 
 |וָאָשִׁיבָה 1|
 |-|
 |וָאָשִׁיבָה 1|
-|wE'EšEyEvEhE|
+|wA'AšiyvAh|
 
  * ויקציפו 1: 
 
 |וַיַּקְצִיפוּ 1|
 |-|
 |וַיַקְצִיפוּ 1|
-|wEyEqEcEyEfEuE|
+|wayaqsvciyfu|
 
  * מגורי 1: 
 
 |מְגוּרָי 1|
 |-|
 |מְגוּרָי 1|
-|mEgEuErEyE|
+|msvgurAy|
 
  * אשר־צפנת 1: 
 
 |אֲשֶׁר־צָפַנְתָּ 1|
 |-|
 |אֲשֶׁר־צָפַנְתָ 1|
-|'EšErE־EcEfEnEtE|
+|'ašer־cAfansvtA|
 
  * הוצק 1: 
 
 |הוּצַק 1|
 |-|
 |הוּצַק 1|
-|hEuEcEqE|
+|hucaq|
 
  * ובבקר 1: 
 
 |וּבַבֹּקֶר 1|
 |-|
 |וּבַבֹּקֶר 1|
-|uEvEbEqErE|
+|uvaboqer|
 
  * ואהמיה 1: 
 
 |וְאֶהֱמָיָה 1|
 |-|
 |וְאֶהֱמָיָה 1|
-|wE'EhEmEyEhE|
+|wsv'ehemAyAh|
 
  * בלבותם 1: 
 
 |בְּלִבּוֹתָם 1|
 |-|
 |בְּלִבּוֹֹתָם 1|
-|bElEbEwEtEmE|
+|bsvlibwotAm|
 
  * ותקופתו 1: 
 
 |וּתְקוּפָתוֹ 1|
 |-|
 |וּתְקוּפָתוֹֹ 1|
-|uEtEqEuEfEtEwE|
+|utsvqufAtwo|
 
  * וישועה 1: 
 
 |וִישׁוּעָה 1|
 |-|
 |וִישׁוּעָה 1|
-|wEyEšEuEɣEhE|
+|wiyšuɣAh|
 
  * אשר־תדפנו 1: 
 
 |אֲ‍שֶׁר־תִּדְּפֶנּוּ 1|
 |-|
 |אֲשֶׁר־תִדְפֶנוּ 1|
-|'EšErE־EtEdEfEnEuE|
+|'ašer־tidsvfenu|
 
  * בו־תרמש 1: 
 
 |בּוֹ־תִרְמֹשׂ 1|
 |-|
 |בּוֹֹ־תִרְמֹשׂ 1|
-|bEwE־EtErEmESE|
+|bwo־tirsvmoS|
 
  * יסרת 1: 
 
 |יִסַּרְתָּ 1|
 |-|
 |יִסַרְתָ 1|
-|yEsErEtE|
+|yisarsvtA|
 
  * ואדני 1: 
 
 |וַאדֹנָי 1|
 |-|
 |וַאדֹנָי 1|
-|wE'EdEnEyE|
+|wa'donAy|
 
  * ילחכו 1: 
 
 |יְלַחֵכוּ 1|
 |-|
 |יְלַחֵכוּ 1|
-|yElEHExEuE|
+|ysvlaHExu|
 
  * ושמע 1: 
 
 |וּשְׁמַע 1|
 |-|
 |וּשְׁמַע 1|
-|uEšEmEɣE|
+|ušsvmaɣ|
 
  * מדברת 1: 
 
 |מְדַבֶּרֶת 1|
 |-|
 |מְדַבֶּרֶת 1|
-|mEdEbErEtE|
+|msvdaberet|
 
  * ירוין 1: 
 
 |יִרְוְיֻן 1|
 |-|
 |יִרְוְיֻן 1|
-|yErEwEyEnE|
+|yirsvwsvyun|
 
  * וכירק 1: 
 
 |וּכְיֶרֶק 1|
 |-|
 |וּכְיֶרֶק 1|
-|uExEyErEqE|
+|uxsvyereq|
 
  * לשררי 1: 
 
 |לְשֹׁרְרָי 1|
 |-|
 |לְשֹׁרְרָי 1|
-|lEšErErEyE|
+|lsvšorsvrAy|
 
  * ותשמח 1: 
 
 |וַתִּשְׂמַח 1|
 |-|
 |וַתִשְׂמַח 1|
-|wEtESEmEHE|
+|watiSsvmaH|
 
  * ממכלאתיך 1: 
 
 |מִמִּכְלְאֹתֶיךָ 1|
 |-|
 |מִמִכְלְאֹתֶיךָ 1|
-|mEmExElE'EtEyExE|
+|mimixsvlsv'oteyxA|
 
  * עשה־אתי 1: 
 
 |עֲ‍שֵׂה־אִתִּי 1|
 |-|
 |עֲשֵׂה־אִתִי 1|
-|ɣESEhE־E'EtEyE|
+|ɣaSEh־'itiy|
 
  * בעזרו 1: 
 
 |בְּעֶזְרוֹ 1|
 |-|
 |בְּעֶזְרוֹֹ 1|
-|bEɣEzErEwE|
+|bsvɣezsvrwo|
 
  * והמלך 1: 
 
 |וְהַמֶּלֶךְ 1|
 |-|
 |וְהַמֶלֶךְ 1|
-|wEhEmElExE|
+|wsvhamelexsv|
 
  * בבני 1: 
 
 |בִּבְנֵי 1|
 |-|
 |בִּבְנֵי 1|
-|bEvEnEyE|
+|bivsvnEy|
 
  * תדבק־לשוני 1: 
 
 |תִּדְבַּק־לְשׁוֹנִי 1|
 |-|
 |תִדְבַּק־לְשׁוֹֹנִי 1|
-|tEdEbEqE־ElEšEwEnEyE|
+|tidsvbaq־lsvšwoniy|
 
  * כנס 1: 
 
 |כֹּנֵס 1|
 |-|
 |כֹּנֵס 1|
-|kEnEsE|
+|konEs|
 
  * מצעדי־גבר 1: 
 
 |מִצְעֲדֵי־גֶבֶר 1|
 |-|
 |מִצְעֲדֵי־גֶבֶר 1|
-|mEcEɣEdEyE־EgEvErE|
+|micsvɣadEy־gever|
 
  * שפטיהם 1: 
 
 |שֹׁפְטֵיהֶם 1|
 |-|
 |שֹׁפְטֵיהֶם 1|
-|šEfETEyEhEmE|
+|šofsvTEyhem|
 
  * שת 1: 
 
 |שת 1|
 |-|
 |שת 1|
-|שEtE|
+|שt|
 
  * ולכל 1: 
 
 |וּלְכֹל 1|
 |-|
 |וּלְכֹל 1|
-|uElExElE|
+|ulsvxol|
 
  * רכו 1: 
 
 |רַכּוּ 1|
 |-|
 |רַכּוּ 1|
-|rEkEuE|
+|raku|
 
  * ויצמדו 1: 
 
 |וַיִּצָּמְדוּ 1|
 |-|
 |וַיִצָמְדוּ 1|
-|wEyEcEmEdEuE|
+|wayicAmsvdu|
 
  * ושנותי 1: 
 
 |וּשְׁנוֹתַי 1|
 |-|
 |וּשְׁנוֹֹתַי 1|
-|uEšEnEwEtEyE|
+|ušsvnwotay|
 
  * וכזבח 1: 
 
 |וּכְזֶבַח 1|
 |-|
 |וּכְזֶבַח 1|
-|uExEzEvEHE|
+|uxsvzevaH|
 
  * חובר 1: 
 
 |חוֹבֵר 1|
 |-|
 |חוֹֹבֵר 1|
-|HEwEvErE|
+|HwovEr|
 
  * רזון 1: 
 
 |רָזוֹן 1|
 |-|
 |רָזוֹֹן 1|
-|rEzEwEnE|
+|rAzwon|
 
  * כמשא 1: 
 
 |כְּמַשָּׂא 1|
 |-|
 |כְּמַשָׂא 1|
-|kEmESE'E|
+|ksvmaSA'|
 
  * מהיר 1: 
 
 |מָהִיר 1|
 |-|
 |מָהִיר 1|
-|mEhEyErE|
+|mAhiyr|
 
  * משנאיו 1: 
 
 |מְשַׂנְאָיו 1|
 |-|
 |מְשַׂנְאָיו 1|
-|mESEnE'EyEwE|
+|msvSansv'Ayw|
 
  * נאמנת 1: 
 
 |נֶאֱמֶנֶת 1|
 |-|
 |נֶאֱמֶנֶת 1|
-|nE'EmEnEtE|
+|ne'emenet|
 
  * ויבשת 1: 
 
 |וְיַבֶּשֶׁת 1|
 |-|
 |וְיַבֶּשֶׁת 1|
-|wEyEbEšEtE|
+|wsvyabešet|
 
  * כי־יעשה 1: 
 
 |כִּי־יַעֲשֶׂה 1|
 |-|
 |כִּי־יַעֲשֶׂה 1|
-|kEyE־EyEɣESEhE|
+|kiy־yaɣaSeh|
 
  * נבהלנו 1: 
 
 |נִבְהָלְנוּ 1|
 |-|
 |נִבְהָלְנוּ 1|
-|nEvEhElEnEuE|
+|nivsvhAlsvnu|
 
  * ושרשך 1: 
 
 |וְשֵׁרֶשְׁךָ 1|
 |-|
 |וְשֵׁרֶשְׁךָ 1|
-|wEšErEšExE|
+|wsvšErešsvxA|
 
  * מחנה 1: 
 
 |מַחֲנֶה 1|
 |-|
 |מַחֲנֶה 1|
-|mEHEnEhE|
+|maHaneh|
 
  * הן־אמת 1: 
 
 |הֵן־אֱמֶת 1|
 |-|
 |הֵן־אֱמֶת 1|
-|hEnE־E'EmEtE|
+|hEn־'emet|
 
  * כל־חסידיו 1: 
 
 |כָּל־חֲסִידָיו 1|
 |-|
 |כָּל־חֲסִידָיו 1|
-|kElE־EHEsEyEdEyEwE|
+|kAl־HasiydAyw|
 
  * זרו 1: 
 
 |זֹרוּ 1|
 |-|
 |זֹרוּ 1|
-|zErEuE|
+|zoru|
 
  * בעצמותי 1: 
 
 |בְּעַצְמוֹתַי 1|
 |-|
 |בְּעַצְמוֹֹתַי 1|
-|bEɣEcEmEwEtEyE|
+|bsvɣacsvmwotay|
 
  * יקמו 1: 
 
 |יָקֻמוּ 1|
 |-|
 |יָקֻמוּ 1|
-|yEqEmEuE|
+|yAqumu|
 
  * אלמנות 1: 
 
 |אַלְמָנוֹת 1|
 |-|
 |אַלְמָנוֹֹת 1|
-|'ElEmEnEwEtE|
+|'alsvmAnwot|
 
  * ולא־יזכר 1: 
 
 |וְלֹא־יִזָּכֵר 1|
 |-|
 |וְלֹא־יִזָכֵר 1|
-|wElE'E־EyEzExErE|
+|wsvlo'־yizAxEr|
 
  * התאזר 1: 
 
 |הִתְאַזָּר 1|
 |-|
 |הִתְאַזָר 1|
-|hEtE'EzErE|
+|hitsv'azAr|
 
  * היה־עזר 1: 
 
 |הֱ‍יֵה־עֹזֵר 1|
 |-|
 |הֱיֵה־עֹזֵר 1|
-|hEyEhE־EɣEzErE|
+|heyEh־ɣozEr|
 
  * חוקך 1: 
 
 |חוקך 1|
 |-|
 |חוקך 1|
-|HEwEqExE|
+|Hwqx|
 
  * המלכים 1: 
 
 |הַמְּלָכִים 1|
 |-|
 |הַמְלָכִים 1|
-|hEmElExEyEmE|
+|hamsvlAxiym|
 
  * ויטש 1: 
 
 |וַיִּטֹּשׁ 1|
 |-|
 |וַיִטֹשׁ 1|
-|wEyETEšE|
+|wayiToš|
 
  * מחסי־עז 1: 
 
 |מַחֲסִי־עֹז 1|
 |-|
 |מַחֲסִי־עֹז 1|
-|mEHEsEyE־EɣEzE|
+|maHasiy־ɣoz|
 
  * להדיח 1: 
 
 |לְהַדִּיחַ 1|
 |-|
 |לְהַדִיחַ 1|
-|lEhEdEyEHE|
+|lsvhadiyHa|
 
  * כהניך 1: 
 
 |כֹּהֲנֶיךָ 1|
 |-|
 |כֹּהֲנֶיךָ 1|
-|kEhEnEyExE|
+|kohaneyxA|
 
  * במכמריו 1: 
 
 |בְמַכְמֹרָיו 1|
 |-|
 |בְמַכְמֹרָיו 1|
-|vEmExEmErEyEwE|
+|vsvmaxsvmorAyw|
 
  * כפתים 1: 
 
 |כְפִתִּים 1|
 |-|
 |כְפִתִים 1|
-|xEfEtEyEmE|
+|xsvfitiym|
 
  * כל־תהלתיך 1: 
 
 |כָּל־תְּהִלָּתֶיךָ 1|
 |-|
 |כָּל־תְהִלָתֶיךָ 1|
-|kElE־EtEhElEtEyExE|
+|kAl־tsvhilAteyxA|
 
  * בעמק 1: 
 
 |בְּעֵמֶק 1|
 |-|
 |בְּעֵמֶק 1|
-|bEɣEmEqE|
+|bsvɣEmeq|
 
  * לשחק־בו 1: 
 
 |לְשַׂחֶק־בּוֹ 1|
 |-|
 |לְשַׂחֶק־בּוֹֹ 1|
-|lESEHEqE־EbEwE|
+|lsvSaHeq־bwo|
 
  * ישיבו 1: 
 
 |יָשִׁיבוּ 1|
 |-|
 |יָשִׁיבוּ 1|
-|yEšEyEvEuE|
+|yAšiyvu|
 
  * אלופינו 1: 
 
 |אַלּוּפֵינוּ 1|
 |-|
 |אַלוּפֵינוּ 1|
-|'ElEuEfEyEnEuE|
+|'alufEynu|
 
  * כי־כסלי 1: 
 
 |כִּי־כְסָלַי 1|
 |-|
 |כִּי־כְסָלַי 1|
-|kEyE־ExEsElEyE|
+|kiy־xsvsAlay|
 
  * [רגלו] 1: 
 
 |[רַגְלוֹ] 1|
 |-|
 |[רַגְלוֹֹ] 1|
-|[ErEgElEwE]E|
+|[ragsvlwo]|
 
  * נגנים 1: 
 
 |נֹגְנִים 1|
 |-|
 |נֹגְנִים 1|
-|nEgEnEyEmE|
+|nogsvniym|
 
  * בל־ישתיון 1: 
 
 |בַּל־יִשְׁתָּיוּן 1|
 |-|
 |בַּל־יִשְׁתָיוּן 1|
-|bElE־EyEšEtEyEuEnE|
+|bal־yišsvtAyun|
 
  * בנאות 1: 
 
 |בִּנְאוֹת 1|
 |-|
 |בִּנְאוֹֹת 1|
-|bEnE'EwEtE|
+|binsv'wot|
 
  * נתן־למו 1: 
 
 |נָתַן־לָמוֹ 1|
 |-|
 |נָתַן־לָמוֹֹ 1|
-|nEtEnE־ElEmEwE|
+|nAtan־lAmwo|
 
  * תתן־דפי 1: 
 
 |תִּתֶּן־דֹּפִי 1|
 |-|
 |תִתֶן־דֹפִי 1|
-|tEtEnE־EdEfEyE|
+|titen־dofiy|
 
  * לקהל 1: 
 
 |לְקָהָל 1|
 |-|
 |לְקָהָל 1|
-|lEqEhElE|
+|lsvqAhAl|
 
  * הרס־שנימו 1: 
 
 |הֲרָס־שִׁנֵּימוֹ 1|
 |-|
 |הֲרָס־שִׁנֵימוֹֹ 1|
-|hErEsE־EšEnEyEmEwE|
+|harAs־šinEymwo|
 
  * מחטאתי 1: 
 
 |מֵחַטָּאתִי 1|
 |-|
 |מֵחַטָאתִי 1|
-|mEHETE'EtEyE|
+|mEHaTA'tiy|
 
  * מהיכלך 1: 
 
 |מֵהֵיכָלֶךָ 1|
 |-|
 |מֵהֵיכָלֶךָ 1|
-|mEhEyExElExE|
+|mEhEyxAlexA|
 
  * כחללים 1: 
 
 |כְּחֹלְלִים 1|
 |-|
 |כְּחֹלְלִים 1|
-|kEHElElEyEmE|
+|ksvHolsvliym|
 
  * בצעדך 1: 
 
 |בְּצַעְדְּךָ 1|
 |-|
 |בְּצַעְדְךָ 1|
-|bEcEɣEdExE|
+|bsvcaɣsvdsvxA|
 
  * תצר 1: 
 
 |תִּצֹּר 1|
 |-|
 |תִצֹר 1|
-|tEcErE|
+|ticor|
 
  * השחר 1: 
 
 |הַשַּׁחַר 1|
 |-|
 |הַשַׁחַר 1|
-|hEšEHErE|
+|hašaHar|
 
  * למדתני 1: 
 
 |לִמַּדְתַּנִי 1|
 |-|
 |לִמַדְתַנִי 1|
-|lEmEdEtEnEyE|
+|limadsvtaniy|
 
  * ורעננים 1: 
 
 |וְרַעֲנַנִּים 1|
 |-|
 |וְרַעֲנַנִים 1|
-|wErEɣEnEnEyEmE|
+|wsvraɣananiym|
 
  * על־מה־שוא 1: 
 
 |עַל־מַה־שָּׁוְא 1|
 |-|
 |עַל־מַה־שָׁוְא 1|
-|ɣElE־EmEhE־EšEwE'E|
+|ɣal־mah־šAwsv'|
 
  * וכסיל 1: 
 
 |וּכְסִיל 1|
 |-|
 |וּכְסִיל 1|
-|uExEsEyElE|
+|uxsvsiyl|
 
  * וראה־בנים 1: 
 
 |וּרְאֵה־בָנִים 1|
 |-|
 |וּרְאֵה־בָנִים 1|
-|uErE'EhE־EvEnEyEmE|
+|ursv'Eh־vAniym|
 
  * גוזי 1: 
 
 |גוֹזִי 1|
 |-|
 |גוֹֹזִי 1|
-|gEwEzEyE|
+|gwoziy|
 
  * פראים 1: 
 
 |פְרָאִים 1|
 |-|
 |פְרָאִים 1|
-|fErE'EyEmE|
+|fsvrA'iym|
 
  * וחצנו 1: 
 
 |וְחִצְנוֹ 1|
 |-|
 |וְחִצְנוֹֹ 1|
-|wEHEcEnEwE|
+|wsvHicsvnwo|
 
  * וממעמקי־מים 1: 
 
 |וּמִמַּעֲמַקֵּי־מָיִם 1|
 |-|
 |וּמִמַעֲמַקֵי־מָיִם 1|
-|uEmEmEɣEmEqEyE־EmEyEmE|
+|umimaɣamaqEy־mAyim|
 
  * עט 1: 
 
 |עֵט 1|
 |-|
 |עֵט 1|
-|ɣETE|
+|ɣET|
 
  * תדברון 1: 
 
 |תְּדַבֵּרוּן 1|
 |-|
 |תְדַבֵּרוּן 1|
-|tEdEbErEuEnE|
+|tsvdabErun|
 
  * יהרגו 1: 
 
 |יַהֲרֹגוּ 1|
 |-|
 |יַהֲרֹגוּ 1|
-|yEhErEgEuE|
+|yaharogu|
 
  * ונחמתני 1: 
 
 |וְנִחַמְתָּנִי 1|
 |-|
 |וְנִחַמְתָנִי 1|
-|wEnEHEmEtEnEyE|
+|wsvniHamsvtAniy|
 
  * פה־אשב 1: 
 
 |פֹּה־אֵשֵׁב 1|
 |-|
 |פֹּה־אֵשֵׁב 1|
-|pEhE־E'EšEvE|
+|poh־'EšEv|
 
  * מבקשיך 1: 
 
 |מְבַקְשֶׁיךָ 1|
 |-|
 |מְבַקְשֶׁיךָ 1|
-|mEvEqEšEyExE|
+|msvvaqsvšeyxA|
 
  * עד־קרנות 1: 
 
 |עַד־קַרְנוֹת 1|
 |-|
 |עַד־קַרְנוֹֹת 1|
-|ɣEdE־EqErEnEwEtE|
+|ɣad־qarsvnwot|
 
  * את־השמש 1: 
 
 |אֶת־הַשֶּׁמֶשׁ 1|
 |-|
 |אֶת־הַשֶׁמֶשׁ 1|
-|'EtE־EhEšEmEšE|
+|'et־hašemeš|
 
  * ]אלהים 1: 
 
 |]אֱלֹהִים 1|
 |-|
 |]אֱלֹהִים 1|
-|]E'ElEhEyEmE|
+|]'elohiym|
 
  * את־רוחו 1: 
 
 |אֶת־רוּחוֹ 1|
 |-|
 |אֶת־רוּחוֹֹ 1|
-|'EtE־ErEuEHEwE|
+|'et־ruHwo|
 
  * ונמלטו 1: 
 
 |וְנִמְלָטוּ 1|
 |-|
 |וְנִמְלָטוּ 1|
-|wEnEmElETEuE|
+|wsvnimsvlATu|
 
  * מרדפי 1: 
 
 |מֵרֹדְפַי 1|
 |-|
 |מֵרֹדְפַי 1|
-|mErEdEfEyE|
+|mErodsvfay|
 
  * זמתי 1: 
 
 |זַמֹּתִי 1|
 |-|
 |זַמֹתִי 1|
-|zEmEtEyE|
+|zamotiy|
 
  * ולא־שמע 1: 
 
 |וְלֹא־שָׁמַע 1|
 |-|
 |וְלֹא־שָׁמַע 1|
-|wElE'E־EšEmEɣE|
+|wsvlo'־šAmaɣ|
 
  * המותה 1: 
 
 |הַמָּוְתָה 1|
 |-|
 |הַמָוְתָה 1|
-|hEmEwEtEhE|
+|hamAwsvtAh|
 
  * סתרו 1: 
 
 |סִתְרוֹ 1|
 |-|
 |סִתְרוֹֹ 1|
-|sEtErEwE|
+|sitsvrwo|
 
  * התהלכתי 1: 
 
 |הִתְהַלָּכְתִּי 1|
 |-|
 |הִתְהַלָכְתִי 1|
-|hEtEhElExEtEyE|
+|hitsvhalAxsvtiy|
 
  * שכנת 1: 
 
 |שָׁכַנְתָּ 1|
 |-|
 |שָׁכַנְתָ 1|
-|šExEnEtE|
+|šAxansvtA|
 
  * תסובבני 1: 
 
 |תְּסוֹבְבֵנִי 1|
 |-|
 |תְסוֹֹבְבֵנִי 1|
-|tEsEwEvEvEnEyE|
+|tsvswovsvvEniy|
 
  * אשיר 1: 
 
 |אָשִׁיר 1|
 |-|
 |אָשִׁיר 1|
-|'EšEyErE|
+|'Ašiyr|
 
  * אדאג 1: 
 
 |אֶדְאַג 1|
 |-|
 |אֶדְאַג 1|
-|'EdE'EgE|
+|'edsv'ag|
 
  * רגל 1: 
 
 |רֶגֶל 1|
 |-|
 |רֶגֶל 1|
-|rEgElE|
+|regel|
 
  * את־ידו 1: 
 
 |אֶת־יָדוֹ 1|
 |-|
 |אֶת־יָדוֹֹ 1|
-|'EtE־EyEdEwE|
+|'et־yAdwo|
 
  * וישירו 1: 
 
 |וְיָשִׁירוּ 1|
 |-|
 |וְיָשִׁירוּ 1|
-|wEyEšEyErEuE|
+|wsvyAšiyru|
 
  * לפעלות 1: 
 
 |לִפְעֻלּוֹת 1|
 |-|
 |לִפְעֻלוֹֹת 1|
-|lEfEɣElEwEtE|
+|lifsvɣulwot|
 
  * כתם 1: 
 
 |כְּתֹם 1|
 |-|
 |כְּתֹם 1|
-|kEtEmE|
+|ksvtom|
 
  * עדי־ערב 1: 
 
 |עֲדֵי־עָרֶב 1|
 |-|
 |עֲדֵי־עָרֶב 1|
-|ɣEdEyE־EɣErEvE|
+|ɣadEy־ɣArev|
 
  * קרתו 1: 
 
 |קָרָתוֹ 1|
 |-|
 |קָרָתוֹֹ 1|
-|qErEtEwE|
+|qArAtwo|
 
  * פן־ישכחו 1: 
 
 |פֶּן־יִשְׁכְּחוּ 1|
 |-|
 |פֶּן־יִשְׁכְּחוּ 1|
-|pEnE־EyEšEkEHEuE|
+|pen־yišsvksvHu|
 
  * נשמחה־בו 1: 
 
 |נִשְׂמְחָה־בּוֹ 1|
 |-|
 |נִשְׂמְחָה־בּוֹֹ 1|
-|nESEmEHEhE־EbEwE|
+|niSsvmsvHAh־bwo|
 
  * נקמה 1: 
 
 |נְקָמָה 1|
 |-|
 |נְקָמָה 1|
-|nEqEmEhE|
+|nsvqAmAh|
 
  * ולחיותם 1: 
 
 |וּלְחַיּוֹתָם 1|
 |-|
 |וּלְחַיוֹֹתָם 1|
-|uElEHEyEwEtEmE|
+|ulsvHaywotAm|
 
  * כל־רבים 1: 
 
 |כָּל־רַבִּים 1|
 |-|
 |כָּל־רַבִּים 1|
-|kElE־ErEbEyEmE|
+|kAl־rabiym|
 
  * ואראהו 1: 
 
 |וְאַרְאֵהוּ 1|
 |-|
 |וְאַרְאֵהוּ 1|
-|wE'ErE'EhEuE|
+|wsv'arsv'Ehu|
 
  * מאליפות 1: 
 
 |מַאֲלִיפוֹת 1|
 |-|
 |מַאֲלִיפוֹֹת 1|
-|mE'ElEyEfEwEtE|
+|ma'aliyfwot|
 
  * ושלוי 1: 
 
 |וְשַׁלְוֵי 1|
 |-|
 |וְשַׁלְוֵי 1|
-|wEšElEwEyE|
+|wsvšalsvwEy|
 
  * ואישנה 1: 
 
 |וָאִישָׁנָה 1|
 |-|
 |וָאִישָׁנָה 1|
-|wE'EyEšEnEhE|
+|wA'iyšAnAh|
 
  * לא־ישב 1: 
 
 |לֹא־יֵשֵׁב 1|
 |-|
 |לֹא־יֵשֵׁב 1|
-|lE'E־EyEšEvE|
+|lo'־yEšEv|
 
  * מלב 1: 
 
 |מִלֵּב 1|
 |-|
 |מִלֵב 1|
-|mElEvE|
+|milEv|
 
  * אורים 1: 
 
 |אוֹרִים 1|
 |-|
 |אוֹֹרִים 1|
-|'EwErEyEmE|
+|'woriym|
 
  * תפלתי־לך 1: 
 
 |תְפִלָּתִי־לְךָ 1|
 |-|
 |תְפִלָתִי־לְךָ 1|
-|tEfElEtEyE־ElExE|
+|tsvfilAtiy־lsvxA|
 
  * לא־תירא 1: 
 
 |לֹא־תִירָא 1|
 |-|
 |לֹא־תִירָא 1|
-|lE'E־EtEyErE'E|
+|lo'־tiyrA'|
 
  * כבוד־שמך 1: 
 
 |כְּבוֹד־שְׁמֶךָ 1|
 |-|
 |כְּבוֹֹד־שְׁמֶךָ 1|
-|kEvEwEdE־EšEmExE|
+|ksvvwod־šsvmexA|
 
  * אנחתי 1: 
 
 |אַנְחָתִי 1|
 |-|
 |אַנְחָתִי 1|
-|'EnEHEtEyE|
+|'ansvHAtiy|
 
  * בנפשו 1: 
 
 |בְּנַפְשׁוֹ 1|
 |-|
 |בְּנַפְשׁוֹֹ 1|
-|bEnEfEšEwE|
+|bsvnafsvšwo|
 
  * אף־זרועי 1: 
 
 |אַף־זְרוֹעִי 1|
 |-|
 |אַף־זְרוֹֹעִי 1|
-|'EfE־EzErEwEɣEyE|
+|'af־zsvrwoɣiy|
 
  * משבית 1: 
 
 |מַשְׁבִּית 1|
 |-|
 |מַשְׁבִּית 1|
-|mEšEbEyEtE|
+|mašsvbiyt|
 
  * כי־בא 1: 
 
 |כִּי־בָא 1|
 |-|
 |כִּי־בָא 1|
-|kEyE־EvE'E|
+|kiy־vA'|
 
  * ופקד 1: 
 
 |וּפְקֹד 1|
 |-|
 |וּפְקֹד 1|
-|uEfEqEdE|
+|ufsvqod|
 
  * ליעלים 1: 
 
 |לַיְּעֵלִים 1|
 |-|
 |לַיְעֵלִים 1|
-|lEyEɣElEyEmE|
+|laysvɣEliym|
 
  * דרשיך 1: 
 
 |דֹרְשֶׁיךָ 1|
 |-|
 |דֹרְשֶׁיךָ 1|
-|dErEšEyExE|
+|dorsvšeyxA|
 
  * נאמן 1: 
 
 |נֶאֱמָן 1|
 |-|
 |נֶאֱמָן 1|
-|nE'EmEnE|
+|ne'emAn|
 
  * אל־הנחילות 1: 
 
 |אֶל־הַנְּחִילוֹת 1|
 |-|
 |אֶל־הַנְחִילוֹֹת 1|
-|'ElE־EhEnEHEyElEwEtE|
+|'el־hansvHiylwot|
 
  * הגיגי 1: 
 
 |הֲגִיגִי 1|
 |-|
 |הֲגִיגִי 1|
-|hEgEyEgEyE|
+|hagiygiy|
 
  * וליהוה 1: 
 
 |וְלֵיהוִה 1|
 |-|
 |וְלֵיהוִה 1|
-|wElEyEhEwEhE|
+|wsvlEyhwih|
 
  * זולתי 1: 
 
 |זוּלָתִי 1|
 |-|
 |זוּלָתִי 1|
-|zEuElEtEyE|
+|zulAtiy|
 
  * ומכל־צרותיו 1: 
 
 |וּמִכָּל־צָרוֹתָיו 1|
 |-|
 |וּמִכָּל־צָרוֹֹתָיו 1|
-|uEmEkElE־EcErEwEtEyEwE|
+|umikAl־cArwotAyw|
 
  * ולעבדתו 1: 
 
 |וְלַעֲבֹדָתוֹ 1|
 |-|
 |וְלַעֲבֹדָתוֹֹ 1|
-|wElEɣEvEdEtEwE|
+|wsvlaɣavodAtwo|
 
  * בל־יעבר־פי 1: 
 
 |בַּל־יַעֲבָר־פִּי 1|
 |-|
 |בַּל־יַעֲבָר־פִּי 1|
-|bElE־EyEɣEvErE־EpEyE|
+|bal־yaɣavAr־piy|
 
  * ויעמידה 1: 
 
 |וַיַּעֲמִידֶהָ 1|
 |-|
 |וַיַעֲמִידֶהָ 1|
-|wEyEɣEmEyEdEhE|
+|wayaɣamiydehA|
 
  * תספרו 1: 
 
 |תְּסַפְּרוּ 1|
 |-|
 |תְסַפְּרוּ 1|
-|tEsEpErEuE|
+|tsvsapsvru|
 
  * פן־ישמחו־לי 1: 
 
 |פֶּן־יִשְׂמְחוּ־לִי 1|
 |-|
 |פֶּן־יִשְׂמְחוּ־לִי 1|
-|pEnE־EyESEmEHEuE־ElEyE|
+|pen־yiSsvmsvHu־liy|
 
  * מחסום 1: 
 
 |מַחְסוֹם 1|
 |-|
 |מַחְסוֹֹם 1|
-|mEHEsEwEmE|
+|maHsvswom|
 
  * חללת 1: 
 
 |חִלַּלְתָּ 1|
 |-|
 |חִלַלְתָ 1|
-|HElElEtE|
+|HilalsvtA|
 
  * טפש 1: 
 
 |טָפַשׁ 1|
 |-|
 |טָפַשׁ 1|
-|TEfEšE|
+|TAfaš|
 
  * יפלם 1: 
 
 |יַפִּלֵם 1|
 |-|
 |יַפִּלֵם 1|
-|yEpElEmE|
+|yapilEm|
 
  * קמיך 1: 
 
 |קָמֶיךָ 1|
 |-|
 |קָמֶיךָ 1|
-|qEmEyExE|
+|qAmeyxA|
 
  * שפתינו 1: 
 
 |שְׂפָתֵינוּ 1|
 |-|
 |שְׂפָתֵינוּ 1|
-|SEfEtEyEnEuE|
+|SsvfAtEynu|
 
  * הקצרת 1: 
 
 |הִקְצַרְתָּ 1|
 |-|
 |הִקְצַרְתָ 1|
-|hEqEcErEtE|
+|hiqsvcarsvtA|
 
  * לדלקים 1: 
 
 |לְדֹלְקִים 1|
 |-|
 |לְדֹלְקִים 1|
-|lEdElEqEyEmE|
+|lsvdolsvqiym|
 
  * ואזבחה 1: 
 
 |וְאֶזְבְּחָה 1|
 |-|
 |וְאֶזְבְּחָה 1|
-|wE'EzEbEHEhE|
+|wsv'ezsvbsvHAh|
 
  * תשלם 1: 
 
 |תְשַׁלֵּם 1|
 |-|
 |תְשַׁלֵם 1|
-|tEšElEmE|
+|tsvšalEm|
 
  * רעותיה 1: 
 
 |רֵעוֹתֶיהָ 1|
 |-|
 |רֵעוֹֹתֶיהָ 1|
-|rEɣEwEtEyEhE|
+|rEɣwoteyhA|
 
  * ותועפות 1: 
 
 |וְתוֹעֲפוֹת 1|
 |-|
 |וְתוֹֹעֲפוֹֹת 1|
-|wEtEwEɣEfEwEtE|
+|wsvtwoɣafwot|
 
  * ודבר־פי 1: 
 
 |וְדִבֶּר־פִּי 1|
 |-|
 |וְדִבֶּר־פִּי 1|
-|wEdEbErE־EpEyE|
+|wsvdiber־piy|
 
  * כסא 1: 
 
 |כִּסֵּא 1|
 |-|
 |כִּסֵא 1|
-|kEsE'E|
+|kisE'|
 
  * לראשי 1: 
 
 |לְרֹאשִׁי 1|
 |-|
 |לְרֹאשִׁי 1|
-|lErE'EšEyE|
+|lsvro'šiy|
 
  * ישברון 1: 
 
 |יְשַׂבֵּרוּן 1|
 |-|
 |יְשַׂבֵּרוּן 1|
-|yESEbErEuEnE|
+|ysvSabErun|
 
  * כי־לעולם 1: 
 
 |כִּי־לְעוֹלָם 1|
 |-|
 |כִּי־לְעוֹֹלָם 1|
-|kEyE־ElEɣEwElEmE|
+|kiy־lsvɣwolAm|
 
  * ואימות 1: 
 
 |וְאֵימוֹת 1|
 |-|
 |וְאֵימוֹֹת 1|
-|wE'EyEmEwEtE|
+|wsv'Eymwot|
 
  * בקבר 1: 
 
 |בַּקֶּבֶר 1|
 |-|
 |בַּקֶבֶר 1|
-|bEqEvErE|
+|baqever|
 
  * תשחק־למו 1: 
 
 |תִּשְׂחַק־לָמוֹ 1|
 |-|
 |תִשְׂחַק־לָמוֹֹ 1|
-|tESEHEqE־ElEmEwE|
+|tiSsvHaq־lAmwo|
 
  * סעדני 1: 
 
 |סְעָדֵנִי 1|
 |-|
 |סְעָדֵנִי 1|
-|sEɣEdEnEyE|
+|ssvɣAdEniy|
 
  * בנאדך 1: 
 
 |בְנֹאדֶךָ 1|
 |-|
 |בְנֹאדֶךָ 1|
-|vEnE'EdExE|
+|vsvno'dexA|
 
  * פדיתה 1: 
 
 |פָּדִיתָה 1|
 |-|
 |פָּדִיתָה 1|
-|pEdEyEtEhE|
+|pAdiytAh|
 
  * ולזכרי 1: 
 
 |וּלְזֹכְרֵי 1|
 |-|
 |וּלְזֹכְרֵי 1|
-|uElEzExErEyE|
+|ulsvzoxsvrEy|
 
  * פדיון 1: 
 
 |פִּדְיוֹן 1|
 |-|
 |פִּדְיוֹֹן 1|
-|pEdEyEwEnE|
+|pidsvywon|
 
  * הרבה 1: 
 
 |הרבה 1|
 |-|
 |הרבה 1|
-|hErEvEhE|
+|hrvh|
 
  * יסובבנו 1: 
 
 |יְסוֹבְבֶנּוּ 1|
 |-|
 |יְסוֹֹבְבֶנוּ 1|
-|yEsEwEvEvEnEuE|
+|ysvswovsvvenu|
 
  * עוז־לו 1: 
 
 |עוֹז־לוֹ 1|
 |-|
 |עוֹֹז־לוֹֹ 1|
-|ɣEwEzE־ElEwE|
+|ɣwoz־lwo|
 
  * ויוסף 1: 
 
 |וְיוֹסֵף 1|
 |-|
 |וְיוֹֹסֵף 1|
-|wEyEwEsEfE|
+|wsvywosEf|
 
  * ארדוף 1: 
 
 |אֶרְדּוֹף 1|
 |-|
 |אֶרְדוֹֹף 1|
-|'ErEdEwEfE|
+|'ersvdwof|
 
  * וכאבי 1: 
 
 |וּכְאֵבִי 1|
 |-|
 |וּכְאֵבִי 1|
-|uExE'EvEyE|
+|uxsv'Eviy|
 
  * ויתירהו 1: 
 
 |וַיַּתִּירֵהוּ 1|
 |-|
 |וַיַתִירֵהוּ 1|
-|wEyEtEyErEhEuE|
+|wayatiyrEhu|
 
  * עד־אגיד 1: 
 
 |עַד־אַגִּיד 1|
 |-|
 |עַד־אַגִיד 1|
-|ɣEdE־E'EgEyEdE|
+|ɣad־'agiyd|
 
  * כל־איבי 1: 
 
 |כָּל־אֹיְבָי 1|
 |-|
 |כָּל־אֹיְבָי 1|
-|kElE־E'EyEvEyE|
+|kAl־'oysvvAy|
 
  * לולא 1: 
 
 |לוּלֵא 1|
 |-|
 |לוּלֵא 1|
-|lEuElE'E|
+|lulE'|
 
  * וירדו 1: 
 
 |וַיִּרְדּוּ 1|
 |-|
 |וַיִרְדוּ 1|
-|wEyErEdEuE|
+|wayirsvdu|
 
  * יראה־יה 1: 
 
 |יִרְאֶה־יָּהּ 1|
 |-|
 |יִרְאֶה־יָה 1|
-|yErE'EhE־EyEhE|
+|yirsv'eh־yAh|
 
  * מסתתר 1: 
 
 |מִסְתַּתֵּר 1|
 |-|
 |מִסְתַתֵר 1|
-|mEsEtEtErE|
+|missvtatEr|
 
  * ואלהים 1: 
 
 |וֵאלֹהִים 1|
 |-|
 |וֵאלֹהִים 1|
-|wE'ElEhEyEmE|
+|wE'lohiym|
 
  * וילק 1: 
 
 |וְיֶלֶק 1|
 |-|
 |וְיֶלֶק 1|
-|wEyElEqE|
+|wsvyeleq|
 
  * שברתי 1: 
 
 |שִׂבַּרְתִּי 1|
 |-|
 |שִׂבַּרְתִי 1|
-|SEbErEtEyE|
+|Sibarsvtiy|
 
  * נהלכתי 1: 
 
 |נֶהֱלָכְתִּי 1|
 |-|
 |נֶהֱלָכְתִי 1|
-|nEhElExEtEyE|
+|nehelAxsvtiy|
 
  * ויתפלל 1: 
 
 |וְיִתְפַּלֵּל 1|
 |-|
 |וְיִתְפַּלֵל 1|
-|wEyEtEpElElE|
+|wsvyitsvpalEl|
 
  * ממדבר 1: 
 
 |מִמִּדְבַּר 1|
 |-|
 |מִמִדְבַּר 1|
-|mEmEdEbErE|
+|mimidsvbar|
 
  * עשה־להם 1: 
 
 |עֲשֵׂה־לָהֶם 1|
 |-|
 |עֲשֵׂה־לָהֶם 1|
-|ɣESEhE־ElEhEmE|
+|ɣaSEh־lAhem|
 
  * אפחד 1: 
 
 |אֶפְחָד 1|
 |-|
 |אֶפְחָד 1|
-|'EfEHEdE|
+|'efsvHAd|
 
  * ונגינות 1: 
 
 |וּנְגִינוֹת 1|
 |-|
 |וּנְגִינוֹֹת 1|
-|uEnEgEyEnEwEtE|
+|unsvgiynwot|
 
  * תשפטו־עול 1: 
 
 |תִּשְׁפְּטוּ־עָוֶל 1|
 |-|
 |תִשְׁפְּטוּ־עָוֶל 1|
-|tEšEpETEuE־EɣEwElE|
+|tišsvpsvTu־ɣAwel|
 
  * המעטרכי 1: 
 
 |הַמְעַטְּרֵכִי 1|
 |-|
 |הַמְעַטְרֵכִי 1|
-|hEmEɣETErExEyE|
+|hamsvɣaTsvrExiy|
 
  * הרכם 1: 
 
 |הַרְכֶם 1|
 |-|
 |הַרְכֶם 1|
-|hErExEmE|
+|harsvxem|
 
  * אל־תקשו 1: 
 
 |אַל־תַּקְשׁוּ 1|
 |-|
 |אַל־תַקְשׁוּ 1|
-|'ElE־EtEqEšEuE|
+|'al־taqsvšu|
 
  * מתוכם 1: 
 
 |מִתּוֹכָם 1|
 |-|
 |מִתוֹֹכָם 1|
-|mEtEwExEmE|
+|mitwoxAm|
 
  * יקראהו 1: 
 
 |יִקְרָאֻהוּ 1|
 |-|
 |יִקְרָאֻהוּ 1|
-|yEqErE'EhEuE|
+|yiqsvrA'uhu|
 
  * הכריעהו 1: 
 
 |הַכְרִיעֵהוּ 1|
 |-|
 |הַכְרִיעֵהוּ 1|
-|hExErEyEɣEhEuE|
+|haxsvriyɣEhu|
 
  * נכונה 1: 
 
 |נְכוֹנָה 1|
 |-|
 |נְכוֹֹנָה 1|
-|nExEwEnEhE|
+|nsvxwonAh|
 
  * רשעי־ארץ 1: 
 
 |רִשְׁעֵי־אָרֶץ 1|
 |-|
 |רִשְׁעֵי־אָרֶץ 1|
-|rEšEɣEyE־E'ErEcE|
+|rišsvɣEy־'Arec|
 
  * כי־הייתי 1: 
 
 |כִּי־הָיִיתִי 1|
 |-|
 |כִּי־הָיִיתִי 1|
-|kEyE־EhEyEyEtEyE|
+|kiy־hAyiytiy|
 
  * ואשועה 1: 
 
 |וָאֲשַׁוֵּעָה 1|
 |-|
 |וָאֲשַׁוֵּעָה 1|
-|wE'EšEuEɣEhE|
+|wA'ašauEɣAh|
 
  * ויפרקנו 1: 
 
 |וַיִּפְרְקֵנוּ 1|
 |-|
 |וַיִפְרְקֵנוּ 1|
-|wEyEfErEqEnEuE|
+|wayifsvrsvqEnu|
 
  * אני־שלום 1: 
 
 |אֲ‍נִי־שָׁלוֹם 1|
 |-|
 |אֲנִי־שָׁלוֹֹם 1|
-|'EnEyE־EšElEwEmE|
+|'aniy־šAlwom|
 
  * מעמר 1: 
 
 |מְעַמֵּר 1|
 |-|
 |מְעַמֵר 1|
-|mEɣEmErE|
+|msvɣamEr|
 
  * לברי 1: 
 
 |לְבָרֵי 1|
 |-|
 |לְבָרֵי 1|
-|lEvErEyE|
+|lsvvArEy|
 
  * פלגי־מים 1: 
 
 |פַּלְגֵי־מַיִם 1|
 |-|
 |פַּלְגֵי־מַיִם 1|
-|pElEgEyE־EmEyEmE|
+|palsvgEy־mayim|
 
  * ונער 1: 
 
 |וְנִעֵר 1|
 |-|
 |וְנִעֵר 1|
-|wEnEɣErE|
+|wsvniɣEr|
 
  * קלו 1: 
 
 |קֹלוֹ 1|
 |-|
 |קֹלוֹֹ 1|
-|qElEwE|
+|qolwo|
 
  * דויד 1: 
 
 |דָּוִיד 1|
 |-|
 |דָוִיד 1|
-|dEwEyEdE|
+|dAwiyd|
 
  * לא־זכרו 1: 
 
 |לֹא־זָכְרוּ 1|
 |-|
 |לֹא־זָכְרוּ 1|
-|lE'E־EzExErEuE|
+|lo'־zAxsvru|
 
  * קוצים 1: 
 
 |קוֹצִים 1|
 |-|
 |קוֹֹצִים 1|
-|qEwEcEyEmE|
+|qwociym|
 
  * תצרנו 1: 
 
 |תִּצְּרֶנּוּ 1|
 |-|
 |תִצְרֶנוּ 1|
-|tEcErEnEuE|
+|ticsvrenu|
 
  * ולא־רשעתי 1: 
 
 |וְלֹא־רָשַׁעְתִּי 1|
 |-|
 |וְלֹא־רָשַׁעְתִי 1|
-|wElE'E־ErEšEɣEtEyE|
+|wsvlo'־rAšaɣsvtiy|
 
  * שמי־קדם 1: 
 
 |שְׁמֵי־קֶדֶם 1|
 |-|
 |שְׁמֵי־קֶדֶם 1|
-|šEmEyE־EqEdEmE|
+|šsvmEy־qedem|
 
  * למשכנותיו 1: 
 
 |לְמִשְׁכְּנוֹתָיו 1|
 |-|
 |לְמִשְׁכְּנוֹֹתָיו 1|
-|lEmEšEkEnEwEtEyEwE|
+|lsvmišsvksvnwotAyw|
 
  * למלכנו 1: 
 
 |לְמַלְכֵּנוּ 1|
 |-|
 |לְמַלְכֵּנוּ 1|
-|lEmElEkEnEuE|
+|lsvmalsvkEnu|
 
  * תשכילו 1: 
 
 |תַּשְׂכִּילוּ 1|
 |-|
 |תַשְׂכִּילוּ 1|
-|tESEkEyElEuE|
+|taSsvkiylu|
 
  * ואצפה 1: 
 
 |וַאֲצַפֶּה 1|
 |-|
 |וַאֲצַפֶּה 1|
-|wE'EcEpEhE|
+|wa'acapeh|
 
  * וברזל 1: 
 
 |וּבַרְזֶל 1|
 |-|
 |וּבַרְזֶל 1|
-|uEvErEzElE|
+|uvarsvzel|
 
  * בזר 1: 
 
 |בִּזַּר 1|
 |-|
 |בִּזַר 1|
-|bEzErE|
+|bizar|
 
  * עששו 1: 
 
 |עָשֵׁשׁוּ 1|
 |-|
 |עָשֵׁשׁוּ 1|
-|ɣEšEšEuE|
+|ɣAšEšu|
 
  * ואודה 1: 
 
 |וְאוֹדֶה 1|
 |-|
 |וְאוֹֹדֶה 1|
-|wE'EwEdEhE|
+|wsv'wodeh|
 
  * ובבל 1: 
 
 |וּבָבֶל 1|
 |-|
 |וּבָבֶל 1|
-|uEvEvElE|
+|uvAvel|
 
  * לטרוף 1: 
 
 |לִטְרוֹף 1|
 |-|
 |לִטְרוֹֹף 1|
-|lETErEwEfE|
+|liTsvrwof|
 
  * רצה־נא 1: 
 
 |רְצֵה־נָא 1|
 |-|
 |רְצֵה־נָא 1|
-|rEcEhE־EnE'E|
+|rsvcEh־nA'|
 
  * בכעס 1: 
 
 |בְכַעַס 1|
 |-|
 |בְכַעַס 1|
-|vExEɣEsE|
+|vsvxaɣas|
 
  * בשפתותיהם 1: 
 
 |בְּשִׂפְתוֹתֵיהֶם 1|
 |-|
 |בְּשִׂפְתוֹֹתֵיהֶם 1|
-|bESEfEtEwEtEyEhEmE|
+|bsvSifsvtwotEyhem|
 
  * זה־יצרת 1: 
 
 |זֶה־יָצַרְתָּ 1|
 |-|
 |זֶה־יָצַרְתָ 1|
-|zEhE־EyEcErEtE|
+|zeh־yAcarsvtA|
 
  * יקרצו־עין 1: 
 
 |יִקְרְצוּ־עָיִן 1|
 |-|
 |יִקְרְצוּ־עָיִן 1|
-|yEqErEcEuE־EɣEyEnE|
+|yiqsvrsvcu־ɣAyin|
 
  * שקי 1: 
 
 |שַׂקִּי 1|
 |-|
 |שַׂקִי 1|
-|SEqEyE|
+|Saqiy|
 
  * האשימם 1: 
 
 |הַאֲשִׁימֵם 1|
 |-|
 |הַאֲשִׁימֵם 1|
-|hE'EšEyEmEmE|
+|ha'ašiymEm|
 
  * וישכן 1: 
 
 |וַיַּשְׁכֵּן 1|
 |-|
 |וַיַשְׁכֵּן 1|
-|wEyEšEkEnE|
+|wayašsvkEn|
 
  * תקעו 1: 
 
 |תִּקְעוּ 1|
 |-|
 |תִקְעוּ 1|
-|tEqEɣEuE|
+|tiqsvɣu|
 
  * ישחק־לו 1: 
 
 |יִשְׂחַק־לוֹ 1|
 |-|
 |יִשְׂחַק־לוֹֹ 1|
-|yESEHEqE־ElEwE|
+|yiSsvHaq־lwo|
 
  * וזה 1: 
 
 |וְזֶה 1|
 |-|
 |וְזֶה 1|
-|wEzEhE|
+|wsvzeh|
 
  * מגפה 1: 
 
 |מַגֵּפָה 1|
 |-|
 |מַגֵפָה 1|
-|mEgEfEhE|
+|magEfAh|
 
  * מרחבה 1: 
 
 |מֵרְחֹבָהּ 1|
 |-|
 |מֵרְחֹבָה 1|
-|mErEHEvEhE|
+|mErsvHovAh|
 
  * נריעה 1: 
 
 |נָרִיעָה 1|
 |-|
 |נָרִיעָה 1|
-|nErEyEɣEhE|
+|nAriyɣAh|
 
  * ירדף 1: 
 
 |יִרַדֹּף 1|
 |-|
 |יִרַדֹף 1|
-|yErEdEfE|
+|yiradof|
 
  * סגרו 1: 
 
 |סָּגְרוּ 1|
 |-|
 |סָגְרוּ 1|
-|sEgErEuE|
+|sAgsvru|
 
  * כמת 1: 
 
 |כְּמֵת 1|
 |-|
 |כְּמֵת 1|
-|kEmEtE|
+|ksvmEt|
 
  * וברוח 1: 
 
 |וּבְרוּחַ 1|
 |-|
 |וּבְרוּחַ 1|
-|uEvErEuEHE|
+|uvsvruHa|
 
  * ללילה 1: 
 
 |לְּלַיְלָה 1|
 |-|
 |לְלַיְלָה 1|
-|lElEyElEhE|
+|lsvlaysvlAh|
 
  * את־המיחלים 1: 
 
 |אֶת־הַמְיַחֲלִים 1|
 |-|
 |אֶת־הַמְיַחֲלִים 1|
-|'EtE־EhEmEyEHElEyEmE|
+|'et־hamsvyaHaliym|
 
  * לחננה 1: 
 
 |לְחֶנְנָהּ 1|
 |-|
 |לְחֶנְנָה 1|
-|lEHEnEnEhE|
+|lsvHensvnAh|
 
  * ישבחונך 1: 
 
 |יְשַׁבְּחוּנְךָ 1|
 |-|
 |יְשַׁבְּחוּנְךָ 1|
-|yEšEbEHEuEnExE|
+|ysvšabsvHunsvxA|
 
  * לרע 1: 
 
 |לָרָע 1|
 |-|
 |לָרָע 1|
-|lErEɣE|
+|lArAɣ|
 
  * בחור 1: 
 
 |בָחוּר 1|
 |-|
 |בָחוּר 1|
-|vEHEuErE|
+|vAHur|
 
  * למצאי 1: 
 
 |לְמֹצָאֵי 1|
 |-|
 |לְמֹצָאֵי 1|
-|lEmEcE'EyE|
+|lsvmocA'Ey|
 
  * את־כבודם 1: 
 
 |אֶת־כְּבוֹדָם 1|
 |-|
 |אֶת־כְּבוֹֹדָם 1|
-|'EtE־EkEvEwEdEmE|
+|'et־ksvvwodAm|
 
  * והנה 1: 
 
 |וְהִנֵּה 1|
 |-|
 |וְהִנֵה 1|
-|wEhEnEhE|
+|wsvhinEh|
 
  * תכפרם 1: 
 
 |תְכַפְּרֵם 1|
 |-|
 |תְכַפְּרֵם 1|
-|tExEpErEmE|
+|tsvxapsvrEm|
 
  * ובנחלתו 1: 
 
 |וּבְנַחֲלָתוֹ 1|
 |-|
 |וּבְנַחֲלָתוֹֹ 1|
-|uEvEnEHElEtEwE|
+|uvsvnaHalAtwo|
 
  * וירבו 1: 
 
 |וַיִּרְבּוּ 1|
 |-|
 |וַיִרְבּוּ 1|
-|wEyErEbEuE|
+|wayirsvbu|
 
  * אשביעך 1: 
 
 |אַשְׂבִּיעֶךָ 1|
 |-|
 |אַשְׂבִּיעֶךָ 1|
-|'ESEbEyEɣExE|
+|'aSsvbiyɣexA|
 
  * הנחם 1: 
 
 |הִנָּחֵם 1|
 |-|
 |הִנָחֵם 1|
-|hEnEHEmE|
+|hinAHEm|
 
  * אם־ראיתי 1: 
 
 |אִם־רָאִיתִי 1|
 |-|
 |אִם־רָאִיתִי 1|
-|'EmE־ErE'EyEtEyE|
+|'im־rA'iytiy|
 
  * עפאים 1: 
 
 |עֳפָאיִם 1|
 |-|
 |עֳפָאיִם 1|
-|ɣEfE'EyEmE|
+|ɣAfA'yim|
 
  * פריה 1: 
 
 |פֹּרִיָּה 1|
 |-|
 |פֹּרִיָה 1|
-|pErEyEhE|
+|poriyAh|
 
  * לכלם 1: 
 
 |לְכֻלָּם 1|
 |-|
 |לְכֻלָם 1|
-|lExElEmE|
+|lsvxulAm|
 
  * אל־הכבוד 1: 
 
 |אֵל־הַכָּבוֹד 1|
 |-|
 |אֵל־הַכָּבוֹֹד 1|
-|'ElE־EhEkEvEwEdE|
+|'El־hakAvwod|
 
  * לארבה 1: 
 
 |לָאַרְבֶּה 1|
 |-|
 |לָאַרְבֶּה 1|
-|lE'ErEbEhE|
+|lA'arsvbeh|
 
  * ברא־לי 1: 
 
 |בְּרָא־לִי 1|
 |-|
 |בְּרָא־לִי 1|
-|bErE'E־ElEyE|
+|bsvrA'־liy|
 
  * בינה 1: 
 
 |בִּינָה 1|
 |-|
 |בִּינָה 1|
-|bEyEnEhE|
+|biynAh|
 
  * אשריו 1: 
 
 |אֲשֻׁרָיו 1|
 |-|
 |אֲשֻׁרָיו 1|
-|'EšErEyEwE|
+|'ašurAyw|
 
  * נגינתי 1: 
 
 |נְגִינָתִי 1|
 |-|
 |נְגִינָתִי 1|
-|nEgEyEnEtEyE|
+|nsvgiynAtiy|
 
  * לשנות 1: 
 
 |לְשֹׁנוֹת 1|
 |-|
 |לְשֹׁנוֹֹת 1|
-|lEšEnEwEtE|
+|lsvšonwot|
 
  * אשנה 1: 
 
 |אֲשַׁנֶּה 1|
 |-|
 |אֲשַׁנֶה 1|
-|'EšEnEhE|
+|'ašaneh|
 
  * דבר־אמת 1: 
 
 |דְבַר־אֱמֶת 1|
 |-|
 |דְבַר־אֱמֶת 1|
-|dEvErE־E'EmEtE|
+|dsvvar־'emet|
 
  * ובו 1: 
 
 |וּבוֹ 1|
 |-|
 |וּבוֹֹ 1|
-|uEvEwE|
+|uvwo|
 
  * גלה 1: 
 
 |גִּלָּה 1|
 |-|
 |גִלָה 1|
-|gElEhE|
+|gilAh|
 
  * באר 1: 
 
 |בְּאֵר 1|
 |-|
 |בְּאֵר 1|
-|bE'ErE|
+|bsv'Er|
 
  * לא־זרו 1: 
 
 |לֹא־זָרוּ 1|
 |-|
 |לֹא־זָרוּ 1|
-|lE'E־EzErEuE|
+|lo'־zAru|
 
  * הלעג 1: 
 
 |הַלַּעַג 1|
 |-|
 |הַלַעַג 1|
-|hElEɣEgE|
+|halaɣag|
 
  * ובל־אלחם 1: 
 
 |וּבַל־אֶלְחַם 1|
 |-|
 |וּבַל־אֶלְחַם 1|
-|uEvElE־E'ElEHEmE|
+|uval־'elsvHam|
 
  * ושנאי 1: 
 
 |וְשֹׂנְאֵי 1|
 |-|
 |וְשֹׂנְאֵי 1|
-|wESEnE'EyE|
+|wsvSonsv'Ey|
 
  * בונה 1: 
 
 |בּוֹנֵה 1|
 |-|
 |בּוֹֹנֵה 1|
-|bEwEnEhE|
+|bwonEh|
 
  * כי־הטה 1: 
 
 |כִּי־הִטָּה 1|
 |-|
 |כִּי־הִטָה 1|
-|kEyE־EhETEhE|
+|kiy־hiTAh|
 
  * ובנהרות 1: 
 
 |וּבַנְּהָרוֹת 1|
 |-|
 |וּבַנְהָרוֹֹת 1|
-|uEvEnEhErEwEtE|
+|uvansvhArwot|
 
  * ויעטו 1: 
 
 |וְיַעֲטוּ 1|
 |-|
 |וְיַעֲטוּ 1|
-|wEyEɣETEuE|
+|wsvyaɣaTu|
 
  * כי־אראה 1: 
 
 |כִּי־אֶרְאֶה 1|
 |-|
 |כִּי־אֶרְאֶה 1|
-|kEyE־E'ErE'EhE|
+|kiy־'ersv'eh|
 
  * תעננו 1: 
 
 |תַּעֲנֵנוּ 1|
 |-|
 |תַעֲנֵנוּ 1|
-|tEɣEnEnEuE|
+|taɣanEnu|
 
  * נפליתי 1: 
 
 |נִפְלֵיתִי 1|
 |-|
 |נִפְלֵיתִי 1|
-|nEfElEyEtEyE|
+|nifsvlEytiy|
 
  * בהיותם 1: 
 
 |בִּהְיוֹתָם 1|
 |-|
 |בִּהְיוֹֹתָם 1|
-|bEhEyEwEtEmE|
+|bihsvywotAm|
 
  * לציים 1: 
 
 |לְצִיִּים 1|
 |-|
 |לְצִיִים 1|
-|lEcEyEyEmE|
+|lsvciyiym|
 
  * מריב 1: 
 
 |מֵרִיב 1|
 |-|
 |מֵרִיב 1|
-|mErEyEvE|
+|mEriyv|
 
  * בתהלה 1: 
 
 |בִּתְהִלָּה 1|
 |-|
 |בִּתְהִלָה 1|
-|bEtEhElEhE|
+|bitsvhilAh|
 
  * ואת־דכאי־רוח 1: 
 
 |וְאֶת־דַּכְּאֵי־רוּחַ 1|
 |-|
 |וְאֶת־דַכְּאֵי־רוּחַ 1|
-|wE'EtE־EdEkE'EyE־ErEuEHE|
+|wsv'et־daksv'Ey־ruHa|
 
  * השיבות 1: 
 
 |הֱשִׁיבוֹתָ 1|
 |-|
 |הֱשִׁיבוֹֹתָ 1|
-|hEšEyEvEwEtE|
+|hešiyvwotA|
 
  * שאלונו 1: 
 
 |שְׁאֵלוּנוּ 1|
 |-|
 |שְׁאֵלוּנוּ 1|
-|šE'ElEuEnEuE|
+|šsv'Elunu|
 
  * נצרה 1: 
 
 |נִצְּרָה 1|
 |-|
 |נִצְרָה 1|
-|nEcErEhE|
+|nicsvrAh|
 
  * בארח־זו 1: 
 
 |בְּאֹרַח־זוּ 1|
 |-|
 |בְּאֹרַח־זוּ 1|
-|bE'ErEHE־EzEuE|
+|bsv'oraH־zu|
 
  * לא־הכין 1: 
 
 |לֹא־הֵכִין 1|
 |-|
 |לֹא־הֵכִין 1|
-|lE'E־EhExEyEnE|
+|lo'־hExiyn|
 
  * ויכעיסוהו 1: 
 
 |וַיַּכְעִיסוּהוּ 1|
 |-|
 |וַיַכְעִיסוּהוּ 1|
-|wEyExEɣEyEsEuEhEuE|
+|wayaxsvɣiysuhu|
 
  * מגרתה 1: 
 
 |מִגַּרְתָּה 1|
 |-|
 |מִגַרְתָה 1|
-|mEgErEtEhE|
+|migarsvtAh|
 
  * אף־תשיב 1: 
 
 |אַף־תָּשִׁיב 1|
 |-|
 |אַף־תָשִׁיב 1|
-|'EfE־EtEšEyEvE|
+|'af־tAšiyv|
 
  * אומרה 1: 
 
 |אוֹמְרָה 1|
 |-|
 |אוֹֹמְרָה 1|
-|'EwEmErEhE|
+|'womsvrAh|
 
  * ונבראו 1: 
 
 |וְנִבְרָאוּ 1|
 |-|
 |וְנִבְרָאוּ 1|
-|wEnEvErE'EuE|
+|wsvnivsvrA'u|
 
  * בהתעטף 1: 
 
 |בְּהִתְעַטֵּף 1|
 |-|
 |בְּהִתְעַטֵף 1|
-|bEhEtEɣETEfE|
+|bsvhitsvɣaTEf|
 
  * בחליו 1: 
 
 |בְחָלְיוֹ 1|
 |-|
 |בְחָלְיוֹֹ 1|
-|vEHElEyEwE|
+|vsvHAlsvywo|
 
  * בל־ימוט 1: 
 
 |בַּל־יִמּוֹט 1|
 |-|
 |בַּל־יִמוֹֹט 1|
-|bElE־EyEmEwETE|
+|bal־yimwoT|
 
  * ויהי־לי 1: 
 
 |וַיְהִי־לִי 1|
 |-|
 |וַיְהִי־לִי 1|
-|wEyEhEyE־ElEyE|
+|waysvhiy־liy|
 
  * רשפי־קשת 1: 
 
 |רִשְׁפֵי־קָשֶׁת 1|
 |-|
 |רִשְׁפֵי־קָשֶׁת 1|
-|rEšEfEyE־EqEšEtE|
+|rišsvfEy־qAšet|
 
  * מן־קמי 1: 
 
 |מִן־קָמַי 1|
 |-|
 |מִן־קָמַי 1|
-|mEnE־EqEmEyE|
+|min־qAmay|
 
  * לקאת 1: 
 
 |לִקְאַת 1|
 |-|
 |לִקְאַת 1|
-|lEqE'EtE|
+|liqsv'at|
 
  * ויבטא 1: 
 
 |וַיְבַטֵּא 1|
 |-|
 |וַיְבַטֵא 1|
-|wEyEvETE'E|
+|waysvvaTE'|
 
  * נשמרו 1: 
 
 |נִשְׁמָרוּ 1|
 |-|
 |נִשְׁמָרוּ 1|
-|nEšEmErEuE|
+|nišsvmAru|
 
  * את־גבורתך 1: 
 
 |אֶת־גְּבוּרָתֶךָ 1|
 |-|
 |אֶת־גְבוּרָתֶךָ 1|
-|'EtE־EgEvEuErEtExE|
+|'et־gsvvurAtexA|
 
  * ירשו 1: 
 
 |יָרְשׁוּ 1|
 |-|
 |יָרְשׁוּ 1|
-|yErEšEuE|
+|yArsvšu|
 
  * נחשבתי 1: 
 
 |נֶחְשַׁבְתִּי 1|
 |-|
 |נֶחְשַׁבְתִי 1|
-|nEHEšEvEtEyE|
+|neHsvšavsvtiy|
 
  * פרש 1: 
 
 |פָּרַשׂ 1|
 |-|
 |פָּרַשׂ 1|
-|pErESE|
+|pAraS|
 
  * יבחן 1: 
 
 |יִבְחָן 1|
 |-|
 |יִבְחָן 1|
-|yEvEHEnE|
+|yivsvHAn|
 
  * ומי־יקום 1: 
 
 |וּמִי־יָקוּם 1|
 |-|
 |וּמִי־יָקוּם 1|
-|uEmEyE־EyEqEuEmE|
+|umiy־yAqum|
 
  * אם־גמלתי 1: 
 
 |אִם־גָּמַלְתִּי 1|
 |-|
 |אִם־גָמַלְתִי 1|
-|'EmE־EgEmElEtEyE|
+|'im־gAmalsvtiy|
 
  * על־דבר־אמת 1: 
 
 |עַל־דְּבַר־אֱמֶת 1|
 |-|
 |עַל־דְבַר־אֱמֶת 1|
-|ɣElE־EdEvErE־E'EmEtE|
+|ɣal־dsvvar־'emet|
 
  * כמץ 1: 
 
 |כְּמֹץ 1|
 |-|
 |כְּמֹץ 1|
-|kEmEcE|
+|ksvmoc|
 
  * לעצתו 1: 
 
 |לַעֲצָתוֹ 1|
 |-|
 |לַעֲצָתוֹֹ 1|
-|lEɣEcEtEwE|
+|laɣacAtwo|
 
  * בארח 1: 
 
 |בְּאֹרַח 1|
 |-|
 |בְּאֹרַח 1|
-|bE'ErEHE|
+|bsv'oraH|
 
  * לסגלתו 1: 
 
 |לִסְגֻלָּתוֹ 1|
 |-|
 |לִסְגֻלָתוֹֹ 1|
-|lEsEgElEtEwE|
+|lissvgulAtwo|
 
  * לשבי 1: 
 
 |לַשְּׁבִי 1|
 |-|
 |לַשְׁבִי 1|
-|lEšEvEyE|
+|lašsvviy|
 
  * אל־תבואני 1: 
 
 |אַל־תְּבוֹאֵנִי 1|
 |-|
 |אַל־תְבוֹֹאֵנִי 1|
-|'ElE־EtEvEwE'EnEyE|
+|'al־tsvvwo'Eniy|
 
  * ובניתי 1: 
 
 |וּבָנִיתִי 1|
 |-|
 |וּבָנִיתִי 1|
-|uEvEnEyEtEyE|
+|uvAniytiy|
 
  * בראתם 1: 
 
 |בְרָאתָם 1|
 |-|
 |בְרָאתָם 1|
-|vErE'EtEmE|
+|vsvrA'tAm|
 
  * מלשון 1: 
 
 |מִלָּשׁוֹן 1|
 |-|
 |מִלָשׁוֹֹן 1|
-|mElEšEwEnE|
+|milAšwon|
 
  * חלבמו 1: 
 
 |חֶלְבָּמוֹ 1|
 |-|
 |חֶלְבָּמוֹֹ 1|
-|HElEbEmEwE|
+|HelsvbAmwo|
 
  * ויבזו 1: 
 
 |וְיָבֹזּוּ 1|
 |-|
 |וְיָבֹזוּ 1|
-|wEyEvEzEuE|
+|wsvyAvozu|
 
  * כפינו 1: 
 
 |כַּפֵּינוּ 1|
 |-|
 |כַּפֵּינוּ 1|
-|kEpEyEnEuE|
+|kapEynu|
 
  * יכרת 1: 
 
 |יַכְרֵת 1|
 |-|
 |יַכְרֵת 1|
-|yExErEtE|
+|yaxsvrEt|
 
  * בצאתך 1: 
 
 |בְּצֵאתְךָ 1|
 |-|
 |בְּצֵאתְךָ 1|
-|bEcE'EtExE|
+|bsvcE'tsvxA|
 
  * מטר 1: 
 
 |מָטָר 1|
 |-|
 |מָטָר 1|
-|mETErE|
+|mATAr|
 
  * נחמתי 1: 
 
 |נֶחָמָתִי 1|
 |-|
 |נֶחָמָתִי 1|
-|nEHEmEtEyE|
+|neHAmAtiy|
 
  * בלא 1: 
 
 |בְּלֹא 1|
 |-|
 |בְּלֹא 1|
-|bElE'E|
+|bsvlo'|
 
  * לקח 1: 
 
 |לָקָח 1|
 |-|
 |לָקָח 1|
-|lEqEHE|
+|lAqAH|
 
  * בכהניו 1: 
 
 |בְּכֹהֲנָיו 1|
 |-|
 |בְּכֹהֲנָיו 1|
-|bExEhEnEyEwE|
+|bsvxohanAyw|
 
  * להיטיב 1: 
 
 |לְהֵיטִיב 1|
 |-|
 |לְהֵיטִיב 1|
-|lEhEyETEyEvE|
+|lsvhEyTiyv|
 
  * ואל־אטבעה 1: 
 
 |וְאַל־אֶטְבָּעָה 1|
 |-|
 |וְאַל־אֶטְבָּעָה 1|
-|wE'ElE־E'ETEbEɣEhE|
+|wsv'al־'eTsvbAɣAh|
 
  * ולא־בזה 1: 
 
 |וְלֹא־בָזָה 1|
 |-|
 |וְלֹא־בָזָה 1|
-|wElE'E־EvEzEhE|
+|wsvlo'־vAzAh|
 
  * סבו 1: 
 
 |סֹבּוּ 1|
 |-|
 |סֹבּוּ 1|
-|sEbEuE|
+|sobu|
 
  * כל־שפתי 1: 
 
 |כָּל־שִׂפְתֵי 1|
 |-|
 |כָּל־שִׂפְתֵי 1|
-|kElE־ESEfEtEyE|
+|kAl־SifsvtEy|
 
  * יידע 1: 
 
 |יְיֵדָע 1|
 |-|
 |יְיֵדָע 1|
-|yEyEdEɣE|
+|ysvyEdAɣ|
 
  * לחי 1: 
 
 |לֶחִי 1|
 |-|
 |לֶחִי 1|
-|lEHEyE|
+|leHiy|
 
  * שליש 1: 
 
 |שָׁלִישׁ 1|
 |-|
 |שָׁלִישׁ 1|
-|šElEyEšE|
+|šAliyš|
 
  * יכתרו 1: 
 
 |יַכְתִּרוּ 1|
 |-|
 |יַכְתִרוּ 1|
-|yExEtErEuE|
+|yaxsvtiru|
 
  * אשר־לו 1: 
 
 |אֲשֶׁר־לוֹ 1|
 |-|
 |אֲשֶׁר־לוֹֹ 1|
-|'EšErE־ElEwE|
+|'ašer־lwo|
 
  * בטחנו 1: 
 
 |בָטָחְנוּ 1|
 |-|
 |בָטָחְנוּ 1|
-|vETEHEnEuE|
+|vATAHsvnu|
 
  * יכלכלך 1: 
 
 |יְכַלְכְּלֶךָ 1|
 |-|
 |יְכַלְכְּלֶךָ 1|
-|yExElEkElExE|
+|ysvxalsvksvlexA|
 
  * כבוד־אל 1: 
 
 |כְּבוֹד־אֵל 1|
 |-|
 |כְּבוֹֹד־אֵל 1|
-|kEvEwEdE־E'ElE|
+|ksvvwod־'El|
 
  * יתאמרו 1: 
 
 |יִתְאַמְּרוּ 1|
 |-|
 |יִתְאַמְרוּ 1|
-|yEtE'EmErEuE|
+|yitsv'amsvru|
 
  * אסירי 1: 
 
 |אֲסִירֵי 1|
 |-|
 |אֲסִירֵי 1|
-|'EsEyErEyE|
+|'asiyrEy|
 
  * מוצא־רוח 1: 
 
 |מוֹצֵא־רוּחַ 1|
 |-|
 |מוֹֹצֵא־רוּחַ 1|
-|mEwEcE'E־ErEuEHE|
+|mwocE'־ruHa|
 
  * עשה־עמי 1: 
 
 |עֲשֵׂה־עִמִּי 1|
 |-|
 |עֲשֵׂה־עִמִי 1|
-|ɣESEhE־EɣEmEyE|
+|ɣaSEh־ɣimiy|
 
  * מחבריך 1: 
 
 |מֵחֲבֵרֶיךָ 1|
 |-|
 |מֵחֲבֵרֶיךָ 1|
-|mEHEvErEyExE|
+|mEHavEreyxA|
 
  * ויפיצם 1: 
 
 |וַיְפִיצֵם 1|
 |-|
 |וַיְפִיצֵם 1|
-|wEyEfEyEcEmE|
+|waysvfiycEm|
 
  * כסוס 1: 
 
 |כְּסוּס 1|
 |-|
 |כְּסוּס 1|
-|kEsEuEsE|
+|ksvsus|
 
  * הסוררים 1: 
 
 |הַסּוֹרְרִים 1|
 |-|
 |הַסוֹֹרְרִים 1|
-|hEsEwErErEyEmE|
+|hasworsvriym|
 
  * על־קצוי־ארץ 1: 
 
 |עַל־קַצְוֵי־אֶרֶץ 1|
 |-|
 |עַל־קַצְוֵי־אֶרֶץ 1|
-|ɣElE־EqEcEwEyE־E'ErEcE|
+|ɣal־qacsvwEy־'erec|
 
  * כל־מועדי־אל 1: 
 
 |כָל־מוֹעֲדֵי־אֵל 1|
 |-|
 |כָל־מוֹֹעֲדֵי־אֵל 1|
-|xElE־EmEwEɣEdEyE־E'ElE|
+|xAl־mwoɣadEy־'El|
 
  * למרות 1: 
 
 |לַמְרוֹת 1|
 |-|
 |לַמְרוֹֹת 1|
-|lEmErEwEtE|
+|lamsvrwot|
 
  * לא־יחצו 1: 
 
 |לֹא־יֶחֱצוּ 1|
 |-|
 |לֹא־יֶחֱצוּ 1|
-|lE'E־EyEHEcEuE|
+|lo'־yeHecu|
 
  * ותפלטני 1: 
 
 |וּתְפַלְּטֵנִי 1|
 |-|
 |וּתְפַלְטֵנִי 1|
-|uEtEfElETEnEyE|
+|utsvfalsvTEniy|
 
  * כשתלי 1: 
 
 |כִּשְׁתִלֵי 1|
 |-|
 |כִּשְׁתִלֵי 1|
-|kEšEtElEyE|
+|kišsvtilEy|
 
  * מוציא 1: 
 
 |מוֹצִיא 1|
 |-|
 |מוֹֹצִיא 1|
-|mEwEcEyE'E|
+|mwociy'|
 
  * ולזמר 1: 
 
 |וּלְזַמֵּר 1|
 |-|
 |וּלְזַמֵר 1|
-|uElEzEmErE|
+|ulsvzamEr|
 
  * זה־ידעתי 1: 
 
 |זֶה־יָדַעְתִּי 1|
 |-|
 |זֶה־יָדַעְתִי 1|
-|zEhE־EyEdEɣEtEyE|
+|zeh־yAdaɣsvtiy|
 
  * כל־הבל 1: 
 
 |כָּל־הֶבֶל 1|
 |-|
 |כָּל־הֶבֶל 1|
-|kElE־EhEvElE|
+|kAl־hevel|
 
  * ועדה 1: 
 
 |וְעֵדָה 1|
 |-|
 |וְעֵדָה 1|
-|wEɣEdEhE|
+|wsvɣEdAh|
 
  * עד־אמצא 1: 
 
 |עַד־אֶמְצָא 1|
 |-|
 |עַד־אֶמְצָא 1|
-|ɣEdE־E'EmEcE'E|
+|ɣad־'emsvcA'|
 
  * בת־בבל 1: 
 
 |בַּת־בָּבֶל 1|
 |-|
 |בַּת־בָּבֶל 1|
-|bEtE־EbEvElE|
+|bat־bAvel|
 
  * יסך 1: 
 
 |יָסֶךְ 1|
 |-|
 |יָסֶךְ 1|
-|yEsExE|
+|yAsexsv|
 
  * זכיתי 1: 
 
 |זִכִּיתִי 1|
 |-|
 |זִכִּיתִי 1|
-|zEkEyEtEyE|
+|zikiytiy|
 
  * רעים 1: 
 
 |רָעִים 1|
 |-|
 |רָעִים 1|
-|rEɣEyEmE|
+|rAɣiym|
 
  * חפשי 1: 
 
 |חָפְשִׁי 1|
 |-|
 |חָפְשִׁי 1|
-|HEfEšEyE|
+|HAfsvšiy|
 
  * אל־תפק 1: 
 
 |אַל־תָּפֵק 1|
 |-|
 |אַל־תָפֵק 1|
-|'ElE־EtEfEqE|
+|'al־tAfEq|
 
  * יעבדוני 1: 
 
 |יַעַבְדוּנִי 1|
 |-|
 |יַעַבְדוּנִי 1|
-|yEɣEvEdEuEnEyE|
+|yaɣavsvduniy|
 
  * הרימותי 1: 
 
 |הֲרִימוֹתִי 1|
 |-|
 |הֲרִימוֹֹתִי 1|
-|hErEyEmEwEtEyE|
+|hariymwotiy|
 
  * ותשרש 1: 
 
 |וַתַּשְׁרֵשׁ 1|
 |-|
 |וַתַשְׁרֵשׁ 1|
-|wEtEšErEšE|
+|watašsvrEš|
 
  * ויחרב 1: 
 
 |וַיֶּחֱרָב 1|
 |-|
 |וַיֶחֱרָב 1|
-|wEyEHErEvE|
+|wayeHerAv|
 
  * מאוצרותיו 1: 
 
 |מֵאוֹצְרוֹתָיו 1|
 |-|
 |מֵאוֹֹצְרוֹֹתָיו 1|
-|mE'EwEcErEwEtEyEwE|
+|mE'wocsvrwotAyw|
 
  * כרית 1: 
 
 |כָּרִיתָ 1|
 |-|
 |כָּרִיתָ 1|
-|kErEyEtE|
+|kAriytA|
 
  * והבוטח 1: 
 
 |וְהַבּוֹטֵחַ 1|
 |-|
 |וְהַבּוֹֹטֵחַ 1|
-|wEhEbEwETEHE|
+|wsvhabwoTEHa|
 
  * אשר־יהוה 1: 
 
 |אֲשֶׁר־יְהוָה 1|
 |-|
 |אֲשֶׁר־יְהוָה 1|
-|'EšErE־EyEhEwEhE|
+|'ašer־ysvhwAh|
 
  * רגלנו 1: 
 
 |רַגְלֵנוּ 1|
 |-|
 |רַגְלֵנוּ 1|
-|rEgElEnEuE|
+|ragsvlEnu|
 
  * האמנם 1: 
 
 |הַאֻמְנָם 1|
 |-|
 |הַאֻמְנָם 1|
-|hE'EmEnEmE|
+|ha'umsvnAm|
 
  * נגדו 1: 
 
 |נֶגְדּוֹ 1|
 |-|
 |נֶגְדוֹֹ 1|
-|nEgEdEwE|
+|negsvdwo|
 
  * ליבשה 1: 
 
 |לְיַבָּשָׁה 1|
 |-|
 |לְיַבָּשָׁה 1|
-|lEyEbEšEhE|
+|lsvyabAšAh|
 
  * בראת 1: 
 
 |בָּרָאתָ 1|
 |-|
 |בָּרָאתָ 1|
-|bErE'EtE|
+|bArA'tA|
 
  * וילמד 1: 
 
 |וִילַמֵּד 1|
 |-|
 |וִילַמֵד 1|
-|wEyElEmEdE|
+|wiylamEd|
 
  * יגון 1: 
 
 |יָגוֹן 1|
 |-|
 |יָגוֹֹן 1|
-|yEgEwEnE|
+|yAgwon|
 
  * ואתנחם 1: 
 
 |וָאֶתְנֶחָם 1|
 |-|
 |וָאֶתְנֶחָם 1|
-|wE'EtEnEHEmE|
+|wA'etsvneHAm|
 
  * בחורים 1: 
 
 |בַּחוּרִים 1|
 |-|
 |בַּחוּרִים 1|
-|bEHEuErEyEmE|
+|baHuriym|
 
  * נשירה 1: 
 
 |נָשִׁירָה 1|
 |-|
 |נָשִׁירָה 1|
-|nEšEyErEhE|
+|nAšiyrAh|
 
  * ביגון 1: 
 
 |בְיָגוֹן 1|
 |-|
 |בְיָגוֹֹן 1|
-|vEyEgEwEnE|
+|vsvyAgwon|
 
  * לא־עזבתי 1: 
 
 |לֹא־עָזַבְתִּי 1|
 |-|
 |לֹא־עָזַבְתִי 1|
-|lE'E־EɣEzEvEtEyE|
+|lo'־ɣAzavsvtiy|
 
  * עם־קטרת 1: 
 
 |עִם־קְטֹרֶת 1|
 |-|
 |עִם־קְטֹרֶת 1|
-|ɣEmE־EqETErEtE|
+|ɣim־qsvToret|
 
  * יכחשו־לי 1: 
 
 |יְכַחֲשׁוּ־לִי 1|
 |-|
 |יְכַחֲשׁוּ־לִי 1|
-|yExEHEšEuE־ElEyE|
+|ysvxaHašu־liy|
 
  * היות־אהיה 1: 
 
 |הֱיוֹת־אֶהְיֶה 1|
 |-|
 |הֱיוֹֹת־אֶהְיֶה 1|
-|hEyEwEtE־E'EhEyEhE|
+|heywot־'ehsvyeh|
 
  * גדריה 1: 
 
 |גְדֵרֶיהָ 1|
 |-|
 |גְדֵרֶיהָ 1|
-|gEdErEyEhE|
+|gsvdEreyhA|
 
  * נבזה 1: 
 
 |נִבְזֶה 1|
 |-|
 |נִבְזֶה 1|
-|nEvEzEhE|
+|nivsvzeh|
 
  * עלומיו 1: 
 
 |עֲלוּמָיו 1|
 |-|
 |עֲלוּמָיו 1|
-|ɣElEuEmEyEwE|
+|ɣalumAyw|
 
  * אל־בקצפך 1: 
 
 |אַל־בְּקֶצְפְּךָ 1|
 |-|
 |אַל־בְּקֶצְפְּךָ 1|
-|'ElE־EbEqEcEpExE|
+|'al־bsvqecsvpsvxA|
 
  * ומצותיך 1: 
 
 |וּמִצְוֺתֶיךָ 1|
 |-|
 |וּמִצְוֺתֶיךָ 1|
-|uEmEcEwEtEyExE|
+|umicsvw_o_teyxA|
 
  * אצרה 1: 
 
 |אֶצֹּרָה 1|
 |-|
 |אֶצֹרָה 1|
-|'EcErEhE|
+|'ecorAh|
 
  * למטר 1: 
 
 |לַמָּטָר 1|
 |-|
 |לַמָטָר 1|
-|lEmETErE|
+|lamATAr|
 
  * ומכל־צרותם 1: 
 
 |וּמִכָּל־צָרוֹתָם 1|
 |-|
 |וּמִכָּל־צָרוֹֹתָם 1|
-|uEmEkElE־EcErEwEtEmE|
+|umikAl־cArwotAm|
 
  * ובן־עולה 1: 
 
 |וּבֶן־עַוְלָה 1|
 |-|
 |וּבֶן־עַוְלָה 1|
-|uEvEnE־EɣEwElEhE|
+|uven־ɣawsvlAh|
 
  * במותו 1: 
 
 |בְמוֹתוֹ 1|
 |-|
 |בְמוֹֹתוֹֹ 1|
-|vEmEwEtEwE|
+|vsvmwotwo|
 
  * כמו־רמים 1: 
 
 |כְּמוֹ־רָמִים 1|
 |-|
 |כְּמוֹֹ־רָמִים 1|
-|kEmEwE־ErEmEyEmE|
+|ksvmwo־rAmiym|
 
  * לכסלה 1: 
 
 |לְכִסְלָה 1|
 |-|
 |לְכִסְלָה 1|
-|lExEsElEhE|
+|lsvxissvlAh|
 
  * הבונים 1: 
 
 |הַבּוֹנִים 1|
 |-|
 |הַבּוֹֹנִים 1|
-|hEbEwEnEyEmE|
+|habwoniym|
 
  * ואל־משכנותיך 1: 
 
 |וְאֶל־מִשְׁכְּנוֹתֶיךָ 1|
 |-|
 |וְאֶל־מִשְׁכְּנוֹֹתֶיךָ 1|
-|wE'ElE־EmEšEkEnEwEtEyExE|
+|wsv'el־mišsvksvnwoteyxA|
 
  * ותוציאנו 1: 
 
 |וַתּוֹצִיאֵנוּ 1|
 |-|
 |וַתוֹֹצִיאֵנוּ 1|
-|wEtEwEcEyE'EnEuE|
+|watwociy'Enu|
 
  * יקצרו 1: 
 
 |יִקְצֹרוּ 1|
 |-|
 |יִקְצֹרוּ 1|
-|yEqEcErEuE|
+|yiqsvcoru|
 
  * עובר 1: 
 
 |עוֹבֵר 1|
 |-|
 |עוֹֹבֵר 1|
-|ɣEwEvErE|
+|ɣwovEr|
 
  * למשיחו 1: 
 
 |לִמְשִׁיחוֹ 1|
 |-|
 |לִמְשִׁיחוֹֹ 1|
-|lEmEšEyEHEwE|
+|limsvšiyHwo|
 
  * את־עצביהם 1: 
 
 |אֶת־עֲצַבֵּיהֶם 1|
 |-|
 |אֶת־עֲצַבֵּיהֶם 1|
-|'EtE־EɣEcEbEyEhEmE|
+|'et־ɣacabEyhem|
 
  * הרפו 1: 
 
 |הַרְפּוּ 1|
 |-|
 |הַרְפּוּ 1|
-|hErEpEuE|
+|harsvpu|
 
  * ירשת 1: 
 
 |יְרֻשַּׁת 1|
 |-|
 |יְרֻשַׁת 1|
-|yErEšEtE|
+|ysvrušat|
 
  * אשר־שר 1: 
 
 |אֲשֶׁר־שָׁר 1|
 |-|
 |אֲשֶׁר־שָׁר 1|
-|'EšErE־EšErE|
+|'ašer־šAr|
 
  * מדותיו 1: 
 
 |מִדּוֹתָיו 1|
 |-|
 |מִדוֹֹתָיו 1|
-|mEdEwEtEyEwE|
+|midwotAyw|
 
  * ולספר 1: 
 
 |וּלְסַפֵּר 1|
 |-|
 |וּלְסַפֵּר 1|
-|uElEsEpErE|
+|ulsvsapEr|
 
  * עשה־סטים 1: 
 
 |עֲשֹׂה־סֵטִים 1|
 |-|
 |עֲשֹׂה־סֵטִים 1|
-|ɣESEhE־EsETEyEmE|
+|ɣaSoh־sETiym|
 
  * נגידים 1: 
 
 |נְגִידִים 1|
 |-|
 |נְגִידִים 1|
-|nEgEyEdEyEmE|
+|nsvgiydiym|
 
  * שבעים 1: 
 
 |שִׁבְעִים 1|
 |-|
 |שִׁבְעִים 1|
-|šEvEɣEyEmE|
+|šivsvɣiym|
 
  * אליכם 1: 
 
 |אֲלֵיכֶם 1|
 |-|
 |אֲלֵיכֶם 1|
-|'ElEyExEmE|
+|'alEyxem|
 
  * שרפו 1: 
 
 |שָׂרְפוּ 1|
 |-|
 |שָׂרְפוּ 1|
-|SErEfEuE|
+|SArsvfu|
 
  * אם־תשמע־לי 1: 
 
 |אִם־תִּשְׁמַע־לִי 1|
 |-|
 |אִם־תִשְׁמַע־לִי 1|
-|'EmE־EtEšEmEɣE־ElEyE|
+|'im־tišsvmaɣ־liy|
 
  * ובריא 1: 
 
 |וּבָרִיא 1|
 |-|
 |וּבָרִיא 1|
-|uEvErEyE'E|
+|uvAriy'|
 
  * אסירים 1: 
 
 |אֲסִירִים 1|
 |-|
 |אֲסִירִים 1|
-|'EsEyErEyEmE|
+|'asiyriym|
 
  * יעוף 1: 
 
 |יָעוּף 1|
 |-|
 |יָעוּף 1|
-|yEɣEuEfE|
+|yAɣuf|
 
  * שאתי 1: 
 
 |שְׂאֵתִי 1|
 |-|
 |שְׂאֵתִי 1|
-|SE'EtEyE|
+|Ssv'Etiy|
 
  * כי־יציל 1: 
 
 |כִּי־יַצִּיל 1|
 |-|
 |כִּי־יַצִיל 1|
-|kEyE־EyEcEyElE|
+|kiy־yaciyl|
 
  * היכל 1: 
 
 |הֵיכָל 1|
 |-|
 |הֵיכָל 1|
-|hEyExElE|
+|hEyxAl|
 
  * כי־ידברו 1: 
 
 |כִּי־יְדַבְּרוּ 1|
 |-|
 |כִּי־יְדַבְּרוּ 1|
-|kEyE־EyEdEbErEuE|
+|kiy־ysvdabsvru|
 
  * ידמו 1: 
 
 |יִדְּמוּ 1|
 |-|
 |יִדְמוּ 1|
-|yEdEmEuE|
+|yidsvmu|
 
  * גרסה 1: 
 
 |גָּרְסָה 1|
 |-|
 |גָרְסָה 1|
-|gErEsEhE|
+|gArsvsAh|
 
  * וכל־ישביה 1: 
 
 |וְכָל־יֹשְׁבֶיהָ 1|
 |-|
 |וְכָל־יֹשְׁבֶיהָ 1|
-|wExElE־EyEšEvEyEhE|
+|wsvxAl־yošsvveyhA|
 
  * סכו 1: 
 
 |סֻכּוֹ 1|
 |-|
 |סֻכּוֹֹ 1|
-|sEkEwE|
+|sukwo|
 
  * ועד־דר 1: 
 
 |וְעַד־דֹּר 1|
 |-|
 |וְעַד־דֹר 1|
-|wEɣEdE־EdErE|
+|wsvɣad־dor|
 
  * על־עבדיך 1: 
 
 |עַל־עֲבָדֶיךָ 1|
 |-|
 |עַל־עֲבָדֶיךָ 1|
-|ɣElE־EɣEvEdEyExE|
+|ɣal־ɣavAdeyxA|
 
  * כל־כוכבי 1: 
 
 |כָּל־כּוֹכְבֵי 1|
 |-|
 |כָּל־כּוֹֹכְבֵי 1|
-|kElE־EkEwExEvEyE|
+|kAl־kwoxsvvEy|
 
  * יענהו 1: 
 
 |יַעֲנֵהוּ 1|
 |-|
 |יַעֲנֵהוּ 1|
-|yEɣEnEhEuE|
+|yaɣanEhu|
 
  * פנימה 1: 
 
 |פְּנִימָה 1|
 |-|
 |פְּנִימָה 1|
-|pEnEyEmEhE|
+|psvniymAh|
 
  * ותציבני 1: 
 
 |וַתַּצִּיבֵנִי 1|
 |-|
 |וַתַצִיבֵנִי 1|
-|wEtEcEyEvEnEyE|
+|wataciyvEniy|
 
  * כל־מלאכותיך 1: 
 
 |כָּל־מַלְאֲכוֹתֶיךָ 1|
 |-|
 |כָּל־מַלְאֲכוֹֹתֶיךָ 1|
-|kElE־EmElE'ExEwEtEyExE|
+|kAl־malsv'axwoteyxA|
 
  * בצלמות 1: 
 
 |בְצַלְמָוֶת 1|
 |-|
 |בְצַלְמָוֶת 1|
-|vEcElEmEwEtE|
+|vsvcalsvmAwet|
 
  * ותנין 1: 
 
 |וְתַנִּין 1|
 |-|
 |וְתַנִין 1|
-|wEtEnEyEnE|
+|wsvtaniyn|
 
  * בברד 1: 
 
 |בַּבָּרָד 1|
 |-|
 |בַּבָּרָד 1|
-|bEbErEdE|
+|babArAd|
 
  * גגות 1: 
 
 |גַּגּוֹת 1|
 |-|
 |גַגוֹֹת 1|
-|gEgEwEtE|
+|gagwot|
 
  * מגדלים 1: 
 
 |מְגֻדָּלִים 1|
 |-|
 |מְגֻדָלִים 1|
-|mEgEdElEyEmE|
+|msvgudAliym|
 
  * הסגרתני 1: 
 
 |הִסְגַּרְתַּנִי 1|
 |-|
 |הִסְגַרְתַנִי 1|
-|hEsEgErEtEnEyE|
+|hissvgarsvtaniy|
 
  * ואהב 1: 
 
 |וְאֹהֵב 1|
 |-|
 |וְאֹהֵב 1|
-|wE'EhEvE|
+|wsv'ohEv|
 
  * ותשחיתם 1: 
 
 |וַתַּשְׁחִיתֵם 1|
 |-|
 |וַתַשְׁחִיתֵם 1|
-|wEtEšEHEyEtEmE|
+|watašsvHiytEm|
 
  * רצון־יראיו 1: 
 
 |רְצוֹן־יְרֵאָיו 1|
 |-|
 |רְצוֹֹן־יְרֵאָיו 1|
-|rEcEwEnE־EyErE'EyEwE|
+|rsvcwon־ysvrE'Ayw|
 
  * לאביונים 1: 
 
 |לָאֶבְיוֹנִים 1|
 |-|
 |לָאֶבְיוֹֹנִים 1|
-|lE'EvEyEwEnEyEmE|
+|lA'evsvywoniym|
 
  * המלוכה 1: 
 
 |הַמְּלוּכָה 1|
 |-|
 |הַמְלוּכָה 1|
-|hEmElEuExEhE|
+|hamsvluxAh|
 
  * ברוחו 1: 
 
 |בְּרוּחוֹ 1|
 |-|
 |בְּרוּחוֹֹ 1|
-|bErEuEHEwE|
+|bsvruHwo|
 
  * מאהל 1: 
 
 |מֵאֹהֶל 1|
 |-|
 |מֵאֹהֶל 1|
-|mE'EhElE|
+|mE'ohel|
 
  * הנטע 1: 
 
 |הֲנֹטַע 1|
 |-|
 |הֲנֹטַע 1|
-|hEnETEɣE|
+|hanoTaɣ|
 
  * ימישון 1: 
 
 |יְמִישׁוּן 1|
 |-|
 |יְמִישׁוּן 1|
-|yEmEyEšEuEnE|
+|ysvmiyšun|
 
  * מה־אנוש 1: 
 
 |מָה־אֱנוֹשׁ 1|
 |-|
 |מָה־אֱנוֹֹשׁ 1|
-|mEhE־E'EnEwEšE|
+|mAh־'enwoš|
 
  * ויגר 1: 
 
 |וַיַּגֵּר 1|
 |-|
 |וַיַגֵר 1|
-|wEyEgErE|
+|wayagEr|
 
  * מלה 1: 
 
 |מִלָּה 1|
 |-|
 |מִלָה 1|
-|mElEhE|
+|milAh|
 
  * כל־ראה 1: 
 
 |כָּל־רֹאֵה 1|
 |-|
 |כָּל־רֹאֵה 1|
-|kElE־ErE'EhE|
+|kAl־ro'Eh|
 
  * הרחב־פיך 1: 
 
 |הַרְחֶב־פִּיךָ 1|
 |-|
 |הַרְחֶב־פִּיךָ 1|
-|hErEHEvE־EpEyExE|
+|harsvHev־piyxA|
 
  * יסע 1: 
 
 |יַסַּע 1|
 |-|
 |יַסַע 1|
-|yEsEɣE|
+|yasaɣ|
 
  * נחלתי 1: 
 
 |נָחַלְתִּי 1|
 |-|
 |נָחַלְתִי 1|
-|nEHElEtEyE|
+|nAHalsvtiy|
 
  * פקודי 1: 
 
 |פִּקּוּדֵי 1|
 |-|
 |פִּקוּדֵי 1|
-|pEqEuEdEyE|
+|piqudEy|
 
  * הוא־יוציא 1: 
 
 |הוּא־יוֹצִיא 1|
 |-|
 |הוּא־יוֹֹצִיא 1|
-|hEuE'E־EyEwEcEyE'E|
+|hu'־ywociy'|
 
  * פיהו 1: 
 
 |פִּיהוּ 1|
 |-|
 |פִּיהוּ 1|
-|pEyEhEuE|
+|piyhu|
 
  * לא־טוב 1: 
 
 |לֹא־טוֹב 1|
 |-|
 |לֹא־טוֹֹב 1|
-|lE'E־ETEwEvE|
+|lo'־Twov|
 
  * תרנין 1: 
 
 |תַּרְנִין 1|
 |-|
 |תַרְנִין 1|
-|tErEnEyEnE|
+|tarsvniyn|
 
  * תשמעו 1: 
 
 |תִשְׁמָעוּ 1|
 |-|
 |תִשְׁמָעוּ 1|
-|tEšEmEɣEuE|
+|tišsvmAɣu|
 
  * והקשיבה 1: 
 
 |וְהַקְשִׁיבָה 1|
 |-|
 |וְהַקְשִׁיבָה 1|
-|wEhEqEšEyEvEhE|
+|wsvhaqsvšiyvAh|
 
  * ארחתיך 1: 
 
 |אֹרְחֹתֶיךָ 1|
 |-|
 |אֹרְחֹתֶיךָ 1|
-|'ErEHEtEyExE|
+|'orsvHoteyxA|
 
  * בפרץ 1: 
 
 |בַּפֶּרֶץ 1|
 |-|
 |בַּפֶּרֶץ 1|
-|bEpErEcE|
+|baperec|
 
  * יהללו־יה 1: 
 
 |יְהַלְלוּ־יָהּ 1|
 |-|
 |יְהַלְלוּ־יָה 1|
-|yEhElElEuE־EyEhE|
+|ysvhalsvlu־yAh|
 
  * ולא־יכלתי 1: 
 
 |וְלֹא־יָכֹלְתִּי 1|
 |-|
 |וְלֹא־יָכֹלְתִי 1|
-|wElE'E־EyExElEtEyE|
+|wsvlo'־yAxolsvtiy|
 
  * יכתבו 1: 
 
 |יִכָּתֵבוּ 1|
 |-|
 |יִכָּתֵבוּ 1|
-|yEkEtEvEuE|
+|yikAtEvu|
 
  * ויחשו 1: 
 
 |וַיֶּחֱשׁוּ 1|
 |-|
 |וַיֶחֱשׁוּ 1|
-|wEyEHEšEuE|
+|wayeHešu|
 
  * ברביבים 1: 
 
 |בִּרְבִיבִים 1|
 |-|
 |בִּרְבִיבִים 1|
-|bErEvEyEvEyEmE|
+|birsvviyviym|
 
  * וככפיר 1: 
 
 |וְכִכְפִיר 1|
 |-|
 |וְכִכְפִיר 1|
-|wExExEfEyErE|
+|wsvxixsvfiyr|
 
  * אשר־שתה 1: 
 
 |אֲשֶׁר־שָׁתָה 1|
 |-|
 |אֲשֶׁר־שָׁתָה 1|
-|'EšErE־EšEtEhE|
+|'ašer־šAtAh|
 
  * ומשנאיו 1: 
 
 |וּמְשַׂנְאָיו 1|
 |-|
 |וּמְשַׂנְאָיו 1|
-|uEmESEnE'EyEwE|
+|umsvSansv'Ayw|
 
  * קצר 1: 
 
 |קִצַּר 1|
 |-|
 |קִצַר 1|
-|qEcErE|
+|qicar|
 
  * הבאישו 1: 
 
 |הִבְאִישׁוּ 1|
 |-|
 |הִבְאִישׁוּ 1|
-|hEvE'EyEšEuE|
+|hivsv'iyšu|
 
  * מימיו 1: 
 
 |מֵימָיו 1|
 |-|
 |מֵימָיו 1|
-|mEyEmEyEwE|
+|mEymAyw|
 
  * תקחני 1: 
 
 |תִּקָּחֵנִי 1|
 |-|
 |תִקָחֵנִי 1|
-|tEqEHEnEyE|
+|tiqAHEniy|
 
  * אם־הבנים 1: 
 
 |אֵם־הַבָּנִים 1|
 |-|
 |אֵם־הַבָּנִים 1|
-|'EmE־EhEbEnEyEmE|
+|'Em־habAniym|
 
  * כי־רם 1: 
 
 |כִּי־רָם 1|
 |-|
 |כִּי־רָם 1|
-|kEyE־ErEmE|
+|kiy־rAm|
 
  * [דבריו] 1: 
 
 |[דְּבָרָיו] 1|
 |-|
 |[דְבָרָיו] 1|
-|[EdEvErEyEwE]E|
+|[dsvvArAyw]|
 
  * ותחסרהו 1: 
 
 |וַתְּחַסְּרֵהוּ 1|
 |-|
 |וַתְחַסְרֵהוּ 1|
-|wEtEHEsErEhEuE|
+|watsvHassvrEhu|
 
  * יזמרו־לו 1: 
 
 |יְזַמְּרוּ־לוֹ 1|
 |-|
 |יְזַמְרוּ־לוֹֹ 1|
-|yEzEmErEuE־ElEwE|
+|ysvzamsvru־lwo|
 
  * מה־אשיב 1: 
 
 |מָה־אָשִׁיב 1|
 |-|
 |מָה־אָשִׁיב 1|
-|mEhE־E'EšEyEvE|
+|mAh־'Ašiyv|
 
  * מתוך 1: 
 
 |מִתּוֹךְ 1|
 |-|
 |מִתוֹֹךְ 1|
-|mEtEwExE|
+|mitwoxsv|
 
  * הנה־אלה 1: 
 
 |הִנֵּה־אֵלֶּה 1|
 |-|
 |הִנֵה־אֵלֶה 1|
-|hEnEhE־E'ElEhE|
+|hinEh־'Eleh|
 
  * והגיתי 1: 
 
 |וְהָגִיתִי 1|
 |-|
 |וְהָגִיתִי 1|
-|wEhEgEyEtEyE|
+|wsvhAgiytiy|
 
  * והתפרדו 1: 
 
 |וְהִתְפָּרְדוּ 1|
 |-|
 |וְהִתְפָּרְדוּ 1|
-|wEhEtEpErEdEuE|
+|wsvhitsvpArsvdu|
 
  * בגיים 1: 
 
 |בגיים 1|
 |-|
 |בגיים 1|
-|vEgEyEyEmE|
+|vgyym|
 
  * אכניע 1: 
 
 |אַכְנִיעַ 1|
 |-|
 |אַכְנִיעַ 1|
-|'ExEnEyEɣE|
+|'axsvniyɣa|
 
  * לא־אחלל 1: 
 
 |לֹא־אֲחַלֵּל 1|
 |-|
 |לֹא־אֲחַלֵל 1|
-|lE'E־E'EHElElE|
+|lo'־'aHalEl|
 
  * שמעה־תפלתי 1: 
 
 |שִׁמְעָה־תְפִלָּתִי 1|
 |-|
 |שִׁמְעָה־תְפִלָתִי 1|
-|šEmEɣEhE־EtEfElEtEyE|
+|šimsvɣAh־tsvfilAtiy|
 
  * כפופים 1: 
 
 |כְּפוּפִים 1|
 |-|
 |כְּפוּפִים 1|
-|kEfEuEfEyEmE|
+|ksvfufiym|
 
  * אך־בצלם 1: 
 
 |אַךְ־בְּצֶלֶם 1|
 |-|
 |אַךְ־בְּצֶלֶם 1|
-|'ExE־EbEcElEmE|
+|'axsv־bsvcelem|
 
  * ומחטאתי 1: 
 
 |וּמֵחַטָּאתִי 1|
 |-|
 |וּמֵחַטָאתִי 1|
-|uEmEHETE'EtEyE|
+|umEHaTA'tiy|
 
  * בעזו 1: 
 
 |בְּעֻזּוֹ 1|
 |-|
 |בְּעֻזוֹֹ 1|
-|bEɣEzEwE|
+|bsvɣuzwo|
 
  * ארזי 1: 
 
 |אַרְזֵי 1|
 |-|
 |אַרְזֵי 1|
-|'ErEzEyE|
+|'arsvzEy|
 
  * לקרב 1: 
 
 |לַקְרָב 1|
 |-|
 |לַקְרָב 1|
-|lEqErEvE|
+|laqsvrAv|
 
  * לא־בזה 1: 
 
 |לֹא־בָזָה 1|
 |-|
 |לֹא־בָזָה 1|
-|lE'E־EvEzEhE|
+|lo'־vAzAh|
 
  * אספו־לי 1: 
 
 |אִסְפוּ־לִי 1|
 |-|
 |אִסְפוּ־לִי 1|
-|'EsEfEuE־ElEyE|
+|'issvfu־liy|
 
  * עונתיו 1: 
 
 |עֲוֺנֹתָיו 1|
 |-|
 |עֲוֺנֹתָיו 1|
-|ɣEwEnEtEyEwE|
+|ɣaw_o_notAyw|
 
  * קימני 1: 
 
 |קַיְּמֵנִי 1|
 |-|
 |קַיְמֵנִי 1|
-|qEyEmEnEyE|
+|qaysvmEniy|
 
  * וכל־עצתך 1: 
 
 |וְכָל־עֲצָתְךָ 1|
 |-|
 |וְכָל־עֲצָתְךָ 1|
-|wExElE־EɣEcEtExE|
+|wsvxAl־ɣacAtsvxA|
 
  * ונכבדיהם 1: 
 
 |וְנִכְבְּדֵיהֶם 1|
 |-|
 |וְנִכְבְּדֵיהֶם 1|
-|wEnExEbEdEyEhEmE|
+|wsvnixsvbsvdEyhem|
 
  * ברב־חסדך 1: 
 
 |בְּרָב־חַסְדֶּךָ 1|
 |-|
 |בְּרָב־חַסְדֶךָ 1|
-|bErEvE־EHEsEdExE|
+|bsvrAv־HassvdexA|
 
  * ותחדש 1: 
 
 |וּתְחַדֵּשׁ 1|
 |-|
 |וּתְחַדֵשׁ 1|
-|uEtEHEdEšE|
+|utsvHadEš|
 
  * כרעו 1: 
 
 |כָּרְעוּ 1|
 |-|
 |כָּרְעוּ 1|
-|kErEɣEuE|
+|kArsvɣu|
 
  * לבני־לוט 1: 
 
 |לִבְנֵי־לוֹט 1|
 |-|
 |לִבְנֵי־לוֹֹט 1|
-|lEvEnEyE־ElEwETE|
+|livsvnEy־lwoT|
 
  * נדיבמו 1: 
 
 |נְדִיבֵמוֹ 1|
 |-|
 |נְדִיבֵמוֹֹ 1|
-|nEdEyEvEmEwE|
+|nsvdiyvEmwo|
 
  * חבל 1: 
 
 |חֶבֶל 1|
 |-|
 |חֶבֶל 1|
-|HEvElE|
+|Hevel|
 
  * תלמדני 1: 
 
 |תְלַמְּדֵנִי 1|
 |-|
 |תְלַמְדֵנִי 1|
-|tElEmEdEnEyE|
+|tsvlamsvdEniy|
 
  * לעשוקים 1: 
 
 |לָעֲשׁוּקִים 1|
 |-|
 |לָעֲשׁוּקִים 1|
-|lEɣEšEuEqEyEmE|
+|lAɣašuqiym|
 
  * נכרת 1: 
 
 |נִכְרָת 1|
 |-|
 |נִכְרָת 1|
-|nExErEtE|
+|nixsvrAt|
 
  * וחטאתי 1: 
 
 |וְחַטָּאתִי 1|
 |-|
 |וְחַטָאתִי 1|
-|wEHETE'EtEyE|
+|wsvHaTA'tiy|
 
  * כי־גמר 1: 
 
 |כִּי־גָמַר 1|
 |-|
 |כִּי־גָמַר 1|
-|kEyE־EgEmErE|
+|kiy־gAmar|
 
  * היודע 1: 
 
 |הֲיִוָּדַע 1|
 |-|
 |הֲיִוָּדַע 1|
-|hEyEuEdEɣE|
+|hayiuAdaɣ|
 
  * יאספני 1: 
 
 |יַאַסְפֵנִי 1|
 |-|
 |יַאַסְפֵנִי 1|
-|yE'EsEfEnEyE|
+|ya'assvfEniy|
 
  * תהלל 1: 
 
 |תְּהַלֵּל 1|
 |-|
 |תְהַלֵל 1|
-|tEhElElE|
+|tsvhalEl|
 
  * טובך 1: 
 
 |טוּבְךָ 1|
 |-|
 |טוּבְךָ 1|
-|TEuEvExE|
+|TuvsvxA|
 
  * סביבותיך 1: 
 
 |סְבִיבוֹתֶיךָ 1|
 |-|
 |סְבִיבוֹֹתֶיךָ 1|
-|sEvEyEvEwEtEyExE|
+|ssvviyvwoteyxA|
 
  * באמנתך 1: 
 
 |בֶּאֱמֻנָתְךָ 1|
 |-|
 |בֶּאֱמֻנָתְךָ 1|
-|bE'EmEnEtExE|
+|be'emunAtsvxA|
 
  * וירוממך 1: 
 
 |וִירוֹמִמְךָ 1|
 |-|
 |וִירוֹֹמִמְךָ 1|
-|wEyErEwEmEmExE|
+|wiyrwomimsvxA|
 
  * בראשו 1: 
 
 |בְרֹאשׁוֹ 1|
 |-|
 |בְרֹאשׁוֹֹ 1|
-|vErE'EšEwE|
+|vsvro'šwo|
 
  * זרזיף 1: 
 
 |זַרְזִיף 1|
 |-|
 |זַרְזִיף 1|
-|zErEzEyEfE|
+|zarsvziyf|
 
  * עצבי 1: 
 
 |עֲצַבֵּי 1|
 |-|
 |עֲצַבֵּי 1|
-|ɣEcEbEyE|
+|ɣacabEy|
 
  * וייקר 1: 
 
 |וְיֵיקַר 1|
 |-|
 |וְיֵיקַר 1|
-|wEyEyEqErE|
+|wsvyEyqar|
 
  * לרקמות 1: 
 
 |לִרְקָמוֹת 1|
 |-|
 |לִרְקָמוֹֹת 1|
-|lErEqEmEwEtE|
+|lirsvqAmwot|
 
  * הר־זה 1: 
 
 |הַר־זֶה 1|
 |-|
 |הַר־זֶה 1|
-|hErE־EzEhE|
+|har־zeh|
 
  * הגיתי 1: 
 
 |הָגִיתִי 1|
 |-|
 |הָגִיתִי 1|
-|hEgEyEtEyE|
+|hAgiytiy|
 
  * ענות 1: 
 
 |עֱנוּת 1|
 |-|
 |עֱנוּת 1|
-|ɣEnEuEtE|
+|ɣenut|
 
  * יצבר 1: 
 
 |יִצְבֹּר 1|
 |-|
 |יִצְבֹּר 1|
-|yEcEbErE|
+|yicsvbor|
 
  * מר־ואהלות 1: 
 
 |מֹר־וַאֲהָלוֹת 1|
 |-|
 |מֹר־וַאֲהָלוֹֹת 1|
-|mErE־EwE'EhElEwEtE|
+|mor־wa'ahAlwot|
 
  * נחפזו 1: 
 
 |נֶחְפָּזוּ 1|
 |-|
 |נֶחְפָּזוּ 1|
-|nEHEpEzEuE|
+|neHsvpAzu|
 
  * לבשו 1: 
 
 |לָבְשׁוּ 1|
 |-|
 |לָבְשׁוּ 1|
-|lEvEšEuE|
+|lAvsvšu|
 
  * דלפה 1: 
 
 |דָּלְפָה 1|
 |-|
 |דָלְפָה 1|
-|dElEfEhE|
+|dAlsvfAh|
 
  * ומכאובי 1: 
 
 |וּמַכְאוֹבִי 1|
 |-|
 |וּמַכְאוֹֹבִי 1|
-|uEmExE'EwEvEyE|
+|umaxsv'woviy|
 
  * כטיט 1: 
 
 |כְּטִיט 1|
 |-|
 |כְּטִיט 1|
-|kETEyETE|
+|ksvTiyT|
 
  * חסד־ואמת 1: 
 
 |חֶסֶד־וֶאֱמֶת 1|
 |-|
 |חֶסֶד־וֶאֱמֶת 1|
-|HEsEdE־EwE'EmEtE|
+|Hesed־we'emet|
 
  * סתר 1: 
 
 |סֵתֶר 1|
 |-|
 |סֵתֶר 1|
-|sEtErE|
+|sEter|
 
  * אין־אמר 1: 
 
 |אֵין־אֹמֶר 1|
 |-|
 |אֵין־אֹמֶר 1|
-|'EyEnE־E'EmErE|
+|'Eyn־'omer|
 
  * ארמנותיה 1: 
 
 |אַרְמְנוֹתֶיהָ 1|
 |-|
 |אַרְמְנוֹֹתֶיהָ 1|
-|'ErEmEnEwEtEyEhE|
+|'arsvmsvnwoteyhA|
 
  * את־דוד 1: 
 
 |אֶת־דָּוִד 1|
 |-|
 |אֶת־דָוִד 1|
-|'EtE־EdEwEdE|
+|'et־dAwid|
 
  * ואשתמר 1: 
 
 |וָאֶשְׁתַּמֵּר 1|
 |-|
 |וָאֶשְׁתַמֵר 1|
-|wE'EšEtEmErE|
+|wA'ešsvtamEr|
 
  * במשל 1: 
 
 |בְמָשָׁל 1|
 |-|
 |בְמָשָׁל 1|
-|vEmEšElE|
+|vsvmAšAl|
 
  * ואשא־כפי 1: 
 
 |וְאֶשָּׂא־כַפַּי 1|
 |-|
 |וְאֶשָׂא־כַפַּי 1|
-|wE'ESE'E־ExEpEyE|
+|wsv'eSA'־xapay|
 
  * רעשה 1: 
 
 |רָעָשָׁה 1|
 |-|
 |רָעָשָׁה 1|
-|rEɣEšEhE|
+|rAɣAšAh|
 
  * שקרים 1: 
 
 |שְׁקָרִים 1|
 |-|
 |שְׁקָרִים 1|
-|šEqErEyEmE|
+|šsvqAriym|
 
  * בנחל 1: 
 
 |בְּנַחַל 1|
 |-|
 |בְּנַחַל 1|
-|bEnEHElE|
+|bsvnaHal|
 
  * חזקה 1: 
 
 |חֲזָקָה 1|
 |-|
 |חֲזָקָה 1|
-|HEzEqEhE|
+|HazAqAh|
 
  * לשלמי 1: 
 
 |לְשַׁלְּמִי 1|
 |-|
 |לְשַׁלְמִי 1|
-|lEšElEmEyE|
+|lsvšalsvmiy|
 
  * [תרום] 1: 
 
 |[תָּרוּם] 1|
 |-|
 |[תָרוּם] 1|
-|[EtErEuEmE]E|
+|[tArum]|
 
  * ישמח־מלך 1: 
 
 |יִשְׂמַח־מֶלֶךְ 1|
 |-|
 |יִשְׂמַח־מֶלֶךְ 1|
-|yESEmEHE־EmElExE|
+|yiSsvmaH־melexsv|
 
  * יגיה 1: 
 
 |יַגִּיהַּ 1|
 |-|
 |יַגִיהַ 1|
-|yEgEyEhE|
+|yagiyha|
 
  * באמרם 1: 
 
 |בְּאָמְרָם 1|
 |-|
 |בְּאָמְרָם 1|
-|bE'EmErEmE|
+|bsv'AmsvrAm|
 
  * ולא־ימיש 1: 
 
 |וְלֹא־יָמִישׁ 1|
 |-|
 |וְלֹא־יָמִישׁ 1|
-|wElE'E־EyEmEyEšE|
+|wsvlo'־yAmiyš|
 
  * זכר־רחמיך 1: 
 
 |זְכֹר־רַחֲמֶיךָ 1|
 |-|
 |זְכֹר־רַחֲמֶיךָ 1|
-|zExErE־ErEHEmEyExE|
+|zsvxor־raHameyxA|
 
  * וכחול 1: 
 
 |וּכְחוֹל 1|
 |-|
 |וּכְחוֹֹל 1|
-|uExEHEwElE|
+|uxsvHwol|
 
  * על־ידי־חרב 1: 
 
 |עַל־יְדֵי־חָרֶב 1|
 |-|
 |עַל־יְדֵי־חָרֶב 1|
-|ɣElE־EyEdEyE־EHErEvE|
+|ɣal־ysvdEy־HArev|
 
  * חללים 1: 
 
 |חֲלָלִים 1|
 |-|
 |חֲלָלִים 1|
-|HElElEyEmE|
+|HalAliym|
 
  * כי־ראה 1: 
 
 |כִּי־רָאָה 1|
 |-|
 |כִּי־רָאָה 1|
-|kEyE־ErE'EhE|
+|kiy־rA'Ah|
 
  * כל־דרכי 1: 
 
 |כָל־דְּרָכַי 1|
 |-|
 |כָל־דְרָכַי 1|
-|xElE־EdErExEyE|
+|xAl־dsvrAxay|
 
  * מאיבים 1: 
 
 |מֵאֹיְבִים 1|
 |-|
 |מֵאֹיְבִים 1|
-|mE'EyEvEyEmE|
+|mE'oysvviym|
 
  * ולשלומים 1: 
 
 |וְלִשְׁלוֹמִים 1|
 |-|
 |וְלִשְׁלוֹֹמִים 1|
-|wElEšElEwEmEyEmE|
+|wsvlišsvlwomiym|
 
  * ויפלל 1: 
 
 |וַיְפַלֵּל 1|
 |-|
 |וַיְפַלֵל 1|
-|wEyEfElElE|
+|waysvfalEl|
 
  * תגרש 1: 
 
 |תְּגָרֵשׁ 1|
 |-|
 |תְגָרֵשׁ 1|
-|tEgErEšE|
+|tsvgArEš|
 
  * על־מות 1: 
 
 |עַל־מוּת 1|
 |-|
 |עַל־מוּת 1|
-|ɣElE־EmEuEtE|
+|ɣal־mut|
 
  * וקיטור 1: 
 
 |וְקִיטוֹר 1|
 |-|
 |וְקִיטוֹֹר 1|
-|wEqEyETEwErE|
+|wsvqiyTwor|
 
  * שאלתם 1: 
 
 |שֶׁאֱלָתָם 1|
 |-|
 |שֶׁאֱלָתָם 1|
-|šE'ElEtEmE|
+|še'elAtAm|
 
  * ומעונתו 1: 
 
 |וּמְעוֹנָתוֹ 1|
 |-|
 |וּמְעוֹֹנָתוֹֹ 1|
-|uEmEɣEwEnEtEwE|
+|umsvɣwonAtwo|
 
  * ותשועת 1: 
 
 |וּתְשׁוּעַת 1|
 |-|
 |וּתְשׁוּעַת 1|
-|uEtEšEuEɣEtE|
+|utsvšuɣat|
 
  * כי־שבעה 1: 
 
 |כִּי־שָׂבְעָה 1|
 |-|
 |כִּי־שָׂבְעָה 1|
-|kEyE־ESEvEɣEhE|
+|kiy־SAvsvɣAh|
 
  * נגוע 1: 
 
 |נָגוּעַ 1|
 |-|
 |נָגוּעַ 1|
-|nEgEuEɣE|
+|nAguɣa|
 
  * ובזרוע 1: 
 
 |וּבִזְרוֹעַ 1|
 |-|
 |וּבִזְרוֹֹעַ 1|
-|uEvEzErEwEɣE|
+|uvizsvrwoɣa|
 
  * שכבי 1: 
 
 |שֹׁכְבֵי 1|
 |-|
 |שֹׁכְבֵי 1|
-|šExEvEyE|
+|šoxsvvEy|
 
  * גדודיה 1: 
 
 |גְּדוּדֶיהָ 1|
 |-|
 |גְדוּדֶיהָ 1|
-|gEdEuEdEyEhE|
+|gsvdudeyhA|
 
  * פיפיות 1: 
 
 |פִּיפִיּוֹת 1|
 |-|
 |פִּיפִיוֹֹת 1|
-|pEyEfEyEwEtE|
+|piyfiywot|
 
  * על־נגינת 1: 
 
 |עַל־נְגִינַת 1|
 |-|
 |עַל־נְגִינַת 1|
-|ɣElE־EnEgEyEnEtE|
+|ɣal־nsvgiynat|
 
  * להתהלך 1: 
 
 |לְהִתְהַלֵּךְ 1|
 |-|
 |לְהִתְהַלֵךְ 1|
-|lEhEtEhElExE|
+|lsvhitsvhalExsv|
 
  * שקד 1: 
 
 |שָׁקַד 1|
 |-|
 |שָׁקַד 1|
-|šEqEdE|
+|šAqad|
 
  * ועצמי 1: 
 
 |וַעֲצָמַי 1|
 |-|
 |וַעֲצָמַי 1|
-|wEɣEcEmEyE|
+|waɣacAmay|
 
  * ירצחו 1: 
 
 |יְרַצֵּחוּ 1|
 |-|
 |יְרַצֵחוּ 1|
-|yErEcEHEuE|
+|ysvracEHu|
 
  * מתנות 1: 
 
 |מַתָּנוֹת 1|
 |-|
 |מַתָנוֹֹת 1|
-|mEtEnEwEtE|
+|matAnwot|
 
  * ותורתיו 1: 
 
 |וְתוֹרֹתָיו 1|
 |-|
 |וְתוֹֹרֹתָיו 1|
-|wEtEwErEtEyEwE|
+|wsvtworotAyw|
 
  * נבהלה 1: 
 
 |נִבְהֲלָה 1|
 |-|
 |נִבְהֲלָה 1|
-|nEvEhElEhE|
+|nivsvhalAh|
 
  * שמרי 1: 
 
 |שֹׁמְרֵי 1|
 |-|
 |שֹׁמְרֵי 1|
-|šEmErEyE|
+|šomsvrEy|
 
  * טמנו־גאים 1: 
 
 |טָמְנוּ־גֵאִים 1|
 |-|
 |טָמְנוּ־גֵאִים 1|
-|TEmEnEuE־EgE'EyEmE|
+|TAmsvnu־gE'iym|
 
  * קפצה 1: 
 
 |קָפְצָה 1|
 |-|
 |קָפְצָה 1|
-|qEfEcEhE|
+|qAfsvcAh|
 
  * אל־תרף 1: 
 
 |אַל־תֶּרֶף 1|
 |-|
 |אַל־תֶרֶף 1|
-|'ElE־EtErEfE|
+|'al־teref|
 
  * ובחסד 1: 
 
 |וּבְחֶסֶד 1|
 |-|
 |וּבְחֶסֶד 1|
-|uEvEHEsEdE|
+|uvsvHesed|
 
  * כי־עד־צדק 1: 
 
 |כִּי־עַד־צֶדֶק 1|
 |-|
 |כִּי־עַד־צֶדֶק 1|
-|kEyE־EɣEdE־EcEdEqE|
+|kiy־ɣad־cedeq|
 
  * גם־שם 1: 
 
 |גַּם־שָׁם 1|
 |-|
 |גַם־שָׁם 1|
-|gEmE־EšEmE|
+|gam־šAm|
 
  * תחתיות 1: 
 
 |תַּחְתִּיּוֹת 1|
 |-|
 |תַחְתִיוֹֹת 1|
-|tEHEtEyEwEtE|
+|taHsvtiywot|
 
  * בחשכה 1: 
 
 |בַּחֲשֵׁכָה 1|
 |-|
 |בַּחֲשֵׁכָה 1|
-|bEHEšExEhE|
+|baHašExAh|
 
  * הדו 1: 
 
 |הֹדוּ 1|
 |-|
 |הֹדוּ 1|
-|hEdEuE|
+|hodu|
 
  * בפעלך 1: 
 
 |בְּפָעֳלֶךָ 1|
 |-|
 |בְּפָעֳלֶךָ 1|
-|bEfEɣElExE|
+|bsvfAɣAlexA|
 
  * חי־יהוה 1: 
 
 |חַי־יְהוָה 1|
 |-|
 |חַי־יְהוָה 1|
-|HEyE־EyEhEwEhE|
+|Hay־ysvhwAh|
 
  * דבקתי 1: 
 
 |דָּבַקְתִּי 1|
 |-|
 |דָבַקְתִי 1|
-|dEvEqEtEyE|
+|dAvaqsvtiy|
 
  * אילותי 1: 
 
 |אֱיָלוּתִי 1|
 |-|
 |אֱיָלוּתִי 1|
-|'EyElEuEtEyE|
+|'eyAlutiy|
 
  * כל־החסים 1: 
 
 |כָּל־הַחֹסִים 1|
 |-|
 |כָּל־הַחֹסִים 1|
-|kElE־EhEHEsEyEmE|
+|kAl־haHosiym|
 
  * נשאתני 1: 
 
 |נְשָׂאתַנִי 1|
 |-|
 |נְשָׂאתַנִי 1|
-|nESE'EtEnEyE|
+|nsvSA'taniy|
 
  * לרגליך 1: 
 
 |לְרַגְלֶיךָ 1|
 |-|
 |לְרַגְלֶיךָ 1|
-|lErEgElEyExE|
+|lsvragsvleyxA|
 
  * ולאמרת 1: 
 
 |וּלְאִמְרַת 1|
 |-|
 |וּלְאִמְרַת 1|
-|uElE'EmErEtE|
+|ulsv'imsvrat|
 
  * למלכים 1: 
 
 |לַמְּלָכִים 1|
 |-|
 |לַמְלָכִים 1|
-|lEmElExEyEmE|
+|lamsvlAxiym|
 
  * העמדים 1: 
 
 |הָעֹמְדִים 1|
 |-|
 |הָעֹמְדִים 1|
-|hEɣEmEdEyEmE|
+|hAɣomsvdiym|
 
  * ואשא 1: 
 
 |וְאֶשָּׂא 1|
 |-|
 |וְאֶשָׂא 1|
-|wE'ESE'E|
+|wsv'eSA'|
 
  * מאנה 1: 
 
 |מֵאֲנָה 1|
 |-|
 |מֵאֲנָה 1|
-|mE'EnEhE|
+|mE'anAh|
 
  * וארנן 1: 
 
 |וַאֲרַנֵּן 1|
 |-|
 |וַאֲרַנֵן 1|
-|wE'ErEnEnE|
+|wa'aranEn|
 
  * אל־יתן 1: 
 
 |אַל־יִתֵּן 1|
 |-|
 |אַל־יִתֵן 1|
-|'ElE־EyEtEnE|
+|'al־yitEn|
 
  * לחזות 1: 
 
 |לַחֲזוֹת 1|
 |-|
 |לַחֲזוֹֹת 1|
-|lEHEzEwEtE|
+|laHazwot|
 
  * אשבעה 1: 
 
 |אֶשְׂבְּעָה 1|
 |-|
 |אֶשְׂבְּעָה 1|
-|'ESEbEɣEhE|
+|'eSsvbsvɣAh|
 
  * מכל־רע 1: 
 
 |מִכָּל־רָע 1|
 |-|
 |מִכָּל־רָע 1|
-|mEkElE־ErEɣE|
+|mikAl־rAɣ|
 
  * ואמרו 1: 
 
 |וְאָמְרוּ 1|
 |-|
 |וְאָמְרוּ 1|
-|wE'EmErEuE|
+|wsv'Amsvru|
 
  * לאדמה 1: 
 
 |לָאֲדָמָה 1|
 |-|
 |לָאֲדָמָה 1|
-|lE'EdEmEhE|
+|lA'adAmAh|
 
  * כמו־נד 1: 
 
 |כְּמוֹ־נֵד 1|
 |-|
 |כְּמוֹֹ־נֵד 1|
-|kEmEwE־EnEdE|
+|ksvmwo־nEd|
 
  * נשבע־יהוה 1: 
 
 |נִשְׁבַּע־יְהוָה 1|
 |-|
 |נִשְׁבַּע־יְהוָה 1|
-|nEšEbEɣE־EyEhEwEhE|
+|nišsvbaɣ־ysvhwAh|
 
  * ובשמי 1: 
 
 |וּבִשְׁמִי 1|
 |-|
 |וּבִשְׁמִי 1|
-|uEvEšEmEyE|
+|uvišsvmiy|
 
  * פרשתי 1: 
 
 |פֵּרַשְׂתִּי 1|
 |-|
 |פֵּרַשְׂתִי 1|
-|pErESEtEyE|
+|pEraSsvtiy|
 
  * המון 1: 
 
 |הָמוֹן 1|
 |-|
 |הָמוֹֹן 1|
-|hEmEwEnE|
+|hAmwon|
 
  * העברים 1: 
 
 |הָעֹבְרִים 1|
 |-|
 |הָעֹבְרִים 1|
-|hEɣEvErEyEmE|
+|hAɣovsvriym|
 
  * ועינים 1: 
 
 |וְעֵינַיִם 1|
 |-|
 |וְעֵינַיִם 1|
-|wEɣEyEnEyEmE|
+|wsvɣEynayim|
 
  * כרחק 1: 
 
 |כִּרְחֹק 1|
 |-|
 |כִּרְחֹק 1|
-|kErEHEqE|
+|kirsvHoq|
 
  * מנער 1: 
 
 |מִנֹּעַר 1|
 |-|
 |מִנֹעַר 1|
-|mEnEɣErE|
+|minoɣar|
 
  * יענו 1: 
 
 |יְעַנּוּ 1|
 |-|
 |יְעַנוּ 1|
-|yEɣEnEuE|
+|ysvɣanu|
 
  * עשנת 1: 
 
 |עָשַׁנְתָּ 1|
 |-|
 |עָשַׁנְתָ 1|
-|ɣEšEnEtE|
+|ɣAšansvtA|
 
  * לא־ברע 1: 
 
 |לֹא־בְרָע 1|
 |-|
 |לֹא־בְרָע 1|
-|lE'E־EvErEɣE|
+|lo'־vsvrAɣ|
 
  * בארצנו 1: 
 
 |בְּאַרְצֵנוּ 1|
 |-|
 |בְּאַרְצֵנוּ 1|
-|bE'ErEcEnEuE|
+|bsv'arsvcEnu|
 
  * לא־נכחד 1: 
 
 |לֹא־נִכְחַד 1|
 |-|
 |לֹא־נִכְחַד 1|
-|lE'E־EnExEHEdE|
+|lo'־nixsvHad|
 
  * ארוץ 1: 
 
 |אָרוּץ 1|
 |-|
 |אָרוּץ 1|
-|'ErEuEcE|
+|'Aruc|
 
  * אות 1: 
 
 |אוֹת 1|
 |-|
 |אוֹֹת 1|
-|'EwEtE|
+|'wot|
 
  * רעדה 1: 
 
 |רְעָדָה 1|
 |-|
 |רְעָדָה 1|
-|rEɣEdEhE|
+|rsvɣAdAh|
 
  * ובאף 1: 
 
 |וּבְאַף 1|
 |-|
 |וּבְאַף 1|
-|uEvE'EfE|
+|uvsv'af|
 
  * [חושה 1: 
 
 |[חוּשָׁה 1|
 |-|
 |[חוּשָׁה 1|
-|[EHEuEšEhE|
+|[HušAh|
 
  * בערים 1: 
 
 |בֹּעֲרִים 1|
 |-|
 |בֹּעֲרִים 1|
-|bEɣErEyEmE|
+|boɣariym|
 
  * במגלת־ספר 1: 
 
 |בִּמְגִלַּת־סֵפֶר 1|
 |-|
 |בִּמְגִלַת־סֵפֶר 1|
-|bEmEgElEtE־EsEfErE|
+|bimsvgilat־sEfer|
 
  * המזבח 1: 
 
 |הַמִּזְבֵּחַ 1|
 |-|
 |הַמִזְבֵּחַ 1|
-|hEmEzEbEHE|
+|hamizsvbEHa|
 
  * יפוצו 1: 
 
 |יָפוּצוּ 1|
 |-|
 |יָפוּצוּ 1|
-|yEfEuEcEuE|
+|yAfucu|
 
  * בריחי 1: 
 
 |בְּרִיחֵי 1|
 |-|
 |בְּרִיחֵי 1|
-|bErEyEHEyE|
+|bsvriyHEy|
 
  * שסהו 1: 
 
 |שַׁסֻּהוּ 1|
 |-|
 |שַׁסֻהוּ 1|
-|šEsEhEuE|
+|šasuhu|
 
  * הובשת 1: 
 
 |הוֹבַשְׁתָּ 1|
 |-|
 |הוֹֹבַשְׁתָ 1|
-|hEwEvEšEtE|
+|hwovašsvtA|
 
  * שמחות 1: 
 
 |שְׂמָחוֹת 1|
 |-|
 |שְׂמָחוֹֹת 1|
-|SEmEHEwEtE|
+|SsvmAHwot|
 
  * יביעון 1: 
 
 |יַבִּיעוּן 1|
 |-|
 |יַבִּיעוּן 1|
-|yEbEyEɣEuEnE|
+|yabiyɣun|
 
  * תחכמני 1: 
 
 |תְּחַכְּמֵנִי 1|
 |-|
 |תְחַכְּמֵנִי 1|
-|tEHEkEmEnEyE|
+|tsvHaksvmEniy|
 
  * ומשפטיו 1: 
 
 |וּמִשְׁפָּטָיו 1|
 |-|
 |וּמִשְׁפָּטָיו 1|
-|uEmEšEpETEyEwE|
+|umišsvpATAyw|
 
  * עד־מרום 1: 
 
 |עַד־מָרוֹם 1|
 |-|
 |עַד־מָרוֹֹם 1|
-|ɣEdE־EmErEwEmE|
+|ɣad־mArwom|
 
  * אהלו 1: 
 
 |אָהֳלוֹ 1|
 |-|
 |אָהֳלוֹֹ 1|
-|'EhElEwE|
+|'AhAlwo|
 
  * יניעון 1: 
 
 |יְנִיעוּן 1|
 |-|
 |יְנִיעוּן 1|
-|yEnEyEɣEuEnE|
+|ysvniyɣun|
 
  * משאול 1: 
 
 |מִשְּׁאוֹל 1|
 |-|
 |מִשְׁאוֹֹל 1|
-|mEšE'EwElE|
+|mišsv'wol|
 
  * לעגי 1: 
 
 |לַעֲגֵי 1|
 |-|
 |לַעֲגֵי 1|
-|lEɣEgEyE|
+|laɣagEy|
 
  * ובן־אדם 1: 
 
 |וּבֶן־אָדָם 1|
 |-|
 |וּבֶן־אָדָם 1|
-|uEvEnE־E'EdEmE|
+|uven־'AdAm|
 
  * המהלך 1: 
 
 |הַמְהַלֵּךְ 1|
 |-|
 |הַמְהַלֵךְ 1|
-|hEmEhElExE|
+|hamsvhalExsv|
 
  * לטוב 1: 
 
 |לְטוֹב 1|
 |-|
 |לְטוֹֹב 1|
-|lETEwEvE|
+|lsvTwov|
 
  * את־ארץ־כנען 1: 
 
 |אֶת־אֶרֶץ־כְּנָעַן 1|
 |-|
 |אֶת־אֶרֶץ־כְּנָעַן 1|
-|'EtE־E'ErEcE־EkEnEɣEnE|
+|'et־'erec־ksvnAɣan|
 
  * על־נפש 1: 
 
 |עַל־נֶפֶשׁ 1|
 |-|
 |עַל־נֶפֶשׁ 1|
-|ɣElE־EnEfEšE|
+|ɣal־nefeš|
 
  * ונתעודד 1: 
 
 |וַנִּתְעוֹדָד 1|
 |-|
 |וַנִתְעוֹֹדָד 1|
-|wEnEtEɣEwEdEdE|
+|wanitsvɣwodAd|
 
  * וכל־משבריך 1: 
 
 |וְכָל־מִשְׁבָּרֶיךָ 1|
 |-|
 |וְכָל־מִשְׁבָּרֶיךָ 1|
-|wExElE־EmEšEbErEyExE|
+|wsvxAl־mišsvbAreyxA|
 
  * כערב 1: 
 
 |כְּעֹרֵב 1|
 |-|
 |כְּעֹרֵב 1|
-|kEɣErEvE|
+|ksvɣorEv|
 
  * הפליא 1: 
 
 |הִפְלִיא 1|
 |-|
 |הִפְלִיא 1|
-|hEfElEyE'E|
+|hifsvliy'|
 
  * אפרחיה 1: 
 
 |אֶפְרֹחֶיהָ 1|
 |-|
 |אֶפְרֹחֶיהָ 1|
-|'EfErEHEyEhE|
+|'efsvroHeyhA|
 
  * ישחקו 1: 
 
 |יִשְׂחָקוּ 1|
 |-|
 |יִשְׂחָקוּ 1|
-|yESEHEqEuE|
+|yiSsvHAqu|
 
  * לעשותם 1: 
 
 |לַעֲשׂוֹתָם 1|
 |-|
 |לַעֲשׂוֹֹתָם 1|
-|lEɣESEwEtEmE|
+|laɣaSwotAm|
 
  * וממצוקתיהם 1: 
 
 |וּמִמְּצוּקֹתֵיהֶם 1|
 |-|
 |וּמִמְצוּקֹתֵיהֶם 1|
-|uEmEmEcEuEqEtEyEhEmE|
+|umimsvcuqotEyhem|
 
  * והנשאו 1: 
 
 |וְהִנָּשְׂאוּ 1|
 |-|
 |וְהִנָשְׂאוּ 1|
-|wEhEnESE'EuE|
+|wsvhinASsv'u|
 
  * על־משכבו 1: 
 
 |עַל־מִשְׁכָּבוֹ 1|
 |-|
 |עַל־מִשְׁכָּבוֹֹ 1|
-|ɣElE־EmEšEkEvEwE|
+|ɣal־mišsvkAvwo|
 
  * תפלות 1: 
 
 |תְפִלּוֹת 1|
 |-|
 |תְפִלוֹֹת 1|
-|tEfElEwEtE|
+|tsvfilwot|
 
  * כסל 1: 
 
 |כֵּסֶל 1|
 |-|
 |כֵּסֶל 1|
-|kEsElE|
+|kEsel|
 
  * במצלות 1: 
 
 |בִּמְצֹלוֹת 1|
 |-|
 |בִּמְצֹלוֹֹת 1|
-|bEmEcElEwEtE|
+|bimsvcolwot|
 
  * על־יונת 1: 
 
 |עַל־יוֹנַת 1|
 |-|
 |עַל־יוֹֹנַת 1|
-|ɣElE־EyEwEnEtE|
+|ɣal־ywonat|
 
  * על־גז 1: 
 
 |עַל־גֵּז 1|
 |-|
 |עַל־גֵז 1|
-|ɣElE־EgEzE|
+|ɣal־gEz|
 
  * כל־שוביהם 1: 
 
 |כָּל־שׁוֹבֵיהֶם 1|
 |-|
 |כָּל־שׁוֹֹבֵיהֶם 1|
-|kElE־EšEwEvEyEhEmE|
+|kAl־šwovEyhem|
 
  * בכל־קנינו 1: 
 
 |בְּכָל־קִנְיָנוֹ 1|
 |-|
 |בְּכָל־קִנְיָנוֹֹ 1|
-|bExElE־EqEnEyEnEwE|
+|bsvxAl־qinsvyAnwo|
 
  * ועל־לבושי 1: 
 
 |וְעַל־לְבוּשִׁי 1|
 |-|
 |וְעַל־לְבוּשִׁי 1|
-|wEɣElE־ElEvEuEšEyE|
+|wsvɣal־lsvvušiy|
 
  * אכלה־אש 1: 
 
 |אָכְלָה־אֵשׁ 1|
 |-|
 |אָכְלָה־אֵשׁ 1|
-|'ExElEhE־E'EšE|
+|'AxsvlAh־'Eš|
 
  * יתלחשו 1: 
 
 |יִתְלַחֲשׁוּ 1|
 |-|
 |יִתְלַחֲשׁוּ 1|
-|yEtElEHEšEuE|
+|yitsvlaHašu|
 
  * ועוני 1: 
 
 |וַעֲוֺנִי 1|
 |-|
 |וַעֲוֺנִי 1|
-|wEɣEwEnEyE|
+|waɣaw_o_niy|
 
  * אף־שמים 1: 
 
 |אַף־שָׁמַיִם 1|
 |-|
 |אַף־שָׁמַיִם 1|
-|'EfE־EšEmEyEmE|
+|'af־šAmayim|
 
  * רמש 1: 
 
 |רֶמֶשׂ 1|
 |-|
 |רֶמֶשׂ 1|
-|rEmESE|
+|remeS|
 
  * ימי־שנותינו 1: 
 
 |יְמֵי־שְׁנוֹתֵינוּ 1|
 |-|
 |יְמֵי־שְׁנוֹֹתֵינוּ 1|
-|yEmEyE־EšEnEwEtEyEnEuE|
+|ysvmEy־šsvnwotEynu|
 
  * יסעד 1: 
 
 |יִסְעָד 1|
 |-|
 |יִסְעָד 1|
-|yEsEɣEdE|
+|yissvɣAd|
 
  * מסבל 1: 
 
 |מִסֵּבֶל 1|
 |-|
 |מִסֵבֶל 1|
-|mEsEvElE|
+|misEvel|
 
  * תרמיתם 1: 
 
 |תַּרְמִיתָם 1|
 |-|
 |תַרְמִיתָם 1|
-|tErEmEyEtEmE|
+|tarsvmiytAm|
 
  * סביבותיו 1: 
 
 |סְבִיבוֹתָיו 1|
 |-|
 |סְבִיבוֹֹתָיו 1|
-|sEvEyEvEwEtEyEwE|
+|ssvviyvwotAyw|
 
  * לחטוף 1: 
 
 |לַחֲטוֹף 1|
 |-|
 |לַחֲטוֹֹף 1|
-|lEHETEwEfE|
+|laHaTwof|
 
  * מנחל 1: 
 
 |מִנַּחַל 1|
 |-|
 |מִנַחַל 1|
-|mEnEHElE|
+|minaHal|
 
  * תתפתל 1: 
 
 |תִּתְפַּתָּל 1|
 |-|
 |תִתְפַּתָל 1|
-|tEtEpEtElE|
+|titsvpatAl|
 
  * אל־תתנני 1: 
 
 |אַל־תִּתְּנֵנִי 1|
 |-|
 |אַל־תִתְנֵנִי 1|
-|'ElE־EtEtEnEnEyE|
+|'al־titsvnEniy|
 
  * ]על־מה 1: 
 
 |]עַל־מֶה 1|
 |-|
 |]עַל־מֶה 1|
-|]EɣElE־EmEhE|
+|]ɣal־meh|
 
  * מאנו 1: 
 
 |מֵאֲנוּ 1|
 |-|
 |מֵאֲנוּ 1|
-|mE'EnEuE|
+|mE'anu|
 
  * נגד־יהוה 1: 
 
 |נֶגֶד־יְהוָה 1|
 |-|
 |נֶגֶד־יְהוָה 1|
-|nEgEdE־EyEhEwEhE|
+|neged־ysvhwAh|
 
  * סביבות 1: 
 
 |סְבִיבוֹת 1|
 |-|
 |סְבִיבוֹֹת 1|
-|sEvEyEvEwEtE|
+|ssvviyvwot|
 
  * ואתקוטטה 1: 
 
 |וָאֶתְקוֹטָטָה 1|
 |-|
 |וָאֶתְקוֹֹטָטָה 1|
-|wE'EtEqEwETETEhE|
+|wA'etsvqwoTATAh|
 
  * כי־פסו 1: 
 
 |כִּי־פַסּוּ 1|
 |-|
 |כִּי־פַסוּ 1|
-|kEyE־EfEsEuE|
+|kiy־fasu|
 
  * ושמעו 1: 
 
 |וְשָׁמְעוּ 1|
 |-|
 |וְשָׁמְעוּ 1|
-|wEšEmEɣEuE|
+|wsvšAmsvɣu|
 
  * אשתוללו 1: 
 
 |אֶשְׁתּוֹלְלוּ 1|
 |-|
 |אֶשְׁתוֹֹלְלוּ 1|
-|'EšEtEwElElEuE|
+|'ešsvtwolsvlu|
 
  * את־דברי 1: 
 
 |אֶת־דִּבְרֵי 1|
 |-|
 |אֶת־דִבְרֵי 1|
-|'EtE־EdEvErEyE|
+|'et־divsvrEy|
 
  * ותיטב 1: 
 
 |וְתִיטַב 1|
 |-|
 |וְתִיטַב 1|
-|wEtEyETEvE|
+|wsvtiyTav|
 
  * דברים 1: 
 
 |דְּבָרִים 1|
 |-|
 |דְבָרִים 1|
-|dEvErEyEmE|
+|dsvvAriym|
 
  * הראיתנו 1: 
 
 |הראיתנו 1|
 |-|
 |הראיתנו 1|
-|hErE'EyEtEnEwE|
+|hr'ytnw|
 
  * אל־מקדשי־אל 1: 
 
 |אֶל־מִקְדְּשֵׁי־אֵל 1|
 |-|
 |אֶל־מִקְדְשֵׁי־אֵל 1|
-|'ElE־EmEqEdEšEyE־E'ElE|
+|'el־miqsvdsvšEy־'El|
 
  * תשאו־סלה 1: 
 
 |תִּשְׂאוּ־סֶלָה 1|
 |-|
 |תִשְׂאוּ־סֶלָה 1|
-|tESE'EuE־EsElEhE|
+|tiSsv'u־selAh|
 
  * ועם־עקש 1: 
 
 |וְעִם־עִקֵּשׁ 1|
 |-|
 |וְעִם־עִקֵשׁ 1|
-|wEɣEmE־EɣEqEšE|
+|wsvɣim־ɣiqEš|
 
  * וגאלי 1: 
 
 |וְגֹאֲלִי 1|
 |-|
 |וְגֹאֲלִי 1|
-|wEgE'ElEyE|
+|wsvgo'aliy|
 
  * רחמיו 1: 
 
 |רַחֲמָיו 1|
 |-|
 |רַחֲמָיו 1|
-|rEHEmEyEwE|
+|raHamAyw|
 
  * ובמוט 1: 
 
 |וּבְמוֹט 1|
 |-|
 |וּבְמוֹֹט 1|
-|uEvEmEwETE|
+|uvsvmwoT|
 
  * שם־ישראל 1: 
 
 |שֵׁם־יִשְׂרָאֵל 1|
 |-|
 |שֵׁם־יִשְׂרָאֵל 1|
-|šEmE־EyESErE'ElE|
+|šEm־yiSsvrA'El|
 
  * כספו 1: 
 
 |כַּסְפּוֹ 1|
 |-|
 |כַּסְפּוֹֹ 1|
-|kEsEpEwE|
+|kassvpwo|
 
  * הלא־אלהים 1: 
 
 |הֲלֹא־אֱלֹהִים 1|
 |-|
 |הֲלֹא־אֱלֹהִים 1|
-|hElE'E־E'ElEhEyEmE|
+|halo'־'elohiym|
 
  * אל־זן 1: 
 
 |אֶל־זַן 1|
 |-|
 |אֶל־זַן 1|
-|'ElE־EzEnE|
+|'el־zan|
 
  * בתבנית 1: 
 
 |בְּתַבְנִית 1|
 |-|
 |בְּתַבְנִית 1|
-|bEtEvEnEyEtE|
+|bsvtavsvniyt|
 
  * מחמאת 1: 
 
 |מַחְמָאֹת 1|
 |-|
 |מַחְמָאֹת 1|
-|mEHEmE'EtE|
+|maHsvmA'ot|
 
  * טעם 1: 
 
 |טַעַם 1|
 |-|
 |טַעַם 1|
-|TEɣEmE|
+|Taɣam|
 
  * שמחנו 1: 
 
 |שַׂמְּחֵנוּ 1|
 |-|
 |שַׂמְחֵנוּ 1|
-|SEmEHEnEuE|
+|SamsvHEnu|
 
  * לפקדיך 1: 
 
 |לְפִקֻּדֶיךָ 1|
 |-|
 |לְפִקֻדֶיךָ 1|
-|lEfEqEdEyExE|
+|lsvfiqudeyxA|
 
  * קויתיך 1: 
 
 |קִוִּיתִיךָ 1|
 |-|
 |קִוִּיתִיךָ 1|
-|qEuEyEtEyExE|
+|qiuiytiyxA|
 
  * בכל־גבולם 1: 
 
 |בְּכָל־גְּבוּלָם 1|
 |-|
 |בְּכָל־גְבוּלָם 1|
-|bExElE־EgEvEuElEmE|
+|bsvxAl־gsvvulAm|
 
  * בל־חזו 1: 
 
 |בַּל־חָזוּ 1|
 |-|
 |בַּל־חָזוּ 1|
-|bElE־EHEzEuE|
+|bal־HAzu|
 
  * תרב 1: 
 
 |תֶּרֶב 1|
 |-|
 |תֶרֶב 1|
-|tErEvE|
+|terev|
 
  * ינחוני 1: 
 
 |יַנְחוּנִי 1|
 |-|
 |יַנְחוּנִי 1|
-|yEnEHEuEnEyE|
+|yansvHuniy|
 
  * אל־עדתיך 1: 
 
 |אֶל־עֵדֹתֶיךָ 1|
 |-|
 |אֶל־עֵדֹתֶיךָ 1|
-|'ElE־EɣEdEtEyExE|
+|'el־ɣEdoteyxA|
 
  * הון־ועשר 1: 
 
 |הוֹן־וָעֹשֶׁר 1|
 |-|
 |הוֹֹן־וָעֹשֶׁר 1|
-|hEwEnE־EwEɣEšErE|
+|hwon־wAɣošer|
 
  * יחרף 1: 
 
 |יְחָרֶף 1|
 |-|
 |יְחָרֶף 1|
-|yEHErEfE|
+|ysvHAref|
 
  * את־עניי 1: 
 
 |אֶת־עָנְיִי 1|
 |-|
 |אֶת־עָנְיִי 1|
-|'EtE־EɣEnEyEyE|
+|'et־ɣAnsvyiy|
 
  * מרוח 1: 
 
 |מֵרוּחַ 1|
 |-|
 |מֵרוּחַ 1|
-|mErEuEHE|
+|mEruHa|
 
  * לך־אזבח 1: 
 
 |לְךָ־אֶזְבַּח 1|
 |-|
 |לְךָ־אֶזְבַּח 1|
-|lExE־E'EzEbEHE|
+|lsvxA־'ezsvbaH|
 
  * יפיפית 1: 
 
 |יָפְיָפִיתָ 1|
 |-|
 |יָפְיָפִיתָ 1|
-|yEfEyEfEyEtE|
+|yAfsvyAfiytA|
 
  * האדמי 1: 
 
 |הָאֲדֹמִי 1|
 |-|
 |הָאֲדֹמִי 1|
-|hE'EdEmEyE|
+|hA'adomiy|
 
  * יבהלמו 1: 
 
 |יְבַהֲלֵמוֹ 1|
 |-|
 |יְבַהֲלֵמוֹֹ 1|
-|yEvEhElEmEwE|
+|ysvvahalEmwo|
 
  * כרם 1: 
 
 |כְּרֻם 1|
 |-|
 |כְּרֻם 1|
-|kErEmE|
+|ksvrum|
 
  * הרף 1: 
 
 |הֶרֶף 1|
 |-|
 |הֶרֶף 1|
-|hErEfE|
+|heref|
 
  * ישכונו 1: 
 
 |יִשְׁכּוֹנוּ 1|
 |-|
 |יִשְׁכּוֹֹנוּ 1|
-|yEšEkEwEnEuE|
+|yišsvkwonu|
 
  * על־חיקי 1: 
 
 |עַל־חֵיקִי 1|
 |-|
 |עַל־חֵיקִי 1|
-|ɣElE־EHEyEqEyE|
+|ɣal־HEyqiy|
 
  * מי־אל 1: 
 
 |מִי־אֵל 1|
 |-|
 |מִי־אֵל 1|
-|mEyE־E'ElE|
+|miy־'El|
 
  * הקיצתי 1: 
 
 |הֱקִיצֹתִי 1|
 |-|
 |הֱקִיצֹתִי 1|
-|hEqEyEcEtEyE|
+|heqiycotiy|
 
  * כלאתי 1: 
 
 |כָּלִאתִי 1|
 |-|
 |כָּלִאתִי 1|
-|kElE'EtEyE|
+|kAli'tiy|
 
  * ומכלם 1: 
 
 |וּמִכֻּלָּם 1|
 |-|
 |וּמִכֻּלָם 1|
-|uEmEkElEmE|
+|umikulAm|
 
  * תת 1: 
 
 |תֵּת 1|
 |-|
 |תֵת 1|
-|tEtE|
+|tEt|
 
  * ודשן 1: 
 
 |וָדֶשֶׁן 1|
 |-|
 |וָדֶשֶׁן 1|
-|wEdEšEnE|
+|wAdešen|
 
  * יהללוך 1: 
 
 |יְהַלְלוּךָ 1|
 |-|
 |יְהַלְלוּךָ 1|
-|yEhElElEuExE|
+|ysvhalsvluxA|
 
  * ויקץ 1: 
 
 |וַיִּקַץ 1|
 |-|
 |וַיִקַץ 1|
-|wEyEqEcE|
+|wayiqac|
 
  * בעצמי 1: 
 
 |בַּעֲצָמַי 1|
 |-|
 |בַּעֲצָמַי 1|
-|bEɣEcEmEyE|
+|baɣacAmay|
 
  * בערו 1: 
 
 |בָּעֲרוּ 1|
 |-|
 |בָּעֲרוּ 1|
-|bEɣErEuE|
+|bAɣaru|
 
  * בבן־אמך 1: 
 
 |בְּבֶן־אִמְּךָ 1|
 |-|
 |בְּבֶן־אִמְךָ 1|
-|bEvEnE־E'EmExE|
+|bsvven־'imsvxA|
 
  * והקימני 1: 
 
 |וַהֲקִימֵנִי 1|
 |-|
 |וַהֲקִימֵנִי 1|
-|wEhEqEyEmEnEyE|
+|wahaqiymEniy|
 
  * ביהודה 1: 
 
 |בִּיהוּדָה 1|
 |-|
 |בִּיהוּדָה 1|
-|bEyEhEuEdEhE|
+|biyhudAh|
 
  * עליכי 1: 
 
 |עָלָיְכִי 1|
 |-|
 |עָלָיְכִי 1|
-|ɣElEyExEyE|
+|ɣAlAysvxiy|
 
  * וכל־עונתי 1: 
 
 |וְכָל־עֲוֺנֹתַי 1|
 |-|
 |וְכָל־עֲוֺנֹתַי 1|
-|wExElE־EɣEwEnEtEyE|
+|wsvxAl־ɣaw_o_notay|
 
  * לחיתו־ארץ 1: 
 
 |לְחַיְתוֹ־אָרֶץ 1|
 |-|
 |לְחַיְתוֹֹ־אָרֶץ 1|
-|lEHEyEtEwE־E'ErEcE|
+|lsvHaysvtwo־'Arec|
 
  * ילבשו 1: 
 
 |יִלְבְּשׁוּ 1|
 |-|
 |יִלְבְּשׁוּ 1|
-|yElEbEšEuE|
+|yilsvbsvšu|
 
  * מה־אדם 1: 
 
 |מָה־אָדָם 1|
 |-|
 |מָה־אָדָם 1|
-|mEhE־E'EdEmE|
+|mAh־'AdAm|
 
  * בדמעתי 1: 
 
 |בְּדִמְעָתִי 1|
 |-|
 |בְּדִמְעָתִי 1|
-|bEdEmEɣEtEyE|
+|bsvdimsvɣAtiy|
 
  * אמעד 1: 
 
 |אֶמְעָד 1|
 |-|
 |אֶמְעָד 1|
-|'EmEɣEdE|
+|'emsvɣAd|
 
  * היסר 1: 
 
 |הֲיֹסֵר 1|
 |-|
 |הֲיֹסֵר 1|
-|hEyEsErE|
+|hayosEr|
 
  * על־אמתך 1: 
 
 |עַל־אֲמִתֶּךָ 1|
 |-|
 |עַל־אֲמִתֶךָ 1|
-|ɣElE־E'EmEtExE|
+|ɣal־'amitexA|
 
  * תמכר־עמך 1: 
 
 |תִּמְכֹּר־עַמְּךָ 1|
 |-|
 |תִמְכֹּר־עַמְךָ 1|
-|tEmEkErE־EɣEmExE|
+|timsvkor־ɣamsvxA|
 
  * בעבים 1: 
 
 |בְּעָבִים 1|
 |-|
 |בְּעָבִים 1|
-|bEɣEvEyEmE|
+|bsvɣAviym|
 
  * לא־עזבת 1: 
 
 |לֹא־עָזַבְתָּ 1|
 |-|
 |לֹא־עָזַבְתָ 1|
-|lE'E־EɣEzEvEtE|
+|lo'־ɣAzavsvtA|
 
  * [תחייני] 1: 
 
 |[תְּחַיֵּינִי] 1|
 |-|
 |[תְחַיֵינִי] 1|
-|[EtEHEyEyEnEyE]E|
+|[tsvHayEyniy]|
 
  * כל־האמים 1: 
 
 |כָּל־הָאֻמִּים 1|
 |-|
 |כָּל־הָאֻמִים 1|
-|kElE־EhE'EmEyEmE|
+|kAl־hA'umiym|
 
  * תקדמך 1: 
 
 |תְקַדְּמֶךָּ 1|
 |-|
 |תְקַדְמֶךָּ 1|
-|tEqEdEmEkE|
+|tsvqadsvmekA|
 
  * תזנח 1: 
 
 |תִּזְנַח 1|
 |-|
 |תִזְנַח 1|
-|tEzEnEHE|
+|tizsvnaH|
 
  * שימו 1: 
 
 |שִׂימוּ 1|
 |-|
 |שִׂימוּ 1|
-|SEyEmEuE|
+|Siymu|
 
  * והנחם 1: 
 
 |וְהִנָּחֵם 1|
 |-|
 |וְהִנָחֵם 1|
-|wEhEnEHEmE|
+|wsvhinAHEm|
 
  * טפחות 1: 
 
 |טְפָחוֹת 1|
 |-|
 |טְפָחוֹֹת 1|
-|TEfEHEwEtE|
+|TsvfAHwot|
 
  * ואפלטהו 1: 
 
 |וַאֲפַלְּטֵהוּ 1|
 |-|
 |וַאֲפַלְטֵהוּ 1|
-|wE'EfElETEhEuE|
+|wa'afalsvTEhu|
 
  * למותת 1: 
 
 |לְמוֹתֵת 1|
 |-|
 |לְמוֹֹתֵת 1|
-|lEmEwEtEtE|
+|lsvmwotEt|
 
  * נפגשו 1: 
 
 |נִפְגָּשׁוּ 1|
 |-|
 |נִפְגָשׁוּ 1|
-|nEfEgEšEuE|
+|nifsvgAšu|
 
  * אל־תהיו 1: 
 
 |אַל־תִּהְיוּ 1|
 |-|
 |אַל־תִהְיוּ 1|
-|'ElE־EtEhEyEuE|
+|'al־tihsvyu|
 
  * בברותי 1: 
 
 |בְּבָרוּתִי 1|
 |-|
 |בְּבָרוּתִי 1|
-|bEvErEuEtEyE|
+|bsvvArutiy|
 
  * אפתח־פי 1: 
 
 |אֶפְתַּח־פִּי 1|
 |-|
 |אֶפְתַח־פִּי 1|
-|'EfEtEHE־EpEyE|
+|'efsvtaH־piy|
 
  * ונכחידם 1: 
 
 |וְנַכְחִידֵם 1|
 |-|
 |וְנַכְחִידֵם 1|
-|wEnExEHEyEdEmE|
+|wsvnaxsvHiydEm|
 
  * ועליון 1: 
 
 |וְעֶלְיוֹן 1|
 |-|
 |וְעֶלְיוֹֹן 1|
-|wEɣElEyEwEnE|
+|wsvɣelsvywon|
 
  * למות 1: 
 
 |לַמָּוֶת 1|
 |-|
 |לַמָוֶת 1|
-|lEmEwEtE|
+|lamAwet|
 
  * אשר־עשה 1: 
 
 |אֲשֶׁר־עָשָׂה 1|
 |-|
 |אֲשֶׁר־עָשָׂה 1|
-|'EšErE־EɣESEhE|
+|'ašer־ɣASAh|
 
  * במתג־ורסן 1: 
 
 |בְּמֶתֶג־וָרֶסֶן 1|
 |-|
 |בְּמֶתֶג־וָרֶסֶן 1|
-|bEmEtEgE־EwErEsEnE|
+|bsvmeteg־wAresen|
 
  * ונחלים 1: 
 
 |וּנְחָלִים 1|
 |-|
 |וּנְחָלִים 1|
-|uEnEHElEyEmE|
+|unsvHAliym|
 
  * בני־ציון 1: 
 
 |בְּנֵי־צִיּוֹן 1|
 |-|
 |בְּנֵי־צִיוֹֹן 1|
-|bEnEyE־EcEyEwEnE|
+|bsvnEy־ciywon|
 
  * יגמר 1: 
 
 |יִגְמֹר 1|
 |-|
 |יִגְמֹר 1|
-|yEgEmErE|
+|yigsvmor|
 
  * נאור 1: 
 
 |נָאוֹר 1|
 |-|
 |נָאוֹֹר 1|
-|nE'EwErE|
+|nA'wor|
 
  * ענית 1: 
 
 |עִנִּיתָ 1|
 |-|
 |עִנִיתָ 1|
-|ɣEnEyEtE|
+|ɣiniytA|
 
  * לבניך 1: 
 
 |לְבָנֶיךָ 1|
 |-|
 |לְבָנֶיךָ 1|
-|lEvEnEyExE|
+|lsvvAneyxA|
 
  * בשחקים 1: 
 
 |בַּשְּׁחָקִים 1|
 |-|
 |בַּשְׁחָקִים 1|
-|bEšEHEqEyEmE|
+|bašsvHAqiym|
 
  * ענייך 1: 
 
 |עֲנִיֶּיךָ 1|
 |-|
 |עֲנִיֶיךָ 1|
-|ɣEnEyEyExE|
+|ɣaniyeyxA|
 
  * ולא־בושו 1: 
 
 |וְלֹא־בוֹשׁוּ 1|
 |-|
 |וְלֹא־בוֹֹשׁוּ 1|
-|wElE'E־EvEwEšEuE|
+|wsvlo'־vwošu|
 
  * ימלטהו 1: 
 
 |יְמַלְּטֵהוּ 1|
 |-|
 |יְמַלְטֵהוּ 1|
-|yEmElETEhEuE|
+|ysvmalsvTEhu|
 
  * על־מזבחך 1: 
 
 |עַל־מִזְבַּחֲךָ 1|
 |-|
 |עַל־מִזְבַּחֲךָ 1|
-|ɣElE־EmEzEbEHExE|
+|ɣal־mizsvbaHaxA|
 
  * ויתאו 1: 
 
 |וְיִתְאָו 1|
 |-|
 |וְיִתְאָו 1|
-|wEyEtE'EwE|
+|wsvyitsv'Aw|
 
  * ישתומם 1: 
 
 |יִשְׁתּוֹמֵם 1|
 |-|
 |יִשְׁתוֹֹמֵם 1|
-|yEšEtEwEmEmE|
+|yišsvtwomEm|
 
  * מברכיו 1: 
 
 |מְבֹרָכָיו 1|
 |-|
 |מְבֹרָכָיו 1|
-|mEvErExEyEwE|
+|msvvorAxAyw|
 
  * הבשתה 1: 
 
 |הֱבִשֹׁתָה 1|
 |-|
 |הֱבִשֹׁתָה 1|
-|hEvEšEtEhE|
+|hevišotAh|
 
  * נשוי־פשע 1: 
 
 |נְשׂוּי־פֶּשַׁע 1|
 |-|
 |נְשׂוּי־פֶּשַׁע 1|
-|nESEuEyE־EpEšEɣE|
+|nsvSuy־pešaɣ|
 
  * צורריך 1: 
 
 |צוֹרְרֶיךָ 1|
 |-|
 |צוֹֹרְרֶיךָ 1|
-|cEwErErEyExE|
+|cworsvreyxA|
 
  * יקננו 1: 
 
 |יְקַנֵּנוּ 1|
 |-|
 |יְקַנֵנוּ 1|
-|yEqEnEnEuE|
+|ysvqanEnu|
 
  * ברע 1: 
 
 |בְרָע 1|
 |-|
 |בְרָע 1|
-|vErEɣE|
+|vsvrAɣ|
 
  * כנד 1: 
 
 |כַּנֵּד 1|
 |-|
 |כַּנֵד 1|
-|kEnEdE|
+|kanEd|
 
  * פצחו 1: 
 
 |פִּצְחוּ 1|
 |-|
 |פִּצְחוּ 1|
-|pEcEHEuE|
+|picsvHu|
 
  * אשפט 1: 
 
 |אֶשְׁפֹּט 1|
 |-|
 |אֶשְׁפֹּט 1|
-|'EšEpETE|
+|'ešsvpoT|
 
  * ושכן 1: 
 
 |וּשְׁכֹן 1|
 |-|
 |וּשְׁכֹן 1|
-|uEšExEnE|
+|ušsvxon|
 
  * חקר 1: 
 
 |חֵקֶר 1|
 |-|
 |חֵקֶר 1|
-|HEqErE|
+|HEqer|
 
  * וידבר 1: 
 
 |וַיַּדְבֵּר 1|
 |-|
 |וַיַדְבֵּר 1|
-|wEyEdEbErE|
+|wayadsvbEr|
 
  * את־העמים 1: 
 
 |אֶת־הָעַמִּים 1|
 |-|
 |אֶת־הָעַמִים 1|
-|'EtE־EhEɣEmEyEmE|
+|'et־hAɣamiym|
 
  * את־לחמי 1: 
 
 |אֶת־לֹחֲמָי 1|
 |-|
 |אֶת־לֹחֲמָי 1|
-|'EtE־ElEHEmEyE|
+|'et־loHamAy|
 
  * אל־תשטפני 1: 
 
 |אַל־תִּשְׁטְפֵנִי 1|
 |-|
 |אַל־תִשְׁטְפֵנִי 1|
-|'ElE־EtEšETEfEnEyE|
+|'al־tišsvTsvfEniy|
 
  * מסלע 1: 
 
 |מִסָּלַע 1|
 |-|
 |מִסָלַע 1|
-|mEsElEɣE|
+|misAlaɣ|
 
  * כגדל 1: 
 
 |כְּגֹדֶל 1|
 |-|
 |כְּגֹדֶל 1|
-|kEgEdElE|
+|ksvgodel|
 
  * כלביך 1: 
 
 |כְּלָבֶיךָ 1|
 |-|
 |כְּלָבֶיךָ 1|
-|kElEvEyExE|
+|ksvlAveyxA|
 
  * ויקר 1: 
 
 |וְיֵקַר 1|
 |-|
 |וְיֵקַר 1|
-|wEyEqErE|
+|wsvyEqar|
 
  * לא־חסיד 1: 
 
 |לֹא־חָסִיד 1|
 |-|
 |לֹא־חָסִיד 1|
-|lE'E־EHEsEyEdE|
+|lo'־HAsiyd|
 
  * לרצון 1: 
 
 |לְרָצוֹן 1|
 |-|
 |לְרָצוֹֹן 1|
-|lErEcEwEnE|
+|lsvrAcwon|
 
  * תרנן 1: 
 
 |תְּרַנֵּן 1|
 |-|
 |תְרַנֵן 1|
-|tErEnEnE|
+|tsvranEn|
 
  * לחוץ 1: 
 
 |לַחוּץ 1|
 |-|
 |לַחוּץ 1|
-|lEHEuEcE|
+|laHuc|
 
  * ואל־תשכחי 1: 
 
 |וְאַל־תִּשְׁכְּחִי 1|
 |-|
 |וְאַל־תִשְׁכְּחִי 1|
-|wE'ElE־EtEšEkEHEyE|
+|wsv'al־tišsvksvHiy|
 
  * כארץ־עיפה 1: 
 
 |כְּאֶרֶץ־עֲיֵפָה 1|
 |-|
 |כְּאֶרֶץ־עֲיֵפָה 1|
-|kE'ErEcE־EɣEyEfEhE|
+|ksv'erec־ɣayEfAh|
 
  * ולא־יעזב 1: 
 
 |וְלֹא־יַעֲזֹב 1|
 |-|
 |וְלֹא־יַעֲזֹב 1|
-|wElE'E־EyEɣEzEvE|
+|wsvlo'־yaɣazov|
 
  * ובהמתם 1: 
 
 |וּבְהֶמְתָּם 1|
 |-|
 |וּבְהֶמְתָם 1|
-|uEvEhEmEtEmE|
+|uvsvhemsvtAm|
 
  * לראשו 1: 
 
 |לְרֹאשׁוֹ 1|
 |-|
 |לְרֹאשׁוֹֹ 1|
-|lErE'EšEwE|
+|lsvro'šwo|
 
  * חוגג 1: 
 
 |חוֹגֵג 1|
 |-|
 |חוֹֹגֵג 1|
-|HEwEgEgE|
+|HwogEg|
 
  * ינועון 1: 
 
 |ינועון 1|
 |-|
 |ינועון 1|
-|yEnEwEɣEwEnE|
+|ynwɣwn|
 
  * תהי־טירתם 1: 
 
 |תְּהִי־טִירָתָם 1|
 |-|
 |תְהִי־טִירָתָם 1|
-|tEhEyE־ETEyErEtEmE|
+|tsvhiy־TiyrAtAm|
 
  * ומלחמה 1: 
 
 |וּמִלְחָמָה 1|
 |-|
 |וּמִלְחָמָה 1|
-|uEmElEHEmEhE|
+|umilsvHAmAh|
 
  * ונכאה 1: 
 
 |וְנִכְאֵה 1|
 |-|
 |וְנִכְאֵה 1|
-|wEnExE'EhE|
+|wsvnixsv'Eh|
 
  * שפכו־לפניו 1: 
 
 |שִׁפְכוּ־לְפָנָיו 1|
 |-|
 |שִׁפְכוּ־לְפָנָיו 1|
-|šEfExEuE־ElEfEnEyEwE|
+|šifsvxu־lsvfAnAyw|
 
  * וקרן־ישעי 1: 
 
 |וְקֶרֶן־יִשְׁעִי 1|
 |-|
 |וְקֶרֶן־יִשְׁעִי 1|
-|wEqErEnE־EyEšEɣEyE|
+|wsvqeren־yišsvɣiy|
 
  * כאור 1: 
 
 |כָאוֹר 1|
 |-|
 |כָאוֹֹר 1|
-|xE'EwErE|
+|xA'wor|
 
  * נפלאתיך 1: 
 
 |נִפְלְאֹתֶיךָ 1|
 |-|
 |נִפְלְאֹתֶיךָ 1|
-|nEfElE'EtEyExE|
+|nifsvlsv'oteyxA|
 
  * דבר־שפתימו 1: 
 
 |דְּבַר־שְׂפָתֵימוֹ 1|
 |-|
 |דְבַר־שְׂפָתֵימוֹֹ 1|
-|dEvErE־ESEfEtEyEmEwE|
+|dsvvar־SsvfAtEymwo|
 
  * וסביביו 1: 
 
 |וּסְבִיבָיו 1|
 |-|
 |וּסְבִיבָיו 1|
-|uEsEvEyEvEyEwE|
+|ussvviyvAyw|
 
  * ימנע־טוב 1: 
 
 |יִמְנַע־טוֹב 1|
 |-|
 |יִמְנַע־טוֹֹב 1|
-|yEmEnEɣE־ETEwEvE|
+|yimsvnaɣ־Twov|
 
  * אל־יראיו 1: 
 
 |אֶל־יְרֵאָיו 1|
 |-|
 |אֶל־יְרֵאָיו 1|
-|'ElE־EyErE'EyEwE|
+|'el־ysvrE'Ayw|
 
  * נכחד 1: 
 
 |נְכַחֵד 1|
 |-|
 |נְכַחֵד 1|
-|nExEHEdE|
+|nsvxaHEd|
 
  * ונחלתו 1: 
 
 |וְנַחֲלָתוֹ 1|
 |-|
 |וְנַחֲלָתוֹֹ 1|
-|wEnEHElEtEwE|
+|wsvnaHalAtwo|
 
  * וחרפות 1: 
 
 |וְחֶרְפּוֹת 1|
 |-|
 |וְחֶרְפּוֹֹת 1|
-|wEHErEpEwEtE|
+|wsvHersvpwot|
 
  * יכרסמנה 1: 
 
 |יְכַרְסְמֶנָּה 1|
 |-|
 |יְכַרְסְמֶנָה 1|
-|yExErEsEmEnEhE|
+|ysvxarsvssvmenAh|
 
  * יפריחו 1: 
 
 |יַפְרִיחוּ 1|
 |-|
 |יַפְרִיחוּ 1|
-|yEfErEyEHEuE|
+|yafsvriyHu|
 
  * שיחננו 1: 
 
 |שֶׁיְּחָנֵּנוּ 1|
 |-|
 |שֶׁיְחָנֵנוּ 1|
-|šEyEHEnEnEuE|
+|šeysvHAnEnu|
 
  * יתהלכו־למו 1: 
 
 |יִתְהַלְּכוּ־לָמוֹ 1|
 |-|
 |יִתְהַלְכוּ־לָמוֹֹ 1|
-|yEtEhElExEuE־ElEmEwE|
+|yitsvhalsvxu־lAmwo|
 
  * בציות 1: 
 
 |בַּצִּיּוֹת 1|
 |-|
 |בַּצִיוֹֹת 1|
-|bEcEyEwEtE|
+|baciywot|
 
  * ורבעי 1: 
 
 |וְרִבְעִי 1|
 |-|
 |וְרִבְעִי 1|
-|wErEvEɣEyE|
+|wsvrivsvɣiy|
 
  * כעיר 1: 
 
 |כְּעִיר 1|
 |-|
 |כְּעִיר 1|
-|kEɣEyErE|
+|ksvɣiyr|
 
  * במנים 1: 
 
 |בְּמִנִּים 1|
 |-|
 |בְּמִנִים 1|
-|bEmEnEyEmE|
+|bsvminiym|
 
  * מקדש 1: 
 
 |מִקֹּדֶשׁ 1|
 |-|
 |מִקֹדֶשׁ 1|
-|mEqEdEšE|
+|miqodeš|
 
  * והטי 1: 
 
 |וְהַטִּי 1|
 |-|
 |וְהַטִי 1|
-|wEhETEyE|
+|wsvhaTiy|
 
  * יהי־שלחנם 1: 
 
 |יְהִי־שֻׁלְחָנָם 1|
 |-|
 |יְהִי־שֻׁלְחָנָם 1|
-|yEhEyE־EšElEHEnEmE|
+|ysvhiy־šulsvHAnAm|
 
  * אולם 1: 
 
 |אוּלָם 1|
 |-|
 |אוּלָם 1|
-|'EuElEmE|
+|'ulAm|
 
  * קורא 1: 
 
 |קוֹרֵא 1|
 |-|
 |קוֹֹרֵא 1|
-|qEwErE'E|
+|qworE'|
 
  * אשוחח 1: 
 
 |אֲשׂוֹחֵחַ 1|
 |-|
 |אֲשׂוֹֹחֵחַ 1|
-|'ESEwEHEHE|
+|'aSwoHEHa|
 
  * נקמת 1: 
 
 |נִקְמַת 1|
 |-|
 |נִקְמַת 1|
-|nEqEmEtE|
+|niqsvmat|
 
  * ישמיד 1: 
 
 |יַשְׁמִיד 1|
 |-|
 |יַשְׁמִיד 1|
-|yEšEmEyEdE|
+|yašsvmiyd|
 
  * היצר 1: 
 
 |הַיֹּצֵר 1|
 |-|
 |הַיֹצֵר 1|
-|hEyEcErE|
+|hayocEr|
 
  * האון 1: 
 
 |הָאָוֶן 1|
 |-|
 |הָאָוֶן 1|
-|hE'EwEnE|
+|hA'Awen|
 
  * למבול 1: 
 
 |לַמַּבּוּל 1|
 |-|
 |לַמַבּוּל 1|
-|lEmEbEuElE|
+|lamabul|
 
  * תרצה 1: 
 
 |תִרְצֶה 1|
 |-|
 |תִרְצֶה 1|
-|tErEcEhE|
+|tirsvceh|
 
  * ישלם 1: 
 
 |יְשַׁלֵּם 1|
 |-|
 |יְשַׁלֵם 1|
-|yEšElEmE|
+|ysvšalEm|
 
  * הפח 1: 
 
 |הַפַּח 1|
 |-|
 |הַפַּח 1|
-|hEpEHE|
+|hapaH|
 
  * מלכותו 1: 
 
 |מַלְכוּתוֹ 1|
 |-|
 |מַלְכוּתוֹֹ 1|
-|mElExEuEtEwE|
+|malsvxutwo|
 
  * ממקדשיך 1: 
 
 |מִמִּקְדָּשֶׁיךָ 1|
 |-|
 |מִמִקְדָשֶׁיךָ 1|
-|mEmEqEdEšEyExE|
+|mimiqsvdAšeyxA|
 
  * שעשעתי 1: 
 
 |שִׁעֲשָׁעְתִּי 1|
 |-|
 |שִׁעֲשָׁעְתִי 1|
-|šEɣEšEɣEtEyE|
+|šiɣašAɣsvtiy|
 
  * ותרץ 1: 
 
 |וַתִּרֶץ 1|
 |-|
 |וַתִרֶץ 1|
-|wEtErEcE|
+|watirec|
 
  * עביו 1: 
 
 |עָבָיו 1|
 |-|
 |עָבָיו 1|
-|ɣEvEyEwE|
+|ɣAvAyw|
 
  * יהבך 1: 
 
 |יְהָבְךָ 1|
 |-|
 |יְהָבְךָ 1|
-|yEhEvExE|
+|ysvhAvsvxA|
 
  * אביוניה 1: 
 
 |אֶבְיוֹנֶיהָ 1|
 |-|
 |אֶבְיוֹֹנֶיהָ 1|
-|'EvEyEwEnEyEhE|
+|'evsvywoneyhA|
 
  * לעפעפי 1: 
 
 |לְעַפְעַפַּי 1|
 |-|
 |לְעַפְעַפַּי 1|
-|lEɣEfEɣEpEyE|
+|lsvɣafsvɣapay|
 
  * נצרתם 1: 
 
 |נְצָרָתַם 1|
 |-|
 |נְצָרָתַם 1|
-|nEcErEtEmE|
+|nsvcArAtam|
 
  * בגיא 1: 
 
 |בְּגֵיא 1|
 |-|
 |בְּגֵיא 1|
-|bEgEyE'E|
+|bsvgEy'|
 
  * חרפי 1: 
 
 |חֹרְפִי 1|
 |-|
 |חֹרְפִי 1|
-|HErEfEyE|
+|Horsvfiy|
 
  * ימות 1: 
 
 |יָמוּת 1|
 |-|
 |יָמוּת 1|
-|yEmEuEtE|
+|yAmut|
 
  * וחרבי 1: 
 
 |וְחַרְבִּי 1|
 |-|
 |וְחַרְבִּי 1|
-|wEHErEbEyE|
+|wsvHarsvbiy|
 
  * אל־תעלני 1: 
 
 |אַל־תַּעֲלֵנִי 1|
 |-|
 |אַל־תַעֲלֵנִי 1|
-|'ElE־EtEɣElEnEyE|
+|'al־taɣalEniy|
 
  * למדבר 1: 
 
 |לְמִדְבָּר 1|
 |-|
 |לְמִדְבָּר 1|
-|lEmEdEbErE|
+|lsvmidsvbAr|
 
  * ובלשונם 1: 
 
 |וּבִלְשׁוֹנָם 1|
 |-|
 |וּבִלְשׁוֹֹנָם 1|
-|uEvElEšEwEnEmE|
+|uvilsvšwonAm|
 
  * בכבלי 1: 
 
 |בְּכַבְלֵי 1|
 |-|
 |בְּכַבְלֵי 1|
-|bExEvElEyE|
+|bsvxavsvlEy|
 
  * ותוללינו 1: 
 
 |וְתוֹלָלֵינוּ 1|
 |-|
 |וְתוֹֹלָלֵינוּ 1|
-|wEtEwElElEyEnEuE|
+|wsvtwolAlEynu|
 
  * זכור 1: 
 
 |זָכוּר 1|
 |-|
 |זָכוּר 1|
-|zExEuErE|
+|zAxur|
 
  * לא־אקח 1: 
 
 |לֹא־אֶקַּח 1|
 |-|
 |לֹא־אֶקַח 1|
-|lE'E־E'EqEHE|
+|lo'־'eqaH|
 
  * אביך 1: 
 
 |אָבִיךְ 1|
 |-|
 |אָבִיךְ 1|
-|'EvEyExE|
+|'Aviyxsv|
 
  * צובה 1: 
 
 |צוֹבָה 1|
 |-|
 |צוֹֹבָה 1|
-|cEwEvEhE|
+|cwovAh|
 
  * לנפלאתיו 1: 
 
 |לְנִפְלְאֹתָיו 1|
 |-|
 |לְנִפְלְאֹתָיו 1|
-|lEnEfElE'EtEyEwE|
+|lsvnifsvlsv'otAyw|
 
  * הגיד 1: 
 
 |הִגִּיד 1|
 |-|
 |הִגִיד 1|
-|hEgEyEdE|
+|higiyd|
 
  * לא־שכח 1: 
 
 |לֹא־שָׁכַח 1|
 |-|
 |לֹא־שָׁכַח 1|
-|lE'E־EšExEHE|
+|lo'־šAxaH|
 
  * עד־שמים 1: 
 
 |עַד־שָׁמַיִם 1|
 |-|
 |עַד־שָׁמַיִם 1|
-|ɣEdE־EšEmEyEmE|
+|ɣad־šAmayim|
 
  * ופי 1: 
 
 |וּפִי 1|
 |-|
 |וּפִי 1|
-|uEfEyE|
+|ufiy|
 
  * בהררי־אלף 1: 
 
 |בְּהַרְרֵי־אָלֶף 1|
 |-|
 |בְּהַרְרֵי־אָלֶף 1|
-|bEhErErEyE־E'ElEfE|
+|bsvharsvrEy־'Alef|
 
  * ממעי 1: 
 
 |מִמְּעֵי 1|
 |-|
 |מִמְעֵי 1|
-|mEmEɣEyE|
+|mimsvɣEy|
 
  * אכין 1: 
 
 |אָכִין 1|
 |-|
 |אָכִין 1|
-|'ExEyEnE|
+|'Axiyn|
 
  * באשמיו 1: 
 
 |בַּאֲשָׁמָיו 1|
 |-|
 |בַּאֲשָׁמָיו 1|
-|bE'EšEmEyEwE|
+|ba'ašAmAyw|
 
  * קצות 1: 
 
 |קְצָוֺת 1|
 |-|
 |קְצָוֺת 1|
-|qEcEwEtE|
+|qsvcAw_o_t|
 
  * המתהללים 1: 
 
 |הַמִּתְהַלְלִים 1|
 |-|
 |הַמִתְהַלְלִים 1|
-|hEmEtEhElElEyEmE|
+|hamitsvhalsvliym|
 
  * בנשך 1: 
 
 |בְּנֶשֶׁךְ 1|
 |-|
 |בְּנֶשֶׁךְ 1|
-|bEnEšExE|
+|bsvnešexsv|
 
  * עצמותי 1: 
 
 |עַצְמוֹתַי 1|
 |-|
 |עַצְמוֹֹתַי 1|
-|ɣEcEmEwEtEyE|
+|ɣacsvmwotay|
 
  * היא־לי 1: 
 
 |הִיא־לִי 1|
 |-|
 |הִיא־לִי 1|
-|hEyE'E־ElEyE|
+|hiy'־liy|
 
  * על־אמרתך 1: 
 
 |עַל־אִמְרָתֶךָ 1|
 |-|
 |עַל־אִמְרָתֶךָ 1|
-|ɣElE־E'EmErEtExE|
+|ɣal־'imsvrAtexA|
 
  * בצאת 1: 
 
 |בְּצֵאת 1|
 |-|
 |בְּצֵאת 1|
-|bEcE'EtE|
+|bsvcE't|
 
  * יענם 1: 
 
 |יַעֲנֵם 1|
 |-|
 |יַעֲנֵם 1|
-|yEɣEnEmE|
+|yaɣanEm|
 
  * ותירושם 1: 
 
 |וְתִירוֹשָׁם 1|
 |-|
 |וְתִירוֹֹשָׁם 1|
-|wEtEyErEwEšEmE|
+|wsvtiyrwošAm|
 
  * לתשועה 1: 
 
 |לִתְשׁוּעָה 1|
 |-|
 |לִתְשׁוּעָה 1|
-|lEtEšEuEɣEhE|
+|litsvšuɣAh|
 
  * כפעלם 1: 
 
 |כְּפָעֳלָם 1|
 |-|
 |כְּפָעֳלָם 1|
-|kEfEɣElEmE|
+|ksvfAɣAlAm|
 
  * אל־פעלת 1: 
 
 |אֶל־פְּעֻלֹּת 1|
 |-|
 |אֶל־פְּעֻלֹת 1|
-|'ElE־EpEɣElEtE|
+|'el־psvɣulot|
 
  * תגיל 1: 
 
 |תָּגִיל 1|
 |-|
 |תָגִיל 1|
-|tEgEyElE|
+|tAgiyl|
 
  * כנפי 1: 
 
 |כַּנְפֵי 1|
 |-|
 |כַּנְפֵי 1|
-|kEnEfEyE|
+|kansvfEy|
 
  * במישור 1: 
 
 |בְמִישׁוֹר 1|
 |-|
 |בְמִישׁוֹֹר 1|
-|vEmEyEšEwErE|
+|vsvmiyšwor|
 
  * תהי־לו 1: 
 
 |תְּהִי־לוֹ 1|
 |-|
 |תְהִי־לוֹֹ 1|
-|tEhEyE־ElEwE|
+|tsvhiy־lwo|
 
  * עם־אבותינו 1: 
 
 |עִם־אֲבוֹתֵינוּ 1|
 |-|
 |עִם־אֲבוֹֹתֵינוּ 1|
-|ɣEmE־E'EvEwEtEyEnEuE|
+|ɣim־'avwotEynu|
 
  * ובר־לבב 1: 
 
 |וּבַר־לֵבָב 1|
 |-|
 |וּבַר־לֵבָב 1|
-|uEvErE־ElEvEvE|
+|uvar־lEvAv|
 
  * יכשלו 1: 
 
 |יִכָּשְׁלוּ 1|
 |-|
 |יִכָּשְׁלוּ 1|
-|yEkEšElEuE|
+|yikAšsvlu|
 
  * עם־נחלתך 1: 
 
 |עִם־נַחֲלָתֶךָ 1|
 |-|
 |עִם־נַחֲלָתֶךָ 1|
-|ɣEmE־EnEHElEtExE|
+|ɣim־naHalAtexA|
 
  * מי־יגור 1: 
 
 |מִי־יָגוּר 1|
 |-|
 |מִי־יָגוּר 1|
-|mEyE־EyEgEuErE|
+|miy־yAgur|
 
  * וכליות 1: 
 
 |וּכְלָיוֹת 1|
 |-|
 |וּכְלָיוֹֹת 1|
-|uExElEyEwEtE|
+|uxsvlAywot|
 
  * יבנה 1: 
 
 |יִבָּנֶה 1|
 |-|
 |יִבָּנֶה 1|
-|yEbEnEhE|
+|yibAneh|
 
  * כבוד־שמו 1: 
 
 |כְבוֹד־שְׁמוֹ 1|
 |-|
 |כְבוֹֹד־שְׁמוֹֹ 1|
-|xEvEwEdE־EšEmEwE|
+|xsvvwod־šsvmwo|
 
  * מקדשו 1: 
 
 |מִקְדָּשׁוֹ 1|
 |-|
 |מִקְדָשׁוֹֹ 1|
-|mEqEdEšEwE|
+|miqsvdAšwo|
 
  * המגדילים 1: 
 
 |הַמַּגְדִּילִים 1|
 |-|
 |הַמַגְדִילִים 1|
-|hEmEgEdEyElEyEmE|
+|hamagsvdiyliym|
 
  * קרחו 1: 
 
 |קַרְחוֹ 1|
 |-|
 |קַרְחוֹֹ 1|
-|qErEHEwE|
+|qarsvHwo|
 
  * פנו 1: 
 
 |פָּנוּ 1|
 |-|
 |פָּנוּ 1|
-|pEnEuE|
+|pAnu|
 
  * הללו־אל 1: 
 
 |הַלְלוּ־אֵל 1|
 |-|
 |הַלְלוּ־אֵל 1|
-|hElElEuE־E'ElE|
+|halsvlu־'El|
 
  * זרעם 1: 
 
 |זַרְעָם 1|
 |-|
 |זַרְעָם 1|
-|zErEɣEmE|
+|zarsvɣAm|
 
  * אשר־פדם 1: 
 
 |אֲ‍שֶׁר־פָּדָם 1|
 |-|
 |אֲשֶׁר־פָּדָם 1|
-|'EšErE־EpEdEmE|
+|'ašer־pAdAm|
 
  * תלין 1: 
 
 |תָּלִין 1|
 |-|
 |תָלִין 1|
-|tElEyEnE|
+|tAliyn|
 
  * ואלפים 1: 
 
 |וַאֲלָפִים 1|
 |-|
 |וַאֲלָפִים 1|
-|wE'ElEfEyEmE|
+|wa'alAfiym|
 
  * אבר 1: 
 
 |אֵבֶר 1|
 |-|
 |אֵבֶר 1|
-|'EvErE|
+|'Ever|
 
  * ותשועתך 1: 
 
 |וּתְשׁוּעָתְךָ 1|
 |-|
 |וּתְשׁוּעָתְךָ 1|
-|uEtEšEuEɣEtExE|
+|utsvšuɣAtsvxA|
 
  * ויטעו 1: 
 
 |וַיִּטְּעוּ 1|
 |-|
 |וַיִטְעוּ 1|
-|wEyETEɣEuE|
+|wayiTsvɣu|
 
  * יבצר 1: 
 
 |יִבְצֹר 1|
 |-|
 |יִבְצֹר 1|
-|yEvEcErE|
+|yivsvcor|
 
  * ברכתך 1: 
 
 |בִרְכָתֶךָ 1|
 |-|
 |בִרְכָתֶךָ 1|
-|vErExEtExE|
+|virsvxAtexA|
 
  * כי־לשמך 1: 
 
 |כִּי־לְשִׁמְךָ 1|
 |-|
 |כִּי־לְשִׁמְךָ 1|
-|kEyE־ElEšEmExE|
+|kiy־lsvšimsvxA|
 
  * ואשעה 1: 
 
 |וְאֶשְׁעָה 1|
 |-|
 |וְאֶשְׁעָה 1|
-|wE'EšEɣEhE|
+|wsv'ešsvɣAh|
 
  * מסבלים 1: 
 
 |מְסֻבָּלִים 1|
 |-|
 |מְסֻבָּלִים 1|
-|mEsEbElEyEmE|
+|msvsubAliym|
 
  * ביד 1: 
 
 |בְּיָד 1|
 |-|
 |בְּיָד 1|
-|bEyEdE|
+|bsvyAd|
 
  * שלחו 1: 
 
 |שִׁלְחוּ 1|
 |-|
 |שִׁלְחוּ 1|
-|šElEHEuE|
+|šilsvHu|
 
  * על־איש 1: 
 
 |עַל־אִישׁ 1|
 |-|
 |עַל־אִישׁ 1|
-|ɣElE־E'EyEšE|
+|ɣal־'iyš|
 
  * ירשיעו 1: 
 
 |יַרְשִׁיעוּ 1|
 |-|
 |יַרְשִׁיעוּ 1|
-|yErEšEyEɣEuE|
+|yarsvšiyɣu|
 
  * פקדני 1: 
 
 |פָּקְדֵנִי 1|
 |-|
 |פָּקְדֵנִי 1|
-|pEqEdEnEyE|
+|pAqsvdEniy|
 
  * הלוא־משנאיך 1: 
 
 |הֲלוֹא־מְשַׂנְאֶיךָ 1|
 |-|
 |הֲלוֹֹא־מְשַׂנְאֶיךָ 1|
-|hElEwE'E־EmESEnE'EyExE|
+|halwo'־msvSansv'eyxA|
 
  * הנעורים 1: 
 
 |הַנְּעוּרִים 1|
 |-|
 |הַנְעוּרִים 1|
-|hEnEɣEuErEyEmE|
+|hansvɣuriym|
 
  * השמעת 1: 
 
 |הִשְׁמַעְתָּ 1|
 |-|
 |הִשְׁמַעְתָ 1|
-|hEšEmEɣEtE|
+|hišsvmaɣsvtA|
 
  * על־דרך 1: 
 
 |עַל־דֶּרֶךְ 1|
 |-|
 |עַל־דֶרֶךְ 1|
-|ɣElE־EdErExE|
+|ɣal־derexsv|
 
  * לברכה 1: 
 
 |לִבְרָכָה 1|
 |-|
 |לִבְרָכָה 1|
-|lEvErExEhE|
+|livsvrAxAh|
 
  * לערך 1: 
 
 |לַעֲרֹךְ 1|
 |-|
 |לַעֲרֹךְ 1|
-|lEɣErExE|
+|laɣaroxsv|
 
  * יוכיח 1: 
 
 |יוֹכִיחַ 1|
 |-|
 |יוֹֹכִיחַ 1|
-|yEwExEyEHE|
+|ywoxiyHa|
 
  * על־רשעים 1: 
 
 |עַל־רְשָׁעִים 1|
 |-|
 |עַל־רְשָׁעִים 1|
-|ɣElE־ErEšEɣEyEmE|
+|ɣal־rsvšAɣiym|
 
  * וכוסי 1: 
 
 |וְכוֹסִי 1|
 |-|
 |וְכוֹֹסִי 1|
-|wExEwEsEyE|
+|wsvxwosiy|
 
  * אבירם 1: 
 
 |אֲבִירָם 1|
 |-|
 |אֲבִירָם 1|
-|'EvEyErEmE|
+|'aviyrAm|
 
  * ראש־דברך 1: 
 
 |רֹאשׁ־דְּבָרְךָ 1|
 |-|
 |רֹאשׁ־דְבָרְךָ 1|
-|rE'EšE־EdEvErExE|
+|ro'š־dsvvArsvxA|
 
  * כצנה 1: 
 
 |כַּצִּנָּה 1|
 |-|
 |כַּצִנָה 1|
-|kEcEnEhE|
+|kacinAh|
 
  * בצאתם 1: 
 
 |בְּצֵאתָם 1|
 |-|
 |בְּצֵאתָם 1|
-|bEcE'EtEmE|
+|bsvcE'tAm|
 
  * מעדו 1: 
 
 |מָעֲדוּ 1|
 |-|
 |מָעֲדוּ 1|
-|mEɣEdEuE|
+|mAɣadu|
 
  * נסכתי 1: 
 
 |נָסַכְתִּי 1|
 |-|
 |נָסַכְתִי 1|
-|nEsExEtEyE|
+|nAsaxsvtiy|
 
  * מבטחו 1: 
 
 |מִבְטַחוֹ 1|
 |-|
 |מִבְטַחוֹֹ 1|
-|mEvETEHEwE|
+|mivsvTaHwo|
 
  * ואינמו 1: 
 
 |וְאֵינֵמוֹ 1|
 |-|
 |וְאֵינֵמוֹֹ 1|
-|wE'EyEnEmEwE|
+|wsv'EynEmwo|
 
  * אב 1: 
 
 |אָב 1|
 |-|
 |אָב 1|
-|'EvE|
+|'Av|
 
  * ואנחתי 1: 
 
 |וְאַנְחָתִי 1|
 |-|
 |וְאַנְחָתִי 1|
-|wE'EnEHEtEyE|
+|wsv'ansvHAtiy|
 
  * יכנו 1: 
 
 |יִכֹּנוּ 1|
 |-|
 |יִכֹּנוּ 1|
-|yEkEnEuE|
+|yikonu|
 
  * עם־אהלי 1: 
 
 |עִם־אָהֳלֵי 1|
 |-|
 |עִם־אָהֳלֵי 1|
-|ɣEmE־E'EhElEyE|
+|ɣim־'AhAlEy|
 
  * עומדת 1: 
 
 |עוֹמֶדֶת 1|
 |-|
 |עוֹֹמֶדֶת 1|
-|ɣEwEmEdEtE|
+|ɣwomedet|
 
  * צעקו 1: 
 
 |צָעֲקוּ 1|
 |-|
 |צָעֲקוּ 1|
-|cEɣEqEuE|
+|cAɣaqu|
 
  * לפקד 1: 
 
 |לִפְקֹד 1|
 |-|
 |לִפְקֹד 1|
-|lEfEqEdE|
+|lifsvqod|
 
  * נחר 1: 
 
 |נִחַר 1|
 |-|
 |נִחַר 1|
-|nEHErE|
+|niHar|
 
  * לשכניו 1: 
 
 |לִשְׁכֵנָיו 1|
 |-|
 |לִשְׁכֵנָיו 1|
-|lEšExEnEyEwE|
+|lišsvxEnAyw|
 
  * תעשה 1: 
 
 |תַּעֲשֶׂה 1|
 |-|
 |תַעֲשֶׂה 1|
-|tEɣESEhE|
+|taɣaSeh|
 
  * ונחתה 1: 
 
 |וְנִחֲתָה 1|
 |-|
 |וְנִחֲתָה 1|
-|wEnEHEtEhE|
+|wsvniHatAh|
 
  * ינהגנו 1: 
 
 |יְנַהֲגֵנוּ 1|
 |-|
 |יְנַהֲגֵנוּ 1|
-|yEnEhEgEnEuE|
+|ysvnahagEnu|
 
  * לחרפות 1: 
 
 |לַחֲרָפוֹת 1|
 |-|
 |לַחֲרָפוֹֹת 1|
-|lEHErEfEwEtE|
+|laHarAfwot|
 
  * את־הירח 1: 
 
 |אֶת־הַיָּרֵחַ 1|
 |-|
 |אֶת־הַיָרֵחַ 1|
-|'EtE־EhEyErEHE|
+|'et־hayArEHa|
 
  * הנשמה 1: 
 
 |הַנְּשָׁמָה 1|
 |-|
 |הַנְשָׁמָה 1|
-|hEnEšEmEhE|
+|hansvšAmAh|
 
  * יעטו 1: 
 
 |יַעֲטוּ 1|
 |-|
 |יַעֲטוּ 1|
-|yEɣETEuE|
+|yaɣaTu|
 
  * אותי 1: 
 
 |אוֹתִי 1|
 |-|
 |אוֹֹתִי 1|
-|'EwEtEyE|
+|'wotiy|
 
  * מר 1: 
 
 |מָר 1|
 |-|
 |מָר 1|
-|mErE|
+|mAr|
 
  * ועולה 1: 
 
 |וְעַוְלָה 1|
 |-|
 |וְעַוְלָה 1|
-|wEɣEwElEhE|
+|wsvɣawsvlAh|
 
  * יקדמוני 1: 
 
 |יְקַדְּמוּנִי 1|
 |-|
 |יְקַדְמוּנִי 1|
-|yEqEdEmEuEnEyE|
+|ysvqadsvmuniy|
 
  * יפתח־פיו 1: 
 
 |יִפְתַּח־פִּיו 1|
 |-|
 |יִפְתַח־פִּיו 1|
-|yEfEtEHE־EpEyEwE|
+|yifsvtaH־piyw|
 
  * ולא־שמחת 1: 
 
 |וְלֹא־שִׂמַּחְתָּ 1|
 |-|
 |וְלֹא־שִׂמַחְתָ 1|
-|wElE'E־ESEmEHEtE|
+|wsvlo'־SimaHsvtA|
 
  * מחזק 1: 
 
 |מֵחָזָק 1|
 |-|
 |מֵחָזָק 1|
-|mEHEzEqE|
+|mEHAzAq|
 
  * הסגיר 1: 
 
 |הִסְגִּיר 1|
 |-|
 |הִסְגִיר 1|
-|hEsEgEyErE|
+|hissvgiyr|
 
  * תמוג 1: 
 
 |תָּמוּג 1|
 |-|
 |תָמוּג 1|
-|tEmEuEgE|
+|tAmug|
 
  * רעהו 1: 
 
 |רֵעֵהוּ 1|
 |-|
 |רֵעֵהוּ 1|
-|rEɣEhEuE|
+|rEɣEhu|
 
  * מצודות 1: 
 
 |מְצוּדוֹת 1|
 |-|
 |מְצוּדוֹֹת 1|
-|mEcEuEdEwEtE|
+|msvcudwot|
 
  * ונפרש 1: 
 
 |וַנִּפְרֹשׂ 1|
 |-|
 |וַנִפְרֹשׂ 1|
-|wEnEfErESE|
+|wanifsvroS|
 
  * בל־יעברון 1: 
 
 |בַּל־יַעֲבֹרוּן 1|
 |-|
 |בַּל־יַעֲבֹרוּן 1|
-|bElE־EyEɣEvErEuEnE|
+|bal־yaɣavorun|
 
  * מלא־טוב 1: 
 
 |מִלֵּא־טוֹב 1|
 |-|
 |מִלֵא־טוֹֹב 1|
-|mElE'E־ETEwEvE|
+|milE'־Twov|
 
  * המאזרני 1: 
 
 |הַמְאַזְּרֵנִי 1|
 |-|
 |הַמְאַזְרֵנִי 1|
-|hEmE'EzErEnEyE|
+|hamsv'azsvrEniy|
 
  * הזרעים 1: 
 
 |הַזֹּרְעִים 1|
 |-|
 |הַזֹרְעִים 1|
-|hEzErEɣEyEmE|
+|hazorsvɣiym|
 
  * ואמת־יהוה 1: 
 
 |וֶאֱמֶת־יְהוָה 1|
 |-|
 |וֶאֱמֶת־יְהוָה 1|
-|wE'EmEtE־EyEhEwEhE|
+|we'emet־ysvhwAh|
 
  * המשלח 1: 
 
 |הַמְשַׁלֵּחַ 1|
 |-|
 |הַמְשַׁלֵחַ 1|
-|hEmEšElEHE|
+|hamsvšalEHa|
 
  * ביתו 1: 
 
 |בֵּיתוֹ 1|
 |-|
 |בֵּיתוֹֹ 1|
-|bEyEtEwE|
+|bEytwo|
 
  * אבותיכם 1: 
 
 |אֲבוֹתֵיכֶם 1|
 |-|
 |אֲבוֹֹתֵיכֶם 1|
-|'EvEwEtEyExEmE|
+|'avwotEyxem|
 
  * כלוני 1: 
 
 |כִּלּוּנִי 1|
 |-|
 |כִּלוּנִי 1|
-|kElEuEnEyE|
+|kiluniy|
 
  * במארב 1: 
 
 |בְּמַאְרַב 1|
 |-|
 |בְּמַאְרַב 1|
-|bEmE'ErEvE|
+|bsvma'svrav|
 
  * ויעקב 1: 
 
 |וְיַעֲקֹב 1|
 |-|
 |וְיַעֲקֹב 1|
-|wEyEɣEqEvE|
+|wsvyaɣaqov|
 
  * שפטו־דל 1: 
 
 |שִׁפְטוּ־דַל 1|
 |-|
 |שִׁפְטוּ־דַל 1|
-|šEfETEuE־EdElE|
+|šifsvTu־dal|
 
  * תמהו 1: 
 
 |תָּמָהוּ 1|
 |-|
 |תָמָהוּ 1|
-|tEmEhEuE|
+|tAmAhu|
 
  * ממעמקים 1: 
 
 |מִמַּעֲמַקִּים 1|
 |-|
 |מִמַעֲמַקִים 1|
-|mEmEɣEmEqEyEmE|
+|mimaɣamaqiym|
 
  * ולא־יעיר 1: 
 
 |וְלֹא־יָעִיר 1|
 |-|
 |וְלֹא־יָעִיר 1|
-|wElE'E־EyEɣEyErE|
+|wsvlo'־yAɣiyr|
 
  * והניחו 1: 
 
 |וְהִנִּיחוּ 1|
 |-|
 |וְהִנִיחוּ 1|
-|wEhEnEyEHEuE|
+|wsvhiniyHu|
 
  * ומנשה 1: 
 
 |וּמְנַשֶּׁה 1|
 |-|
 |וּמְנַשֶׁה 1|
-|uEmEnEšEhE|
+|umsvnašeh|
 
  * וריב 1: 
 
 |וְרִיב 1|
 |-|
 |וְרִיב 1|
-|wErEyEvE|
+|wsvriyv|
 
  * לשואה 1: 
 
 |לְשׁוֹאָה 1|
 |-|
 |לְשׁוֹֹאָה 1|
-|lEšEwE'EhE|
+|lsvšwo'Ah|
 
  * ירבו 1: 
 
 |יִרְבּוּ 1|
 |-|
 |יִרְבּוּ 1|
-|yErEbEuE|
+|yirsvbu|
 
  * נושקי 1: 
 
 |נוֹשְׁקֵי 1|
 |-|
 |נוֹֹשְׁקֵי 1|
-|nEwEšEqEyE|
+|nwošsvqEy|
 
  * אל־תשגני 1: 
 
 |אַל־תַּשְׁגֵּנִי 1|
 |-|
 |אַל־תַשְׁגֵנִי 1|
-|'ElE־EtEšEgEnEyE|
+|'al־tašsvgEniy|
 
  * בעגלי 1: 
 
 |בְּעֶגְלֵי 1|
 |-|
 |בְּעֶגְלֵי 1|
-|bEɣEgElEyE|
+|bsvɣegsvlEy|
 
  * לא־יטש 1: 
 
 |לֹא־יִטֹּשׁ 1|
 |-|
 |לֹא־יִטֹשׁ 1|
-|lE'E־EyETEšE|
+|lo'־yiToš|
 
  * נגרזתי 1: 
 
 |נִגְרַזְתִּי 1|
 |-|
 |נִגְרַזְתִי 1|
-|nEgErEzEtEyE|
+|nigsvrazsvtiy|
 
  * ייראוך 1: 
 
 |יִירָאוּךָ 1|
 |-|
 |יִירָאוּךָ 1|
-|yEyErE'EuExE|
+|yiyrA'uxA|
 
  * אל־היכל־קדשך 1: 
 
 |אֶל־הֵיכַל־קָדְשְׁךָ 1|
 |-|
 |אֶל־הֵיכַל־קָדְשְׁךָ 1|
-|'ElE־EhEyExElE־EqEdEšExE|
+|'el־hEyxal־qAdsvšsvxA|
 
  * ויברך 1: 
 
 |וִיבָרֵךְ 1|
 |-|
 |וִיבָרֵךְ 1|
-|wEyEvErExE|
+|wiyvArExsv|
 
  * יעשו־עגל 1: 
 
 |יַעֲשׂוּ־עֵגֶל 1|
 |-|
 |יַעֲשׂוּ־עֵגֶל 1|
-|yEɣESEuE־EɣEgElE|
+|yaɣaSu־ɣEgel|
 
  * איש־בער 1: 
 
 |אִישׁ־בַּעַר 1|
 |-|
 |אִישׁ־בַּעַר 1|
-|'EyEšE־EbEɣErE|
+|'iyš־baɣar|
 
  * חסידך 1: 
 
 |חֲסִידְךָ 1|
 |-|
 |חֲסִידְךָ 1|
-|HEsEyEdExE|
+|HasiydsvxA|
 
  * זרח 1: 
 
 |זָרַח 1|
 |-|
 |זָרַח 1|
-|zErEHE|
+|zAraH|
 
  * ענקתמו 1: 
 
 |עֲנָקַתְמוֹ 1|
 |-|
 |עֲנָקַתְמוֹֹ 1|
-|ɣEnEqEtEmEwE|
+|ɣanAqatsvmwo|
 
  * יחללו 1: 
 
 |יְחַלֵּלוּ 1|
 |-|
 |יְחַלֵלוּ 1|
-|yEHElElEuE|
+|ysvHalElu|
 
  * ושלם 1: 
 
 |וְשַׁלֵּם 1|
 |-|
 |וְשַׁלֵם 1|
-|wEšElEmE|
+|wsvšalEm|
 
  * עצת־עני 1: 
 
 |עֲצַת־עָנִי 1|
 |-|
 |עֲצַת־עָנִי 1|
-|ɣEcEtE־EɣEnEyE|
+|ɣacat־ɣAniy|
 
  * רדף 1: 
 
 |רָדַף 1|
 |-|
 |רָדַף 1|
-|rEdEfE|
+|rAdaf|
 
  * משחיתותם 1: 
 
 |מִשְּׁחִיתוֹתָם 1|
 |-|
 |מִשְׁחִיתוֹֹתָם 1|
-|mEšEHEyEtEwEtEmE|
+|mišsvHiytwotAm|
 
  * ומציון 1: 
 
 |וּמִצִּיּוֹן 1|
 |-|
 |וּמִצִיוֹֹן 1|
-|uEmEcEyEwEnE|
+|umiciywon|
 
  * בכסה 1: 
 
 |בַּכֵּסֶה 1|
 |-|
 |בַּכֵּסֶה 1|
-|bEkEsEhE|
+|bakEseh|
 
  * ובחורי 1: 
 
 |וּבַחוּרֵי 1|
 |-|
 |וּבַחוּרֵי 1|
-|uEvEHEuErEyE|
+|uvaHurEy|
 
  * מחרון 1: 
 
 |מֵחֲרוֹן 1|
 |-|
 |מֵחֲרוֹֹן 1|
-|mEHErEwEnE|
+|mEHarwon|
 
  * ושלום 1: 
 
 |וְשָׁלוֹם 1|
 |-|
 |וְשָׁלוֹֹם 1|
-|wEšElEwEmE|
+|wsvšAlwom|
 
  * מקרב־לי 1: 
 
 |מִקֲּרָב־לִי 1|
 |-|
 |מִקֲרָב־לִי 1|
-|mEqErEvE־ElEyE|
+|miqarAv־liy|
 
  * בשת 1: 
 
 |בֹּשֶׁת 1|
 |-|
 |בֹּשֶׁת 1|
-|bEšEtE|
+|bošet|
 
  * וחקתיו 1: 
 
 |וְחֻקֹּתָיו 1|
 |-|
 |וְחֻקֹתָיו 1|
-|wEHEqEtEyEwE|
+|wsvHuqotAyw|
 
  * ואהמה 1: 
 
 |וְאֶהֱמֶה 1|
 |-|
 |וְאֶהֱמֶה 1|
-|wE'EhEmEhE|
+|wsv'ehemeh|
 
  * נסמכתי 1: 
 
 |נִסְמַכְתִּי 1|
 |-|
 |נִסְמַכְתִי 1|
-|nEsEmExEtEyE|
+|nissvmaxsvtiy|
 
  * יראה־למו 1: 
 
 |יִרְאֶה־לָּמוֹ 1|
 |-|
 |יִרְאֶה־לָמוֹֹ 1|
-|yErE'EhE־ElEmEwE|
+|yirsv'eh־lAmwo|
 
  * ואראה 1: 
 
 |וְאֵרָאֶה 1|
 |-|
 |וְאֵרָאֶה 1|
-|wE'ErE'EhE|
+|wsv'ErA'eh|
 
  * יצילני 1: 
 
 |יַצִּילֵנִי 1|
 |-|
 |יַצִילֵנִי 1|
-|yEcEyElEnEyE|
+|yaciylEniy|
 
  * גאולי 1: 
 
 |גְּאוּלֵי 1|
 |-|
 |גְאוּלֵי 1|
-|gE'EuElEyE|
+|gsv'ulEy|
 
  * ותחנף 1: 
 
 |וַתֶּחֱנַף 1|
 |-|
 |וַתֶחֱנַף 1|
-|wEtEHEnEfE|
+|wateHenaf|
 
  * ובטח 1: 
 
 |וּבְטַח 1|
 |-|
 |וּבְטַח 1|
-|uEvETEHE|
+|uvsvTaH|
 
  * רומי־קשת 1: 
 
 |רוֹמֵי־קָשֶׁת 1|
 |-|
 |רוֹֹמֵי־קָשֶׁת 1|
-|rEwEmEyE־EqEšEtE|
+|rwomEy־qAšet|
 
  * אבשלום 1: 
 
 |אַבְשָׁלוֹם 1|
 |-|
 |אַבְשָׁלוֹֹם 1|
-|'EvEšElEwEmE|
+|'avsvšAlwom|
 
  * קנינך 1: 
 
 |קִנְיָנֶךָ 1|
 |-|
 |קִנְיָנֶךָ 1|
-|qEnEyEnExE|
+|qinsvyAnexA|
 
  * וישג 1: 
 
 |וְיַשֵּׂג 1|
 |-|
 |וְיַשֵׂג 1|
-|wEyESEgE|
+|wsvyaSEg|
 
  * מעבדך 1: 
 
 |מֵעַבְדֶּךָ 1|
 |-|
 |מֵעַבְדֶךָ 1|
-|mEɣEvEdExE|
+|mEɣavsvdexA|
 
  * לחילה 1: 
 
 |לְחֵילָה 1|
 |-|
 |לְחֵילָה 1|
-|lEHEyElEhE|
+|lsvHEylAh|
 
  * עונתינו 1: 
 
 |עֲוֺנֹתֵינוּ 1|
 |-|
 |עֲוֺנֹתֵינוּ 1|
-|ɣEwEnEtEyEnEuE|
+|ɣaw_o_notEynu|
 
  * דרשיו 1: 
 
 |דֹּרְשָׁיו 1|
 |-|
 |דֹרְשָׁיו 1|
-|dErEšEyEwE|
+|dorsvšAyw|
 
  * זקנה 1: 
 
 |זִקְנָה 1|
 |-|
 |זִקְנָה 1|
-|zEqEnEhE|
+|ziqsvnAh|
 
  * ירביצני 1: 
 
 |יַרְבִּיצֵנִי 1|
 |-|
 |יַרְבִּיצֵנִי 1|
-|yErEbEyEcEnEyE|
+|yarsvbiycEniy|
 
  * הורד 1: 
 
 |הוֹרֵד 1|
 |-|
 |הוֹֹרֵד 1|
-|hEwErEdE|
+|hworEd|
 
  * עצומים 1: 
 
 |עֲצוּמִים 1|
 |-|
 |עֲצוּמִים 1|
-|ɣEcEuEmEyEmE|
+|ɣacumiym|
 
  * יראני 1: 
 
 |יַרְאֵנִי 1|
 |-|
 |יַרְאֵנִי 1|
-|yErE'EnEyE|
+|yarsv'Eniy|
 
  * ויעמידם 1: 
 
 |וַיַּעֲמִידֵם 1|
 |-|
 |וַיַעֲמִידֵם 1|
-|wEyEɣEmEyEdEmE|
+|wayaɣamiydEm|
 
  * יחס 1: 
 
 |יָחֹס 1|
 |-|
 |יָחֹס 1|
-|yEHEsE|
+|yAHos|
 
  * למענותם 1: 
 
 |למענותם 1|
 |-|
 |למענותם 1|
-|lEmEɣEnEwEtEmE|
+|lmɣnwtm|
 
  * ואלמנתיו 1: 
 
 |וְאַלְמְנֹתָיו 1|
 |-|
 |וְאַלְמְנֹתָיו 1|
-|wE'ElEmEnEtEyEwE|
+|wsv'alsvmsvnotAyw|
 
  * על־לשנו 1: 
 
 |עַל־לְשֹׁנוֹ 1|
 |-|
 |עַל־לְשֹׁנוֹֹ 1|
-|ɣElE־ElEšEnEwE|
+|ɣal־lsvšonwo|
 
  * [ידותון] 1: 
 
 |[יְדוּתוּן] 1|
 |-|
 |[יְדוּתוּן] 1|
-|[EyEdEuEtEuEnE]E|
+|[ysvdutun]|
 
  * תרחם 1: 
 
 |תְּרַחֵם 1|
 |-|
 |תְרַחֵם 1|
-|tErEHEmE|
+|tsvraHEm|
 
  * ונקיתי 1: 
 
 |וְנִקֵּיתִי 1|
 |-|
 |וְנִקֵיתִי 1|
-|wEnEqEyEtEyE|
+|wsvniqEytiy|
 
  * ידידת 1: 
 
 |יְדִידֹת 1|
 |-|
 |יְדִידֹת 1|
-|yEdEyEdEtE|
+|ysvdiydot|
 
  * ולשמך 1: 
 
 |וּלְשִׁמְךָ 1|
 |-|
 |וּלְשִׁמְךָ 1|
-|uElEšEmExE|
+|ulsvšimsvxA|
 
  * כוסם 1: 
 
 |כּוֹסָם 1|
 |-|
 |כּוֹֹסָם 1|
-|kEwEsEmE|
+|kwosAm|
 
  * המו 1: 
 
 |הָמוּ 1|
 |-|
 |הָמוּ 1|
-|hEmEuE|
+|hAmu|
 
  * אין־יש־רוח 1: 
 
 |אֵין־יֶשׁ־רוּחַ 1|
 |-|
 |אֵין־יֶשׁ־רוּחַ 1|
-|'EyEnE־EyEšE־ErEuEHE|
+|'Eyn־yeš־ruHa|
 
  * לכל־חי 1: 
 
 |לְכָל־חַי 1|
 |-|
 |לְכָל־חַי 1|
-|lExElE־EHEyE|
+|lsvxAl־Hay|
 
  * אשר־בידיהם 1: 
 
 |אֲשֶׁר־בִּידֵיהֶם 1|
 |-|
 |אֲשֶׁר־בִּידֵיהֶם 1|
-|'EšErE־EbEyEdEyEhEmE|
+|'ašer־biydEyhem|
 
  * חצב 1: 
 
 |חֹצֵב 1|
 |-|
 |חֹצֵב 1|
-|HEcEvE|
+|HocEv|
 
  * חזק 1: 
 
 |חֲזַק 1|
 |-|
 |חֲזַק 1|
-|HEzEqE|
+|Hazaq|
 
  * עפעפיו 1: 
 
 |עַפְעַפָּיו 1|
 |-|
 |עַפְעַפָּיו 1|
-|ɣEfEɣEpEyEwE|
+|ɣafsvɣapAyw|
 
  * טפלו 1: 
 
 |טָפְלוּ 1|
 |-|
 |טָפְלוּ 1|
-|TEfElEuE|
+|TAfsvlu|
 
  * שישלם־לך 1: 
 
 |שֶׁיְשַׁלֶּם־לָךְ 1|
 |-|
 |שֶׁיְשַׁלֶם־לָךְ 1|
-|šEyEšElEmE־ElExE|
+|šeysvšalem־lAxsv|
 
  * על־ירך 1: 
 
 |עַל־יָרֵךְ 1|
 |-|
 |עַל־יָרֵךְ 1|
-|ɣElE־EyErExE|
+|ɣal־yArExsv|
 
  * תומיך 1: 
 
 |תּוֹמִיךְ 1|
 |-|
 |תוֹֹמִיךְ 1|
-|tEwEmEyExE|
+|twomiyxsv|
 
  * זלעפה 1: 
 
 |זַלְעָפָה 1|
 |-|
 |זַלְעָפָה 1|
-|zElEɣEfEhE|
+|zalsvɣAfAh|
 
  * תמותת 1: 
 
 |תְּמוֹתֵת 1|
 |-|
 |תְמוֹֹתֵת 1|
-|tEmEwEtEtE|
+|tsvmwotEt|
 
  * ורומם 1: 
 
 |וְרוֹמַם 1|
 |-|
 |וְרוֹֹמַם 1|
-|wErEwEmEmE|
+|wsvrwomam|
 
  * אראנו 1: 
 
 |אַרְאֶנּוּ 1|
 |-|
 |אַרְאֶנוּ 1|
-|'ErE'EnEuE|
+|'arsv'enu|
 
  * בוניו 1: 
 
 |בוֹנָיו 1|
 |-|
 |בוֹֹנָיו 1|
-|vEwEnEyEwE|
+|vwonAyw|
 
  * וכל־מלכי 1: 
 
 |וְכָל־מַלְכֵי 1|
 |-|
 |וְכָל־מַלְכֵי 1|
-|wExElE־EmElExEyE|
+|wsvxAl־malsvxEy|
 
  * רדם 1: 
 
 |רֹדֵם 1|
 |-|
 |רֹדֵם 1|
-|rEdEmE|
+|rodEm|
 
  * כצמר 1: 
 
 |כַּצָּמֶר 1|
 |-|
 |כַּצָמֶר 1|
-|kEcEmErE|
+|kacAmer|
 
  * בדרך־זו 1: 
 
 |בְּדֶרֶךְ־זוּ 1|
 |-|
 |בְּדֶרֶךְ־זוּ 1|
-|bEdErExE־EzEuE|
+|bsvderexsv־zu|
 
  * עלית 1: 
 
 |עָלִיתָ 1|
 |-|
 |עָלִיתָ 1|
-|ɣElEyEtE|
+|ɣAliytA|
 
  * חצרים 1: 
 
 |חֲצֵרִים 1|
 |-|
 |חֲצֵרִים 1|
-|HEcErEyEmE|
+|HacEriym|
 
  * נהפך 1: 
 
 |נֶהְפַּךְ 1|
 |-|
 |נֶהְפַּךְ 1|
-|nEhEpExE|
+|nehsvpaxsv|
 
  * תרעם 1: 
 
 |תְּרֹעֵם 1|
 |-|
 |תְרֹעֵם 1|
-|tErEɣEmE|
+|tsvroɣEm|
 
  * למחול 1: 
 
 |לְמָחוֹל 1|
 |-|
 |לְמָחוֹֹל 1|
-|lEmEHEwElE|
+|lsvmAHwol|
 
  * שפטים 1: 
 
 |שֹׁפְטִים 1|
 |-|
 |שֹׁפְטִים 1|
-|šEfETEyEmE|
+|šofsvTiym|
 
  * צעקת 1: 
 
 |צַעֲקַת 1|
 |-|
 |צַעֲקַת 1|
-|cEɣEqEtE|
+|caɣaqat|
 
  * ויחר־אף 1: 
 
 |וַיִּחַר־אַף 1|
 |-|
 |וַיִחַר־אַף 1|
-|wEyEHErE־E'EfE|
+|wayiHar־'af|
 
  * תורא 1: 
 
 |תִּוָּרֵא 1|
 |-|
 |תִוָּרֵא 1|
-|tEuErE'E|
+|tiuArE'|
 
  * כוס 1: 
 
 |כוֹס 1|
 |-|
 |כוֹֹס 1|
-|xEwEsE|
+|xwos|
 
  * ואדם 1: 
 
 |וְאָדָם 1|
 |-|
 |וְאָדָם 1|
-|wE'EdEmE|
+|wsv'AdAm|
 
  * כמו־דר 1: 
 
 |כְּמוֹ־דֹר 1|
 |-|
 |כְּמוֹֹ־דֹר 1|
-|kEmEwE־EdErE|
+|ksvmwo־dor|
 
  * מיין 1: 
 
 |מִיָּיִן 1|
 |-|
 |מִיָיִן 1|
-|mEyEyEnE|
+|miyAyin|
 
  * לרשת 1: 
 
 |לָרֶשֶׁת 1|
 |-|
 |לָרֶשֶׁת 1|
-|lErEšEtE|
+|lArešet|
 
  * כבסני 1: 
 
 |כַּבְּסֵנִי 1|
 |-|
 |כַּבְּסֵנִי 1|
-|kEbEsEnEyE|
+|kabsvsEniy|
 
  * ובסופתך 1: 
 
 |וּבְסוּפָתְךָ 1|
 |-|
 |וּבְסוּפָתְךָ 1|
-|uEvEsEuEfEtExE|
+|uvsvsufAtsvxA|
 
  * תם 1: 
 
 |תָּם 1|
 |-|
 |תָם 1|
-|tEmE|
+|tAm|
 
  * הדיחמו 1: 
 
 |הַדִּיחֵמוֹ 1|
 |-|
 |הַדִיחֵמוֹֹ 1|
-|hEdEyEHEmEwE|
+|hadiyHEmwo|
 
  * על־בן־אדם 1: 
 
 |עַל־בֶּן־אָדָם 1|
 |-|
 |עַל־בֶּן־אָדָם 1|
-|ɣElE־EbEnE־E'EdEmE|
+|ɣal־ben־'AdAm|
 
  * שקדתי 1: 
 
 |שָׁקַדְתִּי 1|
 |-|
 |שָׁקַדְתִי 1|
-|šEqEdEtEyE|
+|šAqadsvtiy|
 
  * הטה 1: 
 
 |הַטֵּה 1|
 |-|
 |הַטֵה 1|
-|hETEhE|
+|haTEh|
 
  * בעטף 1: 
 
 |בַּעֲטֹף 1|
 |-|
 |בַּעֲטֹף 1|
-|bEɣETEfE|
+|baɣaTof|
 
  * אל־השמים 1: 
 
 |אֶל־הַשָּׁמַיִם 1|
 |-|
 |אֶל־הַשָׁמַיִם 1|
-|'ElE־EhEšEmEyEmE|
+|'el־hašAmayim|
 
  * גם־חשך 1: 
 
 |גַּם־חֹשֶׁךְ 1|
 |-|
 |גַם־חֹשֶׁךְ 1|
-|gEmE־EHEšExE|
+|gam־Hošexsv|
 
  * כי־ינוב 1: 
 
 |כִּי־יָנוּב 1|
 |-|
 |כִּי־יָנוּב 1|
-|kEyE־EyEnEuEvE|
+|kiy־yAnuv|
 
  * מידך 1: 
 
 |מִיָּדְךָ 1|
 |-|
 |מִיָדְךָ 1|
-|mEyEdExE|
+|miyAdsvxA|
 
  * אלפי 1: 
 
 |אַלְפֵי 1|
 |-|
 |אַלְפֵי 1|
-|'ElEfEyE|
+|'alsvfEy|
 
  * כל־מוסדי 1: 
 
 |כָּל־מוֹסְדֵי 1|
 |-|
 |כָּל־מוֹֹסְדֵי 1|
-|kElE־EmEwEsEdEyE|
+|kAl־mwossvdEy|
 
  * חרשים 1: 
 
 |חֹרְשִׁים 1|
 |-|
 |חֹרְשִׁים 1|
-|HErEšEyEmE|
+|Horsvšiym|
 
  * ראיתה 1: 
 
 |רָאִיתָה 1|
 |-|
 |רָאִיתָה 1|
-|rE'EyEtEhE|
+|rA'iytAh|
 
  * כי־רוצה 1: 
 
 |כִּי־רוֹצֶה 1|
 |-|
 |כִּי־רוֹֹצֶה 1|
-|kEyE־ErEwEcEhE|
+|kiy־rwoceh|
 
  * העמדת 1: 
 
 |הֶעֱמַדְתָּ 1|
 |-|
 |הֶעֱמַדְתָ 1|
-|hEɣEmEdEtE|
+|heɣemadsvtA|
 
  * כמו־הגה 1: 
 
 |כְמוֹ־הֶגֶה 1|
 |-|
 |כְמוֹֹ־הֶגֶה 1|
-|xEmEwE־EhEgEhE|
+|xsvmwo־hegeh|
 
  * לפניה 1: 
 
 |לְפָנֶיהָ 1|
 |-|
 |לְפָנֶיהָ 1|
-|lEfEnEyEhE|
+|lsvfAneyhA|
 
  * ואחשבה 1: 
 
 |וָאֲחַשְּׁבָה 1|
 |-|
 |וָאֲחַשְׁבָה 1|
-|wE'EHEšEvEhE|
+|wA'aHašsvvAh|
 
  * ותפארת 1: 
 
 |וְתִפְאֶרֶת 1|
 |-|
 |וְתִפְאֶרֶת 1|
-|wEtEfE'ErEtE|
+|wsvtifsv'eret|
 
  * למנוחתך 1: 
 
 |לִמְנוּחָתֶךָ 1|
 |-|
 |לִמְנוּחָתֶךָ 1|
-|lEmEnEuEHEtExE|
+|limsvnuHAtexA|
 
  * מזקק 1: 
 
 |מְזֻקָּק 1|
 |-|
 |מְזֻקָק 1|
-|mEzEqEqE|
+|msvzuqAq|
 
  * תשתחוה 1: 
 
 |תִשְׁתַּחֲוֶה 1|
 |-|
 |תִשְׁתַחֲוֶה 1|
-|tEšEtEHEwEhE|
+|tišsvtaHaweh|
 
  * לכל־קראיו 1: 
 
 |לְכָל־קֹרְאָיו 1|
 |-|
 |לְכָל־קֹרְאָיו 1|
-|lExElE־EqErE'EyEwE|
+|lsvxAl־qorsv'Ayw|
 
  * וזוקף 1: 
 
 |וְזוֹקֵף 1|
 |-|
 |וְזוֹֹקֵף 1|
-|wEzEwEqEfE|
+|wsvzwoqEf|
 
  * זה־השער 1: 
 
 |זֶה־הַשַּׁעַר 1|
 |-|
 |זֶה־הַשַׁעַר 1|
-|zEhE־EhEšEɣErE|
+|zeh־hašaɣar|
 
  * ישעתך 1: 
 
 |יְשֻׁעָתֵךְ 1|
 |-|
 |יְשֻׁעָתֵךְ 1|
-|yEšEɣEtExE|
+|ysvšuɣAtExsv|
 
  * ירהו 1: 
 
 |יֹרֻהוּ 1|
 |-|
 |יֹרֻהוּ 1|
-|yErEhEuE|
+|yoruhu|
 
  * זכרנו 1: 
 
 |זְכָרָנוּ 1|
 |-|
 |זְכָרָנוּ 1|
-|zExErEnEuE|
+|zsvxArAnu|
 
  * לבאם 1: 
 
 |לְבָאִם 1|
 |-|
 |לְבָאִם 1|
-|lEvE'EmE|
+|lsvvA'im|
 
  * נגרה 1: 
 
 |נִגְּרָה 1|
 |-|
 |נִגְרָה 1|
-|nEgErEhE|
+|nigsvrAh|
 
  * ושרים 1: 
 
 |וְשָׁרִים 1|
 |-|
 |וְשָׁרִים 1|
-|wEšErEyEmE|
+|wsvšAriym|
 
  * בחיריו 1: 
 
 |בְּחִירָיו 1|
 |-|
 |בְּחִירָיו 1|
-|bEHEyErEyEwE|
+|bsvHiyrAyw|
 
  * גם־בניהם 1: 
 
 |גַּם־בְּנֵיהֶם 1|
 |-|
 |גַם־בְּנֵיהֶם 1|
-|gEmE־EbEnEyEhEmE|
+|gam־bsvnEyhem|
 
  * כשמן 1: 
 
 |כַּשֶּׁמֶן 1|
 |-|
 |כַּשֶׁמֶן 1|
-|kEšEmEnE|
+|kašemen|
 
  * אם־תקום 1: 
 
 |אִם־תָּקוּם 1|
 |-|
 |אִם־תָקוּם 1|
-|'EmE־EtEqEuEmE|
+|'im־tAqum|
 
  * ולנביאי 1: 
 
 |וְלִנְבִיאַי 1|
 |-|
 |וְלִנְבִיאַי 1|
-|wElEnEvEyE'EyE|
+|wsvlinsvviy'ay|
 
  * נחשת 1: 
 
 |נְחֹשֶׁת 1|
 |-|
 |נְחֹשֶׁת 1|
-|nEHEšEtE|
+|nsvHošet|
 
  * דוי 1: 
 
 |דְּוָי 1|
 |-|
 |דְוָי 1|
-|dEwEyE|
+|dsvwAy|
 
  * ואדנינו 1: 
 
 |וַאֲדֹנֵינוּ 1|
 |-|
 |וַאֲדֹנֵינוּ 1|
-|wE'EdEnEyEnEuE|
+|wa'adonEynu|
 
  * ואינני 1: 
 
 |וְאֵינֶנִּי 1|
 |-|
 |וְאֵינֶנִי 1|
-|wE'EyEnEnEyE|
+|wsv'Eyneniy|
 
  * כנפי־שחר 1: 
 
 |כַנְפֵי־שָׁחַר 1|
 |-|
 |כַנְפֵי־שָׁחַר 1|
-|xEnEfEyE־EšEHErE|
+|xansvfEy־šAHar|
 
  * תפלסון 1: 
 
 |תְּפַלֵּסוּן 1|
 |-|
 |תְפַלֵסוּן 1|
-|tEfElEsEuEnE|
+|tsvfalEsun|
 
  * ורב־כח 1: 
 
 |וְרַב־כֹּחַ 1|
 |-|
 |וְרַב־כֹּחַ 1|
-|wErEvE־EkEHE|
+|wsvrav־koHa|
 
  * נודו 1: 
 
 |נודו 1|
 |-|
 |נודו 1|
-|nEwEdEwE|
+|nwdw|
 
  * [שביתנו] 1: 
 
 |[שְׁבִיתֵנוּ] 1|
 |-|
 |[שְׁבִיתֵנוּ] 1|
-|[EšEvEyEtEnEuE]E|
+|[šsvviytEnu]|
 
  * שכן־ארץ 1: 
 
 |שְׁכָן־אֶרֶץ 1|
 |-|
 |שְׁכָן־אֶרֶץ 1|
-|šExEnE־E'ErEcE|
+|šsvxAn־'erec|
 
  * לא־יירא 1: 
 
 |לֹא־יִירָא 1|
 |-|
 |לֹא־יִירָא 1|
-|lE'E־EyEyErE'E|
+|lo'־yiyrA'|
 
  * והורידמו 1: 
 
 |וְהוֹרִידֵמוֹ 1|
 |-|
 |וְהוֹֹרִידֵמוֹֹ 1|
-|wEhEwErEyEdEmEwE|
+|wsvhworiydEmwo|
 
  * לא־השמידו 1: 
 
 |לֹא־הִשְׁמִידוּ 1|
 |-|
 |לֹא־הִשְׁמִידוּ 1|
-|lE'E־EhEšEmEyEdEuE|
+|lo'־hišsvmiydu|
 
  * ויברכנו 1: 
 
 |וִיבָרְכֵנוּ 1|
 |-|
 |וִיבָרְכֵנוּ 1|
-|wEyEvErExEnEuE|
+|wiyvArsvxEnu|
 
  * כל־קויך 1: 
 
 |כָּל־קֹוֶיךָ 1|
 |-|
 |כָּל־קֹוֶיךָ 1|
-|kElE־EqEwEyExE|
+|kAl־qoweyxA|
 
  * להררי 1: 
 
 |לְהַרְרִי 1|
 |-|
 |לְהַרְרִי 1|
-|lEhErErEyE|
+|lsvharsvriy|
 
  * מן־העולם 1: 
 
 |מִן־הָעוֹלָם 1|
 |-|
 |מִן־הָעוֹֹלָם 1|
-|mEnE־EhEɣEwElEmE|
+|min־hAɣwolAm|
 
  * הם 1: 
 
 |הֵם 1|
 |-|
 |הֵם 1|
-|hEmE|
+|hEm|
 
  * נספר 1: 
 
 |נְסַפֵּר 1|
 |-|
 |נְסַפֵּר 1|
-|nEsEpErE|
+|nsvsapEr|
 
  * פרשו 1: 
 
 |פָּרְשׂוּ 1|
 |-|
 |פָּרְשׂוּ 1|
-|pErESEuE|
+|pArsvSu|
 
  * וכסף 1: 
 
 |וָכָסֶף 1|
 |-|
 |וָכָסֶף 1|
-|wExEsEfE|
+|wAxAsef|
 
  * וכל־בהמה 1: 
 
 |וְכָל־בְּהֵמָה 1|
 |-|
 |וְכָל־בְּהֵמָה 1|
-|wExElE־EbEhEmEhE|
+|wsvxAl־bsvhEmAh|
 
  * בהגיגי 1: 
 
 |בַּהֲגִיגִי 1|
 |-|
 |בַּהֲגִיגִי 1|
-|bEhEgEyEgEyE|
+|bahagiygiy|
 
  * תאמצנו 1: 
 
 |תְאַמְּצֶנּוּ 1|
 |-|
 |תְאַמְצֶנוּ 1|
-|tE'EmEcEnEuE|
+|tsv'amsvcenu|
 
  * בכתוב 1: 
 
 |בִּכְתוֹב 1|
 |-|
 |בִּכְתוֹֹב 1|
-|bExEtEwEvE|
+|bixsvtwov|
 
  * השלך 1: 
 
 |הַשְׁלֵךְ 1|
 |-|
 |הַשְׁלֵךְ 1|
-|hEšElExE|
+|hašsvlExsv|
 
  * חיתך 1: 
 
 |חַיָּתְךָ 1|
 |-|
 |חַיָתְךָ 1|
-|HEyEtExE|
+|HayAtsvxA|
 
  * בני־אפרים 1: 
 
 |בְּנֵי־אֶפְרַיִם 1|
 |-|
 |בְּנֵי־אֶפְרַיִם 1|
-|bEnEyE־E'EfErEyEmE|
+|bsvnEy־'efsvrayim|
 
  * יבולון 1: 
 
 |יִבּוֹלוּן 1|
 |-|
 |יִבּוֹֹלוּן 1|
-|yEbEwElEuEnE|
+|yibwolun|
 
  * יהלמון 1: 
 
 |יַהֲלֹמוּן 1|
 |-|
 |יַהֲלֹמוּן 1|
-|yEhElEmEuEnE|
+|yahalomun|
 
  * יסודתו 1: 
 
 |יְסוּדָתוֹ 1|
 |-|
 |יְסוּדָתוֹֹ 1|
-|yEsEuEdEtEwE|
+|ysvsudAtwo|
 
  * יאשרוהו 1: 
 
 |יְאַשְּׁרוּהוּ 1|
 |-|
 |יְאַשְׁרוּהוּ 1|
-|yE'EšErEuEhEuE|
+|ysv'ašsvruhu|
 
  * שבשפלנו 1: 
 
 |שֶׁבְּשִׁפְלֵנוּ 1|
 |-|
 |שֶׁבְּשִׁפְלֵנוּ 1|
-|šEbEšEfElEnEuE|
+|šebsvšifsvlEnu|
 
  * תכריע 1: 
 
 |תַּכְרִיעַ 1|
 |-|
 |תַכְרִיעַ 1|
-|tExErEyEɣE|
+|taxsvriyɣa|
 
  * בל 1: 
 
 |בַּל 1|
 |-|
 |בַּל 1|
-|bElE|
+|bal|
 
  * על־צדיק 1: 
 
 |עַל־צַדִּיק 1|
 |-|
 |עַל־צַדִיק 1|
-|ɣElE־EcEdEyEqE|
+|ɣal־cadiyq|
 
  * ולישרי־לב 1: 
 
 |וּלְיִשְׁרֵי־לֵב 1|
 |-|
 |וּלְיִשְׁרֵי־לֵב 1|
-|uElEyEšErEyE־ElEvE|
+|ulsvyišsvrEy־lEv|
 
  * ובצל־כנפיך 1: 
 
 |וּבְצֵל־כְּנָפֶיךָ 1|
 |-|
 |וּבְצֵל־כְּנָפֶיךָ 1|
-|uEvEcElE־EkEnEfEyExE|
+|uvsvcEl־ksvnAfeyxA|
 
  * ואת־עפרה 1: 
 
 |וְאֶת־עֲפָרָהּ 1|
 |-|
 |וְאֶת־עֲפָרָה 1|
-|wE'EtE־EɣEfErEhE|
+|wsv'et־ɣafArAh|
 
  * לא־פעלו 1: 
 
 |לֹא־פָעֲלוּ 1|
 |-|
 |לֹא־פָעֲלוּ 1|
-|lE'E־EfEɣElEuE|
+|lo'־fAɣalu|
 
  * אספרנה 1: 
 
 |אֲסַפְּרֶנָּה 1|
 |-|
 |אֲסַפְּרֶנָה 1|
-|'EsEpErEnEhE|
+|'asapsvrenAh|
 
  * תצמיד 1: 
 
 |תַּצְמִיד 1|
 |-|
 |תַצְמִיד 1|
-|tEcEmEyEdE|
+|tacsvmiyd|
 
  * ולא־אשוב 1: 
 
 |וְלֹא־אָשׁוּב 1|
 |-|
 |וְלֹא־אָשׁוּב 1|
-|wElE'E־E'EšEuEvE|
+|wsvlo'־'Ašuv|
 
  * מנסתרות 1: 
 
 |מִנִּסְתָּרוֹת 1|
 |-|
 |מִנִסְתָרוֹֹת 1|
-|mEnEsEtErEwEtE|
+|minissvtArwot|
 
  * את־כל־בני 1: 
 
 |אֶת־כָּל־בְּנֵי 1|
 |-|
 |אֶת־כָּל־בְּנֵי 1|
-|'EtE־EkElE־EbEnEyE|
+|'et־kAl־bsvnEy|
 
  * אמרי־פיך 1: 
 
 |אִמְרֵי־פִיךָ 1|
 |-|
 |אִמְרֵי־פִיךָ 1|
-|'EmErEyE־EfEyExE|
+|'imsvrEy־fiyxA|
 
  * נקרא 1: 
 
 |נִקְרָא 1|
 |-|
 |נִקְרָא 1|
-|nEqErE'E|
+|niqsvrA'|
 
  * נעזב 1: 
 
 |נֶעֱזָב 1|
 |-|
 |נֶעֱזָב 1|
-|nEɣEzEvE|
+|neɣezAv|
 
  * על־אפיקי־מים 1: 
 
 |עַל־אֲפִיקֵי־מָיִם 1|
 |-|
 |עַל־אֲפִיקֵי־מָיִם 1|
-|ɣElE־E'EfEyEqEyE־EmEyEmE|
+|ɣal־'afiyqEy־mAyim|
 
  * בצאתו 1: 
 
 |בְּצֵאתוֹ 1|
 |-|
 |בְּצֵאתוֹֹ 1|
-|bEcE'EtEwE|
+|bsvcE'two|
 
  * יזכה־נער 1: 
 
 |יְזַכֶּה־נַּעַר 1|
 |-|
 |יְזַכֶּה־נַעַר 1|
-|yEzEkEhE־EnEɣErE|
+|ysvzakeh־naɣar|
 
  * כי־עניתי 1: 
 
 |כִי־עֻנֵּיתִי 1|
 |-|
 |כִי־עֻנֵיתִי 1|
-|xEyE־EɣEnEyEtEyE|
+|xiy־ɣunEytiy|
 
  * הגיעו 1: 
 
 |הִגִּיעוּ 1|
 |-|
 |הִגִיעוּ 1|
-|hEgEyEɣEuE|
+|higiyɣu|
 
  * שעריך 1: 
 
 |שְׁעָרָיִךְ 1|
 |-|
 |שְׁעָרָיִךְ 1|
-|šEɣErEyExE|
+|šsvɣArAyixsv|
 
  * וישכנו 1: 
 
 |וְיִשְׁכְּנוּ 1|
 |-|
 |וְיִשְׁכְּנוּ 1|
-|wEyEšEkEnEuE|
+|wsvyišsvksvnu|
 
  * ואמונתו 1: 
 
 |וֶאֱמוּנָתוֹ 1|
 |-|
 |וֶאֱמוּנָתוֹֹ 1|
-|wE'EmEuEnEtEwE|
+|we'emunAtwo|
 
  * ידלק 1: 
 
 |יִדְלַק 1|
 |-|
 |יִדְלַק 1|
-|yEdElEqE|
+|yidsvlaq|
 
  * ילין 1: 
 
 |יָלִין 1|
 |-|
 |יָלִין 1|
-|yElEyEnE|
+|yAliyn|
 
  * מתאותם 1: 
 
 |מִתַּאֲוָתָם 1|
 |-|
 |מִתַאֲוָתָם 1|
-|mEtE'EwEtEmE|
+|mita'awAtAm|
 
  * תבער־אש 1: 
 
 |תִבְעַר־אֵשׁ 1|
 |-|
 |תִבְעַר־אֵשׁ 1|
-|tEvEɣErE־E'EšE|
+|tivsvɣar־'Eš|
 
  * [יצפונו] 1: 
 
 |[יִצְפּוֹנוּ] 1|
 |-|
 |[יִצְפּוֹֹנוּ] 1|
-|[EyEcEpEwEnEuE]E|
+|[yicsvpwonu]|
 
  * לא־ידעו 1: 
 
 |לֹא־יָדְעוּ 1|
 |-|
 |לֹא־יָדְעוּ 1|
-|lE'E־EyEdEɣEuE|
+|lo'־yAdsvɣu|
 
  * [הרב] 1: 
 
 |[הֶרֶב] 1|
 |-|
 |[הֶרֶב] 1|
-|[EhErEvE]E|
+|[herev]|
 
  * והושיעה 1: 
 
 |וְהוֹשִׁיעָה 1|
 |-|
 |וְהוֹֹשִׁיעָה 1|
-|wEhEwEšEyEɣEhE|
+|wsvhwošiyɣAh|
 
  * חגור־חרבך 1: 
 
 |חֲגוֹר־חַרְבְּךָ 1|
 |-|
 |חֲגוֹֹר־חַרְבְּךָ 1|
-|HEgEwErE־EHErEbExE|
+|Hagwor־HarsvbsvxA|
 
  * ואלמנה 1: 
 
 |וְאַלְמָנָה 1|
 |-|
 |וְאַלְמָנָה 1|
-|wE'ElEmEnEhE|
+|wsv'alsvmAnAh|
 
  * הרעשתה 1: 
 
 |הִרְעַשְׁתָּה 1|
 |-|
 |הִרְעַשְׁתָה 1|
-|hErEɣEšEtEhE|
+|hirsvɣašsvtAh|
 
  * אחי 1: 
 
 |אַחַי 1|
 |-|
 |אַחַי 1|
-|'EHEyE|
+|'aHay|
 
  * פלגיו 1: 
 
 |פְּלָגָיו 1|
 |-|
 |פְּלָגָיו 1|
-|pElEgEyEwE|
+|psvlAgAyw|
 
  * אף־אני 1: 
 
 |אַף־אָנִי 1|
 |-|
 |אַף־אָנִי 1|
-|'EfE־E'EnEyE|
+|'af־'Aniy|
 
  * ותוכחתי 1: 
 
 |וְתוֹכַחְתִּי 1|
 |-|
 |וְתוֹֹכַחְתִי 1|
-|wEtEwExEHEtEyE|
+|wsvtwoxaHsvtiy|
 
  * ואשלחהו 1: 
 
 |וָאֲשַׁלְּחֵהוּ 1|
 |-|
 |וָאֲשַׁלְחֵהוּ 1|
-|wE'EšElEHEhEuE|
+|wA'ašalsvHEhu|
 
  * נהרים 1: 
 
 |נַהֲרַיִם 1|
 |-|
 |נַהֲרַיִם 1|
-|nEhErEyEmE|
+|naharayim|
 
  * באמרים 1: 
 
 |בְּאֹמְרִים 1|
 |-|
 |בְּאֹמְרִים 1|
-|bE'EmErEyEmE|
+|bsv'omsvriym|
 
  * ברכה 1: 
 
 |בְרָכָה 1|
 |-|
 |בְרָכָה 1|
-|vErExEhE|
+|vsvrAxAh|
 
  * על־ידיתון 1: 
 
 |עַל־ידיתון 1|
 |-|
 |עַל־ידיתון 1|
-|ɣElE־EyEdEyEtEwEnE|
+|ɣal־ydytwn|
 
  * כמביא 1: 
 
 |כְּמֵבִיא 1|
 |-|
 |כְּמֵבִיא 1|
-|kEmEvEyE'E|
+|ksvmEviy'|
 
  * וארוה 1: 
 
 |וְאָרוּהָ 1|
 |-|
 |וְאָרוּהָ 1|
-|wE'ErEuEhE|
+|wsv'AruhA|
 
  * משאת 1: 
 
 |מַשְׂאַת 1|
 |-|
 |מַשְׂאַת 1|
-|mESE'EtE|
+|maSsv'at|
 
  * וכאחד 1: 
 
 |וּכְאַחַד 1|
 |-|
 |וּכְאַחַד 1|
-|uExE'EHEdE|
+|uxsv'aHad|
 
  * מסכתי 1: 
 
 |מָסָכְתִּי 1|
 |-|
 |מָסָכְתִי 1|
-|mEsExEtEyE|
+|mAsAxsvtiy|
 
  * גבל 1: 
 
 |גְּבָל 1|
 |-|
 |גְבָל 1|
-|gEvElE|
+|gsvvAl|
 
  * חשמנים 1: 
 
 |חַשְׁמַנִּים 1|
 |-|
 |חַשְׁמַנִים 1|
-|HEšEmEnEyEmE|
+|Hašsvmaniym|
 
  * כל־צוררי 1: 
 
 |כָּל־צוֹרְרָי 1|
 |-|
 |כָּל־צוֹֹרְרָי 1|
-|kElE־EcEwErErEyE|
+|kAl־cworsvrAy|
 
  * שלחת 1: 
 
 |שָׁלַחְתָּ 1|
 |-|
 |שָׁלַחְתָ 1|
-|šElEHEtE|
+|šAlaHsvtA|
 
  * רוה 1: 
 
 |רַוֵּה 1|
 |-|
 |רַוֵּה 1|
-|rEuEhE|
+|rauEh|
 
  * לכם 1: 
 
 |לָכֶם 1|
 |-|
 |לָכֶם 1|
-|lExEmE|
+|lAxem|
 
  * למיחלים 1: 
 
 |לַמְיַחֲלִים 1|
 |-|
 |לַמְיַחֲלִים 1|
-|lEmEyEHElEyEmE|
+|lamsvyaHaliym|
 
  * פסגו 1: 
 
 |פַּסְּגוּ 1|
 |-|
 |פַּסְגוּ 1|
-|pEsEgEuE|
+|passvgu|
 
  * אך־שמריה 1: 
 
 |אַךְ־שְׁמָרֶיהָ 1|
 |-|
 |אַךְ־שְׁמָרֶיהָ 1|
-|'ExE־EšEmErEyEhE|
+|'axsv־šsvmAreyhA|
 
  * את־אדום 1: 
 
 |אֶת־אֱדוֹם 1|
 |-|
 |אֶת־אֱדוֹֹם 1|
-|'EtE־E'EdEwEmE|
+|'et־'edwom|
 
  * חפצת 1: 
 
 |חָפַצְתָּ 1|
 |-|
 |חָפַצְתָ 1|
-|HEfEcEtE|
+|HAfacsvtA|
 
  * יסד־ארץ 1: 
 
 |יָסַד־אֶרֶץ 1|
 |-|
 |יָסַד־אֶרֶץ 1|
-|yEsEdE־E'ErEcE|
+|yAsad־'erec|
 
  * הזיפים 1: 
 
 |הַזִּיפִים 1|
 |-|
 |הַזִיפִים 1|
-|hEzEyEfEyEmE|
+|haziyfiym|
 
  * ולו 1: 
 
 |וְלוֹ 1|
 |-|
 |וְלוֹֹ 1|
-|wElEwE|
+|wsvlwo|
 
  * לא־יכון 1: 
 
 |לֹא־יִכּוֹן 1|
 |-|
 |לֹא־יִכּוֹֹן 1|
-|lE'E־EyEkEwEnE|
+|lo'־yikwon|
 
  * את־ידך 1: 
 
 |אֶת־יָדֶךָ 1|
 |-|
 |אֶת־יָדֶךָ 1|
-|'EtE־EyEdExE|
+|'et־yAdexA|
 
  * שכנה 1: 
 
 |שָׁכְנָה 1|
 |-|
 |שָׁכְנָה 1|
-|šExEnEhE|
+|šAxsvnAh|
 
  * ומגן 1: 
 
 |וּמָגֵן 1|
 |-|
 |וּמָגֵן 1|
-|uEmEgEnE|
+|umAgEn|
 
  * עתקה 1: 
 
 |עָתְקָה 1|
 |-|
 |עָתְקָה 1|
-|ɣEtEqEhE|
+|ɣAtsvqAh|
 
  * אעופה 1: 
 
 |אָעוּפָה 1|
 |-|
 |אָעוּפָה 1|
-|'EɣEuEfEhE|
+|'AɣufAh|
 
  * כקש 1: 
 
 |כְּקַשׁ 1|
 |-|
 |כְּקַשׁ 1|
-|kEqEšE|
+|ksvqaš|
 
  * כי־ידך 1: 
 
 |כִּי־יָדְךָ 1|
 |-|
 |כִּי־יָדְךָ 1|
-|kEyE־EyEdExE|
+|kiy־yAdsvxA|
 
  * יכחשו 1: 
 
 |יְכַחֲשׁוּ 1|
 |-|
 |יְכַחֲשׁוּ 1|
-|yExEHEšEuE|
+|ysvxaHašu|
 
  * ויגאלם 1: 
 
 |וַיִּגְאָלֵם 1|
 |-|
 |וַיִגְאָלֵם 1|
-|wEyEgE'ElEmE|
+|wayigsv'AlEm|
 
  * במשמניהם 1: 
 
 |בְּמִשְׁמַנֵּיהֶם 1|
 |-|
 |בְּמִשְׁמַנֵיהֶם 1|
-|bEmEšEmEnEyEhEmE|
+|bsvmišsvmanEyhem|
 
  * בשוא 1: 
 
 |בְּשׂוֹא 1|
 |-|
 |בְּשׂוֹֹא 1|
-|bESEwE'E|
+|bsvSwo'|
 
  * יחידים 1: 
 
 |יְחִידִים 1|
 |-|
 |יְחִידִים 1|
-|yEHEyEdEyEmE|
+|ysvHiydiym|
 
  * חמר 1: 
 
 |חָמַר 1|
 |-|
 |חָמַר 1|
-|HEmErE|
+|HAmar|
 
  * סירתיכם 1: 
 
 |סִּירֹתֵיכֶם 1|
 |-|
 |סִירֹתֵיכֶם 1|
-|sEyErEtEyExEmE|
+|siyrotEyxem|
 
  * את־יעקב 1: 
 
 |אֶת־יַעֲקֹב 1|
 |-|
 |אֶת־יַעֲקֹב 1|
-|'EtE־EyEɣEqEvE|
+|'et־yaɣaqov|
 
  * בבכוריהם 1: 
 
 |בִּבְכוֹרֵיהֶם 1|
 |-|
 |בִּבְכוֹֹרֵיהֶם 1|
-|bEvExEwErEyEhEmE|
+|bivsvxworEyhem|
 
  * העירה 1: 
 
 |הָעִירָה 1|
 |-|
 |הָעִירָה 1|
-|hEɣEyErEhE|
+|hAɣiyrAh|
 
  * נעמו 1: 
 
 |נָעֵמוּ 1|
 |-|
 |נָעֵמוּ 1|
-|nEɣEmEuE|
+|nAɣEmu|
 
  * תגמל 1: 
 
 |תִגְמֹל 1|
 |-|
 |תִגְמֹל 1|
-|tEgEmElE|
+|tigsvmol|
 
  * ודיני 1: 
 
 |וְדִינִי 1|
 |-|
 |וְדִינִי 1|
-|wEdEyEnEyE|
+|wsvdiyniy|
 
  * פעלי־און 1: 
 
 |פֹּעֲלֵי־אָוֶן 1|
 |-|
 |פֹּעֲלֵי־אָוֶן 1|
-|pEɣElEyE־E'EwEnE|
+|poɣalEy־'Awen|
 
  * יברכו 1: 
 
 |יְבָרֵכוּ 1|
 |-|
 |יְבָרֵכוּ 1|
-|yEvErExEuE|
+|ysvvArExu|
 
  * כוש 1: 
 
 |כּוּשׁ 1|
 |-|
 |כּוּשׁ 1|
-|kEuEšE|
+|kuš|
 
  * להשמידם 1: 
 
 |לְהַשְׁמִידָם 1|
 |-|
 |לְהַשְׁמִידָם 1|
-|lEhEšEmEyEdEmE|
+|lsvhašsvmiydAm|
 
  * מגני־ארץ 1: 
 
 |מָגִנֵּי־אֶרֶץ 1|
 |-|
 |מָגִנֵי־אֶרֶץ 1|
-|mEgEnEyE־E'ErEcE|
+|mAginEy־'erec|
 
  * יסף 1: 
 
 |יֹסֵף 1|
 |-|
 |יֹסֵף 1|
-|yEsEfE|
+|yosEf|
 
  * אל־תט־לבי 1: 
 
 |אַל־תַּט־לִבִּי 1|
 |-|
 |אַל־תַט־לִבִּי 1|
-|'ElE־EtETE־ElEbEyE|
+|'al־taT־libiy|
 
  * וישעך 1: 
 
 |וְיֶשְׁעֲךָ 1|
 |-|
 |וְיֶשְׁעֲךָ 1|
-|wEyEšEɣExE|
+|wsvyešsvɣaxA|
 
  * בתהו 1: 
 
 |בְּתֹהוּ 1|
 |-|
 |בְּתֹהוּ 1|
-|bEtEhEuE|
+|bsvtohu|
 
  * בקרבך 1: 
 
 |בְּקִרְבֵּךְ 1|
 |-|
 |בְּקִרְבֵּךְ 1|
-|bEqErEbExE|
+|bsvqirsvbExsv|
 
  * טובתי 1: 
 
 |טוֹבָתִי 1|
 |-|
 |טוֹֹבָתִי 1|
-|TEwEvEtEyE|
+|TwovAtiy|
 
  * פתאם 1: 
 
 |פִּתְאֹם 1|
 |-|
 |פִּתְאֹם 1|
-|pEtE'EmE|
+|pitsv'om|
 
  * ומעשהו 1: 
 
 |וּמַעֲשֵׂהוּ 1|
 |-|
 |וּמַעֲשֵׂהוּ 1|
-|uEmEɣESEhEuE|
+|umaɣaSEhu|
 
  * יהי־שלום 1: 
 
 |יְהִי־שָׁלוֹם 1|
 |-|
 |יְהִי־שָׁלוֹֹם 1|
-|yEhEyE־EšElEwEmE|
+|ysvhiy־šAlwom|
 
  * כי־קנאת 1: 
 
 |כִּי־קִנְאַת 1|
 |-|
 |כִּי־קִנְאַת 1|
-|kEyE־EqEnE'EtE|
+|kiy־qinsv'at|
 
  * סכתה 1: 
 
 |סַכֹּתָה 1|
 |-|
 |סַכֹּתָה 1|
-|sEkEtEhE|
+|sakotAh|
 
  * תנוט 1: 
 
 |תָּנוּט 1|
 |-|
 |תָנוּט 1|
-|tEnEuETE|
+|tAnuT|
 
  * חי 1: 
 
 |חָי 1|
 |-|
 |חָי 1|
-|HEyE|
+|HAy|
 
  * אמצא 1: 
 
 |אֶמְצָא 1|
 |-|
 |אֶמְצָא 1|
-|'EmEcE'E|
+|'emsvcA'|
 
  * יפילו 1: 
 
 |יַפִּילוּ 1|
 |-|
 |יַפִּילוּ 1|
-|yEpEyElEuE|
+|yapiylu|
 
  * ידשנה 1: 
 
 |יְדַשְּׁנֶה 1|
 |-|
 |יְדַשְׁנֶה 1|
-|yEdEšEnEhE|
+|ysvdašsvneh|
 
  * לא־יעזבנו 1: 
 
 |לֹא־יַעַזְבֶנּוּ 1|
 |-|
 |לֹא־יַעַזְבֶנוּ 1|
-|lE'E־EyEɣEzEvEnEuE|
+|lo'־yaɣazsvvenu|
 
  * במקהלים 1: 
 
 |בְּמַקְהֵלִים 1|
 |-|
 |בְּמַקְהֵלִים 1|
-|bEmEqEhElEyEmE|
+|bsvmaqsvhEliym|
 
  * נראה־אור 1: 
 
 |נִרְאֶה־אוֹר 1|
 |-|
 |נִרְאֶה־אוֹֹר 1|
-|nErE'EhE־E'EwErE|
+|nirsv'eh־'wor|
 
  * שדוני 1: 
 
 |שַׁדּוּנִי 1|
 |-|
 |שַׁדוּנִי 1|
-|šEdEuEnEyE|
+|šaduniy|
 
  * מכל־צררי 1: 
 
 |מִכָּל־צֹרְרַי 1|
 |-|
 |מִכָּל־צֹרְרַי 1|
-|mEkElE־EcErErEyE|
+|mikAl־corsvray|
 
  * בארמנותיך 1: 
 
 |בְּאַרְמְנוֹתָיִךְ 1|
 |-|
 |בְּאַרְמְנוֹֹתָיִךְ 1|
-|bE'ErEmEnEwEtEyExE|
+|bsv'arsvmsvnwotAyixsv|
 
  * כפיר 1: 
 
 |כְּפִיר 1|
 |-|
 |כְּפִיר 1|
-|kEfEyErE|
+|ksvfiyr|
 
  * אפקיד 1: 
 
 |אַפְקִיד 1|
 |-|
 |אַפְקִיד 1|
-|'EfEqEyEdE|
+|'afsvqiyd|
 
  * יחשבו 1: 
 
 |יַחְשְׁבוּ 1|
 |-|
 |יַחְשְׁבוּ 1|
-|yEHEšEvEuE|
+|yaHsvšsvvu|
 
  * מתחנתי 1: 
 
 |מִתְּחִנָּתִי 1|
 |-|
 |מִתְחִנָתִי 1|
-|mEtEHEnEtEyE|
+|mitsvHinAtiy|
 
  * גם־אשור 1: 
 
 |גַּם־אַשּׁוּר 1|
 |-|
 |גַם־אַשׁוּר 1|
-|gEmE־E'EšEuErE|
+|gam־'ašur|
 
  * ובדרך 1: 
 
 |וּבְדֶרֶךְ 1|
 |-|
 |וּבְדֶרֶךְ 1|
-|uEvEdErExE|
+|uvsvderexsv|
 
  * והחרשתי 1: 
 
 |וְהֶחֱרַשְׁתִּי 1|
 |-|
 |וְהֶחֱרַשְׁתִי 1|
-|wEhEHErEšEtEyE|
+|wsvheHerašsvtiy|
 
  * חיות 1: 
 
 |חַיּוֹת 1|
 |-|
 |חַיוֹֹת 1|
-|HEyEwEtE|
+|Haywot|
 
  * תנוס 1: 
 
 |תָנוּס 1|
 |-|
 |תָנוּס 1|
-|tEnEuEsE|
+|tAnus|
 
  * תרהבני 1: 
 
 |תַּרְהִבֵנִי 1|
 |-|
 |תַרְהִבֵנִי 1|
-|tErEhEvEnEyE|
+|tarsvhivEniy|
 
  * ישופני 1: 
 
 |יְשׁוּפֵנִי 1|
 |-|
 |יְשׁוּפֵנִי 1|
-|yEšEuEfEnEyE|
+|ysvšufEniy|
 
  * אלמדכם 1: 
 
 |אֲלַמֶּדְכֶם 1|
 |-|
 |אֲלַמֶדְכֶם 1|
-|'ElEmEdExEmE|
+|'alamedsvxem|
 
  * צלה 1: 
 
 |צִלָּהּ 1|
 |-|
 |צִלָה 1|
-|cElEhE|
+|cilAh|
 
  * ולא־הלכתי 1: 
 
 |וְלֹא־הִלַּכְתִּי 1|
 |-|
 |וְלֹא־הִלַכְתִי 1|
-|wElE'E־EhElExEtEyE|
+|wsvlo'־hilaxsvtiy|
 
  * ורבו 1: 
 
 |וְרַבּוּ 1|
 |-|
 |וְרַבּוּ 1|
-|wErEbEuE|
+|wsvrabu|
 
  * אף־אמונתך 1: 
 
 |אַף־אֱמוּנָתְךָ 1|
 |-|
 |אַף־אֱמוּנָתְךָ 1|
-|'EfE־E'EmEuEnEtExE|
+|'af־'emunAtsvxA|
 
  * כי־החרשתי 1: 
 
 |כִּי־הֶחֱרַשְׁתִּי 1|
 |-|
 |כִּי־הֶחֱרַשְׁתִי 1|
-|kEyE־EhEHErEšEtEyE|
+|kiy־heHerašsvtiy|
 
  * מרגשת 1: 
 
 |מֵרִגְשַׁת 1|
 |-|
 |מֵרִגְשַׁת 1|
-|mErEgEšEtE|
+|mErigsvšat|
 
  * מאלהים 1: 
 
 |מֵאֱלֹהִים 1|
 |-|
 |מֵאֱלֹהִים 1|
-|mE'ElEhEyEmE|
+|mE'elohiym|
 
  * גמול 1: 
 
 |גְּמוּל 1|
 |-|
 |גְמוּל 1|
-|gEmEuElE|
+|gsvmul|
 
  * לפח 1: 
 
 |לְפָח 1|
 |-|
 |לְפָח 1|
-|lEfEHE|
+|lsvfAH|
 
  * שבעה־לה 1: 
 
 |שָׂבְעָה־לָּהּ 1|
 |-|
 |שָׂבְעָה־לָה 1|
-|SEvEɣEhE־ElEhE|
+|SAvsvɣAh־lAh|
 
  * יסרוני 1: 
 
 |יִסְּרוּנִי 1|
 |-|
 |יִסְרוּנִי 1|
-|yEsErEuEnEyE|
+|yissvruniy|
 
  * שימה 1: 
 
 |שִׂימָה 1|
 |-|
 |שִׂימָה 1|
-|SEyEmEhE|
+|SiymAh|
 
  * תבקשו 1: 
 
 |תְּבַקְשׁוּ 1|
 |-|
 |תְבַקְשׁוּ 1|
-|tEvEqEšEuE|
+|tsvvaqsvšu|
 
  * פרצתנו 1: 
 
 |פְרַצְתָּנוּ 1|
 |-|
 |פְרַצְתָנוּ 1|
-|fErEcEtEnEuE|
+|fsvracsvtAnu|
 
  * חלכאים 1: 
 
 |חלכאים 1|
 |-|
 |חלכאים 1|
-|HElExE'EyEmE|
+|Hlx'ym|
 
  * ויתנו 1: 
 
 |וַיִּתְּנוּ 1|
 |-|
 |וַיִתְנוּ 1|
-|wEyEtEnEuE|
+|wayitsvnu|
 
  * ולמען 1: 
 
 |וּלְמַעַן 1|
 |-|
 |וּלְמַעַן 1|
-|uElEmEɣEnE|
+|ulsvmaɣan|
 
  * יגילון 1: 
 
 |יְגִילוּן 1|
 |-|
 |יְגִילוּן 1|
-|yEgEyElEuEnE|
+|ysvgiylun|
 
  * כל־ימינו 1: 
 
 |כָל־יָמֵינוּ 1|
 |-|
 |כָל־יָמֵינוּ 1|
-|xElE־EyEmEyEnEuE|
+|xAl־yAmEynu|
 
  * לקראת 1: 
 
 |לִקְרַאת 1|
 |-|
 |לִקְרַאת 1|
-|lEqErE'EtE|
+|liqsvra't|
 
  *  1: 
 
@@ -55647,1839 +55647,1839 @@
 |שַׁעֲרֵי 1|
 |-|
 |שַׁעֲרֵי 1|
-|šEɣErEyE|
+|šaɣarEy|
 
  * אמרתו 1: 
 
 |אִמְרָתוֹ 1|
 |-|
 |אִמְרָתוֹֹ 1|
-|'EmErEtEwE|
+|'imsvrAtwo|
 
  * אזכרך 1: 
 
 |אֶזְכָּרְךָ 1|
 |-|
 |אֶזְכָּרְךָ 1|
-|'EzEkErExE|
+|'ezsvkArsvxA|
 
  * המכין 1: 
 
 |הַמֵּכִין 1|
 |-|
 |הַמֵכִין 1|
-|hEmExEyEnE|
+|hamExiyn|
 
  * לרחמים 1: 
 
 |לְרַחֲמִים 1|
 |-|
 |לְרַחֲמִים 1|
-|lErEHEmEyEmE|
+|lsvraHamiym|
 
  * עורים 1: 
 
 |עִוְרִים 1|
 |-|
 |עִוְרִים 1|
-|ɣEwErEyEmE|
+|ɣiwsvriym|
 
  * כפור 1: 
 
 |כְּפוֹר 1|
 |-|
 |כְּפוֹֹר 1|
-|kEfEwErE|
+|ksvfwor|
 
  * ישחק 1: 
 
 |יִשְׂחָק 1|
 |-|
 |יִשְׂחָק 1|
-|yESEHEqE|
+|yiSsvHAq|
 
  * [דרכיו 1: 
 
 |[דְרָכָיו 1|
 |-|
 |[דְרָכָיו 1|
-|[EdErExEyEwE|
+|[dsvrAxAyw|
 
  * ובריתו 1: 
 
 |וּבְרִיתוֹ 1|
 |-|
 |וּבְרִיתוֹֹ 1|
-|uEvErEyEtEwE|
+|uvsvriytwo|
 
  * ואיים 1: 
 
 |וְאִיִּים 1|
 |-|
 |וְאִיִים 1|
-|wE'EyEyEmE|
+|wsv'iyiym|
 
  * קראים 1: 
 
 |קֹרִאים 1|
 |-|
 |קֹרִאים 1|
-|qErE'EyEmE|
+|qori'ym|
 
  * לא־כחדתי 1: 
 
 |לֹא־כִחַדְתִּי 1|
 |-|
 |לֹא־כִחַדְתִי 1|
-|lE'E־ExEHEdEtEyE|
+|lo'־xiHadsvtiy|
 
  * ישרי־לב 1: 
 
 |יִשְׁרֵי־לֵב 1|
 |-|
 |יִשְׁרֵי־לֵב 1|
-|yEšErEyE־ElEvE|
+|yišsvrEy־lEv|
 
  * מה־חלד 1: 
 
 |מֶה־חָלֶד 1|
 |-|
 |מֶה־חָלֶד 1|
-|mEhE־EHElEdE|
+|meh־HAled|
 
  * מזמות 1: 
 
 |מְזִמּוֹת 1|
 |-|
 |מְזִמוֹֹת 1|
-|mEzEmEwEtE|
+|msvzimwot|
 
  * את־מימיהם 1: 
 
 |אֶת־מֵימֵיהֶם 1|
 |-|
 |אֶת־מֵימֵיהֶם 1|
-|'EtE־EmEyEmEyEhEmE|
+|'et־mEymEyhem|
 
  * כאשר־בא 1: 
 
 |כַּאֲשֶׁר־בָּא 1|
 |-|
 |כַּאֲשֶׁר־בָּא 1|
-|kE'EšErE־EbE'E|
+|ka'ašer־bA'|
 
  * עיר־אלהים 1: 
 
 |עִיר־אֱלֹהִים 1|
 |-|
 |עִיר־אֱלֹהִים 1|
-|ɣEyErE־E'ElEhEyEmE|
+|ɣiyr־'elohiym|
 
  * לא־ירד 1: 
 
 |לֹא־יֵרֵד 1|
 |-|
 |לֹא־יֵרֵד 1|
-|lE'E־EyErEdE|
+|lo'־yErEd|
 
  * יתנחם 1: 
 
 |יִתְנֶחָם 1|
 |-|
 |יִתְנֶחָם 1|
-|yEtEnEHEmE|
+|yitsvneHAm|
 
  * כי־עשית 1: 
 
 |כִּי־עָשִׂיתָ 1|
 |-|
 |כִּי־עָשִׂיתָ 1|
-|kEyE־EɣESEyEtE|
+|kiy־ɣASiytA|
 
  * מהוללי 1: 
 
 |מְהוֹלָלַי 1|
 |-|
 |מְהוֹֹלָלַי 1|
-|mEhEwElElEyE|
+|msvhwolAlay|
 
  * בני־עבדיך 1: 
 
 |בְּנֵי־עֲבָדֶיךָ 1|
 |-|
 |בְּנֵי־עֲבָדֶיךָ 1|
-|bEnEyE־EɣEvEdEyExE|
+|bsvnEy־ɣavAdeyxA|
 
  * ישגה 1: 
 
 |יִשְׂגֶּה 1|
 |-|
 |יִשְׂגֶה 1|
-|yESEgEhE|
+|yiSsvgeh|
 
  * יחוה־דעת 1: 
 
 |יְחַוֶּה־דָּעַת 1|
 |-|
 |יְחַוֶּה־דָעַת 1|
-|yEHEuEhE־EdEɣEtE|
+|ysvHaueh־dAɣat|
 
  * מבצריו 1: 
 
 |מִבְצָרָיו 1|
 |-|
 |מִבְצָרָיו 1|
-|mEvEcErEyEwE|
+|mivsvcArAyw|
 
  * ויאמינו 1: 
 
 |וַיַּאֲמִינוּ 1|
 |-|
 |וַיַאֲמִינוּ 1|
-|wEyE'EmEyEnEuE|
+|waya'amiynu|
 
  * את־שיר־יהוה 1: 
 
 |אֶת־שִׁיר־יְהוָה 1|
 |-|
 |אֶת־שִׁיר־יְהוָה 1|
-|'EtE־EšEyErE־EyEhEwEhE|
+|'et־šiyr־ysvhwAh|
 
  * יריחון 1: 
 
 |יְרִיחוּן 1|
 |-|
 |יְרִיחוּן 1|
-|yErEyEHEuEnE|
+|ysvriyHun|
 
  * ברשת־זו 1: 
 
 |בְּרֶשֶׁת־זוּ 1|
 |-|
 |בְּרֶשֶׁת־זוּ 1|
-|bErEšEtE־EzEuE|
+|bsvrešet־zu|
 
  * בחלקות 1: 
 
 |בַּחֲלָקוֹת 1|
 |-|
 |בַּחֲלָקוֹֹת 1|
-|bEHElEqEwEtE|
+|baHalAqwot|
 
  * ויש 1: 
 
 |וְיֵשׁ 1|
 |-|
 |וְיֵשׁ 1|
-|wEyEšE|
+|wsvyEš|
 
  * בצלצלי 1: 
 
 |בְּצִלְצְלֵי 1|
 |-|
 |בְּצִלְצְלֵי 1|
-|bEcElEcElEyE|
+|bsvcilsvcsvlEy|
 
  * הגבור 1: 
 
 |הַגִּבּוֹר 1|
 |-|
 |הַגִבּוֹֹר 1|
-|hEgEbEwErE|
+|hagibwor|
 
  * אל־ההרים 1: 
 
 |אֶל־הֶהָרִים 1|
 |-|
 |אֶל־הֶהָרִים 1|
-|'ElE־EhEhErEyEmE|
+|'el־hehAriym|
 
  * כאזרח 1: 
 
 |כְּאֶזְרָח 1|
 |-|
 |כְּאֶזְרָח 1|
-|kE'EzErEHE|
+|ksv'ezsvrAH|
 
  * יקדמו 1: 
 
 |יְקַדְּמוּ 1|
 |-|
 |יְקַדְמוּ 1|
-|yEqEdEmEuE|
+|ysvqadsvmu|
 
  * עדי־שקר 1: 
 
 |עֵדֵי־שֶׁקֶר 1|
 |-|
 |עֵדֵי־שֶׁקֶר 1|
-|ɣEdEyE־EšEqErE|
+|ɣEdEy־šeqer|
 
  * אך־פרי 1: 
 
 |אַךְ־פְּרִי 1|
 |-|
 |אַךְ־פְּרִי 1|
-|'ExE־EpErEyE|
+|'axsv־psvriy|
 
  * וחרמון 1: 
 
 |וְחֶרְמוֹן 1|
 |-|
 |וְחֶרְמוֹֹן 1|
-|wEHErEmEwEnE|
+|wsvHersvmwon|
 
  * ותטעם 1: 
 
 |וַתִּטָּעֵם 1|
 |-|
 |וַתִטָעֵם 1|
-|wEtETEɣEmE|
+|watiTAɣEm|
 
  * והארץ 1: 
 
 |וְהָאָרֶץ 1|
 |-|
 |וְהָאָרֶץ 1|
-|wEhE'ErEcE|
+|wsvhA'Arec|
 
  * ונדכיתי 1: 
 
 |וְנִדְכֵּיתִי 1|
 |-|
 |וְנִדְכֵּיתִי 1|
-|wEnEdEkEyEtEyE|
+|wsvnidsvkEytiy|
 
  * אספר 1: 
 
 |אֲסַפֵּר 1|
 |-|
 |אֲסַפֵּר 1|
-|'EsEpErE|
+|'asapEr|
 
  * משכימי 1: 
 
 |מַשְׁכִּימֵי 1|
 |-|
 |מַשְׁכִּימֵי 1|
-|mEšEkEyEmEyE|
+|mašsvkiymEy|
 
  * תישן 1: 
 
 |תִישַׁן 1|
 |-|
 |תִישַׁן 1|
-|tEyEšEnE|
+|tiyšan|
 
  * מפני־אש 1: 
 
 |מִפְּנֵי־אֵשׁ 1|
 |-|
 |מִפְּנֵי־אֵשׁ 1|
-|mEpEnEyE־E'EšE|
+|mipsvnEy־'Eš|
 
  * פרימו 1: 
 
 |פִּרְיָמוֹ 1|
 |-|
 |פִּרְיָמוֹֹ 1|
-|pErEyEmEwE|
+|pirsvyAmwo|
 
  * חלצני 1: 
 
 |חַלְּצֵנִי 1|
 |-|
 |חַלְצֵנִי 1|
-|HElEcEnEyE|
+|HalsvcEniy|
 
  * נתנני 1: 
 
 |נְתָנָנִי 1|
 |-|
 |נְתָנָנִי 1|
-|nEtEnEnEyE|
+|nsvtAnAniy|
 
  * שב 1: 
 
 |שֵׁב 1|
 |-|
 |שֵׁב 1|
-|šEvE|
+|šEv|
 
  * לעצבי 1: 
 
 |לַעֲצַבֵּי 1|
 |-|
 |לַעֲצַבֵּי 1|
-|lEɣEcEbEyE|
+|laɣacabEy|
 
  * והגות 1: 
 
 |וְהָגוּת 1|
 |-|
 |וְהָגוּת 1|
-|wEhEgEuEtE|
+|wsvhAgut|
 
  * תמשך 1: 
 
 |תִּמְשֹׁךְ 1|
 |-|
 |תִמְשֹׁךְ 1|
-|tEmEšExE|
+|timsvšoxsv|
 
  * מהבל 1: 
 
 |מֵהֶבֶל 1|
 |-|
 |מֵהֶבֶל 1|
-|mEhEvElE|
+|mEhevel|
 
  * כי־בחנתנו 1: 
 
 |כִּי־בְחַנְתָּנוּ 1|
 |-|
 |כִּי־בְחַנְתָנוּ 1|
-|kEyE־EvEHEnEtEnEuE|
+|kiy־vsvHansvtAnu|
 
  * אל־יבשו 1: 
 
 |אַל־יֵבֹשׁוּ 1|
 |-|
 |אַל־יֵבֹשׁוּ 1|
-|'ElE־EyEvEšEuE|
+|'al־yEvošu|
 
  * ירבון 1: 
 
 |יִרְבּוּן 1|
 |-|
 |יִרְבּוּן 1|
-|yErEbEuEnE|
+|yirsvbun|
 
  * וכל־קרבי 1: 
 
 |וְכָל־קְרָבַי 1|
 |-|
 |וְכָל־קְרָבַי 1|
-|wExElE־EqErEvEyE|
+|wsvxAl־qsvrAvay|
 
  * מי־יודע 1: 
 
 |מִי־יוֹדֵעַ 1|
 |-|
 |מִי־יוֹֹדֵעַ 1|
-|mEyE־EyEwEdEɣE|
+|miy־ywodEɣa|
 
  * וערב 1: 
 
 |וָעֶרֶב 1|
 |-|
 |וָעֶרֶב 1|
-|wEɣErEvE|
+|wAɣerev|
 
  * פתאום 1: 
 
 |פִּתְאוֹם 1|
 |-|
 |פִּתְאוֹֹם 1|
-|pEtE'EwEmE|
+|pitsv'wom|
 
  * כמשפטיך 1: 
 
 |כְּמִשְׁפָּטֶיךָ 1|
 |-|
 |כְּמִשְׁפָּטֶיךָ 1|
-|kEmEšEpETEyExE|
+|ksvmišsvpATeyxA|
 
  * ישאונך 1: 
 
 |יִשָּׂאוּנְךָ 1|
 |-|
 |יִשָׂאוּנְךָ 1|
-|yESE'EuEnExE|
+|yiSA'unsvxA|
 
  * ותחשב 1: 
 
 |וַתֵּחָשֶׁב 1|
 |-|
 |וַתֵחָשֶׁב 1|
-|wEtEHEšEvE|
+|watEHAšev|
 
  * ויבוא 1: 
 
 |וְיָבוֹא 1|
 |-|
 |וְיָבוֹֹא 1|
-|wEyEvEwE'E|
+|wsvyAvwo'|
 
  * אין־מתם 1: 
 
 |אֵין־מְתֹם 1|
 |-|
 |אֵין־מְתֹם 1|
-|'EyEnE־EmEtEmE|
+|'Eyn־msvtom|
 
  * יהודך 1: 
 
 |יְהוֹדֻךָ 1|
 |-|
 |יְהוֹֹדֻךָ 1|
-|yEhEwEdExE|
+|ysvhwoduxA|
 
  * ]חננני 1: 
 
 |]חָנְנֵנִי 1|
 |-|
 |]חָנְנֵנִי 1|
-|]EHEnEnEnEyE|
+|]HAnsvnEniy|
 
  * נצבה 1: 
 
 |נִצְּבָה 1|
 |-|
 |נִצְבָה 1|
-|nEcEvEhE|
+|nicsvvAh|
 
  * צרפתנו 1: 
 
 |צְרַפְתָּנוּ 1|
 |-|
 |צְרַפְתָנוּ 1|
-|cErEfEtEnEuE|
+|csvrafsvtAnu|
 
  * במאזנים 1: 
 
 |בְּמֹאזְנַיִם 1|
 |-|
 |בְּמֹאזְנַיִם 1|
-|bEmE'EzEnEyEmE|
+|bsvmo'zsvnayim|
 
  * נהפכו 1: 
 
 |נֶהְפְּכוּ 1|
 |-|
 |נֶהְפְּכוּ 1|
-|nEhEpExEuE|
+|nehsvpsvxu|
 
  * אודיע 1: 
 
 |אוֹדִיעַ 1|
 |-|
 |אוֹֹדִיעַ 1|
-|'EwEdEyEɣE|
+|'wodiyɣa|
 
  * בטובתך 1: 
 
 |בְּטוֹבָתְךָ 1|
 |-|
 |בְּטוֹֹבָתְךָ 1|
-|bETEwEvEtExE|
+|bsvTwovAtsvxA|
 
  * זרית 1: 
 
 |זֵרִיתָ 1|
 |-|
 |זֵרִיתָ 1|
-|zErEyEtE|
+|zEriytA|
 
  * את־עלליך 1: 
 
 |אֶת־עֹלָלַיִךְ 1|
 |-|
 |אֶת־עֹלָלַיִךְ 1|
-|'EtE־EɣElElEyExE|
+|'et־ɣolAlayixsv|
 
  * ישיגם 1: 
 
 |יַשִּׂיגֵם 1|
 |-|
 |יַשִׂיגֵם 1|
-|yESEyEgEmE|
+|yaSiygEm|
 
  * ובשועו 1: 
 
 |וּבְשַׁוְּעוֹ 1|
 |-|
 |וּבְשַׁוְּעוֹֹ 1|
-|uEvEšEuEɣEwE|
+|uvsvšausvɣwo|
 
  * אם־זכרתיך 1: 
 
 |אִם־זְכַרְתִּיךָ 1|
 |-|
 |אִם־זְכַרְתִיךָ 1|
-|'EmE־EzExErEtEyExE|
+|'im־zsvxarsvtiyxA|
 
  * נשקו־בר 1: 
 
 |נַשְּׁקוּ־בַר 1|
 |-|
 |נַשְׁקוּ־בַר 1|
-|nEšEqEuE־EvErE|
+|našsvqu־var|
 
  * בסבך־עץ 1: 
 
 |בִּסֲבָךְ־עֵץ 1|
 |-|
 |בִּסֲבָךְ־עֵץ 1|
-|bEsEvExE־EɣEcE|
+|bisavAxsv־ɣEc|
 
  * כרגע 1: 
 
 |כְרָגַע 1|
 |-|
 |כְרָגַע 1|
-|xErEgEɣE|
+|xsvrAgaɣ|
 
  * תצדק 1: 
 
 |תִּצְדַּק 1|
 |-|
 |תִצְדַק 1|
-|tEcEdEqE|
+|ticsvdaq|
 
  * וקצפך 1: 
 
 |וְקִצְפֶּךָ 1|
 |-|
 |וְקִצְפֶּךָ 1|
-|wEqEcEpExE|
+|wsvqicsvpexA|
 
  * וימכו 1: 
 
 |וַיָּמֹכּוּ 1|
 |-|
 |וַיָמֹכּוּ 1|
-|wEyEmEkEuE|
+|wayAmoku|
 
  * חוצות 1: 
 
 |חוּצוֹת 1|
 |-|
 |חוּצוֹֹת 1|
-|HEuEcEwEtE|
+|Hucwot|
 
  * מה־קויתי 1: 
 
 |מַה־קִּוִּיתִי 1|
 |-|
 |מַה־קִוִּיתִי 1|
-|mEhE־EqEuEyEtEyE|
+|mah־qiuiytiy|
 
  * ובריתי 1: 
 
 |וּבְרִיתִי 1|
 |-|
 |וּבְרִיתִי 1|
-|uEvErEyEtEyE|
+|uvsvriytiy|
 
  * ותעמד 1: 
 
 |וַתַּעֲמֹד 1|
 |-|
 |וַתַעֲמֹד 1|
-|wEtEɣEmEdE|
+|wataɣamod|
 
  * מי־אספם 1: 
 
 |מִי־אֹסְפָם 1|
 |-|
 |מִי־אֹסְפָם 1|
-|mEyE־E'EsEfEmE|
+|miy־'ossvfAm|
 
  * ארבו 1: 
 
 |אָרְבוּ 1|
 |-|
 |אָרְבוּ 1|
-|'ErEvEuE|
+|'Arsvvu|
 
  * הט־לבי 1: 
 
 |הַט־לִבִּי 1|
 |-|
 |הַט־לִבִּי 1|
-|hETE־ElEbEyE|
+|haT־libiy|
 
  * וילד 1: 
 
 |וְיָלַד 1|
 |-|
 |וְיָלַד 1|
-|wEyElEdE|
+|wsvyAlad|
 
  * ויחפרהו 1: 
 
 |וַיַּחְפְּרֵהוּ 1|
 |-|
 |וַיַחְפְּרֵהוּ 1|
-|wEyEHEpErEhEuE|
+|wayaHsvpsvrEhu|
 
  * הכריע 1: 
 
 |הִכְרִיעַ 1|
 |-|
 |הִכְרִיעַ 1|
-|hExErEyEɣE|
+|hixsvriyɣa|
 
  * לא־אויב 1: 
 
 |לֹא־אוֹיֵב 1|
 |-|
 |לֹא־אוֹֹיֵב 1|
-|lE'E־E'EwEyEvE|
+|lo'־'woyEv|
 
  * ומשענתך 1: 
 
 |וּמִשְׁעַנְתֶּךָ 1|
 |-|
 |וּמִשְׁעַנְתֶךָ 1|
-|uEmEšEɣEnEtExE|
+|umišsvɣansvtexA|
 
  * יעשן 1: 
 
 |יֶעְשַׁן 1|
 |-|
 |יֶעְשַׁן 1|
-|yEɣEšEnE|
+|yeɣsvšan|
 
  * אל־הגוים 1: 
 
 |אֶל־הַגּוֹיִם 1|
 |-|
 |אֶל־הַגוֹֹיִם 1|
-|'ElE־EhEgEwEyEmE|
+|'el־hagwoyim|
 
  * מן־בלהות 1: 
 
 |מִן־בַּלָּהוֹת 1|
 |-|
 |מִן־בַּלָהוֹֹת 1|
-|mEnE־EbElEhEwEtE|
+|min־balAhwot|
 
  * הזידונים 1: 
 
 |הַזֵּידוֹנִים 1|
 |-|
 |הַזֵידוֹֹנִים 1|
-|hEzEyEdEwEnEyEmE|
+|hazEydwoniym|
 
  * באצרות 1: 
 
 |בְּאֹצָרוֹת 1|
 |-|
 |בְּאֹצָרוֹֹת 1|
-|bE'EcErEwEtE|
+|bsv'ocArwot|
 
  * טל 1: 
 
 |טַל 1|
 |-|
 |טַל 1|
-|TElE|
+|Tal|
 
  * כי־אמצו 1: 
 
 |כִּי־אָמְצוּ 1|
 |-|
 |כִּי־אָמְצוּ 1|
-|kEyE־E'EmEcEuE|
+|kiy־'Amsvcu|
 
  * שפתיו 1: 
 
 |שְׂפָתָיו 1|
 |-|
 |שְׂפָתָיו 1|
-|SEfEtEyEwE|
+|SsvfAtAyw|
 
  * ומשירי 1: 
 
 |וּמִשִּׁירִי 1|
 |-|
 |וּמִשִׁירִי 1|
-|uEmEšEyErEyE|
+|umišiyriy|
 
  * ושנאה 1: 
 
 |וְשִׂנְאָה 1|
 |-|
 |וְשִׂנְאָה 1|
-|wESEnE'EhE|
+|wsvSinsv'Ah|
 
  * כשכור 1: 
 
 |כַּשִּׁכּוֹר 1|
 |-|
 |כַּשִׁכּוֹֹר 1|
-|kEšEkEwErE|
+|kašikwor|
 
  * בדוד 1: 
 
 |בְּדָוִד 1|
 |-|
 |בְּדָוִד 1|
-|bEdEwEdE|
+|bsvdAwid|
 
  * בעותיך 1: 
 
 |בִּעוּתֶיךָ 1|
 |-|
 |בִּעוּתֶיךָ 1|
-|bEɣEuEtEyExE|
+|biɣuteyxA|
 
  * מעת 1: 
 
 |מֵעֵת 1|
 |-|
 |מֵעֵת 1|
-|mEɣEtE|
+|mEɣEt|
 
  * ועל־בניכם 1: 
 
 |וְעַל־בְּנֵיכֶם 1|
 |-|
 |וְעַל־בְּנֵיכֶם 1|
-|wEɣElE־EbEnEyExEmE|
+|wsvɣal־bsvnEyxem|
 
  * וקשתותם 1: 
 
 |וְקַשְּׁתוֹתָם 1|
 |-|
 |וְקַשְׁתוֹֹתָם 1|
-|wEqEšEtEwEtEmE|
+|wsvqašsvtwotAm|
 
  * יסב 1: 
 
 |יִסֹּב 1|
 |-|
 |יִסֹב 1|
-|yEsEvE|
+|yisov|
 
  * ומשפטיך 1: 
 
 |וּמִשְׁפָּטֶיךָ 1|
 |-|
 |וּמִשְׁפָּטֶיךָ 1|
-|uEmEšEpETEyExE|
+|umišsvpATeyxA|
 
  * כחטאינו 1: 
 
 |כַחֲטָאֵינוּ 1|
 |-|
 |כַחֲטָאֵינוּ 1|
-|xEHETE'EyEnEuE|
+|xaHaTA'Eynu|
 
  * פן־אישן 1: 
 
 |פֶּן־אִישַׁן 1|
 |-|
 |פֶּן־אִישַׁן 1|
-|pEnE־E'EyEšEnE|
+|pen־'iyšan|
 
  * קדקד 1: 
 
 |קָדְקֹד 1|
 |-|
 |קָדְקֹד 1|
-|qEdEqEdE|
+|qAdsvqod|
 
  * כי־המה 1: 
 
 |כִּי־הֵמָּה 1|
 |-|
 |כִּי־הֵמָה 1|
-|kEyE־EhEmEhE|
+|kiy־hEmAh|
 
  * שמרות 1: 
 
 |שְׁמֻרוֹת 1|
 |-|
 |שְׁמֻרוֹֹת 1|
-|šEmErEwEtE|
+|šsvmurwot|
 
  * נדעו 1: 
 
 |נֹדָעוּ 1|
 |-|
 |נֹדָעוּ 1|
-|nEdEɣEuE|
+|nodAɣu|
 
  * [הראיתני 1: 
 
 |[הִרְאִיתַנִי 1|
 |-|
 |[הִרְאִיתַנִי 1|
-|[EhErE'EyEtEnEyE|
+|[hirsv'iytaniy|
 
  * איש־חמס 1: 
 
 |אִישׁ־חָמָס 1|
 |-|
 |אִישׁ־חָמָס 1|
-|'EyEšE־EHEmEsE|
+|'iyš־HAmAs|
 
  * משחת 1: 
 
 |מִשַּׁחַת 1|
 |-|
 |מִשַׁחַת 1|
-|mEšEHEtE|
+|mišaHat|
 
  * והאבדת 1: 
 
 |וְהַאֲבַדְתָּ 1|
 |-|
 |וְהַאֲבַדְתָ 1|
-|wEhE'EvEdEtE|
+|wsvha'avadsvtA|
 
  * לא־ינצל 1: 
 
 |לֹא־יִנָּצֵל 1|
 |-|
 |לֹא־יִנָצֵל 1|
-|lE'E־EyEnEcElE|
+|lo'־yinAcEl|
 
  * פחדו־פחד 1: 
 
 |פָּחֲדוּ־פַחַד 1|
 |-|
 |פָּחֲדוּ־פַחַד 1|
-|pEHEdEuE־EfEHEdE|
+|pAHadu־faHad|
 
  * חסיה 1: 
 
 |חָסָיָה 1|
 |-|
 |חָסָיָה 1|
-|HEsEyEhE|
+|HAsAyAh|
 
  * חמדה 1: 
 
 |חֶמְדָּה 1|
 |-|
 |חֶמְדָה 1|
-|HEmEdEhE|
+|HemsvdAh|
 
  * אתפלל 1: 
 
 |אֶתְפַּלָּל 1|
 |-|
 |אֶתְפַּלָל 1|
-|'EtEpElElE|
+|'etsvpalAl|
 
  * יוקשים 1: 
 
 |יוֹקְשִׁים 1|
 |-|
 |יוֹֹקְשִׁים 1|
-|yEwEqEšEyEmE|
+|ywoqsvšiym|
 
  * מעוזו 1: 
 
 |מָעוּזּוֹ 1|
 |-|
 |מָעוּזוֹֹ 1|
-|mEɣEuEzEwE|
+|mAɣuzwo|
 
  * עשר 1: 
 
 |עָשָׂר 1|
 |-|
 |עָשָׂר 1|
-|ɣESErE|
+|ɣASAr|
 
  * כלא 1: 
 
 |כָּלֻא 1|
 |-|
 |כָּלֻא 1|
-|kElE'E|
+|kAlu'|
 
  * נעוריכי 1: 
 
 |נְעוּרָיְכִי 1|
 |-|
 |נְעוּרָיְכִי 1|
-|nEɣEuErEyExEyE|
+|nsvɣurAysvxiy|
 
  * לא־נכחדו 1: 
 
 |לֹא־נִכְחָדוּ 1|
 |-|
 |לֹא־נִכְחָדוּ 1|
-|lE'E־EnExEHEdEuE|
+|lo'־nixsvHAdu|
 
  * ושנאת 1: 
 
 |וְשִׂנְאַת 1|
 |-|
 |וְשִׂנְאַת 1|
-|wESEnE'EtE|
+|wsvSinsv'at|
 
  * ושיבה 1: 
 
 |וְשֵׂיבָה 1|
 |-|
 |וְשֵׂיבָה 1|
-|wESEyEvEhE|
+|wsvSEyvAh|
 
  * ארצות 1: 
 
 |אַרְצוֹת 1|
 |-|
 |אַרְצוֹֹת 1|
-|'ErEcEwEtE|
+|'arsvcwot|
 
  * אבדתי 1: 
 
 |אָבַדְתִּי 1|
 |-|
 |אָבַדְתִי 1|
-|'EvEdEtEyE|
+|'Avadsvtiy|
 
  * תן־להם 1: 
 
 |תֶּן־לָהֶם 1|
 |-|
 |תֶן־לָהֶם 1|
-|tEnE־ElEhEmE|
+|ten־lAhem|
 
  * כי־הגדלת 1: 
 
 |כִּי־הִגְדַּלְתָּ 1|
 |-|
 |כִּי־הִגְדַלְתָ 1|
-|kEyE־EhEgEdElEtE|
+|kiy־higsvdalsvtA|
 
  * [וצורם] 1: 
 
 |[וְצוּרָם] 1|
 |-|
 |[וְצוּרָם] 1|
-|[EwEcEuErEmE]E|
+|[wsvcurAm]|
 
  * נריע 1: 
 
 |נָרִיעַ 1|
 |-|
 |נָרִיעַ 1|
-|nErEyEɣE|
+|nAriyɣa|
 
  * כשמך 1: 
 
 |כְּשִׁמְךָ 1|
 |-|
 |כְּשִׁמְךָ 1|
-|kEšEmExE|
+|ksvšimsvxA|
 
  * משכנותיך 1: 
 
 |מִשְׁכְּנוֹתֶיךָ 1|
 |-|
 |מִשְׁכְּנוֹֹתֶיךָ 1|
-|mEšEkEnEwEtEyExE|
+|mišsvksvnwoteyxA|
 
  * אל־דמעתי 1: 
 
 |אֶל־דִּמְעָתִי 1|
 |-|
 |אֶל־דִמְעָתִי 1|
-|'ElE־EdEmEɣEtEyE|
+|'el־dimsvɣAtiy|
 
  * לתודה 1: 
 
 |לְתוֹדָה 1|
 |-|
 |לְתוֹֹדָה 1|
-|lEtEwEdEhE|
+|lsvtwodAh|
 
  * אשר־תיסרנו 1: 
 
 |אֲשֶׁר־תְּיַסְּרֶנּוּ 1|
 |-|
 |אֲשֶׁר־תְיַסְרֶנוּ 1|
-|'EšErE־EtEyEsErEnEuE|
+|'ašer־tsvyassvrenu|
 
  * שנאוני 1: 
 
 |שְׂנֵאוּנִי 1|
 |-|
 |שְׂנֵאוּנִי 1|
-|SEnE'EuEnEyE|
+|SsvnE'uniy|
 
  * כי־יעקב 1: 
 
 |כִּי־יַעֲקֹב 1|
 |-|
 |כִּי־יַעֲקֹב 1|
-|kEyE־EyEɣEqEvE|
+|kiy־yaɣaqov|
 
  * ארחמך 1: 
 
 |אֶרְחָמְךָ 1|
 |-|
 |אֶרְחָמְךָ 1|
-|'ErEHEmExE|
+|'ersvHAmsvxA|
 
  * עלי־זבח 1: 
 
 |עֲלֵי־זָבַח 1|
 |-|
 |עֲלֵי־זָבַח 1|
-|ɣElEyE־EzEvEHE|
+|ɣalEy־zAvaH|
 
  * שבלת 1: 
 
 |שִׁבֹּלֶת 1|
 |-|
 |שִׁבֹּלֶת 1|
-|šEbElEtE|
+|šibolet|
 
  * את־יריבי 1: 
 
 |אֶת־יְרִיבַי 1|
 |-|
 |אֶת־יְרִיבַי 1|
-|'EtE־EyErEyEvEyE|
+|'et־ysvriyvay|
 
  * ידים 1: 
 
 |יָדָיִם 1|
 |-|
 |יָדָיִם 1|
-|yEdEyEmE|
+|yAdAyim|
 
  * ינצרהו 1: 
 
 |יִנְצְרֻהוּ 1|
 |-|
 |יִנְצְרֻהוּ 1|
-|yEnEcErEhEuE|
+|yinsvcsvruhu|
 
  * תחסה 1: 
 
 |תֶּחְסֶה 1|
 |-|
 |תֶחְסֶה 1|
-|tEHEsEhE|
+|teHsvseh|
 
  * יערב 1: 
 
 |יֶעֱרַב 1|
 |-|
 |יֶעֱרַב 1|
-|yEɣErEvE|
+|yeɣerav|
 
  * כל־ענותו 1: 
 
 |כָּל־עֻנּוֹתוֹ 1|
 |-|
 |כָּל־עֻנוֹֹתוֹֹ 1|
-|kElE־EɣEnEwEtEwE|
+|kAl־ɣunwotwo|
 
  * [למעניתם 1: 
 
 |[לְמַעֲנִיתָם 1|
 |-|
 |[לְמַעֲנִיתָם 1|
-|[ElEmEɣEnEyEtEmE|
+|[lsvmaɣaniytAm|
 
  * באחיך 1: 
 
 |בְּאָחִיךָ 1|
 |-|
 |בְּאָחִיךָ 1|
-|bE'EHEyExE|
+|bsv'AHiyxA|
 
  * אל־עמו 1: 
 
 |אֶל־עַמּוֹ 1|
 |-|
 |אֶל־עַמוֹֹ 1|
-|'ElE־EɣEmEwE|
+|'el־ɣamwo|
 
  * זאת־מנוחתי 1: 
 
 |זֹאת־מְנוּחָתִי 1|
 |-|
 |זֹאת־מְנוּחָתִי 1|
-|zE'EtE־EmEnEuEHEtEyE|
+|zo't־msvnuHAtiy|
 
  * וימסם 1: 
 
 |וְיַמְסֵם 1|
 |-|
 |וְיַמְסֵם 1|
-|wEyEmEsEmE|
+|wsvyamsvsEm|
 
  * זלות 1: 
 
 |זֻלּוּת 1|
 |-|
 |זֻלוּת 1|
-|zElEuEtE|
+|zulut|
 
  * ואזמרך 1: 
 
 |וַאֲזַמֶּרְךָ 1|
 |-|
 |וַאֲזַמֶרְךָ 1|
-|wE'EzEmErExE|
+|wa'azamersvxA|
 
  * דל 1: 
 
 |דָּל 1|
 |-|
 |דָל 1|
-|dElE|
+|dAl|
 
  * פתחות 1: 
 
 |פְתִחוֹת 1|
 |-|
 |פְתִחוֹֹת 1|
-|fEtEHEwEtE|
+|fsvtiHwot|
 
  * לא־חפצתי 1: 
 
 |לֹא־חָפַצְתִּי 1|
 |-|
 |לֹא־חָפַצְתִי 1|
-|lE'E־EHEfEcEtEyE|
+|lo'־HAfacsvtiy|
 
  * ויעלצו 1: 
 
 |וְיַעְלְצוּ 1|
 |-|
 |וְיַעְלְצוּ 1|
-|wEyEɣElEcEuE|
+|wsvyaɣsvlsvcu|
 
  * בלבנון 1: 
 
 |בַּלְּבָנוֹן 1|
 |-|
 |בַּלְבָנוֹֹן 1|
-|bElEvEnEwEnE|
+|balsvvAnwon|
 
  * אף־כבודי 1: 
 
 |אַף־כְּבוֹדִי 1|
 |-|
 |אַף־כְּבוֹֹדִי 1|
-|'EfE־EkEvEwEdEyE|
+|'af־ksvvwodiy|
 
  * מפני־שאול 1: 
 
 |מִפְּנֵי־שָׁאוּל 1|
 |-|
 |מִפְּנֵי־שָׁאוּל 1|
-|mEpEnEyE־EšE'EuElE|
+|mipsvnEy־šA'ul|
 
  * ובלילה 1: 
 
 |וּבַלַּיְלָה 1|
 |-|
 |וּבַלַיְלָה 1|
-|uEvElEyElEhE|
+|uvalaysvlAh|
 
  * לכל־הכפופים 1: 
 
 |לְכָל־הַכְּפוּפִים 1|
 |-|
 |לְכָל־הַכְּפוּפִים 1|
-|lExElE־EhEkEfEuEfEyEmE|
+|lsvxAl־haksvfufiym|
 
  * אצבעותי 1: 
 
 |אֶצְבְּעוֹתַי 1|
 |-|
 |אֶצְבְּעוֹֹתַי 1|
-|'EcEbEɣEwEtEyE|
+|'ecsvbsvɣwotay|
 
  * חדה 1: 
 
 |חַדָּה 1|
 |-|
 |חַדָה 1|
-|HEdEhE|
+|HadAh|
 
  * תנדף 1: 
 
 |תִּנְדֹּף 1|
 |-|
 |תִנְדֹף 1|
-|tEnEdEfE|
+|tinsvdof|
 
  * יעז 1: 
 
 |יָעֹז 1|
 |-|
 |יָעֹז 1|
-|yEɣEzE|
+|yAɣoz|
 
  * וישתחוו־לו 1: 
 
 |וְיִשְׁתַּחֲווּ־לוֹ 1|
 |-|
 |וְיִשְׁתַחֲווּ־לוֹֹ 1|
-|wEyEšEtEHEwEuE־ElEwE|
+|wsvyišsvtaHawu־lwo|
 
  * ופי־מרמה 1: 
 
 |וּפִי־מִרְמָה 1|
 |-|
 |וּפִי־מִרְמָה 1|
-|uEfEyE־EmErEmEhE|
+|ufiy־mirsvmAh|
 
  * מחים 1: 
 
 |מֵחִים 1|
 |-|
 |מֵחִים 1|
-|mEHEyEmE|
+|mEHiym|
 
  * [דרשיו] 1: 
 
 |[דֹּרְשָׁיו] 1|
 |-|
 |[דֹרְשָׁיו] 1|
-|[EdErEšEyEwE]E|
+|[dorsvšAyw]|
 
  * שני 1: 
 
 |שִׁנֵּי 1|
 |-|
 |שִׁנֵי 1|
-|šEnEyE|
+|šinEy|
 
  * ותשליכני 1: 
 
 |וַתַּשְׁלִיכֵנִי 1|
 |-|
 |וַתַשְׁלִיכֵנִי 1|
-|wEtEšElEyExEnEyE|
+|watašsvliyxEniy|
 
  * גויך 1: 
 
 |גּוֹיֶךָ 1|
 |-|
 |גוֹֹיֶךָ 1|
-|gEwEyExE|
+|gwoyexA|
 
  * ואברכה 1: 
 
 |וַאֲבָרֲכָה 1|
 |-|
 |וַאֲבָרֲכָה 1|
-|wE'EvErExEhE|
+|wa'avAraxAh|
 
  * ואת־ארם 1: 
 
 |וְאֶת־אֲרַם 1|
 |-|
 |וְאֶת־אֲרַם 1|
-|wE'EtE־E'ErEmE|
+|wsv'et־'aram|
 
  * תבור 1: 
 
 |תָּבוֹר 1|
 |-|
 |תָבוֹֹר 1|
-|tEvEwErE|
+|tAvwor|
 
  * איתם 1: 
 
 |אֵיתָם 1|
 |-|
 |אֵיתָם 1|
-|'EyEtEmE|
+|'EytAm|
 
  * תושב 1: 
 
 |תּוֹשָׁב 1|
 |-|
 |תוֹֹשָׁב 1|
-|tEwEšEvE|
+|twošAv|
 
  * יאכלו 1: 
 
 |יֹאכְלוּ 1|
 |-|
 |יֹאכְלוּ 1|
-|yE'ExElEuE|
+|yo'xsvlu|
 
  * ויעלני 1: 
 
 |וַיַּעֲלֵנִי 1|
 |-|
 |וַיַעֲלֵנִי 1|
-|wEyEɣElEnEyE|
+|wayaɣalEniy|
 
  * יקריבו 1: 
 
 |יַקְרִיבוּ 1|
 |-|
 |יַקְרִיבוּ 1|
-|yEqErEyEvEuE|
+|yaqsvriyvu|
 
  * על־שחל 1: 
 
 |עַל־שַׁחַל 1|
 |-|
 |עַל־שַׁחַל 1|
-|ɣElE־EšEHElE|
+|ɣal־šaHal|
 
  * ינוח 1: 
 
 |יָנוּחַ 1|
 |-|
 |יָנוּחַ 1|
-|yEnEuEHE|
+|yAnuHa|
 
  * מצדך 1: 
 
 |מִצִּדְּךָ 1|
 |-|
 |מִצִדְךָ 1|
-|mEcEdExE|
+|micidsvxA|
 
  * עמודיה 1: 
 
 |עַמּוּדֶיהָ 1|
 |-|
 |עַמוּדֶיהָ 1|
-|ɣEmEuEdEyEhE|
+|ɣamudeyhA|
 
  * עשרם 1: 
 
 |עָשְׁרָם 1|
 |-|
 |עָשְׁרָם 1|
-|ɣEšErEmE|
+|ɣAšsvrAm|
 
  * משלחת 1: 
 
 |מִשְׁלַחַת 1|
 |-|
 |מִשְׁלַחַת 1|
-|mEšElEHEtE|
+|mišsvlaHat|
 
  * ויברכם 1: 
 
 |וַיְבָרֲכֵם 1|
 |-|
 |וַיְבָרֲכֵם 1|
-|wEyEvErExEmE|
+|waysvvAraxEm|
 
  * ושמר 1: 
 
 |וּשְׁמֹר 1|
 |-|
 |וּשְׁמֹר 1|
-|uEšEmErE|
+|ušsvmor|
 
  * הנה־שמענוה 1: 
 
 |הִנֵּה־שְׁמַעֲנוּהָ 1|
 |-|
 |הִנֵה־שְׁמַעֲנוּהָ 1|
-|hEnEhE־EšEmEɣEnEuEhE|
+|hinEh־šsvmaɣanuhA|
 
  * ואהללה 1: 
 
 |וַאֲהַלְלָה 1|
 |-|
 |וַאֲהַלְלָה 1|
-|wE'EhElElEhE|
+|wa'ahalsvlAh|
 
  * ושכחי 1: 
 
 |וְשִׁכְחִי 1|
 |-|
 |וְשִׁכְחִי 1|
-|wEšExEHEyE|
+|wsvšixsvHiy|
 
  * בעזרי 1: 
 
 |בְּעֹזְרָי 1|
 |-|
 |בְּעֹזְרָי 1|
-|bEɣEzErEyE|
+|bsvɣozsvrAy|
 
  * בדר 1: 
 
 |בְּדֹר 1|
 |-|
 |בְּדֹר 1|
-|bEdErE|
+|bsvdor|
 
  * ויגיעו 1: 
 
 |וַיַּגִּיעוּ 1|
 |-|
 |וַיַגִיעוּ 1|
-|wEyEgEyEɣEuE|
+|wayagiyɣu|
 
  * לתשועתך 1: 
 
 |לִתְשׁוּעָתְךָ 1|
 |-|
 |לִתְשׁוּעָתְךָ 1|
-|lEtEšEuEɣEtExE|
+|litsvšuɣAtsvxA|
 
  * תלינו 1: 
 
 |תָּלִינוּ 1|
 |-|
 |תָלִינוּ 1|
-|tElEyEnEuE|
+|tAliynu|
 
  * אם־דרך־עצב 1: 
 
 |אִם־דֶּרֶךְ־עֹצֶב 1|
 |-|
 |אִם־דֶרֶךְ־עֹצֶב 1|
-|'EmE־EdErExE־EɣEcEvE|
+|'im־derexsv־ɣocev|
 
  * אשר־בטחתי 1: 
 
 |אֲשֶׁר־בָּטַחְתִּי 1|
 |-|
 |אֲשֶׁר־בָּטַחְתִי 1|
-|'EšErE־EbETEHEtEyE|
+|'ašer־bATaHsvtiy|
 
  * להשכיל 1: 
 
 |לְהַשְׂכִּיל 1|
 |-|
 |לְהַשְׂכִּיל 1|
-|lEhESEkEyElE|
+|lsvhaSsvkiyl|
 
  * ומקרני 1: 
 
 |וּמִקַּרְנֵי 1|
 |-|
 |וּמִקַרְנֵי 1|
-|uEmEqErEnEyE|
+|umiqarsvnEy|
 
  * לראשנו 1: 
 
 |לְרֹאשֵׁנוּ 1|
 |-|
 |לְרֹאשֵׁנוּ 1|
-|lErE'EšEnEuE|
+|lsvro'šEnu|
 
  * גבולם 1: 
 
 |גְּבוּלָם 1|
 |-|
 |גְבוּלָם 1|
-|gEvEuElEmE|
+|gsvvulAm|
 
  * ועל־משיחו 1: 
 
 |וְעַל־מְשִׁיחוֹ 1|
 |-|
 |וְעַל־מְשִׁיחוֹֹ 1|
-|wEɣElE־EmEšEyEHEwE|
+|wsvɣal־msvšiyHwo|
 
  * ואל־תשקט 1: 
 
 |וְאַל־תִּשְׁקֹט 1|
 |-|
 |וְאַל־תִשְׁקֹט 1|
-|wE'ElE־EtEšEqETE|
+|wsv'al־tišsvqoT|
 
  * וכל־הלילה 1: 
 
 |וְכָל־הַלַּיְלָה 1|
 |-|
 |וְכָל־הַלַיְלָה 1|
-|wExElE־EhElEyElEhE|
+|wsvxAl־halaysvlAh|
 
  * מצער 1: 
 
 |מִצְעָר 1|
 |-|
 |מִצְעָר 1|
-|mEcEɣErE|
+|micsvɣAr|
 
  * גע 1: 
 
 |גַּע 1|
 |-|
 |גַע 1|
-|gEɣE|
+|gaɣ|
 
  * ספרות 1: 
 
 |סְפֹרוֹת 1|
 |-|
 |סְפֹרוֹֹת 1|
-|sEfErEwEtE|
+|ssvforwot|
 
  * חיש 1: 
 
 |חִישׁ 1|
 |-|
 |חִישׁ 1|
-|HEyEšE|
+|Hiyš|
 
  * כי־עפר 1: 
 
 |כִּי־עָפָר 1|
 |-|
 |כִּי־עָפָר 1|
-|kEyE־EɣEfErE|
+|kiy־ɣAfAr|
 
  * [ועתה] 1: 
 
 |[וְעַתָּה] 1|
 |-|
 |[וְעַתָה] 1|
-|[EwEɣEtEhE]E|
+|[wsvɣatAh]|
 
  * מלתעות 1: 
 
 |מַלְתְּעוֹת 1|
 |-|
 |מַלְתְעוֹֹת 1|
-|mElEtEɣEwEtE|
+|malsvtsvɣwot|
 
  * את־שמותם 1: 
 
 |אֶת־שְׁמוֹתָם 1|
 |-|
 |אֶת־שְׁמוֹֹתָם 1|
-|'EtE־EšEmEwEtEmE|
+|'et־šsvmwotAm|
 
  * עם־ישבי 1: 
 
 |עִם־יֹשְׁבֵי 1|
 |-|
 |עִם־יֹשְׁבֵי 1|
-|ɣEmE־EyEšEvEyE|
+|ɣim־yošsvvEy|
 
  * בעצמותיו 1: 
 
 |בְּעַצְמוֹתָיו 1|
 |-|
 |בְּעַצְמוֹֹתָיו 1|
-|bEɣEcEmEwEtEyEwE|
+|bsvɣacsvmwotAyw|
 
  * ומצרי 1: 
 
 |וּמְצָרֵי 1|
 |-|
 |וּמְצָרֵי 1|
-|uEmEcErEyE|
+|umsvcArEy|
 
  * נבואה 1: 
 
 |נָבוֹאָה 1|
 |-|
 |נָבוֹֹאָה 1|
-|nEvEwE'EhE|
+|nAvwo'Ah|
 
  * עוררה 1: 
 
 |עוֹרְרָה 1|
 |-|
 |עוֹֹרְרָה 1|
-|ɣEwErErEhE|
+|ɣworsvrAh|
 
  * עצות 1: 
 
 |עֵצוֹת 1|
 |-|
 |עֵצוֹֹת 1|
-|ɣEcEwEtE|
+|ɣEcwot|
 
  * אל־תבישני 1: 
 
 |אַל־תְּבִישֵׁנִי 1|
 |-|
 |אַל־תְבִישֵׁנִי 1|
-|'ElE־EtEvEyEšEnEyE|
+|'al־tsvviyšEniy|
 
  * ביהוסף 1: 
 
 |בִּיהוֹסֵף 1|
 |-|
 |בִּיהוֹֹסֵף 1|
-|bEyEhEwEsEfE|
+|biyhwosEf|
 
  * מלאכה 1: 
 
 |מְלָאכָה 1|
 |-|
 |מְלָאכָה 1|
-|mElE'ExEhE|
+|msvlA'xAh|
 
  * בנגב 1: 
 
 |בַּנֶּגֶב 1|
 |-|
 |בַּנֶגֶב 1|
-|bEnEgEvE|
+|banegev|
 
  * כי־אבי 1: 
 
 |כִּי־אָבִי 1|
 |-|
 |כִּי־אָבִי 1|
-|kEyE־E'EvEyE|
+|kiy־'Aviy|
 
  * כסית 1: 
 
 |כִּסִּיתָ 1|
 |-|
 |כִּסִיתָ 1|
-|kEsEyEtE|
+|kisiytA|
 
  * מוקשי 1: 
 
 |מוֹקְשֵׁי 1|
 |-|
 |מוֹֹקְשֵׁי 1|
-|mEwEqEšEyE|
+|mwoqsvšEy|
 
  * במצותיו 1: 
 
 |בְּמִצְוֺתָיו 1|
 |-|
 |בְּמִצְוֺתָיו 1|
-|bEmEcEwEtEyEwE|
+|bsvmicsvw_o_tAyw|
 
  * תסעדני 1: 
 
 |תִסְעָדֵנִי 1|
 |-|
 |תִסְעָדֵנִי 1|
-|tEsEɣEdEnEyE|
+|tissvɣAdEniy|
 
  * הטו 1: 
 
 |הַטּוּ 1|
 |-|
 |הַטוּ 1|
-|hETEuE|
+|haTu|
 
  * חייכי 1: 
 
 |חַיָּיְכִי 1|
 |-|
 |חַיָיְכִי 1|
-|HEyEyExEyE|
+|HayAysvxiy|
 
  * הדברות 1: 
 
 |הַדֹּבְרוֹת 1|
 |-|
 |הַדֹבְרוֹֹת 1|
-|hEdEvErEwEtE|
+|hadovsvrwot|
 
  * בלי־מים 1: 
 
 |בְּלִי־מָיִם 1|
 |-|
 |בְּלִי־מָיִם 1|
-|bElEyE־EmEyEmE|
+|bsvliy־mAyim|
 
  * ממעל 1: 
 
 |מִמָּעַל 1|
 |-|
 |מִמָעַל 1|
-|mEmEɣElE|
+|mimAɣal|
 
  * תרע 1: 
 
 |תָּרַע 1|
 |-|
 |תָרַע 1|
-|tErEɣE|
+|tAraɣ|
 
  * עם־חטאים 1: 
 
 |עִם־חַטָּאִים 1|
 |-|
 |עִם־חַטָאִים 1|
-|ɣEmE־EHETE'EyEmE|
+|ɣim־HaTA'iym|
 
  * צפרדעים 1: 
 
 |צְפַרְדְּעִים 1|
 |-|
 |צְפַרְדְעִים 1|
-|cEfErEdEɣEyEmE|
+|csvfarsvdsvɣiym|
 
  * בקרבו 1: 
 
 |בְּקִרְבּוֹ 1|
 |-|
 |בְּקִרְבּוֹֹ 1|
-|bEqErEbEwE|
+|bsvqirsvbwo|
 
  * במו־אפל 1: 
 
 |בְּמוֹ־אֹפֶל 1|
 |-|
 |בְּמוֹֹ־אֹפֶל 1|
-|bEmEwE־E'EfElE|
+|bsvmwo־'ofel|
 
  * כערכי 1: 
 
 |כְּעֶרְכִּי 1|
 |-|
 |כְּעֶרְכִּי 1|
-|kEɣErEkEyE|
+|ksvɣersvkiy|
 
  * בששון 1: 
 
 |בְשָׂשׂוֹן 1|
 |-|
 |בְשָׂשׂוֹֹן 1|
-|vESESEwEnE|
+|vsvSASwon|
 
  * תשמר־יה 1: 
 
 |תִּשְׁמָר־יָהּ 1|
 |-|
 |תִשְׁמָר־יָה 1|
-|tEšEmErE־EyEhE|
+|tišsvmAr־yAh|
 
  * והתענג 1: 
 
 |וְהִתְעַנַּג 1|
 |-|
 |וְהִתְעַנַג 1|
-|wEhEtEɣEnEgE|
+|wsvhitsvɣanag|
 
  * אחזה 1: 
 
 |אֶחֱזֶה 1|
 |-|
 |אֶחֱזֶה 1|
-|'EHEzEhE|
+|'eHezeh|
 
  * נדדו 1: 
 
 |נָדְדוּ 1|
 |-|
 |נָדְדוּ 1|
-|nEdEdEuE|
+|nAdsvdu|
 
  * ולבבי 1: 
 
 |וּלְבָבִי 1|
 |-|
 |וּלְבָבִי 1|
-|uElEvEvEyE|
+|ulsvvAviy|
 
  * נשק 1: 
 
 |נָשֶׁק 1|
 |-|
 |נָשֶׁק 1|
-|nEšEqE|
+|nAšeq|
 
