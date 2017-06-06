@@ -13,6 +13,7 @@ code2str(str) = Char(parse(Int64,str)) |> string
 base_xlit = alphabet["base_xlit"]
 base_letters = base_xlit |> keys |>  collect |> sort
 
+
 function get_composed_chars(strs)
  flags = [length(x)!=length(graphemes(x)) for x  in strs]
 # there must be an easier way to do this...
@@ -34,6 +35,8 @@ composed_d = map(composed_keep) do x
 end  # TODO: to multi-dict
 
 niqqud = [code2str(k)=>v for (k,v) in alphabet["niqqud"]]
+r_any_niqqud = Regex(join([n for n in keys(niqqud)],"|"))
+xlit_table = merge(base_xlit, niqqud)
 
 function keep_dots(grapheme) 
     ch = join(filter(isalpha,grapheme))
@@ -53,7 +56,29 @@ function keep_dots(grapheme)
     return ch
 end
 
-keep_base_letters(str) = map(keep_dots, graphemes(str)) |> join
+function keep_dots_and_niqqud(grapheme) 
+    m = match(r_any_niqqud,grapheme)
+    niqq = nothing == m ? "" : m.match
+    ch = join(filter(isalpha,grapheme))
+    if isempty(ch)
+        return grapheme
+    end
+    if !(ch in keep_base)
+        return join([ch,niqq])
+    end
+    for (c,extra) in composed_d
+        if contains(grapheme,c)
+            if contains(grapheme,extra)
+                cch = join([c,extra])
+                return join([cch,niqq])
+            end
+        end
+    end
+    return join([ch,niqq])
+end
+
+#keep_base_letters(str) = map(keep_dots, graphemes(str)) |> join
+keep_base_letters(str) = map(keep_dots_and_niqqud, graphemes(str)) |> join
 
 ########
 
@@ -89,7 +114,10 @@ tanaK_words = [title => words_split(txt) for (title, txt) in tanaK]
 
 
 
-function xlit_letter(str) 
+function xlit_grapheme(g) 
+# griddy :
+    
+    
 end
 
 function xlit(str) 
