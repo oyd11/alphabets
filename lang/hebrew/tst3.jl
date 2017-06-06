@@ -116,14 +116,18 @@ tanaK_words = [title => words_split(txt) for (title, txt) in tanaK]
 
 function xlit_grapheme(g) 
 # griddy :
-    
-    
+    m = match(r_any_niqqud,grapheme)
+    base = replace(g,r_any_niqqud,"")
+    consonant = get(xlit_table,base,base)
+    vowel = nothing == m ? "" : get(xlit_table,m.match,"!!ERROR!!")
+    return join([consonant, vowel])
 end
 
 function xlit(str) 
     #n_str = niqqudless(str)
     n_str = keep_base_letters(str)
     join([get(base_xlit,x,x) for x in graphemes(n_str)])
+    map(xlit_grapheme,graphemes(n_str)) |> join
 end
 
 mkpath("out")
