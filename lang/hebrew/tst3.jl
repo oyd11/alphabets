@@ -13,6 +13,7 @@ words_split(txt) = split(txt,r"׃| |\n")
 alphabet = JSON.parsefile("alphabet_list.json")
 code2str(str) = Char(parse(Int64,str)) |> string
 base_xlit = alphabet["base_xlit"]
+base_xlit_ipalike = alphabet["base_xlit_ipalike"]
 base_letters = base_xlit |> keys |>  collect |> sort
 
 
@@ -39,6 +40,7 @@ end  # TODO: to multi-dict
 niqqud = [code2str(k)=>v for (k,v) in alphabet["niqqud"]]
 r_any_niqqud = Regex(join([n for n in keys(niqqud)],"|"))
 xlit_table = merge(base_xlit, niqqud)
+xlit_table_ipalike = merge(base_xlit_ipalike, niqqud)
 
 function keep_dots(grapheme) 
     ch = join(filter(isalpha,grapheme))
@@ -116,19 +118,18 @@ tanaK_words = [title => words_split(txt) for (title, txt) in tanaK]
 
 
 
-function xlit_grapheme(g) 
+function xlit_grapheme(g,lookup_table) 
 # griddy :
     m = match(r_any_niqqud,g)
     base = replace(g,r_any_niqqud,"")
-    consonant = get(xlit_table,base,base)
-    vowel = nothing == m ? "" : get(xlit_table,m.match,"!!ERROR!!")
+    consonant = get(lookup_table,base,base)
+    vowel = nothing == m ? "" : get(lookup_table,m.match,"!!ERROR!!")
     return join([consonant, vowel])
 end
 
 function xlit(str) 
     n_str = keep_base_letters(str)
-#    join([get(base_xlit,x,x) for x in graphemes(n_str)])
-    map(xlit_grapheme,graphemes(n_str)) |> join
+    [xlit_grapheme(g, xlit_table) for g in graphemes(n_str)] |> join
 end
 
 mkpath("out")
