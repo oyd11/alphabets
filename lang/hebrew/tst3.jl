@@ -172,15 +172,26 @@ for (title, words) in tanaK_words
     end
 end
 
+println("Finished .md")
+
+for (title, words) in tanaK_words
+    open("out/$title.csv","w") do f
+        println(f, "list, Map1")
+        unique_dict, count_dict = niqqudless2niqquds(words)
+        freq_sorted = sort(collect(count_dict),by=x->-x[2])
+        f_count = word_freqs(words)
+        p(str) = println(f,str)
+        for kv in freq_sorted
+            niqqudless, c = kv
+            arr = unique_dict[niqqudless]
+            for w in arr
+                out_word = keep_base_letters(w) 
+                println(f,join([out_word, xlit(out_word)],", "))
+            end
+        end
+    end
+end
+
+println("Finished .csv")
 
 
-
-# ispunct()
-# isalpha()
-# isalnum()
-# contains(haystack, needle)
-# graphemes()
-# split()
-
-
-w = tanaK_words["Job"] # tst
