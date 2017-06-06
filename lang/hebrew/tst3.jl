@@ -127,9 +127,9 @@ function xlit_grapheme(g,lookup_table)
     return join([consonant, vowel])
 end
 
-function xlit(str) 
+function xlit(str,lookup_table) 
     n_str = keep_base_letters(str)
-    [xlit_grapheme(g, xlit_table) for g in graphemes(n_str)] |> join
+    [xlit_grapheme(g, lookup_table) for g in graphemes(n_str)] |> join
 end
 
 mkpath("out")
@@ -163,7 +163,7 @@ for (title, words) in tanaK_words
             "|" * join(w_c,"|") * "|" |> p
             "|" * join(fill("-",length(arr)),"|") * "|" |> p
             "|" * join(w_c2,"|") * "|" |> p
-            "|" * join(map(xlit,arr),"|") * "|" |> p
+            "|" * join(map(x->xlit(x,xlit_table),arr),"|") * "|" |> p
             println(f)
 
             
@@ -186,7 +186,7 @@ for (title, words) in tanaK_words
             arr = unique_dict[niqqudless]
             for w in arr
                 out_word = keep_base_letters(w) 
-                println(f,join([out_word, xlit(out_word)],", "))
+                println(f,join([out_word, xlit(out_word,xlit_table_ipalike)],", "))
             end
         end
     end
