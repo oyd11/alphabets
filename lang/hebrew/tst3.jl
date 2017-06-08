@@ -116,6 +116,12 @@ end |> Dict
 
 tanaK_words = [title => words_split(txt) for (title, txt) in tanaK]
 
+benyehuda_org = map(glob("*.txt","benyehuda_org/")) do fn
+    base_fn(fn)=> join(map(chomp,readlines(fn))," . ")
+end |> Dict
+
+benyehuda_org_words = [title => words_split(txt) for (title, txt) in benyehuda_org]
+
 
 
 function xlit_grapheme(g,lookup_table) 
@@ -133,8 +139,10 @@ function xlit(str,lookup_table)
 end
 
 mkpath("out")
+
+all_words = merge(tanaK_words,benyehuda_org_words)
     
-for (title, words) in tanaK_words
+for (title, words) in all_words
     open("out/$title.md","w") do f
         println(f, "## $title")
         unique_dict, count_dict = niqqudless2niqquds(words)
@@ -174,7 +182,7 @@ end
 
 println("Finished .md")
 
-for (title, words) in tanaK_words
+for (title, words) in all_words
     open("out/$title.csv","w") do f
         println(f, "list, Map1")
         unique_dict, count_dict = niqqudless2niqquds(words)
