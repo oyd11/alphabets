@@ -22,3 +22,6 @@ https://www.jw.org/ti/%E1%8A%A5%E1%8B%8B%E1%8A%93%E1%8B%8A/%E1%88%98%E1%8C%BD%E1
 http://bible.geezexperience.com/amharic/
 
 http://bible.geezexperience.com/amharic/download/AmharicBible.pdf
+
+
+http://habeshalyrics.blogspot.co.il/
