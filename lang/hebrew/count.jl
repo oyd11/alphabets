@@ -14,8 +14,8 @@ kv,titles = readcsv("manual_tmp.csv",header=true)
 
 heb =  kv[:,1]
 
-stats_letter = Dict()
-stats_niqq = Dict()
+stats_letter = [k=>0 for k in base_letters]
+stats_niqq = [k=>0 for k in keys(niqqud)]
 
 function add(d::Dict, key)
     count_bin = get!(d,key,0)
@@ -48,5 +48,11 @@ for word in heb
         end
     end
 end
+
+stats_all = Dict(:letters => stats_letter, :niqq => stats_niqq)
+open("stats.json","w") do f
+    print(f, json(stats_all,2))
+end
+
 
 

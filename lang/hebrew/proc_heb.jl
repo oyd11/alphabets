@@ -1,4 +1,6 @@
 
+# char ref :: https://r12a.github.io/pickers/hebrew/
+# niqqud sample lesson :: https://pollylingu.al/he/en/lessons/1440
 
 ## quite slow (was fast, a lot of redundancy, but works)
 
